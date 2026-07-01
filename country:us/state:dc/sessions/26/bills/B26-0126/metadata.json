@@ -139,6 +139,28 @@
       "_processing": {
         "log_file_created": "2026-06-26T23:45:39Z"
       }
+    },
+    {
+      "description": "Returned from Mayor",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:31:39Z"
+      }
+    },
+    {
+      "description": "Enacted without Mayor's Signature with Act Number A26-0342",
+      "date": "2026-07-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-01T14:31:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -220,6 +242,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Enacted without Mayor's Signature with Act Number A26-0342",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57147/Signed_Act/B26-0126-Signed_Act.pdf?Id=241819",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -241,6 +274,6 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-26T23:45:39Z"
+    "logs_latest_update": "2026-07-01T14:31:39Z"
   }
 }

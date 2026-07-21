@@ -1,0 +1,242 @@
+Title: 
+Official Title: 
+Source: versions - Enrollment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1
+2
+3 A BILL
+4
+5 26-430
+6
+7 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+8
+9 ___________________________
+10
+11 To amend An Act To provide for compulsory school attendance to focus attendance reporting on
+12 chronic absenteeism and attendance outcomes; to amend and revise reporting
+13 requirements in Title 38 of the D.C Official Code; to amend District of Columbia
+14 Education Research Practice Partnership Establishment Act to allow the Research
+15 Practice Partnership to contract directly with DC Government agencies; to amend The
+16 Interstate Compact on Educational Opportunity for Military Children Establishment Act
+17 per the request of the Military Interstate Children’s Compact Commission.
+18
+19 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+20 act may be cited as the “Education Code Adjustments Amendment Act of 2025”.
+21 Sec. 2. Section 4046 of the Schools Modernization Amendment Act of 2005, effective
+22 October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 1-325.45), is repealed.
+23 Sec. 3. Section 8 of the Youth Bullying Prevention Act of 2012, effective June 12, 2012
+24 (D.C. Law 19-167, D. C. Official Code § 2- 1535.07) is repealed.
+25 Sec. 4 The Office of Out of School Time Grants and Youth Outcomes Establishment Act
+26 of 2016, effective April 7, 2017 (D.C. Law 21-261, D.C. Official Code § 2–1555.01 et seq.), is
+27 amended as follows:
+28 (a) Subsection 4(a) is amended as follows:
+29 (1) Paragraph (5) is amended by striking the word “annual” and
+1
+
+ENGROSSED ORIGINAL
+30 inserting the word “biennial”.
+31 (2) Paragraph (8) is amended by striking the word “annual” and inserting
+32 the word “biennial”.
+33 (b) Subsection 5(g) is amended by striking the phrase “November 1” and inserting
+34 the phrase “December 15” in its place.
+35 (c) Section 8 is amended as follows:
+36 (1) Subsection (a) is amended as follows:
+37 (1) Paragraph (1) is amended by striking the word “annual” and
+38 inserting the word “biennial”.
+39 (2) Subparagraph (2)(B) is amended by striking the word “annual”
+40 And inserting the word “biennial”.
+41 Sec. 5. The Public School Enrollment Census Act of 1998, effective March 26, 1999
+42 (D.C. Law 12-175, D.C. Official Code § 38-159), is repealed.
+43 Sec. 6. Section 2 of An Act To provide for compulsory school attendance, for the taking
+44 of a school census in the District of Columbia, and for other purposes, effective February 4, 1925
+45 (43 Stat. 806; D.C. Official Code § 38-203), is amended as follows:
+46 (a) Subsection (i) is amended as follows:
+47 (1) Subparagraph (A-i)is amended as follows:
+48 (A) Sub-subparagraph (iii) is amended by striking the word “and”
+49 (B) A new sub-subparagraph (vi) is added to read as follows:
+2
+
+ENGROSSED ORIGINAL
+50 “(ii) The number of students whose attendance rate improved after
+51 referral to a school-based student support team in the following quarter of that school year.”.
+52 (2) Subparagraph (B-i) is amended by striking the phrase “; and”
+53 and inserting a semicolon in its place.
+54 (3) Subparagraph (C) is amended by striking the period and inserting the
+55 phrase “; and” in its place.
+56 (4) New subparagraphs (D) and (E) are added to read as follows:
+57 “(D) The number of minors, categorized by grade, or equivalent grouping
+58 for ungraded schools, who were chronically absent.
+59 “(E) The total number of minors, categorized by grade, or equivalent
+60 grouping for ungraded schools”.”
+61
+62 (b) A new subsection (l) is added to read as follows:
+63 “(l) Beginning in 2026, the Office of the State Superintendent of Education shall maintain
+64 a public dashboard that tracks attendance data for each DC Public and Public Charter School
+65 that:
+66 “(1) Is updated monthly to reflect the rate of chronically truant and chronically
+67 absent students for that school year;
+68 “(2) Provides historical data for a comparable reporting period; and
+69 “(3) Is filterable by grade level and ward of school.”.
+3
+
+ENGROSSED ORIGINAL
+70 Sec. 7 Section 4072(b) of the Attendance Zone Boundaries Act of 2013, effective
+71 December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 38-221(b)), is amended by striking
+72 the phrase, “District of Columbia Public Schools ("DCPS")” and inserting the phrase “District of
+73 Columbia Public Schools (“DCPS”) and public charter school” in its place.
+74 Sec. 8. Title II of the Attendance Accountability Amendment Act of 2013, effective
+75 September 19, 2013 (D. C. Law 22-157; D. C. Official Code § 38-236.01 et seq.), is amended as
+76 follows:
+77 (1) Subsection 206(d) (D.C. Official Code § 38-236.06) is repealed.
+78 (2) Subsection 209(d) (D.C. Official Code § 38-236.09) is amended to read as
+79 follows: “(d) By December 15 of each year, beginning in 2016, the Office of the State
+80 Superintendent of Education shall publicly report on the data provided by local education
+81 agencies and community-based organizations in subsection (b) of this section during the
+82 preceding school year, including a relevant trend analysis. Beginning in 2026 and every five
+83 years thereafter, the Office of the State Superintendent of Education shall submit, as an
+84 addendum to its annual public report in subsection (b) , an evaluation drawing on the previous
+85 five years of information maintained and reported pursuant to this section to assess the longer-
+86 term impact of the disciplinary policies and practices under this title and to provide
+87 recommendations for further action by the Council, executive branch, and schools. This report
+88 shall include a trend analysis of available data sources, including the Youth Risk Behavior
+4
+
+ENGROSSED ORIGINAL
+89 Survey and any District-wide climate surveys, of outcomes and experiences by race, disability
+90 status, sexual orientation, and gender identity.
+91 Sec. 9 The Pre-k Enhancement and Expansion Amendment Act of 2008, effective July
+92 18, 2008 (D.C. Law 17-202; D.C. Official Code § 38-271.01 et seq.), is amended as follows:
+93 (a) Section 103 (D.C. Official Code § 38-271.03) is amended as follows:
+94 (1) Subsection (e) is amended by striking the phrase " December 30" and
+95 inserting the phrase “May 15” in its place.
+96 (2) A new subsection (f) is added to read as follows:
+97 “(f) The annual reports required by subsection (e) of this section, section 104, and
+98 Section 105(a) may be submitted to the Council by May 15 annually as one report.”
+99 (b) Section 104 (D.C. Official Code § 38-271.04 is amended as follows:
+100 (1) By striking the phrase “December 30” and inserting the phrase “May
+101 15” in its place. (c) Section 105(a) (D.C. Official Code § 38-271.05(a)) is amended by
+102 striking the phrase “December 30,” and inserting the phrase “May 15” in its place.
+103 Sec. 10.Section 4073(d)(2) of The Healthy Tots Act of 2014, effective February 26, 2015
+104 (D.C. Law 20-155; D.C. Official Code § 38-282(d)(2)) is repealed.
+105 Sec. 11. Section 4074 of The Healthy Tots Act of 2014, effective February 26, 2015
+106 (D.C. Law 20-155; D.C. Official Code § 38-283) is amended as follows:
+107 (a) Subsection (a) (D.C. Official Code § 38-283) is amended as follows:
+108 (1) Paragraph (3) is repealed.
+5
+
+ENGROSSED ORIGINAL
+109 (2) Paragraph (4) is amended to read as follows:
+110 “(4) By June 30 of each year, publish the names and locations of
+111 licensed child development facilities with 50% or more eligible children enrolled, and whether or
+112 not the facility participates in the CACF Program. the number of children who attend those
+113 facilities, the number of meals served during each meal service, average daily participation in
+114 meal service, and designation of childcare center versus DC
+115 (3) Subsection (c) is repealed.
+116 Sec. 12. Section 15c of the District of Columbia Nonresident Tuition Act, effective May
+117 9, 2012 (D.C. Law 19-126; D.C. Official Code § 38-312.03), is amended by striking the phrase
+118 “30 days of July 31, 2012” and inserting the phrase “30 days after September 15, 2027”.
+119 Sec. 13. Section 3 of the District of Columbia Board of Education Leasing Authority Act
+120 of 1982, effective September 29, 1982 (D.C. Law 4-158; D.C. Official Code § 38-401.01), is
+121 repealed.
+122 Sec. 14. Section 504 of the Raising the Expectations for Education Outcomes Omnibus
+123 Act of 2012, effective June 19, 2012, (D.C. Law 19-142; D.C. Official Code § 38-755.04), is
+124 amended as follows:
+125 (1) Paragraph (3)(B) is amended by striking the phrase “; and” and inserting a
+126 period in its place.
+127 (2) Paragraph (4) is repealed.
+6
+
+ENGROSSED ORIGINAL
+128 Sec. 15. Section 103 of the District of Columbia Education Research Practice Partnership
+129 Establishment Act of 2018, effective March 28, 2019 (D.C. Law 22-268; D.C. Official Code §
+130 38-785.02), is amended by adding a new subsection (e) to read as follows:
+131 “(e) Notwithstanding section 1094 of the Grant Administration Act of 2013,
+132 effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.13), District agencies
+133 may enter into a sole-source, non-competitive grant agreements for up to $100,000 with the
+134 Partnership for agency research projects focused on education and workforce development that
+135 align with the Partnership’s research agenda.”.
+136 Sec. 16. Section 502(c)(1) of the Sustainable DC Omnibus Amendment Act of 2014, effective
+137 July 27, 2010 (D.C. Law 20-142; D.C. Official Code § 38–825.02(c)(1)), is amended by striking
+138 the word “triennially” and inserting the word “biennially” in its place.
+139 Sec. 17. Section 405(2) of The Healthy Schools Act of 2010, effective July 27, 2010
+140 (D.C Law 18-209; D.C. Official Code § 38-824.05(2)) is repealed.
+141 Sec. 18. Section 602(d) of The Healthy Schools Act of 2010, effective July 27, 2010
+142 (D.C Law 18-209; D.C. Official Code §38-826.02(d)) is amended by striking the phrase
+143 “within 30 days of receipt.” and inserting the phrase “by March 15 of each year.” Sec. 19
+144 Section 701(c) of The Healthy Schools Act of 2010, effective July 27, 2010
+145 (D.C Law 18-209; D.C. Official Code §38-827.01(c)) is repealed.
+146
+7
+
+ENGROSSED ORIGINAL
+147 Sec. 20. Section 404 of the District of Columbia Public Higher Education Reorganization
+148 Act, effective October 26, 1974, (88 Stat. 1430; D.C. Official Code § 38-1204.04), is amended
+149 by striking the phrase “The Trustees shall make an annual report to the general public, Mayor,
+150 Council, and the Congress” and inserting the phrase “The Trustees shall make an annual report
+151 available to the general public, Mayor, the Congress, and shall submit an annual report to the
+152 Council”.
+153 Sec. 21. Section 7(b) of the Education Licensure Commission Act of 1976, effective
+154 April 6, 1977 (D.C. Law 1-104; D.C. Official Code § 38-1307(b)), is amended by striking the
+155 phrase “File with the Council and the Mayor quarterly reports” and inserting the phrase “Publish
+156 information on its website quarterly” in its place.
+157 Sec. 22 Section 2402(c) of the District of Columbia School Reform Act of 1995, effective
+158 April 26, 1996 (110 Stat. 1321; D.C. Official Code § 38-1804.02(c)), is amended by striking the
+159 phrase “December 31” and inserting the phrase “March 15” in its place.
+160
+161 Sec. 23. Section 3(b) of the State Education Office Establishment Act of 2000, effective
+162 October 21, 2000 (D.C. Law 13-176; D.C. Official Code § 38-2602(b)) is amended as follows:
+163 (1) Paragraph (28) is repealed.
+164 (2) Paragraph (30A) is repealed.
+165 (3) Paragraph (33) is amended by striking the period and inserting “; and” in its
+166 place.(4) A new paragraph (34) is added to read as follows:
+8
+
+ENGROSSED ORIGINAL
+167 “(34) Have the authority to issue grants, from funds under its
+168 administration, to District of Columbia public schools or public charter schools, local education
+169 agencies, institutions of higher education, non-profit organizations, community-based
+170 organizations, education service providers, or any other entity serving or supporting District
+171 learners for the purpose of increasing access to educational opportunities in the District.”.
+172 Sec. 24 Section 4025(b)(2) of the Higher Education Financial Aid Assistance Act of
+173 2006, effective March 2, 2007 (D.C. Law 16-192; D.C. Official Code § 38-2734(b)(2)), is
+174 repealed.
+175 Sec. 25. The School-Based Budgeting and Accountability Act of 1998, effective March
+176 26, 1999 (D.C. Law 12-175; D.C. Official Code §38-2803) is amended as follows:
+177 (a) Paragraph 1102a(d)(1)is amended by striking the word “updated” and
+178 inserting the word “included”.
+179 (b) Paragraph 1104(b)(2A) is amended by striking the phrase “every year
+180 thereafter” and inserting the phrase “every year thereafter, excepting years when the 10-
+181 year Master Facilities Plan is published,”.
+182 Sec. 26. Section 104(b) of the Uniform Per Student Funding Formula for Public Schools
+183 and Public Charter Schools Act of 1998, effective March 26, 1999 (D.C. Law 12-207; D.C.
+184 Official Code § 38-2903(b)) is amended by striking the phrase, “The Office of the State
+185 Superintendent of Education shall publish the algorithm on its website.”.
+9
+
+ENGROSSED ORIGINAL
+186 Sec. 27. The Interstate Compact on Educational Opportunity for Military Children
+187 Establishment Act of 2012, effective May 1, 2013 (D.C Law 19-304; D.C. Official Code § 49-
+188 1101.01 et seq.), is amended as follows:
+189 (a) Section 4(1) (D.C. Official Code § 49-1101.03(1)) is amended by striking the phrase
+190 “10 U.S.C. §§1209 and 1211” and inserting the phrase, “10 U.S.C. Chapters 1209 and 1211” in
+191 its place.
+192 (b) Section 21 (D.C. Official Code § 49-1101.20) is amended as follows:
+193 (1) Subsection (b) is amended by striking the word “Five” and inserting the word
+194 “Three” in its place.
+195 (2) Paragraph (c)(2) is amended by striking the number “3” and inserting the word
+196 “one” in its place.
+197 Sec. 283. Fiscal impact statement.
+198 The Council adopts the fiscal impact statement in the committee report as the fiscal
+199 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+200 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code§ 1-301.47a).
+201 Sec. 29. Effective date.
+202 This act shall take effect following approval by the Mayor (or in the event of veto by the
+203 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+204 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+205 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+10

@@ -70,6 +70,16 @@
       }
     },
     {
+      "description": "Committee Mark-up of B26-0265 by the Executive Administration and Labor Committee",
+      "date": "2025-06-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T06:21:59Z"
+      }
+    },
+    {
       "description": "Committee Mark-up of B26-0265 by the Committee of the Whole",
       "date": "2025-07-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -637,7 +647,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:08Z",
+    "logs_latest_update": "2026-07-22T06:21:59Z",
     "text_extraction_latest_update": "2026-07-21T19:02:50.188831Z"
   }
 }

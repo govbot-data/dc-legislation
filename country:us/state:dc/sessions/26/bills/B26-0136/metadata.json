@@ -206,16 +206,15 @@
       }
     },
     {
-      "description": "Transmitted to Congress, Projected Law Date is Jul 18, 2026",
+      "description": "Transmitted to Congress",
       "date": "2026-06-04T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
-        "became-law",
         "receipt"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:07Z"
+        "log_file_created": "2026-07-22T06:21:59Z"
       }
     },
     {
@@ -226,6 +225,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:07Z"
+      }
+    },
+    {
+      "description": "Law Number L26-0143 Effective from Jul 18, 2026",
+      "date": "2026-07-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T06:21:59Z"
       }
     }
   ],
@@ -325,7 +336,9 @@
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "lawNumber": "L26-0143"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/district:dc/government",
     "name": "District of Columbia",
@@ -333,7 +346,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:07Z",
+    "logs_latest_update": "2026-07-22T06:21:59Z",
     "text_extraction_latest_update": "2026-07-21T20:02:42.867065Z"
   }
 }

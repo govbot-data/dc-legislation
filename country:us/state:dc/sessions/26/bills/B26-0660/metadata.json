@@ -72,16 +72,6 @@
       }
     },
     {
-      "description": "Mendelson (ANS)",
-      "date": "2026-06-23T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:07Z"
-      }
-    },
-    {
       "description": "Final Reading",
       "date": "2026-06-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -174,7 +164,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:07Z",
+    "logs_latest_update": "2026-07-22T06:21:59Z",
     "text_extraction_latest_update": "2026-07-21T20:08:11.794172Z"
   }
 }

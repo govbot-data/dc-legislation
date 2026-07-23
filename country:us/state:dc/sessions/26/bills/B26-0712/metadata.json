@@ -61,6 +61,28 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:07Z"
       }
+    },
+    {
+      "description": "Returned from Mayor",
+      "date": "2026-07-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-23T06:24:46Z"
+      }
+    },
+    {
+      "description": "Enacted without Mayor's Signature with Act Number A26-0371, Expires on Oct 20, 2026",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-23T06:24:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -98,7 +120,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Enacted without Mayor's Signature with Act Number A26-0371, Expires on Oct 20, 2026",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62178/Signed_Act/B26-0712-Signed_Act.pdf?Id=243688",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -118,7 +152,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:07Z",
+    "logs_latest_update": "2026-07-23T06:24:46Z",
     "text_extraction_latest_update": "2026-07-21T19:38:33.954905Z"
   }
 }

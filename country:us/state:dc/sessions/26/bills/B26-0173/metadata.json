@@ -105,16 +105,6 @@
     },
     {
       "description": "Committee Mark-up of B26-0173 by the Committee of the Whole",
-      "date": "2026-02-17T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:06Z"
-      }
-    },
-    {
-      "description": "Committee Mark-up of B26-0173 by the Committee of the Whole",
       "date": "2026-03-03T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -317,7 +307,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:06Z",
+    "logs_latest_update": "2026-07-23T06:24:46Z",
     "text_extraction_latest_update": "2026-07-21T21:16:32.683637Z"
   }
 }

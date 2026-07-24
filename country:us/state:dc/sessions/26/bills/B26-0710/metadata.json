@@ -75,6 +75,29 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:07Z"
       }
+    },
+    {
+      "description": "Signed by the Mayor and Enacted with Act Number A26-0376, Expires on Oct 20, 2026",
+      "date": "2026-07-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-24T06:19:16Z"
+      }
+    },
+    {
+      "description": "Returned from Mayor",
+      "date": "2026-07-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-24T06:19:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -123,6 +146,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed by the Mayor and Enacted with Act Number A26-0376, Expires on Oct 20, 2026",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62167/Signed_Act/B26-0710-Signed_Act.pdf?Id=243712",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -144,7 +178,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:07Z",
+    "logs_latest_update": "2026-07-24T06:19:16Z",
     "text_extraction_latest_update": "2026-07-21T21:15:11.276769Z"
   }
 }

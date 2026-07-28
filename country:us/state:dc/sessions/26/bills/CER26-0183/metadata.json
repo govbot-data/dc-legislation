@@ -60,6 +60,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:06Z"
       }
+    },
+    {
+      "description": "Resolution ACR26-0178, Effective from Jun 30, 2026 Published in DC Register Vol 73 and Page 010580",
+      "date": "2026-07-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-28T06:19:24Z"
+      }
     }
   ],
   "sponsorships": [
@@ -117,7 +127,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:06Z",
+    "logs_latest_update": "2026-07-28T06:19:24Z",
     "text_extraction_latest_update": "2026-07-21T20:32:20.170690Z"
   }
 }

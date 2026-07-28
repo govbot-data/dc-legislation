@@ -1,0 +1,58 @@
+Title: 
+Official Title: 
+Source: versions - Enrollment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENROLLED ORIGINAL
+A RESOLUTION
+26-494
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+July 14, 2026
+To declare the existence of an emergency with respect to the need to amend the Homeless
+Services Reform Act of 2005 to clarify the authorization to share certain data within the
+Department of Human Services and between the Department of Human Services and
+other District agencies providing health or human services to facilitate the determination
+of eligibility for federal and District health and human service programs and benefits, to
+enhance the coordination of such programs and benefits, and for other purposes.
+RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+resolution may be cited as the “Health and Human Service Programs and Benefits Eligibility and
+Delivery Data-Sharing Clarifications Emergency Declaration Resolution of 2026”.
+Sec. 2. (a) There exists an immediate need to enact legislation to amend the Homeless
+Services Reform Act of 2005 (“HSRA”), effective October 22, 2005 (D.C. Law 16-35; D.C.
+Official Code § 4-751.01 et seq.).
+(b) The District’s long-standing waiver of the Supplemental Nutrition Assistance
+Program’s (“SNAP”) time limits for Able-Bodied Adults Without Dependents (“ABAWD”)
+expired at the end of calendar year 2025. The District was unable to renew its ABAWD Waiver
+due to changes in federal law. As a result, beginning June 2026, whenever an ABAWD applies
+for or seeks to renew their SNAP eligibility, they must be screened to establish either that they
+comply with, or are exempt from, the ABAWD work requirements. After screening, non-
+compliant, non-exempt ABAWDs may only receive SNAP benefits for up to 3 months in a set
+36-month time period.
+(c) The Department of Human Services (“DHS”) Economic Security Administration
+(“ESA”) is attempting to lessen the burden on SNAP ABAWD customers by using data matches
+to proactively identify time limit exemptions for which ABAWDs may qualify. Information
+maintained by the DHS Family Services Administration (“FSA”) in connection with programs it
+administers that are governed by the HSRA could be used by ESA to determine that certain
+ABAWDs receiving services from both DHS administrations qualify for exemptions from the
+SNAP ABAWD time limits.
+(d) ESA began screening ABAWDs this month. Emergency legislation is required to
+clarify that, pursuant to the requirements and procedures of Title I of the Data-Sharing and
+Information Coordination Amendment Act of 2010, effective December 4, 2010 (D.C. Law 18-
+1
+
+ENROLLED ORIGINAL
+273; D.C. Official Code § 7-241 et seq.), ESA may leverage FSA data to facilitate ABAWD time
+limit exemption determinations for FSA homeless services customers who also receive SNAP. If
+ESA cannot determine that an ABAWD customer is exempt, the customer will begin to accrue
+countable months towards the 3-month time limit after their screening. Looking to the future, this
+same FSA data could also facilitate exempting customers from new Medicaid Community
+Engagement requirements set to go into effect in 2027.
+Sec. 3. The Council of the District of Columbia determines that the circumstances
+enumerated in section 2 constitute emergency circumstances making it necessary that the Health
+and Human Service Programs and Benefits Eligibility and Delivery Data-Sharing Clarifications
+Emergency Amendment Act of 2026 be adopted after a single reading.
+Sec. 4. This resolution shall take effect immediately.
+2

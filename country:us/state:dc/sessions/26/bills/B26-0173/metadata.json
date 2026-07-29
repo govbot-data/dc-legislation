@@ -194,6 +194,19 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:06Z"
       }
+    },
+    {
+      "description": "Transmitted to Congress, Projected Law Date is Nov 10, 2026",
+      "date": "2026-07-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-29T06:25:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -307,7 +320,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-23T06:24:46Z",
+    "logs_latest_update": "2026-07-29T06:25:36Z",
     "text_extraction_latest_update": "2026-07-23T06:26:20.126279Z"
   }
 }

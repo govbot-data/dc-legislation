@@ -48,6 +48,19 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:06Z"
       }
+    },
+    {
+      "description": "Transmitted to Mayor, Response Due on Aug 12, 2026",
+      "date": "2026-07-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-30T06:17:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -67,6 +80,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/62249/Introduction/B26-0728-Introduction.pdf?Id=242682",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62249/Meeting1/Enrollment/B26-0728-Enrollment1.pdf?Id=243681",
           "media_type": "application/pdf"
         }
       ],
@@ -94,7 +118,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:06Z",
+    "logs_latest_update": "2026-07-30T06:17:57Z",
     "text_extraction_latest_update": "2026-07-21T20:41:03.651430Z"
   }
 }

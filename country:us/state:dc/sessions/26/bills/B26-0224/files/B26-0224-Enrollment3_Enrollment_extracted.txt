@@ -1,0 +1,314 @@
+Title: 
+Official Title: 
+Source: versions - Enrollment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENROLLED ORIGINAL
+AN ACT
+_________________________
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+_________________________
+To amend Title 28 of the District of Columbia Official Code to protect artists, venues, and
+consumers in the District from unfair and deceptive practices in live event ticket purchases
+by clarifying a ticket issuer’s, reseller’s, and secondary ticket exchange’s existing
+consumer protection obligation under Chapter 39, like in all industries, to clearly and
+conspicuously disclose upfront certain information regarding ticket pricing, to prescribe
+procedures governing the provision of refunds, to prohibit the sale of speculative tickets,
+to prohibit a ticket issuer from restricting the transferability of a ticket unless the terms
+and conditions on transferability are clearly disclosed to the consumer prior to purchase, to
+permit ticket issuers to maintain and enforce policies and conditions or requirements for
+ticket purchase with respect to conduct, behavior, public health and safety, or age at the
+venue or event, and establish limits on the amount of tickets that can be purchased, to
+require a ticket issuer or secondary ticket exchange to maintain reasonable technology to
+prevent any machine, device, computer program, or computer software, with or without
+human assistance, from bypassing security measures or access control systems designed to
+limit the number of tickets that can be purchased by a person on a marketplace for initial
+purchase or secondary ticket exchange, to require the Mayor to issue rules, and to provide
+for civil penalties ; and to amend Chapter 28 of Title 47 of the District of Columbia
+Official Code to require a reseller that resells or offers to resell 50 or more tickets a year to
+obtain a license and maintain a surety bond of $25,000, to clarify that secondary ticket
+exchanges shall obtain a basic business license, and to outline licensing and reporting
+requirements for the Department of Licensing and Consumer Protection, resellers, and
+secondary ticket exchanges.
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+act may be cited as the “Restricting Egregious Scalping Against Live Entertainment (RESALE)
+Amendment Act of 2026”.
+Sec. 2. Title 28 of the District of Columbia Official Code is amended as follows:
+(a) The table of contents is amended by adding a new chapter designation to read as
+follows:
+1
+
+ENROLLED ORIGINAL
+“55. Sale and Resale of Live Event Tickets.”.
+(b) A new Chapter 55 is added to read as follows:
+“Chapter 55.
+“Sale and Resale of Live Event Tickets.
+“28-5501. Definitions.
+“28-5502. Ticket disclosure and refund requirements.
+“28-5503. Prohibition on the sale or resale of speculative tickets.
+“28-5504. Transferability of tickets.
+“28-5505. Requirement of reasonable technology for a ticket issuer and secondary ticket
+exchange.
+“28-5506. Requirements for resale of tickets.
+“28-5507. Rules.
+“28-5508. Penalties and enforcement.
+“28-5509. Prohibition on surveillance-based price discrimination.
+“§ 28-5501. Definitions.
+“For the purposes of this chapter, the term:
+“(1) “Department” means the Department of Licensing and Consumer Protection.
+“(2) “Resale” means the second or subsequent sale of a ticket by any method,
+including in-person transactions, telephone, mail, e-mail, facsimile, or electronic means through
+a website or mobile application.
+“(3) “Reseller” means a person engaged in the resale of tickets.
+“(4) “Secondary ticket exchange” means an electronic marketplace that enables a
+person to sell, purchase, and resell tickets.
+“(5) “Speculative ticket” means a ticket that is not in the actual or constructive
+possession of a reseller at the time of listing, sale, resale, or advertisement, including tickets that
+are not owned by the reseller and tickets that are under contract to be transferred to the reseller.
+“(6) “Ticket” means any form of physical, electronic, or other evidence that grants
+the possessor of the evidence license to enter a place of entertainment for one or more events,
+including live concerts, theatrical performances, shows, or similarly scheduled live activities, at a
+specified date and time; provided, that the event is not a sporting event organized by a
+professional or intercollegiate sports team located in the District or professional athletic
+association with an event located in the District; provided further, that the event is not a motion
+picture screening.
+“(7) “Ticket issuer” means a person or their agent who issues tickets for initial
+sale, including musicians, venues, promoters, theater companies, and marketplaces for initial
+purchases.
+“§ 28-5502. Ticket disclosure and refund requirements.
+“(a) The listing for a ticket and each step of a transaction to purchase a ticket shall clearly
+and conspicuously disclose:
+2
+
+ENROLLED ORIGINAL
+“(1) The total price of the ticket, including all fees and taxes other than shipping
+costs that are not determinable at a step in the transaction;
+“(2) An itemized listing of all charges that comprise the total price of the ticket,
+including all fees and taxes; and
+“(3) The seat number, zone, and section, to the extent applicable to the seat and
+venue.
+“(b)(1) The total price of a ticket disclosed pursuant to subsection (a) of this section may
+be increased in a noninitial step of a transaction by the amount of reasonable shipping costs for
+physically delivered tickets.
+“(2) The shipping costs allowed under paragraph (1) of this subsection may vary
+with the consumer’s location relative to the shipment’s location of origin and the delivery
+method selected by the consumer.
+“(3) The total price of the ticket, including all fees, taxes, and shipping costs, shall
+be clearly and conspicuously disclosed prior to final purchase of the ticket.
+“(c)(1) A ticket issuer, secondary ticket exchange, or reseller directly engaged in a
+transaction with a consumer shall provide a full refund, including all fees and taxes, if:
+“(A) The ticket is counterfeit;
+“(B) The event is canceled; or
+“(C) The ticket does not conform to the description provided at the time of
+purchase.
+“(2) Refunds shall be issued within 10 days of the event’s cancellation or
+discovery of non-conformance.
+“(3) Notwithstanding paragraphs (1) and (2) of this subsection, a nonprofit
+corporation organized under Chapter 4 of Title 29 of the District of Columbia Official Code shall
+not be required to provide a refund if a consumer elects to donate the cost of their ticket.
+“§ 28-5503. Prohibition on the sale or resale of speculative tickets.
+“A reseller or a secondary ticket exchange shall not sell, resell, or offer to sell or resell
+speculative tickets.
+“§ 28-5504. Transferability of tickets.
+“(a) A ticket issuer shall not restrict the transferability of a ticket sold unless the terms
+and conditions on transferability are clearly and conspicuously disclosed to the consumer prior to
+purchase and the consumer acknowledges receipt of such disclosure prior to purchase.
+“(b) A ticket issuer may, subject to applicable District or federal law:
+“(1) Maintain and enforce policies and conditions or requirements for ticket
+purchase with respect to conduct, behavior, public health and safety, or age at the venue or event;
+and
+“(2) Establish limits on the quantity of tickets that may be purchased.
+“§ 28-5505. Requirement of reasonable technology for a ticket issuer and secondary
+ticket exchange.
+3
+
+ENROLLED ORIGINAL
+“A ticket issuer and secondary ticket exchange, to the extent applicable and under the
+totality of the circumstances, shall implement and maintain reasonable technology to prevent any
+machine, device, computer program, or computer software, with or without human assistance,
+from bypassing security measures or access control systems designed to limit the number of
+tickets that can be purchased by a person on a primary or secondary ticket exchange.
+“§ 28-5506. Requirements for resale of tickets.
+“(a) A secondary ticket exchange shall, prior to a ticket being resold or offered to be
+resold:
+“(1) Verify that the reseller meets all licensure and bonding requirements
+established in § 47-2890.02; and
+“(2) Disclose the original purchase price of the ticket, including all fees and taxes
+in connection with the initial purchase price of the ticket.
+“(b) Except as provided in subsection (c) of this section, a reseller or secondary ticket
+exchange shall not sell or offer to sell a ticket that exceeds the total price of the initial ticket,
+including all fees and taxes in connection with the initial ticket, plus up to 10% of the total price
+of the initial ticket, including all fees and taxes in connection with the initial ticket.
+“(c) A secondary ticket exchange may charge a fee for the service of providing a
+marketplace for the resale of a ticket, which may be in addition to any fees described in
+subsection (b) of this section; provided, that the fee shall not exceed 10% of the total price of the
+initial ticket, including all fees and taxes in connection with the initial ticket.
+“§ 28-5507. Rules.
+“(a) The Mayor, pursuant to § 2-501 et seq., shall issue rules to implement the provisions
+of this chapter.
+“(b) Notwithstanding subsection (a) of this section, the Mayor may adjust the price and
+fee restrictions imposed in § 28-5506(b) and (c) by rulemaking no earlier than January 1, 2028;
+except, that the Mayor shall not:
+“(1) Restrict the sale or offering for sale of a ticket below the total price of the
+initial ticket, including all fees and taxes in connection with the initial ticket, or more than 20%
+above the total price of the initial ticket, including all fees and taxes in connection with the initial
+ticket; or
+“(2) Reduce a fee that a secondary ticket exchange may charge for the service of
+providing a marketplace for the resale of a ticket to below 5% or more than 20% of the total
+price of the initial ticket, including all fees and taxes in connection with the initial ticket.
+“(c) Proposed rules issued pursuant to this section shall be submitted to the Council for a
+45-day period of review, excluding Saturdays, Sundays, legal holidays and days of Council
+recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by
+resolution within this 45-day period, the proposed rules shall be deemed approved.
+“§ 28-5508. Penalties and enforcement.
+4
+
+ENROLLED ORIGINAL
+“(a) A violation of this chapter shall be a Class 2 civil infraction and subject to fines
+pursuant to section 3201 of Title 16 of the District of Columbia Municipal Regulations (16
+DCMR § 3201).
+“(b) Failure to comply with the requirements of this chapter shall be an unlawful trade
+practice under § 28-3904.
+“(c) The civil penalty imposed pursuant to subsection (a) of this section shall be in
+addition to the remedies available to the Attorney General pursuant to § 28-3909.
+“§ 28-5509. Prohibition on surveillance-based price discrimination.
+“(a) Except as provided in subsection (c) of this section, a ticket issuer, reseller, or
+secondary ticket exchange shall not use personally identifiable information collected through
+electronic surveillance technology, technological methods, systems, or tools, including sensors,
+cameras, device tracking, biometric monitoring, or other forms of observation or data collection
+capable of gathering personally identifiable information about a consumer’s behavior,
+characteristics, location, or other personal attributes, whether in physical or digital environments,
+to set a price, fee, or discount for a ticket covered under this chapter.
+“(b) For the purposes of this section, the term “personally identifiable information”
+means information that can be used to distinguish or trace an individual’s identity, either alone or
+when combined with other personal or identifying information that is linked or linkable to a
+specific individual.
+“(c)(1) The prohibition described in subsection (a) of this section shall not apply where a
+reduction in the price or fees for a ticket covered under this chapter is:
+“(A) Set based on publicly available eligibility criteria that any consumer
+can satisfy on equal terms, including, voluntarily:
+“(i) Signing up for a mailing list;
+“(ii) Enrolling in a loyalty, membership, or rewards program;
+“(iii) Registering for promotional communications; or
+“(iv) Participating in a promotional event;
+“(B) Provided to members of a broadly defined group, such as teachers,
+active or retired military, senior citizens, students, members of a loyalty or membership program,
+or group purchasers, so long as consumers voluntarily and knowingly provide information
+sufficient to identify their membership in such group, including presentation of a student or
+military identification card; or
+“(C) Provided to recipients of a publicly established need-based program.
+“(2) Notwithstanding paragraph (1) of this subsection, any reduction in the price
+or fees pursuant to paragraph (1) of this subsection for a ticket covered under this chapter shall
+be:
+5
+
+ENROLLED ORIGINAL
+“(A) Specified in terms and eligibility criteria that are clearly and
+conspicuously disclosed; and
+“(B) Provided to a consumer without the use of personally identifiable
+information other than the use of personally identifiable information permitted under this
+subsection.
+“(d) The prohibition in subsection (a) of this section shall not prohibit the use of location
+data to determine jurisdiction specific requirements for offering or providing consumers
+with a ticket covered under this chapter, including to calculate taxes.”.
+Sec. 3. Subchapter IV of Chapter 28 of Title 47 of the District of Columbia Official Code
+is amended as follows:
+(a) The table of contents is amended by adding a new designation for part H to read as
+follows:
+“Part H.
+“Ticket Resellers and Secondary Ticket Exchanges.
+“47-2890.01. Definitions.
+“47-2890.02. Ticket resellers.
+“47-2890.03. Secondary ticket exchanges.
+“47-2890.04. Reporting requirements.
+“47-2890.05. Penalties and enforcement.”.
+(b) A new part H is added to read as follows:
+“Part H.
+“Ticket Resellers and Secondary Ticket Exchanges.
+“§ 47-2890.01. Definitions.
+“For the purposes of this chapter, terms shall have the same meaning as set forth in § 28-
+5501.
+“§ 47-2890.02. Ticket resellers.
+“(a)(1) No reseller that posts 50 or more ticket resale listings in a year shall operate in the
+District without obtaining a license from the Department.
+“(2) If a reseller lists a single ticket for resale across multiple secondary ticket
+exchange platforms, the total number of listings for the ticket shall count toward the threshold
+provided in paragraph (1) of this subsection.
+“(b) An applicant for licensure shall provide the following information to the
+Department:
+“(1) Their full legal name and any aliases or usernames used in the resale of
+tickets;
+“(2) Their contact information, including a physical street address, email address,
+and phone number;
+“(3) All associated entities involved in the resale of tickets;
+6
+
+ENROLLED ORIGINAL
+“(4) Proof of current surety bond as required by subsection (d) of this section; and
+“(5) Any additional information required by the Department.
+“(c) All entities under common ownership or control of a person shall be considered one
+reseller for the purposes of the license requirements imposed under this section.
+“(d)(1) A reseller that lists 50 or more tickets for resale in a year shall maintain a surety
+bond of $25,000 to ensure compensation to consumers in cases where the reseller fails to deliver
+purchased tickets or engages in fraudulent activities.
+“(2) The surety bond shall cover compensation for lost funds by the consumer,
+including travel expenses incurred by the consumer if the reseller fails to deliver the purchased
+tickets.
+“(3) The Department may adjust the surety bond requirements by rulemaking.
+“§ 47-2890.03. Secondary ticket exchanges.
+“A secondary ticket exchange shall obtain a basic business license to operate in the
+District in accordance with § 47-2851.02.
+“§ 47-2890.04. Reporting requirements.
+“(a) The Department shall maintain a list of licensed resellers and make the list available
+to the public via the Department’s website. The list shall:
+“(1) Include the legal name, aliases, and associated entities of all registered
+resellers;
+“(2) Be updated at least quarterly; and
+“(3) Include information on any violations of this part and Chapter 55 of Title 28
+of the District of Columbia Official Code within the past 5 years.
+“(b) A licensed reseller shall retain for 3 years:
+“(1) The total number of tickets resold by the licensed reseller;
+“(2) The original purchase price of each ticket purchased by the licensed reseller
+within the previous year; and
+“(3) The final resale price of each ticket resold by the licensed reseller.
+“(c) A secondary ticket exchange shall:
+“(1) Maintain records for 3 years of all licensed resellers and all tickets resales in
+the District on its platform for inspection and upon request by the Department at least annually,
+including:
+“(A) The total number of tickets resold by a licensed reseller on its
+platform;
+“(B) The original purchase price of each ticket resold by a licensed
+reseller; and
+“(C) The final resale price of each ticket resold by a licensed reseller; and
+“(2) Report any unlicensed or non-compliant resellers that sell, offer to sale, or
+list tickets to an event being held in the District to the Department.
+“§ 47-2890.05. Penalties and enforcement.
+7
+
+ENROLLED ORIGINAL
+“(a) The Department may suspend, revoke, or deny the license of any secondary ticket
+exchange or reseller found to be in violation of this part and Chapter 55 of Title 28 of the District
+of Columbia Official Code.
+“(b) Failure to comply with the requirements of this part shall be an unlawful trade
+practice under § 28-3904.”.
+Sec. 4. Applicability.
+This act shall apply as of January 1, 2027.
+Sec. 5. Fiscal impact statement.
+The Council adopts the fiscal impact statement in the committee report as the fiscal
+impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+Sec. 6. Effective date.
+This act shall take effect after approval by the Mayor (or in the event of veto by the
+Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+___________________________________
+Chairman
+Council of the District of Columbia
+_________________________________
+Mayor
+District of Columbia
+8

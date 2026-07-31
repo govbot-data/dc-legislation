@@ -102,6 +102,16 @@
       }
     },
     {
+      "description": "Committee Mark-up of B26-0659 by the Committee of the Whole, Subcommittee on Local Business Development",
+      "date": "2026-05-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:54:08Z"
+      }
+    },
+    {
       "description": "Committee Mark-up of B26-0659 by the Health Committee",
       "date": "2026-05-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -651,7 +661,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-29T06:25:36Z",
+    "logs_latest_update": "2026-07-31T06:37:46Z",
     "text_extraction_latest_update": "2026-07-29T06:26:58.804625Z"
   }
 }

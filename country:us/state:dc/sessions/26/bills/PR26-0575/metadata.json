@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Committee Mark-up of PR26-0575 by the Committee of the Whole",
+      "date": "2026-02-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-05T06:19:15Z"
+      }
+    },
+    {
       "description": "PR26-0575 Introduced by Chairman Mendelson at Office of the Secretary",
       "date": "2026-03-13T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -72,13 +82,13 @@
       }
     },
     {
-      "description": "Roundtable on PR26-0575",
+      "description": "Roundtable on PR26-0575 View Roundtable Record",
       "date": "2026-03-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:08Z"
+        "log_file_created": "2026-08-05T06:19:15Z"
       }
     },
     {
@@ -151,6 +161,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Roundtable on PR26-0575 View Roundtable Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61430/Hearing_Record/PR26-0575-Hearing_Record1.pdf?Id=243756",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -172,7 +193,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:08Z",
+    "logs_latest_update": "2026-08-05T06:19:15Z",
     "text_extraction_latest_update": "2026-07-21T19:53:54.384591Z"
   }
 }

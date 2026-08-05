@@ -38,6 +38,18 @@
       }
     },
     {
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
+      "date": "2026-08-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-05T06:19:15Z"
+      }
+    },
+    {
       "description": "Referred to Committee of the Whole",
       "date": "2026-09-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -47,6 +59,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:08Z"
+      }
+    },
+    {
+      "description": "Public Hearing on B26-0771",
+      "date": "2026-09-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-05T06:19:15Z"
       }
     }
   ],
@@ -74,7 +96,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62325/Hearing_Notice/B26-0771-Hearing_Notice1.pdf?Id=244010",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -94,7 +128,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-28T06:19:24Z",
+    "logs_latest_update": "2026-08-05T06:19:15Z",
     "text_extraction_latest_update": "2026-07-28T06:22:01.284280Z"
   }
 }

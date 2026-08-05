@@ -108,16 +108,27 @@
       }
     },
     {
-      "description": "Transmitted to Congress, Projected Law Date is Aug 01, 2026",
+      "description": "Transmitted to Congress",
       "date": "2026-06-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
-        "became-law",
         "receipt"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:08Z"
+        "log_file_created": "2026-08-05T06:19:15Z"
+      }
+    },
+    {
+      "description": "Law Number L26-0154 Effective from Aug 01, 2026, Expires on Mar 14, 2027",
+      "date": "2026-08-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-05T06:19:15Z"
       }
     }
   ],
@@ -191,7 +202,9 @@
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "lawNumber": "L26-0154"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/district:dc/government",
     "name": "District of Columbia",
@@ -199,7 +212,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:08Z",
+    "logs_latest_update": "2026-08-05T06:19:15Z",
     "text_extraction_latest_update": "2026-07-21T20:32:29.642452Z"
   }
 }

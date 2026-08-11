@@ -423,6 +423,29 @@
       "_processing": {
         "log_file_created": "2026-07-29T06:25:36Z"
       }
+    },
+    {
+      "description": "Transmitted to Congress, Projected Law Date is Nov 18, 2026",
+      "date": "2026-08-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T06:16:33Z"
+      }
+    },
+    {
+      "description": "Act A26-0379 Published in DC Register Vol 73 and Page 011124",
+      "date": "2026-08-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T06:16:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -619,22 +642,27 @@
       "note": "Committee Markup",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/61626/Committee_Report/B26-0659-Committee_Report2.pdf?Id=239958",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61626/Committee_Report/B26-0659-Committee_Report4.pdf?Id=242827",
           "media_type": "application/pdf"
         },
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/61626/Committee_Report/B26-0659-Committee_Report3.pdf?Id=239959",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61626/Committee_Report/B26-0659-Committee_Report5.pdf?Id=243621",
           "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Amendment",
-      "links": [
+        },
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/61626/Meeting3/Amendment/B26-0659-Amendment9.pdf?Id=240929",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61626/Committee_Report/B26-0659-Committee_Report8.pdf?Id=242374",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61626/Committee_Report/B26-0659-Committee_Report9.pdf?Id=242647",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61626/Committee_Report/B26-0659-Committee_Report10.pdf?Id=242464",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61626/Committee_Report/B26-0659-Committee_Report13.pdf?Id=243871",
           "media_type": "application/pdf"
         }
       ],
@@ -661,7 +689,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-31T06:37:46Z",
+    "logs_latest_update": "2026-08-11T06:16:33Z",
     "text_extraction_latest_update": "2026-07-31T06:39:43.913555Z"
   }
 }

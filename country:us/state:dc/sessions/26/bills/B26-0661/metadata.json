@@ -366,7 +366,7 @@
       }
     },
     {
-      "description": "Transmitted to Mayor, Response Due on Jul 13, 2026",
+      "description": "Transmitted to Mayor, Response Due on Aug 13, 2026",
       "date": "2026-07-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"executive\"}",
       "classification": [
@@ -375,7 +375,29 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-31T06:37:46Z"
+        "log_file_created": "2026-08-14T06:42:22Z"
+      }
+    },
+    {
+      "description": "Returned from Mayor",
+      "date": "2026-08-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T06:42:22Z"
+      }
+    },
+    {
+      "description": "Enacted without Mayor's Signature with Act Number A26-0418",
+      "date": "2026-08-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T06:42:22Z"
       }
     }
   ],
@@ -417,7 +439,7 @@
       "note": "Enrollment",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting3/Enrollment/B26-0661-Enrollment17.pdf?Id=243885",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting3/Enrollment/B26-0661-Enrollment17.pdf?Id=243990",
           "media_type": "application/pdf"
         }
       ],
@@ -645,6 +667,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Enacted without Mayor's Signature with Act Number A26-0418",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Signed_Act/B26-0661-Signed_Act.pdf?Id=244269",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -666,7 +699,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-31T06:37:47Z",
+    "logs_latest_update": "2026-08-14T06:42:22Z",
     "text_extraction_latest_update": "2026-07-31T06:39:43.818829Z"
   }
 }

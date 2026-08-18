@@ -48,6 +48,28 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:07Z"
       }
+    },
+    {
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Health",
+      "date": "2026-08-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T05:42:26Z"
+      }
+    },
+    {
+      "description": "Public Hearing on B26-0606",
+      "date": "2026-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T05:42:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -74,7 +96,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Health",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61329/Hearing_Notice/B26-0606-Hearing_Notice1.pdf?Id=244281",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -94,7 +128,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:07Z",
+    "logs_latest_update": "2026-08-18T05:42:26Z",
     "text_extraction_latest_update": "2026-07-21T20:05:17.938085Z"
   }
 }

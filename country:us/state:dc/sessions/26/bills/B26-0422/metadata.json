@@ -149,6 +149,16 @@
       "_processing": {
         "log_file_created": "2026-08-12T06:40:38Z"
       }
+    },
+    {
+      "description": "Act A26-0411 Published in DC Register Vol 73 and Page 011359",
+      "date": "2026-08-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T05:42:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -270,7 +280,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T06:40:38Z",
+    "logs_latest_update": "2026-08-18T05:42:26Z",
     "text_extraction_latest_update": "2026-08-12T06:42:05.859391Z"
   }
 }

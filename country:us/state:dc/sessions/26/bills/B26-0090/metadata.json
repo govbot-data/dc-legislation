@@ -84,6 +84,18 @@
       }
     },
     {
+      "description": "Revised Notice of Public Hearing filed in the Office of Secretary by Transportation and the Environment",
+      "date": "2026-08-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T05:44:15Z"
+      }
+    },
+    {
       "description": "Public Hearing on B26-0090",
       "date": "2026-09-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -129,6 +141,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Revised Notice of Public Hearing filed in the Office of Secretary by Transportation and the Environment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57043/Hearing_Notice/B26-0090-Hearing_Notice2.pdf?Id=244338",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -150,7 +173,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T06:21:59Z",
+    "logs_latest_update": "2026-08-19T05:44:15Z",
     "text_extraction_latest_update": "2026-07-22T06:23:29.879663Z"
   }
 }

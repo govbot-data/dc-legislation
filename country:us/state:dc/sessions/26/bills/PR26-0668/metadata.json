@@ -48,6 +48,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:08Z"
       }
+    },
+    {
+      "description": "Withdrawn",
+      "date": "2026-08-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T05:44:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -94,7 +106,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:08Z",
+    "logs_latest_update": "2026-08-20T05:44:46Z",
     "text_extraction_latest_update": "2026-07-21T20:06:18.106542Z"
   }
 }

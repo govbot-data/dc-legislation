@@ -60,6 +60,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:08Z"
       }
+    },
+    {
+      "description": "Resolution ACR26-0187, Effective from Jul 14, 2026 Published in DC Register Vol 73 and Page 011959",
+      "date": "2026-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T05:43:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -79,6 +89,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/62275/Introduction/CER26-0192-Introduction.pdf?Id=242850",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62275/Meeting1/Enrollment/CER26-0192-Enrollment1.pdf?Id=244146",
           "media_type": "application/pdf"
         }
       ],
@@ -106,7 +127,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:08Z",
+    "logs_latest_update": "2026-08-25T05:43:57Z",
     "text_extraction_latest_update": "2026-07-21T20:14:13.665380Z"
   }
 }

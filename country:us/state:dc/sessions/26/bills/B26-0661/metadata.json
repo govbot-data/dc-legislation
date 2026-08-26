@@ -401,6 +401,19 @@
       }
     },
     {
+      "description": "Transmitted to Congress, Projected Law Date is Nov 20, 2026",
+      "date": "2026-08-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T05:47:57Z"
+      }
+    },
+    {
       "description": "Act A26-0418 Published in DC Register Vol 73 and Page 011735",
       "date": "2026-08-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -709,7 +722,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T05:43:57Z",
+    "logs_latest_update": "2026-08-26T05:47:57Z",
     "text_extraction_latest_update": "2026-08-25T05:46:10.275573Z"
   }
 }

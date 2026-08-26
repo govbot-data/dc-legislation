@@ -163,16 +163,27 @@
       }
     },
     {
-      "description": "Transmitted to Congress, Projected Law Date is Sep 18, 2026",
+      "description": "Transmitted to Congress",
       "date": "2026-07-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
-        "became-law",
         "receipt"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:07Z"
+        "log_file_created": "2026-08-26T05:47:57Z"
+      }
+    },
+    {
+      "description": "Law Number L26-0173 Effective from Aug 20, 2026",
+      "date": "2026-08-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T05:47:57Z"
       }
     }
   ],
@@ -255,6 +266,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60667/Committee_Report/B26-0463-Committee_Report1.pdf?Id=236223",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -268,7 +290,9 @@
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "lawNumber": "L26-0173"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/district:dc/government",
     "name": "District of Columbia",
@@ -276,7 +300,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:07Z",
+    "logs_latest_update": "2026-08-26T05:47:57Z",
     "text_extraction_latest_update": "2026-07-21T21:29:45.434872Z"
   }
 }

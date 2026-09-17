@@ -72,13 +72,23 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0619",
+      "description": "Public Hearing on B26-0619 View Public Hearing Record",
       "date": "2026-06-04T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:06Z"
+        "log_file_created": "2026-09-17T10:17:23Z"
+      }
+    },
+    {
+      "description": "Committee Mark-up of B26-0619 by the Transportation and the Environment Committee",
+      "date": "2026-09-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T10:17:23Z"
       }
     }
   ],
@@ -125,6 +135,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Public Hearing on B26-0619 View Public Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61351/Hearing_Record/B26-0619-Hearing_Record1.pdf?Id=244642",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -146,7 +167,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:06Z",
+    "logs_latest_update": "2026-09-17T10:17:23Z",
     "text_extraction_latest_update": "2026-07-21T19:40:59.624496Z"
   }
 }

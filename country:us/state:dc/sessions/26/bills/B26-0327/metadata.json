@@ -104,16 +104,6 @@
       }
     },
     {
-      "description": "Committee Mark-up of B26-0327 by the Committee of the Whole",
-      "date": "2026-03-31T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:07Z"
-      }
-    },
-    {
       "description": "Final Reading, CC",
       "date": "2026-03-31T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -295,7 +285,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-03T09:38:14Z",
+    "logs_latest_update": "2026-09-19T09:38:00Z",
     "text_extraction_latest_update": "2026-09-03T09:39:37.510703Z"
   }
 }

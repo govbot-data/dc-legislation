@@ -92,16 +92,6 @@
       }
     },
     {
-      "description": "Committee Mark-up of PR26-0549 by the Committee of the Whole",
-      "date": "2026-03-31T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:07Z"
-      }
-    },
-    {
       "description": "Final Reading",
       "date": "2026-03-31T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -198,11 +188,7 @@
       "note": "Committee Markup",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/61318/Committee_Report/PR26-0549-Committee_Report1.pdf?Id=243950",
-          "media_type": "application/pdf"
-        },
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/61318/Committee_Report/PR26-0549-Committee_Report2.pdf?Id=243953",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61318/Committee_Report/PR26-0549-Committee_Report1.pdf?Id=245687",
           "media_type": "application/pdf"
         }
       ],
@@ -229,7 +215,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T10:16:59Z",
+    "logs_latest_update": "2026-09-19T09:38:00Z",
     "text_extraction_latest_update": "2026-09-01T10:18:40.197936Z"
   }
 }

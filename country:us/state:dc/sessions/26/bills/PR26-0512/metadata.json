@@ -50,7 +50,7 @@
       }
     },
     {
-      "description": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
+      "description": "Notice of Roundtable filed in the Office of Secretary by Committee of the Whole",
       "date": "2026-02-20T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -58,17 +58,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:06Z"
+        "log_file_created": "2026-09-22T10:13:39Z"
       }
     },
     {
-      "description": "Public Hearing on PR26-0512",
+      "description": "Roundtable on PR26-0512",
       "date": "2026-02-27T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:06Z"
+        "log_file_created": "2026-09-22T10:13:39Z"
       }
     },
     {
@@ -104,6 +104,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:06Z"
       }
+    },
+    {
+      "description": "Resolution R26-0345, Effective from Mar 03, 2026 Published in DC Register Vol 73 and Page 012460",
+      "date": "2026-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:13:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -128,14 +138,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61122/Meeting1/Enrollment/PR26-0512-Enrollment1.pdf?Id=245244",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
+      "note": "Notice of Roundtable filed in the Office of Secretary by Committee of the Whole",
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61122/Hearing_Notice/PR26-0512-Hearing_Notice1.pdf?Id=232698",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61122/Committee_Report/PR26-0512-Committee_Report1.pdf?Id=243982",
           "media_type": "application/pdf"
         }
       ],
@@ -162,7 +194,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:06Z",
+    "logs_latest_update": "2026-09-22T10:13:39Z",
     "text_extraction_latest_update": "2026-07-21T19:05:07.645564Z"
   }
 }

@@ -114,6 +114,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:08Z"
       }
+    },
+    {
+      "description": "Resolution R26-0319, Effective from Feb 03, 2026 Published in DC Register Vol 73 and Page 012453",
+      "date": "2026-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:13:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -133,6 +143,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60968/Introduction/PR26-0466-Introduction.pdf?Id=229355",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60968/Meeting1/Enrollment/PR26-0466-Enrollment1.pdf?Id=245291",
           "media_type": "application/pdf"
         }
       ],
@@ -162,6 +183,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60968/Committee_Report/PR26-0466-Committee_Report1.pdf?Id=245694",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -183,7 +215,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:08Z",
+    "logs_latest_update": "2026-09-22T10:13:39Z",
     "text_extraction_latest_update": "2026-07-21T21:21:30.566888Z"
   }
 }

@@ -48,6 +48,28 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:08Z"
       }
+    },
+    {
+      "description": "Re-Referred to Committee on Health, and Committee on Judiciary and Public Safety",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:13:39Z"
+      }
+    },
+    {
+      "description": "Re-Referral published.",
+      "date": "2026-09-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:13:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -94,7 +116,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-28T06:19:24Z",
+    "logs_latest_update": "2026-09-22T10:13:39Z",
     "text_extraction_latest_update": "2026-07-28T06:21:47.420799Z"
   }
 }

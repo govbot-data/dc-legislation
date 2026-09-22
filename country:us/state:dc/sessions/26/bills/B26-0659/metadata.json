@@ -425,16 +425,15 @@
       }
     },
     {
-      "description": "Transmitted to Congress, Projected Law Date is Nov 18, 2026",
+      "description": "Transmitted to Congress",
       "date": "2026-08-03T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
-        "became-law",
         "receipt"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-11T06:16:33Z"
+        "log_file_created": "2026-09-22T10:13:39Z"
       }
     },
     {
@@ -445,6 +444,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-11T06:16:33Z"
+      }
+    },
+    {
+      "description": "Law Number L26-0179 Effective from Sep 15, 2026",
+      "date": "2026-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:13:39Z"
       }
     }
   ],
@@ -642,6 +653,10 @@
       "note": "Committee Markup",
       "links": [
         {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61626/Committee_Report/B26-0659-Committee_Report1.pdf?Id=245050",
+          "media_type": "application/pdf"
+        },
+        {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61626/Committee_Report/B26-0659-Committee_Report4.pdf?Id=242827",
           "media_type": "application/pdf"
         },
@@ -681,7 +696,9 @@
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "lawNumber": "L26-0179"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/district:dc/government",
     "name": "District of Columbia",
@@ -689,7 +706,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-11T06:16:33Z",
+    "logs_latest_update": "2026-09-22T10:13:39Z",
     "text_extraction_latest_update": "2026-08-11T06:17:55.130832Z"
   }
 }

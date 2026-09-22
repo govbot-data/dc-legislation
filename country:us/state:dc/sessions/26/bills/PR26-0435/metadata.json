@@ -52,7 +52,7 @@
       }
     },
     {
-      "description": "Revised Notice of Roundtable filed in the Office of Secretary",
+      "description": "Revised Notice of Roundtable filed in the Office of Secretary by Committee of the Whole",
       "date": "2025-12-04T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -60,7 +60,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:07Z"
+        "log_file_created": "2026-09-22T10:13:39Z"
       }
     },
     {
@@ -84,13 +84,13 @@
       }
     },
     {
-      "description": "Roundtable on PR26-0435",
+      "description": "Roundtable on PR26-0435 View Roundtable Record",
       "date": "2025-12-22T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:07Z"
+        "log_file_created": "2026-09-22T10:13:39Z"
       }
     },
     {
@@ -126,6 +126,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:07Z"
       }
+    },
+    {
+      "description": "Resolution R26-0296, Effective from Jan 06, 2026 Published in DC Register Vol 73 and Page 012445",
+      "date": "2026-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:13:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -150,6 +160,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60854/Meeting1/Enrollment/PR26-0435-Enrollment1.pdf?Id=245299",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -165,10 +186,32 @@
       "classification": ""
     },
     {
-      "note": "Revised Notice of Roundtable filed in the Office of Secretary",
+      "note": "Revised Notice of Roundtable filed in the Office of Secretary by Committee of the Whole",
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60854/Hearing_Notice/PR26-0435-Hearing_Notice2.pdf?Id=228659",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Roundtable on PR26-0435 View Roundtable Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60854/Hearing_Record/PR26-0435-Hearing_Record2.pdf?Id=245680",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60854/Committee_Report/PR26-0435-Committee_Report1.pdf?Id=243860",
           "media_type": "application/pdf"
         }
       ],
@@ -195,7 +238,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:07Z",
+    "logs_latest_update": "2026-09-22T10:13:39Z",
     "text_extraction_latest_update": "2026-07-21T19:04:37.241786Z"
   }
 }

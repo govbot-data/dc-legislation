@@ -84,13 +84,13 @@
       }
     },
     {
-      "description": "Roundtable on PR26-0434",
+      "description": "Roundtable on PR26-0434 View Roundtable Record",
       "date": "2025-12-22T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:07Z"
+        "log_file_created": "2026-09-22T10:13:39Z"
       }
     },
     {
@@ -126,6 +126,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:07Z"
       }
+    },
+    {
+      "description": "Resolution R26-0295, Effective from Jan 06, 2026 Published in DC Register Vol 73 and Page 012444",
+      "date": "2026-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T10:13:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -145,6 +155,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60853/Introduction/PR26-0434-Introduction.pdf?Id=228258",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60853/Meeting1/Enrollment/PR26-0434-Enrollment1.pdf?Id=245300",
           "media_type": "application/pdf"
         }
       ],
@@ -174,6 +195,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Roundtable on PR26-0434 View Roundtable Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60853/Hearing_Record/PR26-0434-Hearing_Record2.pdf?Id=245679",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60853/Committee_Report/PR26-0434-Committee_Report1.pdf?Id=243866",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -195,7 +238,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:07Z",
+    "logs_latest_update": "2026-09-22T10:13:39Z",
     "text_extraction_latest_update": "2026-07-21T20:01:04.365264Z"
   }
 }

@@ -1,0 +1,206 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+September 21, 2026
+Nyasha Howard
+Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, NW
+Washington, DC 20024
+Dear Secretary Howard:
+Today, along with Councilmembers Anita Bonds, Janeese Lewis George, Charles Allen, and Elissa Silverman, I
+am introducing the “Green Workforce Pilot Amendment Act of 2026”. Recent changes to federal law require
+the District to establish expanded work requirements for public benefits programs that will limit the reach of
+our safety net. This legislation preserves residents’ access to benefits while connecting them with pathways
+to independence. It establishes a Green Workforce Pilot Program that will provide residents with sufficient
+hours of employment to meet federal work requirements and retain their benefits, meaningful work
+experience, and support from job coaches to transition to full-time employment. Program participants will
+serve the District by conducting stormwater maintenance, combating invasive plants, improving our
+sustainable energy infrastructure, and otherwise working to conserve the environment. The theory behind
+the program is that, for some residents, merely securing a job paired with supports will help them progress
+in their pursuit of longer-term opportunities.
+This pilot models a new approach in workforce development, prioritizing immediate access to work while
+providing job experience and support that can set residents up for lasting financial independence. The
+program will simultaneously empower residents to access the federal and District Earned Income Tax Credit,
+providing them with a significant increase in income. Critically, in a time of limited District resources, the pilot
+will rely on existing effective programs within the Department of Energy and Environment (DOEE), with the
+Department of Small and Local Business Development’s Clean Teams, and with employers willing to train
+residents and help them transition to full-time jobs.
+Recent federal legislation created new Medicaid community engagement requirements and modified
+Supplemental Nutrition Assistance Program (SNAP) work requirements for able-bodied adults without
+dependents (ABAWD). The federal government eliminated the District’s long-standing SNAP work
+requirement waiver for ABAWDs and categorized more people as ABAWD, including people ages 56 to 60
+and people with children ages 14 to 18. As a result, the Department of Human Services (DHS) estimates that
+between 8,500 and 12,900 residents will lose access to SNAP. The Department of Health Care Finance (DHCF),
+★★★
+MATTFRUMINWARD3.COM | (202) 724-8062
+
+meanwhile, estimates that two out of every ten Medicaid beneficiaries will have to comply with work
+requirements to remain eligible.1
+While many recipients of public benefits already work,2 the District must do a better job of creating
+sustainable employment opportunities for those who do not. DHS currently invests in workforce and training
+programs for SNAP and Temporary Assistance for Needy Families (TANF) participants, but there are
+significant opportunities for these programs to improve their employment and education outcomes. For
+example, while DHS has made efforts to improve workforce training, outcomes from Fiscal Year 2025 – during
+which only 10 percent of participants in the SNAP Employment and Training Program started new jobs–3
+highlight room for growth and the need for more specialized models like this pilot.
+The Green Workforce Pilot offers an opportunity for DHS to proactively partner with agencies and workforce
+development programs that are already realizing positive employment outcomes, often by directly
+employing individuals. This legislation requires DHS to establish a pilot program that provides residents with
+part-time employment, with wages and hours tailored to avoiding benefits cliffs while allowing residents to
+engage in training and job search activities, child care, and other duties as they prepare to transition to full-
+time work. The pilot would employ residents in conservation and environmental roles that allow them to
+earn income while making a tangible impact on their communities. The program would provide participants
+with work experience and the coaching needed to pursue full-time employment.
+Providing individuals with minimum wage jobs for between eight and 12 hours per week can bring them into
+compliance with Medicaid and SNAP work requirements: participants will be exempt from SNAP work
+requirements if they earn wages at least equal to the federal minimum wage multiplied by 30 hours ($870
+per month) and will meet Medicaid community engagement requirements if they earn at least $580 a
+month.4 Part-time work tailored to providing the minimum wages and hours necessary to sustain benefits,
+coupled with the federal and local Earned Income Tax Credit, will allow families to grow their income while
+pursuing a permanent job search and maintaining personal responsibilities.
+Should you have any questions about this legislation, please contact Ella Roth at eroth@dccouncil.gov
+Sincerely,
+Councilmember Matthew Frumin, Ward 3
+Chair, Committee on Human Services
+1 DC Council Performance Oversight Hearing: Department of Health Care Finance, YOUTUBE (January 29, 2026), at 1:42:27,
+https://www.youtube.com/watch?v=dmd4kIcqyTY.
+2 DEPARTMENT OF HUMAN SERVICES FY25-26 PRE-HEARING PERFORMANCE OVERSIGHT HEARING QUESTIONS WITH AGENCY RESPONSES
+#194 (on file with the Committee on Human Services).
+3 Id.
+4 Cloe Green, Human Services Work Requirement Crosswalk, AMERICAN PUBLIC HUMAN SERVICES ASSOCIATION 3-5 (2025),
+https://aphsa.org/wp-content/uploads/2025/08/2025-08-22_APHSA-HR1-Work-Requirements-Crosswalk.pdf.
+★★★
+MATTFRUMINWARD3.COM | (202) 724-8062
+
+1
+2 _________________________________ _________________________________
+3 Councilmember Anita Bonds Councilmember Matthew Frumin
+4
+5
+6 _________________________________ _________________________________
+7 Councilmember Charles Allen Councilmember Janeese Lewis George
+8
+9
+10 _________________________________
+11 Councilmember Elissa Silverman
+12
+13 A BILL
+14
+15 _________________________
+16
+17
+18 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+19
+20 _________________________
+21
+22
+23 To require the Department of Human Services to establish a Green Workforce Pilot
+24 Program.
+25
+26 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+27 act may be cited as the “Green Workforce Pilot Amendment Act of 2026”.
+28 Sec. 2. Establishment of Green Workforce Pilot Program.
+29 (a) The Department of Human Services (the “Department”) shall establish, through its
+30 Temporary Assistance for Needy Families Employment and Education Program, the Green
+31 Workforce Pilot Program (the “Pilot”), to assist individuals with fulfilling Supplemental Nutrition
+32 Assistance Program (“SNAP”) work requirements and Medicaid community engagement
+33 requirements while gaining meaningful work experience, conserving the environment, and
+34 improving the District’s physical infrastructure.
+35 (b) The Pilot shall provide 250 people at a time with employment paying no less per hour
+36 than the District minimum wage for no less than 32 hours per month and up to 48 hours per month.
+1
+
+37 The Pilot may employ individuals through a variety of programs and public- and private-sector
+38 employers, including:
+39 (1) Department of Small and Local Business Development Clean Teams;
+40 (2) The DC Sustainable Energy Utility Workforce Development program;
+41 (3) Green Pathways;
+42 (4) Programs that control invasive plants; or
+43 (5) The Green Stormwater Infrastructure Maintenance Program.
+44 (c) The Pilot shall only enroll individuals:
+45 (1) Not in compliance with SNAP able bodied adults without dependents
+46 (ABAWD) work requirements, but otherwise eligible for SNAP; or
+47 (2) Not in compliance with Medicaid community engagement requirements, but
+48 otherwise eligible for Medicaid.
+49 (d) Pilot participants shall begin work on Pilot initiatives no later than April 1, 2028.
+50 (e) Each Pilot participant shall have access to job coaching services, which may be
+51 provided through an existing District program.
+52 (f) For each Pilot participant enrolled under subsection (c)(1) of this section, the
+53 Department shall collect any information associated with Pilot participation that verifies
+54 compliance with SNAP ABAWD work requirements.
+55 (g) For each Pilot participant enrolled under subsection (c)(2) of this section, the
+56 Department shall collect and send to the Department of Health Care Finance any information
+57 associated with Pilot participation necessary to verify compliance with Medicaid community
+58 engagement requirements.
+59 (h) The Department shall collect at least the following metrics to evaluate the Pilot:
+2
+
+60 (1) The number of Pilot participants placed with each employer;
+61 (2) The number of weeks each individual participated in the Pilot;
+62 (3) The number and percentage of Pilot participants who claimed the District and
+63 federal Earned Income Tax Credits;
+64 (4) The reason for each individual’s exit from the Pilot, including the number and
+65 percentage of individuals exiting to full-time employment;
+66 (5) The employment status of each individual 6 months after completing Pilot
+67 participation; and
+68 (6) Mean and median income six months after completing Pilot participation.
+69 (i) The Department shall publish anonymized and aggregated data gathered under
+70 subsection (h) of this section on its website during the preceding calendar year no later than May
+71 1st of each calendar year.
+72 (j) Unless otherwise prohibited by federal law, payments an individual receives from the
+73 Pilot shall not be counted as income or assets:
+74 (1) For the purposes of determining eligibility or calculating benefits under the
+75 District of Columbia Public Assistance Act of 1982, effective April 6, 1982 (D.C. Law 4-101; D.C.
+76 Official Code § 4-201.01 et seq.); or
+77 (2) For the purpose of determining eligibility or calculating benefits for the
+78 following benefit programs:
+79 (A) The D.C. HealthCare Alliance program referenced in section 8(2) of the
+80 Department of Health Care Finance Establishment Act of 2007, effective February 27, 2008 (D.C.
+81 Law 17-109; D.C. Official Code § 7-771.07(2)), or any subsequent program established to provide
+82 public health insurance coverage to residents ineligible for Medicaid;
+3
+
+83 (B) Educational scholarships the District administers with local funds;
+84 (C) The Home Purchase Assistance Program established by Chapter 25 of
+85 Title 14 of the District of Columbia Municipal Regulations and referenced in section 3a of the
+86 Home Purchase Assistance Fund Act of 1978, effective July 1, 2016 (D.C. Law 21-139; D.C.
+87 Official Code § 42-2602.01);
+88 (D) Housing subsidy vouchers issued through the Rent Supplement
+89 Program established by section 26a of the District of Columbia Housing Authority Act of 1999,
+90 effective March 2, 2007 (D.C. Law 16-192; D.C. Official Code § 6-226);
+91 (E) The Grandparent Caregiver Program established by section 102 of the
+92 Grandparent Caregivers Pilot Program Establishment Act of 2005, effective March 8, 2006 (D.C.
+93 Law 16-69; D.C. Official Code § 4-251.02);
+94 (F) The Close Relative Caregiver Program established by section 102 of the
+95 Close Relative Caregiver Subsidy Pilot Program Establishment Amendment Act of 2019, effective
+96 November 26, 2019 (D.C. Law 23-32; D.C. Official Code § 4-251.22);
+97 (G) Strong Families, Strong Futures; and
+98 (H) Any other District-funded in-kind assistance, cash assistance, housing,
+99 or healthcare benefit.
+100 (k) The Director of the Department shall, consistent with the Grant Administration Act of
+101 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.11 et seq.), have
+102 the authority to issue grants to implement the provisions of this section.
+103 (l) The Department may prioritize which individuals or groups of individuals identified in
+104 subsection (c) to enroll in the Pilot. The Mayor, pursuant to Title I of the District of Columbia
+105 Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-
+4
+
+106 501 et seq.), may issue rules to implement the provisions of this section, including rules
+107 establishing time limits on Pilot participation.
+108 (m) This section shall expire on March 31, 2031.
+109 Sec. 3. Fiscal impact statement.
+110 The Council adopts the fiscal impact statement in the committee report as the fiscal impact
+111 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+112 October 16, 2006 (12 Stat. 2038; D.C. Official Code § 1-301.47a).
+113 Sec. 4. Effective date.
+114 This act shall take effect following approval by the Mayor (or in the event of veto by the
+115 Mayor, action by the Council overriding the veto) and a 30-day period of congressional review as
+116 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24,
+117 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+5

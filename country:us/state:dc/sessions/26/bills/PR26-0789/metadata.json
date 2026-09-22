@@ -82,6 +82,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-22T10:13:39Z"
+    "logs_latest_update": "2026-09-22T10:13:39Z",
+    "text_extraction_latest_update": "2026-09-22T10:18:47.876565Z"
   }
 }

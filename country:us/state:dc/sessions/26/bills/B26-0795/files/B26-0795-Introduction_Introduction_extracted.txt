@@ -1,0 +1,456 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+September 15, 2026
+Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Modification Nos. M0007 and M0008 to Contract No. CW110321 with Miles
+Away Charter, LLC Approval and Payment Authorization Emergency Act of 2026,” and the
+accompanying emergency declaration resolution, in not-to-exceed $1,465,200.
+The legislation will approve Modification Nos. M0007 and M0008 to Contract No. CW110321
+with Miles Away Charter, LLC, to provide transportation services to students with disabilities, and
+to fully exercise option year three of the contract. In addition, the legislation will approve payment
+for the goods and services received and to be received under the modifications.
+My administration is available to discuss any questions you may have regarding the proposed
+contract modifications. In order to facilitate a response to any questions you may have, please have
+your staff contact Marc Scott, Chief Operating Officer, Office of Contracting and Procurement, at
+(202) 724-8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+Sincerely,
+Muriel Bowser
+
+i
+~~
+4 a1: the 1equ.est of the Mayor
+.s
+6 ABILL
+7
+;g
+9
+10
+11 INi THE COUNCIL OF IBB DIS1RICT OF COLtThlliBIA
+12
+13
+14
+15
+16
+17
+1:8; To app:rove, on anemmgencybuis, ModmcationNos. :M:0007 and M:0008 to Conb,acl
+19 C\Vl 10321 'tVi1h :Miles k1ivay Charter, LLC, md to nfhome,p ayment for the· goods md
+20 services received md to be :r,ece:v.'ed under the modifications.
+21
+22 B.E IT ENACTED' BY THE COUNCil. OF THE DISTRICT OF COI.UlmIA.. That this
+23 act may be cited .as the ..M odm.cation Nos. M0007 and MOO~ to Comra.ct No. CW'l l 0321 with
+24 Miles Away Charler~I LC App:m:ov.al and Payment Autho:rizati.on Emergency Act of 200.6".
+25 Sec . .2. Pursuant m,s ection 4:51 of the District ofC olumbia.H ome Rule Act, approved.
+26 Decemba·2 4, 1973 ,(87 Stat. :803; D.C. Officiall Code § 1-204.:51). and ·nomriflutandmg the
+27 reqlliremam of section 202 of the ProcmememPnctices R.efcmnAct of2010~e ffectn-reApril :&.
+28, 2011 (D.C. :Lal\r 18-371; D.C. Official Code·§ 2-3:52.02), the CmmciJl .appro,;"'eS.Modification
+29 Nos. M0007 and MOOO& to Comract No. CVll l 0321 v.ri.th l\filles A~ray Charter, I.LC. and
+30 amhori:zies pa:ymem in thenot-to~ex.ceed ammmt of$1,465,200 fo:rfhe goods and,s.ervices
+31 received and to be·r eceived m11der the modmcatiom ..
+32 Sec. 3. F:ilscal impact mitemem..
+1
+
+33 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+34 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+35 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+36 Sec. 4. Effective date.
+37 This act shall take effect following approval by the Mayor (or in the event of veto by the
+38 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+39 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+40 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+41 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Retroactive)
+(A) Contract Number: CW110321
+Proposed Contractor: Miles Away Charter, LLC (“Miles Away”)
+Proposed Contractor’s Principals: Vanessa Fulcher
+Contract Amount: Not-to-Exceed (NTE) $1,465,200
+Modification No. M0007 (Partial) NTE $89,910
+Modification No. M0008 (Remainder) NTE $1,375,290
+Unit and Method of Compensation: Fixed price per hour
+Term of Contract: August 23, 2026, through August 22, 2027
+(Option Year Three)
+Type of Contract: Indefinite Delivery-Indefinite Quantity
+Source Selection Method: Invitation for Bid (multi-award)
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: NTE $1,322,640
+Option Period One Amount: NTE $1,378,080
+Explanation of difference from base period (if applicable): The difference from the base period
+is due to an anticipated increase in salaries and costs associated with providing services.
+Last Revised 3/19/26
+
+Option Period Two Amount: NTE $1,425,600
+Explanation of difference from base period (if applicable): The difference from option period
+one is due to an anticipated increase in salaries and costs associated with providing services.
+Option Period Three Amount: NTE $1,465,200
+Explanation of difference from base period (if applicable): The difference from option period two
+is due to an anticipated increase in salaries and costs associated with providing services.
+Note: The District partially exercised option period three via Modification No. M007 at a cost of
+$89,910. Proposed Modification No. M0008 will exercise the remaining portion of option period
+three at a cost of $1,375,290.
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+Transportation services to students with disabilities who are eligible for school transportation.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+The Office of Contracting and Procurement (OCP) issued an Invitation for Bid (solicitation number
+Doc661483) on July 21, 2023 seeking multiple contractors to provide student transportation services.
+OCP’s intent was to provide an award to all responsible and responsive bidders with reasonable
+prices. Of seventeen vendors who were invited, eight were District certified business enterprises
+(CBEs). Of fourteen bids received, eight were from CBEs, six were nonresponsive (did not meet the
+insurance requirements), and two were rejected for unreasonable pricing (over 220% of the average
+price).
+There were no evaluation criteria, but contractors were required to provide past performance
+documentation demonstrating prior experience in providing door-to-door transportation services to
+students in accordance with the Individuals with Disabilities Education Act.
+Five contracts were ultimately awarded, four to CBE’s and one to the open market.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+No protests were filed related to this contract award.
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+Last Revised 3/19/26
+
+None.
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+Miles Away has provided transportation services to the greater Washington metropolitan area since
+2004. They have adequate financial resources to perform the contract as evidenced by the financial
+history on their Dun and Bradstreet business report obtained on April 1, 2026.
+(H) The period of performance associated with the proposed change, including date as of which
+the proposed change is to be made effective:
+August 23, 2026, through September 30, 2026, partial exercise of option period three.
+October 1, 2026, through August 22, 2027, full exercise of option year three.
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+$89,910
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+$1,375,290
+(K) The date on which the contracting officer was notified of the proposed change:
+March 27, 2026 (date of agency renewal notice)
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+A partial exercise of option period three was executed to ensure continuity of critical services until
+the full option period could be approved by the Council.
+(M) The reason for the proposed change:
+A partial exercise option period three was executed to ensure continuity of critical services until the
+full option period could be approved by the Council.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+27 DCMR Chapter 24; D.C. Official Code § 2-351.01 - Indefinite Quantity (IDIQ)
+Last Revised 3/19/26
+
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+Miles Away has been determined not to violate section 334a of the Board of Ethics and
+Government Accountability Establishment and Comprehensive Ethics Reform Act of 2011, and
+they have certified that they are not and will not be in violation of section 334a of the Board of
+Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Act of
+2011.
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+Miles Away is CBE and will independently perform 100% of the required services.
+(Q) Performance standards and the expected outcome of the proposed contract:
+Safe and timely transportation of students to and from school.
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+At the time of this request for Council approval, no payments were made under option year three of
+the contract.
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The Office of the Chief Financial Officer has certified that funding is consistent with the applicable
+financial plan and budget.
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The Office of the Attorney General has certified that the proposed contract is legally sufficient. The
+contractor has no pending legal claims against the District.
+Last Revised 3/19/26
+
+(U) A certification that the Citywide Clean Hands database indicates that the proposed contractor
+is current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+The Citywide Clean Hands database indicates that Miles Away is current with its District taxes.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+Miles Away has certified in their bidder/offeror certification form that they are current with their
+federal taxes.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended; D.C. Official Code § 2-218.01 et seq.:
+Miles Away is a certified local, small, or disadvantaged business enterprise.
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None.
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+Miles Away is not debarred from providing goods or services to the District or federal government.
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+Determination and Findings for Price Reasonableness
+Determination and Findings for Contractor Responsibility.
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+All contract documents, including modifications, will be available at https://contracts.ocp.dc.gov/.
+Last Revised 3/19/26
+
+(BB) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+The original solicitation and amendments are available at www.ocp.dc.gov.
+Last Revised 3/19/26
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: July 14, 2026 Notice Number: L0016718263
+MILES AWAY CHARTER LLC FEIN: **-***2520
+316 F ST NE STE 122 Case ID: 18997857
+WCASHINGTON DC 20002-4934
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE STATE SUPERINTENDENT OF EDUCATION
+Office of the Agency Fiscal Officer
+MEMORANDUM
+Nancy Hapeman
+TO:
+Chief Procurement Officer
+Office of Contracting and Procurement
+Keith Fletcher
+FROM:
+Agency Fiscal Officer
+Office of the State Superintendent of
+Education
+DATE July 23, 2026
+Certification of Funding Availability for Miles Away Contract # CW110321 and Alternative
+SUBJECT: Student Transportation Services – Option Year Three
+The contract value and period of performance is NTE $1,465,200 from 8/23/2026 through 8/22/2027.
+The Office of the Chief Financial Officer hereby certifies that the sum of $89,910 is included in the District’s Budget and
+Financial Plan for Fiscal Year 2026 to fund the costs associated with Contract #CW110321 for the provision of alternative student
+transportation services. The fund allocation is as follows:
+Vendor: Miles Away Contract #: CW110321
+Fiscal Year 2026 Funding: 8/23/26 – 9/30/26 Contract Period: OY3
+DIFS
+DIFS DIFS DIFS
+Agency Cost Project Award Subtask Task Amount
+Fu nd Program Account
+Center
+GO0 1010001 40265 100003 7132001 N/A N/A N/A N/A $89,910
+*Fiscal Year 2027 Funding: 10/1/26 – 8/22/27 Contract Period: OY3 Continuing
+DIFS
+DIFS DIFS DIFS
+Agency Cost Project Award Subtask Task Amount
+Fu nd Program Account
+Center
+GO0 1010001 40268 400802 7132001 N/A N/A N/A N/A $169,830
+FY 26 - 27 Contract Total $259,740
+*The Office of the Chief Financial Officer can attest that the agency has included $169,830 in its FY27 Agency
+Budget Submission. However, the funding is contingent upon approval by the Mayor, Council and Congress.
+Should you have any questions, please contact me at (202) 671-4240.
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: September 4, 2026
+SUBJECT: Certificate of Legal Sufficiency
+Contractor: Miles Away Charter LLC.
+Contract No. CW110321/ Modification M0008
+Option Term: August 23, 2026 – August 22, 2027
+Total Option Amount: NTE $1,465,200
+This is to Certify that this Office has reviewed the above-referenced Contract and that we
+have found it to be legally sufficient. If you have any questions in this regard, please do
+not hesitate to call me at 724-4018.
+_________________________________
+Robert Schildkraut
+400 Sixth Street, N.W., Washington, D.C. 20001 (202) 727-3400 Fax (202) 741-5228
+
+1.Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW110321 1 1
+2. Amendment/Modification 3.Effective Date 4. Requisition/Purchase Request 5.Solicitation Caption
+Number No.
+Alternative Student
+M0007 August 23, 2026 Transportation Services
+6.Issued by: Code 7.Administered by (If other than line 6)
+Office of Contracting and Procurement
+441 4th Street, N.W., Suite 330 South
+Washington, D.C. 20001
+8.Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+9B. Dated (See Item 11)
+Miles Away Charter LLC
+316 F Street NE, Ste 122
+10A. Modification of Contractor/Order No.
+Washington, DC 20002
+CW110321
+10B. Dated (See Item 13)
+Code Facility
+August 23, 2023
+11.THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not
+extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a)By completing Items 8 and 15, and returning one (1) copy of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT
+TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN
+REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided
+each letter or telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12.Accounting and Appropriation Data (If Required)
+13.THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS ,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 36, Section 3601.2
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B.The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation
+data etc.) set forth in item 14, pursuant to the authority of: Chapter 36, Section 3601.3
+C.This supplemental agreement is entered into pursuant to authority of: Chapter 36, Section 3601.2
+X D.Other (Specify type of modification and authority) 27 DCMR, Chapter 36, Section 3601.2(b)
+Option Period
+E.IMPORTANT: Contractor is not is required to sign this document and return ( ) copy to the issuing office.
+14.Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+This modification to the Contract identified in Block 10A above is hereby modified as follows:
+1) In accordance with Section F.1, Option to Extend the Term of the Contract, The District of Columbia Government Office of
+Contracting and Procurement hereby partially exercises Option Year Three from August 23, 2026, through September 30,
+2026. The full period of performance is from August 23, 2026, through August 22, 2027. The full Option Year Three will
+be exercised upon approval by the Council of the District of Columbia.
+2) The pricing shall be in accordance with Section B.3.4 - Option Year Three. The total estimated amount for this partial
+modification shall not exceed $89,910. Services to be performed are subject to the issuance of a task order and purchase
+order.
+ALL OTHER TERMS AND CONDITIONS REMAIN UNCHANGED
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+N/A
+Sayed Reshtya
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+N/A N/A 7-27-2026
+(Signature of person authorized to sign)
+(Signature of Contracting Officer)
+
+1. Contract Number Page of Pages
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT CW110321 1 2
+2. Amendment/Modification 3. Effective Date 4. Requisition/Purchase Request 5. Solicitation Caption
+Number No.
+Alternative Student
+M0008 October 1, 2026 Transportation Services
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement
+441 4th Street, N.W., Suite 330 South
+Washington, D.C. 20001
+8. Name and Address of Contractor (No. street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+9B. Dated (See Item 11)
+Miles Away Charter LLC
+316 F Street NE, Ste 122
+10A. Modification of Contractor/Order No.
+Washington, DC 20002
+CW110321
+10B. Dated (See Item 13)
+Code Facility
+August 23, 2023
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not
+extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15, and returning one (1) copy of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer
+submitted; or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT
+TO BE RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN
+REJECTION OF YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided
+each letter or telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required)
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS ,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 36, Section 3601.2
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation
+data etc.) set forth in item 14, pursuant to the authority of: Chapter 36, Section 3601.3
+C. This supplemental agreement is entered into pursuant to authority of: Chapter 36, Section 3601.2
+X D. Other (Specify type of modification and authority) 27 DCMR, Chapter 36, Section 3601.2(b)
+Option Period
+E. IMPORTANT: Contractor is not is required to sign this document and return ( ___ ) copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+This modification to the Contract identified in Block 10A above is hereby modified as follows:
+1) In accordance with Contract No. CW110321, Section F.2 “Option to Extend the term to the Contract,” the District of
+Columbia hereby exercises option year three of the contract. The period of performance is from August 23, 2026,
+through August 22, 2027.
+2) The pricing shall be in accordance with Section B.3.4 - Option Year Three. The total estimated amount for option year
+three shall not exceed $1,465,200.
+3) Following execution of the partial option under Modification No. M0007 to maintain continuity of critical services, the
+not‑to‑exceed amount for the remaining portion of Option Year Three is $1,375,290, with a remaining period of
+performance from October 1, 2026, through August 22, 2027. Services to be performed are subject to the issuance of a
+purchase order.
+4) In accordance with section 38(d) of the Standard Contract Provisions (Way to Work Amendment Act of 2006), the living
+wage rate is hereby adjusted to $17.95 per hour, effective from January 1, 2026, through June 30, 2026. Effective on July
+1, 2026, the living wage rate and the minimum wage rate will be adjusted to $18.40 per hour.
+
+5) The Living Wage Act Fact Sheet for 2026 is attached and hereby incorporated in the contract as Attachment J.4.
+6) The Living Wage Act Notice for 2026 is attached and hereby incorporated in the contract as Attachment J.3.
+ALL OTHER TERMS AND CONDITIONS REMAIN UNCHANGED
+Except as provided herein, all terms and conditions of the document is referenced in Item 9A or 10A remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+N/A
+Sayed Reshtya
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+N/A N/A
+(Signature of Contracting Officer)
+(Signature of person authorized to sign)

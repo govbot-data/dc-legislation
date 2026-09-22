@@ -1,0 +1,844 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Government of the District of Columbia
+UNIFORM LA W COMMIS SION
+
+
+
+6
+September 16 2026
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+The John A. Wilson Building,
+1350 Pennsylvania Avenue, NW
+Washington, DC 20004
+RE: Request for introduction of the Uniform Assignment for Benefit of Creditors Act
+of 2026.
+Dear Chairman Mendelson:
+Pursuant to Rule 401(b)(1) of the Rules of Organization and Procedure for the
+Council, this is to request, on behalf of the District of Columbia Uniform Law
+Commission, that you introduce the proposed “Uniform Assignment for Benefit of
+Creditors Act of 2026.”
+Under the uniform act, a financially distressed business, an assignor, may transfer
+control of its assets to an assignee, who acts as a fiduciary for the business’s creditors.
+The assignee may sell the business’s assets and distribute the proceeds to the business’s
+creditors. These proceeds go towards payment of the creditors’ claims against the
+assignor. The Act creates an alternative to other procedures available to the assignor for
+winding up its business, and provides benefits that are not available through a federal
+bankruptcy case or a state or federal law receivership. An assignment under this act
+generally will be more flexible, quicker, and less costly than the other alternatives. It is an
+improvement upon these alternatives in five significant ways: (1) it is debtor-initiated; (2)
+it does not require judicial supervision; (3) it provides assurances to creditors by
+imposing fiduciary duties upon the assignee; (4) it is designed to maximize the value of
+the business’s assets for the benefit of all creditors; and (5) it encourages cooperation
+between the distressed business and the creditors by aligning these parties’ goals.
+The uniform act would replace a rudimentary 1964 Act of Congress with a
+detailed, state-of-the-art uniform act, developed based on many decades of experience
+with these transactions. In addition, the uniform act is compatible with the recently
+enacted Uniform Commercial Receivership Act, D.C. Law 25-269.
+
+The uniform act was completed by the National Conference of Commissioners on
+Uniform State Laws only last year in 2025 and already has been enacted, thus far, in six
+states (Alabama, Arizona, Delaware, Iowa, Nebraska, and Utah) and introduced in three
+more states (Colorado, Oklahoma, and West Virginia).
+A proposed “Uniform Assignment for Benefit of Creditors Act of 2026” is being
+filed with this letter. In addition, the following documents have been filed: (1) a
+summary of the Uniform Act; (2) a statement as to why the Uniform Act should be
+adopted; and (3) the official version of the Uniform Assignment for Benefit of Creditors
+Act with comments.
+I would be pleased to answer any questions and to provide any additional
+information requested.
+Sincerely,
+James C. McKay, Jr.
+Chair
+D.C. Uniform Law Commission
+cc: Uniform Law Commissioners
+2
+
+1
+~ ~-oe~.
+2
+3 District of Coimobi.a Umfmm I.aw Commission
+4
+5
+6
+7
+;g A Blll..
+9
+10
+11
+12
+13 IN Tiffi COUNCU. OF THE D1STRICT OF COLUMBIA
+14
+15
+16
+17 To amend Chapt,er 28 of the District ofCol'llllllbia Officia11 Code to add a new Chapter 22 to enact
+1:& the Umfmm Assigmnent for Benefit of Creditors Act. to ·modernize the ]a:w and p:ra,;,'i.de
+19 clarify to assignors, auignees., and credit.ors by creating a. unifmm, predictable, local
+2.0 framework fur liquidating financially disbessed b'Llsmesses without federal bambuptcy.
+21
+22 BE IT ENACTED·B Y THE COUNCll. OF TIIE DIS.TRICT OF COLUMBIA, tha.t this
+23 act may be cited as ffie ''Umfmm .Assigmmm.t for Bene-fit o:f Q:editou Act of2 -026_ .....
+24 Sec. 2. Subtitle Il o,f'fiitle 28 oft he District ofCohmilii.a official Code is amended as
+2S
+26 (a) The· table ofooments for the title is amended as :follicm"S.:
+27 (1) Strike the pmase ..2 1. Ass~gmnent fm·B enefit of Creditors ... §§ 21-.:n 01-
+28, 2110"; and
+2.9 (2) .Add the pmase "22. A.s.sigmnent :fm·t he Benefit afQ :editms; Uniform. Ad. ...
+30
+31 ~) Chapter 21 iis repealed.
+32
+33 (c) A new Chapter 22 is. added to,r e.ad as follmlrs:
+34
+35 '"CHAPTEt.22: ASSIGNiMENTFOR. THE BENEFIT OF CREDITORS; UNIFORM
+36 ACT.
+1
+
+37 “28-2201. Short title.
+38 “28-2202. Definitions.
+39 “28-2203. Scope.
+40 “28-2204. Requirements for assignee and assignment agreement.
+41 “28-2205. Effect of assignment; when assignment agreement effective.
+42 “28-2206. Filing, recording, and title transfer requirements.
+43 “28-2207. Notification to creditors.
+44 “28-2208. Duties of assignor.
+45 “28-2209. Duties of assignee.
+46 “28-2210. Powers of assignee
+47 “28-2211. Allowed claim.
+48 “28-2212. Disputed and disallowed claims.
+49 “28-2213. Proof of claim.
+50 “28-2214. Rights of transferees.
+51 “28-2215. Distributions.
+52 “28-2216. Claim subordination.
+53 “28-2217. Liability.
+54 “28-2218. Assignee removal; successor assignee.
+55 “28-2219. Winding up.
+56 “28-2220. Interstate matters.
+57 “28-2221. Court action.
+58 “28-2222. Ancillary assignee.
+59 “28-2223. Provisions variable by agreement.
+2
+
+60 “28-2224. Uniformity of application and construction.
+61 “28-2225. Relation to Electronic Signatures in Global and National Commerce Act.
+62 “28-2226. Transitional provision.
+63 “CHAPTER 22: ASSIGNMENT FOR THE BENEFIT OF C.REDITORS; UNIFORM ACT
+64 “§ 28-2201. Short title.
+65 “This chapter may be cited as the Uniform Assignment for Benefit of Creditors Act of
+66 2026”.
+67 “§ 28-2202. Definitions.
+68 “In this chapter:
+69 “(1) “Affiliate” means:
+70 “(A) A person that directly or indirectly owns, controls, or holds, with
+71 power to vote, 20 percent or more of the outstanding voting interests of another person, other
+72 than a person that holds the interests:
+73 “(i) In a fiduciary or agency capacity without sole discretionary
+74 power to vote the interests; or
+75 “(ii) Solely to secure a debt, if the person has not in fact exercised
+76 the power to vote;
+77 “(B) A person with 20 percent or more of the person’s outstanding voting
+78 interests directly or indirectly owned, controlled, or held, with power to vote, by another person;
+79 “(C) A person whose business is operated under a lease or operating
+80 agreement by another person, or a person substantially all of whose assets are controlled by the
+81 other person; or
+82 “(D) A person that operates the business or substantially all the assets of
+3
+
+83 another person under a lease or operating agreement.
+84 “(2) “Asset” means a legal or equitable interest in property of an assignor,
+85 regardless of the person holding or in possession, custody, or control of the property or where the
+86 property is located. The term does not include:
+87 “(A) A legal or equitable interest in property restricted from assignment if
+88 the restriction is effective under other law, unless the other law permits assignment with the
+89 consent of another person and the person consents to the assignment in a manner permitted by
+90 the other law; or
+91 “(B) If the assignor is an individual, a legal or equitable interest in
+92 property to the extent it is exempt from legal process under other law.
+93 “(3) “Assigned asset” means an asset transferred under an assignment.
+94 “(4) “Assignee” means a person to which assets are transferred under an
+95 assignment.
+96 “(5) “Assignment” means a transfer by a person of all the person’s assets to
+97 another person for the benefit of the transferor’s creditors.
+98 “(6) “Assignment agreement” means an agreement that transfers or provides for a
+99 transfer of all the assignor’s assets.
+100 “(7) “Assignment estate” means the assets held at a given time by the assignee
+101 under an assignment.
+102 “(8) “Assignor” means a person whose assets are transferred under an assignment.
+103 “(9) “Claim” means a creditor’s right to payment or to an equitable remedy,
+104 regardless of whether the right is reduced to judgment, liquidated, unliquidated, fixed,
+105 contingent, matured, unmatured, disputed, undisputed, legal, equitable, secured, or unsecured.
+4
+
+106 “(10) “Cohabitant” means each of two individuals not married to each other who
+107 live together as a couple after each has reached the age of majority or been emancipated.
+108 “(11) “Creditor” means a person that has a claim against an assigned asset or the
+109 assignor.
+110 “(12) “District” means the District of Columbia.
+111 “(13) “Electronic” means relating to technology having electrical, digital,
+112 magnetic, wireless, optical, electromagnetic, or similar capabilities.
+113 “(14) “Good faith” means honesty in fact and the observance of reasonable
+114 commercial standards of fair dealing.
+115 ”(15) Insider” includes:
+116 “(A) In the case of an individual:
+117 “(i) A relative of the individual;
+118 “(ii) A partnership or limited liability company in which the
+119 individual is a general partner or managing member; or
+120 “(iii) An organization of which the individual is a director, officer,
+121 or person in control;
+122 “(B) In the case of an organization:
+123 “(i) A director, officer, manager, or other person in control of or
+124 with controlling equity interest in the organization;
+125 “(ii) A partnership or limited liability company in which the
+126 organization is a general partner or managing member;
+127 “(iii) A general partner or managing member of the organization;
+128 or
+5
+
+129 “(iv) A relative of a general partner, managing member, director,
+130 officer, manager, or other person in control of or with controlling equity interest in the
+131 organization;
+132 “(C) An affiliate; or
+133 “(D) A managing agent of an organization.
+134 “(16) “Lien” means an interest in an asset that secures payment or performance of
+135 an obligation.
+136 “(17) “Organization” means a person other than an individual.
+137 “(18) “Perfected lien” means a lien on:
+138 “(A) Real property other than fixtures on which a bona fide purchaser of
+139 the property cannot acquire an interest superior to the interest of the lienholder; or
+140 “(B) Fixtures or property other than real property on which a creditor
+141 cannot acquire a lien by attachment, levy, or the like that is superior to the interest of the
+142 lienholder.
+143 “(19) “Person” means an individual, estate, business or nonprofit entity,
+144 government or governmental subdivision, agency, or instrumentality, or other legal entity. The
+145 term includes a protected series, however denominated, of an entity if the protected series is
+146 established under law that limits, or limits if conditions specified under law are satisfied, the
+147 ability of a creditor of the entity or of any other protected series of the entity to satisfy a claim
+148 from assets of the protected series.
+149 “(20) “Proof of claim” means a record a creditor submits to an assignee to
+150 evidence the creditor’s claim.
+151 “(21) “Record” means information:
+6
+
+152 “(A) Inscribed on a tangible medium; or
+153 “(B) Stored in an electronic or other medium and retrievable in
+154 perceivable form.
+155 “(22) “Relative” means an individual related by affinity or consanguinity within
+156 the third degree or a cohabitant.
+157 “(23) “Security interest” means a lien created by an agreement.
+158 “(24) “Send”, in connection with a record or notification, means:
+159 “(A) To deposit in the mail, deliver for transmission, or transmit by any
+160 other usual means of communication, with postage or cost of transmission provided for,
+161 addressed to any address reasonable under the circumstances; or
+162 “(B) To cause the record or notification to be received within the time it
+163 would have been received if properly sent under subparagraph (A).
+164 “(25) “Sign” means, with present intent to authenticate or adopt a record, to:
+165 “(A) Execute or adopt a tangible symbol; or
+166 “(B) Attach to or logically associate with the record an electronic symbol,
+167 sound, or process.
+168 “(26) “State” means a state of the United States, the District of Columbia, Puerto
+169 Rico, the United States Virgin Islands, or any other territory or possession subject to the
+170 jurisdiction of the United States. The term includes a federally recognized Indian tribe.
+171 “(27) “Transfer” means to dispose of or part with an asset or with an interest in an
+172 asset, regardless of whether the disposition or parting is indirect, conditional, or involunta
+173 “§ 28-2203. Scope.
+174 “This chapter applies to an assignment made by an assignor that is:
+7
+
+175 “(1) An organization whose principal place of business is in the District;
+176 “(2) An organization whose internal affairs are governed by other law of the
+177 District;
+178 “(3) An individual whose principal residence is in the District;
+179 “(4) An organization wholly owned, directly or indirectly, by an assignor that
+180 satisfies paragraph (1), (2), or (3); or
+181 “(5) An organization that:
+182 “(A) Is partly owned, directly or indirectly, and controlled by an assignor
+183 that satisfies paragraph (1), (2), or (3);
+184 “(B) Has no place of business or employees; and
+185 “(C) Relies on the services the organization receives from an assignor that
+186 satisfies paragraph (1), (2), or (3).
+187 “§ 28-2204. Requirements for assignee and assignment agreement.
+188 “(a) An assignee must be a person that:
+189 “(1) Is not a creditor, affiliate, or insider of the assignor;
+190 “(2) Is not an affiliate or insider of a creditor of the assignor;
+191 “(3) Does not have a claim against the assignment estate, other than a claim for
+192 fees and expenses to be paid under the assignment agreement;
+193 “(4) Does not have a material financial interest in the outcome of the assignment,
+194 other than a claim for fees and expenses to be paid under the assignment agreement;
+195 “(5) Does not hold an equity interest in the assignor other than a noncontrolling
+196 interest in a publicly traded company; and
+197 “(6) Is not an affiliate of a person that fails to satisfy paragraph (1), (2), (3), (4), or
+8
+
+198 (5).
+199 “(b) A person that satisfies subsection (a) is not precluded from being an assignee merely
+200 because the person performed services for the assignor before the assignment.
+201 “(c) An assignment agreement must be in a record signed by the assignor and the
+202 assignee. The record must:
+203 “(1) State the name and address of the assignor and of the assignee;
+204 “(2) Transfer or provide for a transfer of all the assignor’s assets;
+205 “(3) Describe the assigned assets in sufficient detail to identify the assets;
+206 “(4) Provide for the distribution of the assignment estate;
+207 “(5) Describe the fees to be charged by the assignee in connection with the
+208 assignment, including the basis on which they are to be calculated; and
+209 “(6) Include a representation by the assignor, under penalty of perjury, that the
+210 assignor is assigning all the assignor’s assets.
+211 “(d) If an assignee relies in good faith on the assignor’s representation made under
+212 subsection (c)(6), all the assignor’s assets are deemed to be assigned, even if the representation is
+213 inaccurate.
+214 “§ 28-2205. Effect of assignment; when assignment agreement effective.
+215 “(a) An assignee obtains the rights, title, and interests of the assignor in the assigned
+216 assets.
+217 “(b) If the assignor is an organization, an assignee obtains the rights, title, and interests of
+218 the assignor in assets acquired after the assignment.
+219 “(c) Except as provided in § 28-2210(b)(12), an assignee takes each assigned asset
+220 subject to an existing interest in the asset held by another person.
+9
+
+221 “(d) An assignee holds the assigned assets subject to the assignee’s duties under § 28-
+222 2209.
+223 “(e) An assignment is subject to other law under which the assignment may be fraudulent
+224 or otherwise voidable.
+225 “(f) The effective date of an assignment agreement is the date the agreement is signed by
+226 the last party to the agreement that is required to sign the agreement unless a later date is
+227 identified in the agreement as the effective date.
+228 “§ 28-2206. Filing, recording, and title transfer requirements.
+229 “(a) In this section, “financing statement” has the meaning in D.C. Code § 28:9-
+230 102(a)(39).
+231 “(b) An assignee of a legal or equitable interest in personal property may file a financing
+232 statement in the filing office of:
+233 “(1) The District established for purposes of D.C. Code § 28:9-501(a)(2);
+234 “(2) Any other state in which:
+235 “(A) The assignor would be located under D.C. Code § 28:9-307 if the
+236 assignor were a debtor for the purpose of that section; or
+237 “(B) An asset of the assignment estate may be located.
+238 “(c) A financing statement filed under subsection (b) must indicate that it is filed in
+239 connection with an assignment.
+240 “(d) When filing a financing statement under subsection (b), the assignee shall:
+241 “(1) Attach a copy of the assignment agreement to the financing statement; or
+242 “(2) State on the financing statement that a copy of the assignment agreement is
+243 available on request to the assignee.
+10
+
+244 “(e) A financing statement filed under subsection (b) may:
+245 “(1) Designate the assignor as “debtor” and the assignee as “secured party”; or
+246 “(2) Use the terms “assignor” and “assignee” or words of similar import.
+247 “(f) The filing of a financing statement under subsection (b) is not itself a factor in
+248 determining whether an asset secures an obligation. The rights of the assignee under the
+249 assignment are not affected if the assignee does not file a financing statement under subsection
+250 (b).
+251 “(g) An assignee of a legal or equitable interest in real property shall record the
+252 assignment of the interest or notice of the assignment under the real estate recording law of the
+253 jurisdiction where the property is located.
+254 “(h) An assignee shall comply with other law governing the transfer of title to an asset.
+255 “(i) By signing an assignment agreement, the assignor authorizes the assignee to take the
+256 actions required by this section.
+257 “§ 28-2207. Notification to creditors.
+258 “(a) Unless a creditor waives in a signed record the right to notification, an assignee shall
+259 send a notification of the assignment to each creditor known to the assignee within a reasonable
+260 time not to exceed 30 days after the effective date of the assignment agreement.
+261 “(b) The notification must:
+262 “(1) Be in a record signed by the assignee;
+263 “(2) Include the assignee’s name, address, and other contact information
+264 reasonably necessary to communicate with the assignee;
+265 “(3) Provide reasonable instructions for submitting a proof of claim using the
+266 method established by the assignee under § 28-2209(b)(5); and
+11
+
+267 “(4) Identify the date established under § 28-2209(b)(6) by which each creditor
+268 whose claim is not otherwise allowed without a timely proof of claim under this chapter must
+269 submit a proof of claim.
+270 “(c) An assignee shall use reasonable means to provide the information in subsection (b)
+271 to unknown creditors, including by any means the assignor regularly used to:
+272 “(1) Provide information to the assignor’s creditors; or
+273 “(2) Communicate information about the assignor, other than advertising, to the
+274 public.
+275 “§ 28-2208. Duties of assignor.
+276 “(a) Subject to § 28-2223, an assignor has a duty to take all reasonable actions necessary
+277 for the assignee to administer the assignment, the assigned assets, and the assignment estate.
+278 “(b) In furtherance of the duty under subsection (a), the assignor shall:
+279 “(1) Preserve and turn over to the assignee the assigned assets in the assignor’s
+280 possession or control;
+281 “(2) Provide to the assignee information reasonably necessary to administer the
+282 assignment, the assigned assets, and the assignment estate;
+283 “(3) Sign any record reasonably necessary to transfer an assigned asset and
+284 comply with any notarization required under other law;
+285 “(4) Designate, and provide the assignee with the name, address, and other
+286 contact information reasonably necessary to communicate with, an appropriate person willing
+287 and able to act as a representative on behalf of the assignor as may be reasonably necessary to
+288 administer the assignment, the assigned assets, and the assignment estate;
+289 “(5) If the assignment includes a legal or equitable interest in real property or
+12
+
+290 titled personal property, cooperate with the assignee in taking actions under § 28-2206;
+291 “(6) On or as soon as practicable after the effective date of the assignment
+292 agreement, provide the assignee:
+293 “(A) A list of all assets;
+294 “(B) A list of all the assignor’s employees, including those whose
+295 employment is terminated in connection with the assignment; and
+296 “(C) A list of all the assignor’s known creditors, including, for each
+297 creditor, the creditor’s address and other contact information reasonably necessary to
+298 communicate with the creditor;
+299 “(7) Verify under penalty of perjury the accuracy of the lists required under
+300 paragraph (6);
+301 “(8) With respect to a legal or equitable interest in property restricted from
+302 assignment, cooperate with the assignee to obtain consent from a person whose consent to assign
+303 the interest is necessary under other law; and
+304 “(9) Provide assistance to the assignee as required by the assignment agreement.
+305 “(c) The duties in this section also apply to a representative designated under subsection
+306 (b)(4).
+307 "§ 28-2209. Duties of Assignee.
+308 “(a) Subject to § 28-2223, an assignee has a fiduciary duty to the assignment estate for
+309 the benefit of creditors:
+310 “(1) Of loyalty, including the duty to manage the assignment in good faith;
+311 “(2) To use reasonable care to maximize distributions under § 28-2215; and
+312 “(3) to wind up the assignment under § 28-2219 in a manner compatible with the
+13
+
+313 best interests of the assignment estate and creditors.
+314 “(b) Without limitation on the duties under subsection (a), and subject to § 28-2223, the
+315 assignee also has a duty to:
+316 “(1) Maintain a separate deposit account for funds related to the assignment;
+317 “(2) Collect on or dispose of each assigned asset, unless the assignee determines it
+318 is more economically efficient to abandon the asset;
+319 “(3) Prepare and retain appropriate business records, including a record of each
+320 receipt, disbursement, and collection on or disposition of an assigned asset;
+321 “(4) Pay administrative expenses of the assignment estate, to the extent the
+322 assignment estate has sufficient unencumbered assets;
+323 “(5) Establish a method that is reasonably designed to permit a creditor to submit
+324 a proof of claim;
+325 “(6) Establish a single date by which creditors whose claims are not otherwise
+326 allowed without timely proofs of claim under this chapter must submit proofs of claim, which
+327 must be not less than 90 days and not more than 210 days after the effective date of the
+328 assignment agreement;
+329 “(7) Unless a claim would receive minimal or no distribution without regard to
+330 the claim’s validity or asserted priority, examine the validity and priority of claims against the
+331 assignment estate and, if necessary, consult with the representative designated by the assignor
+332 under § 28-2208(b)(4);
+333 “(8) At least every six months, provide to each creditor a summary of the assets,
+334 liabilities, and expenses of the assignment estate;
+335 “(9) Comply with all requirements of the Internal Revenue Service and District
+14
+
+336 taxing authorities;
+337 “(10) Send a notification to each creditor of the assignee’s compensation and any
+338 change in the method of determining the assignee’s compensation from the method provided in
+339 the assignment agreement;
+340 “(11) Send a final accounting under § 28-2219(a); and
+341 “(12) Comply with the other requirements imposed on the assignee under this
+342 chapter.
+343 “§ 28-2210. Powers of assignee.
+344 “(a) An assignee has the powers necessary or appropriate to perform the assignee’s
+345 duties.
+346 “(b) Unless the assignment agreement expressly provides otherwise, the assignee has
+347 power to:
+348 “(1) Operate an existing business that uses an assigned asset, including
+349 preservation of the asset and collection on, or the sale, lease, license, or other disposition of, the
+350 asset;
+351 “(2) Incur secured or unsecured debt and pay expenses incidental to the exercise
+352 of the power under paragraph (1);
+353 “(3) Assert a right, claim, cause of action, or defense the assignor could have
+354 asserted that relates to the assignment estate;
+355 “(4) Engage professionals, including a professional previously engaged by the
+356 assignor, to give advice, to prosecute or defend litigation, or for other purposes as the assignee
+357 considers appropriate, and pay professionals reasonable fees for services from the assignment
+358 estate;
+15
+
+359 “(5) Collect on, or sell, lease, license, or otherwise dispose of, an asset of the
+360 assignment estate regardless of whether the asset is subject to a lien or other encumbrance;
+361 “(6) Exercise a right to redeem an asset of the assignment estate that is subject to
+362 a mortgage, deed of trust, security interest, or other encumbrance;
+363 “(7) Settle a matter involving a debtor of the assignor;
+364 “(8) Prosecute or defend a litigation pending on the effective date of the
+365 assignment agreement in favor of or against the assignor in the manner and with the same effect
+366 as the assignor could have done if the assignment had not been made;
+367 “(9) Recover an asset in the manner and with the same effect as the assignor could
+368 have done if the assignment had not been made;
+369 “(10) Settle claims against the assignment estate;
+370 “(11) Abandon an assigned asset;
+371 “(12) Subject to subsections (c) and (e), avoid a transfer or the incurrence of an
+372 obligation which a creditor that has filed a proof of claim could have avoided under other law if
+373 the assignment had not been made; and
+374 “(13) Invest funds, subject to applicable prudent investor standards under other
+375 law.
+376 “(c) The power under subsection (b)(12) is exclusive to the assignee with respect to a
+377 creditor that submits a proof of claim. A recovery by the assignee in the exercise of this power
+378 must be for the benefit of the assignment estate but may not exceed the amount, asset, or other
+379 value the creditor could have obtained by the avoidance.
+380 “(d) For the purpose of exercising the assignee’s power under subsection (b)(12),
+381 exercising a voidable-transaction remedy, or otherwise establishing the priority of the assignee’s
+16
+
+382 interest, an assignee has a lien on the assignment estate and the status of:
+383 “(1) A lien creditor under D.C. Code § 28:9-102(a)(52)(B) as to an asset that is a
+384 legal or equitable interest in personal property or fixtures;
+385 “(2) A bona fide purchaser as to an asset that is a legal or equitable interest in real
+386 property, other than fixtures, located in the District; and
+387 “(3) A bona fide purchaser under the law of another state as to an asset that is a
+388 legal or equitable interest in real property, other than fixtures, located in the other state.
+389 “(e) An assignee’s power under subsection (b)(12) to avoid a transfer made before the
+390 effective date of the assignment agreement, under or in connection with a swap agreement,
+391 securities contract, commodity contract, forward contract, repurchase agreement, or master
+392 netting agreement, is limited to the extent a trustee would not have the power to avoid the
+393 transfer under the Bankruptcy Code, 11 U.S.C. Section 101 et seq.
+394 “(f) An assignee shall exercise the powers under this section consistent with the
+395 assignee’s fiduciary duty under § 28-2209(a).
+396 “§ 28-2211. Allowed claim.
+397 “(a) An assignee shall allow a creditor’s claim if:
+398 “(1) The creditor submits a proof of claim in compliance with § 28-2213; and
+399 “(2) The assignee does not dispute the claim under § 28-2212 before final
+400 distribution.
+401 “(b) An assignee may:
+402 “(1) Allow a claim, pay a known liquidated claim, or accept a notice to the
+403 assignee of a claim received by the date established by the assignee under § 28-2209(b)(6) even
+404 if the creditor does not submit a proof of claim; or
+17
+
+405 “(2) Allow and pay a claim evidenced by a late-filed proof of claim, if the
+406 assignee determines there is a reasonable basis for excusing the late filing.
+407 “(c) Any unsecured portion of an allowed claim shall be valued as of the effective date of
+408 the assignment agreement.
+409 “(d) A creditor’s claim is allowed if the creditor succeeds in a dispute under § 28-
+410 2212(b).
+411 “(e) Subject to subsection (f), after expiration of the time for submitting a proof of claim,
+412 the assignee shall create a complete list of creditors that have submitted a proof of claim in
+413 compliance with § 28-2213. For each creditor’s claim, the list must state:
+414 “(1) The amount of the claim, if the amount is known to the assignee; and
+415 “(2) Whether the claim is secured or unsecured and, if secured, describe the
+416 collateral for the claim.
+417 “(f) If a class of creditors will receive no distribution on account of allowed claims, the
+418 assignee shall send a notice in a record to each creditor in that class that the creditor will receive
+419 no distribution instead of the list required in subsection (e).
+420 “(g) If requested by a creditor or other party with an interest in the assignment estate, the
+421 assignee shall provide the list created under subsection (e) to the person making the request to
+422 the extent permitted by privacy laws and subject to any privacy safeguards the assignee
+423 determines in the assignee’s business judgment are reasonably necessary.
+424 “§ 28-2212. Disputed and disallowed claims.
+425 “(a) An assignee may dispute a creditor’s claim before final distribution by sending
+426 notification in a record stating the nature of the assignee’s dispute to the creditor.
+427 “(b) If a dispute cannot be resolved consensually, the assignee may commence a
+18
+
+428 proceeding under § 28-2221 to disallow the claim. The assignee must commence the proceeding
+429 before final distribution under § 28-2215. If the proceeding is not filed before final distribution,
+430 the assignee shall allow the claim under § 28-2211.
+431 “(c) An assignee shall create a dollar-for-dollar reserve for the estimated amount of the
+432 potential distribution on a disputed claim.
+433 “(d) Subject to subsection (b), an assignee shall disallow a claim for reimbursement or
+434 contribution of a person that is liable with the assignor on, or that has secured, the claim, to the
+435 extent:
+436 “(1) The claim against the assignment estate is disallowed;
+437 “(2) The claim for reimbursement or contribution is contingent as of the time of
+438 allowance or disallowance; or
+439 “(3) The person asserts a right of subrogation to the rights of a creditor.
+440 “(e) A claim for reimbursement or contribution of a person liable with the assignor on, or
+441 that has secured, the claim that becomes fixed after the effective date of the assignment
+442 agreement must be determined, and must be allowed or disallowed, subject to subsection (b), as
+443 if the claim had become fixed before the effective date of the assignment agreement.
+444 “(f) An assignee may reconsider the assignee’s decision to allow or disallow a claim for
+445 cause. If a reconsidered claim is allowed under § 28-2211, before the assignee makes additional
+446 payments or transfers to other creditors that are equal or junior in priority under § 28-2215 to the
+447 reconsidered claim, the creditor with the reconsidered claim must receive a payment or transfer
+448 in an amount proportionate in value to the payments or transfers already received by the other
+449 creditors. This subsection does not modify the assignee’s right under other law to recover from a
+450 creditor an excess payment or transfer made to the creditor. If a reconsidered claim is disallowed,
+19
+
+451 the assignee shall comply with subsections (b) and (c).
+452 “§ 28-2213. Proof of claim.
+453 “(a) A proof of claim must:
+454 “(1) State the name, address, and other contact information reasonably necessary
+455 to communicate with the creditor;
+456 “(2) State the amount of the claim;
+457 “(3) Briefly state the nature of the claim;
+458 “(4) Identify any asset of the assignment estate securing the claim;
+459 “(5) Be signed by the creditor under penalty of perjury;
+460 “(6) Include a copy of a record, if any, on which the claim is based;
+461 “(7) Be submitted using the method established under § 28-2209(b)(5); and
+462 “(8) Be submitted by the date established by the assignee under § 28-2209(b)(6).
+463 “(b) A proof of claim submitted in compliance with this section is prima facie evidence
+464 of the validity and amount of the claim.
+465 “(c) The submission by a creditor of a proof of claim in compliance with this section
+466 constitutes the creditor’s:
+467 “(1) Consent to the jurisdiction of the court under § 28-2221; and
+468 “(2) Assignment to the assignee of any right of the creditor to bring a voidable
+469 transaction action relating to the creditor’s claim.
+470 “§ 28-2214. Rights of transferees.
+471 “(a) An assignee’s disposition of an asset:
+472 “(1) Transfers to a transferee for value all of the assignee’s rights in the asset;
+473 “(2) Discharges the assignee’s lien and, to the extent the assignment creates a
+20
+
+474 security interest in favor of the assignee, the assignee’s security interest; and
+475 “(3) Discharges any subordinate security interest or other lien subordinate to the
+476 assignee’s lien.
+477 “(b) A transferee that acts in good faith takes free of the rights and interests described in
+478 subsection (a), even if the assignee fails to comply with this chapter or the requirements of a
+479 judicial proceeding.
+480 “(c) If a transferee does not take free of the rights and interests described in subsection
+481 (a), the transferee takes the asset subject to:
+482 “(1) The assignee’s rights in the assets of the assignment estate;
+483 “(2) The assignee’s lien and, if applicable, security interest; and
+484 “(3) Any other security interest or other lien.
+485 “(d) Unless otherwise provided in a record, any warranty arising by operation of other
+486 law is disclaimed to the extent permitted by other law.
+487 “(e) If a subordinate security interest or other lien is discharged under this section, the
+488 assignee may file a record with the official or office responsible for maintaining an official filing,
+489 recording, registration, or certificate-of-title system covering the asset secured by the security
+490 interest or other lien. The record must state that the security interest or other lien is discharged as
+491 a subordinate security interest or other lien in connection with a disposition under an assignment
+492 for the benefit of creditors of the assignor whose asset is subject to the security interest or other
+493 lien.
+494 “§ 28-2215. Distributions.
+495 “(a) In this section, “protected secured creditor” means a secured creditor whose lien:
+496 “(1) Is a perfected lien;
+21
+
+497 “(2) Cannot be avoided by the assignee under § 28-2210(b)(12); and
+498 “(3) Is not subordinate to the assignee’s lien.
+499 “(b) Except as provided in § 28-2216, the assignee shall pay claims from the assignment
+500 estate allowed under § 28-2211 in the order of priority stated in this section.
+501 “(c) Unless otherwise agreed between the assignee and a protected secured creditor,
+502 before distributions under subsections (d), (e), (f), and (g), and in accordance with the priorities
+503 of creditors with liens under other law, the protected secured creditor shall receive the asset or
+504 the proceeds from the collection on or disposition of the asset to the extent of the value of the
+505 protected secured creditor’s interest in the asset, less the assignee’s reasonable and necessary
+506 expenses of preserving or disposing of the asset to the extent the expenses benefit the protected
+507 secured creditor and are incurred with the protected secured creditor’s consent or acquiescence.
+508 The protected secured creditor has an unsecured claim under subsection (g)(2) for the amount of
+509 the claim that remains after deducting the amount or value of an asset the protected secured
+510 creditor receives under this subsection. To the extent a claim is secured by an asset the value of
+511 which, after the deductions provided under this subsection, is greater than the amount of the
+512 claim, the protected secured creditor may receive interest on the claim and any reasonable fees,
+513 costs, or charges provided for under the agreement or other law under which the claim arose.
+514 “(d) After the distributions under subsection (c), the assignee shall pay the necessary
+515 costs of the administration of the assignment estate. The costs include:
+516 “(1) Fees and reimbursements of the expenses of the assignee and any
+517 professionals engaged by the assignee;
+518 “(2) Post-assignment taxes incurred by the assignee;
+519 “(3) Post-assignment rent incurred by the assignee in occupying premises on
+22
+
+520 which assets of the assignment estate are located or the business of the assignor is conducted;
+521 “(4) Post-assignment lease payments incurred by the assignee in renting personal
+522 property used in the business of the assignor; and
+523 “(5) Amounts required to be paid under the assignment agreement for expenses of
+524 winding up the assignment under § 28-2219.
+525 “(e) After the distributions under subsections (c) and (d), the assignee shall pay claims
+526 entitled to priority under federal law including under 31 U.S.C. Section 3713 from the
+527 assignment estate.
+528 “(f) After the distributions under subsections (c), (d), and (e), the assignee shall pay
+529 claims from the assignment estate for wages, salaries, or commissions earned not more than 180
+530 days before the earlier of the effective date of the assignment agreement or the cessation of the
+531 assignor’s business. Payment is limited to the greater of:
+532 “(1) The amount of the claim allowed as a priority claim ahead of claims of other
+533 unsecured creditors under the Bankruptcy Code, 11 U.S.C. Section 101 et seq.; or
+534 “(2) The amount allowed as a priority claim ahead of claims of other unsecured
+535 creditors under applicable non-bankruptcy law.
+536 “(g) After the distributions under subsections (c), (d), (e), and (f), each creditor shall
+537 receive a distribution of the assets of the assignment estate in the following order of priority:
+538 “(1) Unsecured claims entitled to priority ahead of claims of other unsecured
+539 creditors under other law; and
+540 “(2) Unsecured claims not entitled to priority.
+541 “(h) If the assets available for distribution to claims with equal priority under subsection
+542 (g) are insufficient to pay the total amount of the claims with that priority, each creditor with a
+23
+
+543 claim with that priority shall receive a pro rata distribution of the available assets based on the
+544 proportion the amount of the creditor’s claim bears to the total amount of the claims with that
+545 priority.
+546 “(i) If the claims entitled to the distribution under subsections (c), (d), (e), (f), and (g) are
+547 paid in full, the residue shall be distributed to allowed claims evidenced by a late-filed proof of
+548 claim, other than a late-filed claim allowed by the assignee under § 28-2211(b)(2), and, after the
+549 allowed claims evidenced by a late-filed proof of claim have been paid in full, as provided in the
+550 assignment agreement.
+551 “(j) An assignee may make interim distributions after considering future expenses and the
+552 reserves for disputed claims established under § 28-2212(c).
+553 “§ 28-2216. Claim subordination.
+554 “(a) A subordination agreement is enforceable under this chapter to the same extent the
+555 agreement is enforceable under other law.
+556 “(b) Subject to subsection (c), the following claims are subordinate to a claim or interest
+557 that is senior or equal in priority to a claim or interest represented by a security or other equity
+558 interest in the assignor or an affiliate of the assignor:
+559 “(1) A claim arising from rescission of a purchase or sale of the security or other
+560 equity interest;
+561 “(2) A claim for damages arising from the purchase or sale of the security or other
+562 equity interest; and
+563 “(3) A claim for reimbursement or contribution allowed on account of the
+564 rescission or damage claim.
+565 “(c) If the security is common stock or another common equity interest, a claim subject to
+24
+
+566 subordination under subsection (b) has the same priority as common stock or another common
+567 equity interest.
+568 “§ 28-2217. Liability.
+569 “(a) An assignor is not personally liable for an act or omission by the assignee.
+570 “(b) An assignee is not personally liable for an act or omission by the assignor.
+571 “(c) A representative designated by an assignor under § 28-2208(b)(4) is exculpated to
+572 the same extent as a person acting on behalf of the assignor under other law had there been no
+573 assignment, except for an act or omission resulting from the representative’s gross negligence or
+574 willful misconduct.
+575 “(d) A term of an assignment agreement relieving the assignee of liability is
+576 unenforceable to the extent the agreement relieves the assignee of liability for an act or omission
+577 committed in bad faith or with reckless indifference to the purposes of the assignment or the
+578 interests of the creditors of the assignment estate.
+579 “(e) Subject to subsection (f), an assignee is personally liable for breach of a fiduciary
+580 duty under § 28-2209(a). If the assignee is liable:
+581 “(1) The assignee is personally liable to a creditor for an individualized harm to
+582 the creditor if the harm is not shared by all creditors or a class of creditors; and
+583 “(2) The assignee is personally liable to the assignment estate for a harm shared
+584 by all creditors or a class of creditors.
+585 “(f) An assignee is not liable if, in the performance of the assignee’s duties and exercise
+586 of the assignee’s powers, the assignee relies in good faith on:
+587 “(1) A record of the assignor;
+588 “(2) Information, an opinion, a report, or a statement presented to the assignee by
+25
+
+589 the assignor’s officer or employee, a committee of the assignor’s board of directors, an
+590 independent director or manager of the assignor, or another representative of the assignor; or
+591 “(3) Information, an opinion, a report, or a statement presented to the assignee by
+592 another person that has been selected with reasonable care by or on behalf of the assignee as to a
+593 matter the assignee reasonably believes is within the other person’s professional or expert
+594 competence.
+595 “§ 28-2218. Assignee removal; successor assignee.
+596 “(a) The assignor or a creditor may request the Superior Court of the District of Columbia
+597 to remove the assignee, if the assignor or creditor has a reasonable belief grounds for removal
+598 exist under subsection (b).
+599 “(b) After a request under subsection (a) or on the court’s initiative in an action pending
+600 before the court under § 28-2221, the court may remove an assignee:
+601 “(1) For cause, including the assignee’s fraud, dishonesty, incompetence, gross
+602 mismanagement, or failure to comply with this chapter; or
+603 “(2) If removal of the assignee best serves the interests of the creditors.
+604 “(c) After an assignee resigns, or is removed, dies, or becomes incapacitated, a successor
+605 assignee provided for in the assignment agreement becomes the assignee, unless the successor
+606 assignee is not eligible to be an assignee under § 28-2204(a) or is subject to removal under
+607 subsection (b). A court shall appoint a successor assignee if:
+608 “(1) The assignment agreement does not provide for a successor assignee; or
+609 “(2) The successor assignee provided for in the assignment agreement is ineligible
+610 to be an assignee under § 28-2204(a) or is subject to removal under subsection (b).
+611 “(d) Subject to § 28-2217, an assignee that resigns, or is removed, dies, or becomes
+26
+
+612 incapacitated, is discharged from the assignee’s duties under this chapter when the assignee, or a
+613 representative of a deceased or incapacitated assignee:
+614 “(1) Accounts for and turns over to the successor assignee all assets of the
+615 assignment estate; and
+616 “(2) Submits to creditors a report summarizing the receipts and disbursements
+617 made during the service of the assignee.
+618 “(e) Subject to an applicable privilege, a court may order an attorney, accountant, or other
+619 person that has information in a record relating to the assignment estate or the assignor’s
+620 financial affairs to turn over or disclose the record to the successor assignee.
+621 “§ 28-2219. Winding up.
+622 “(a) On completion of an assignee’s duties, the assignee shall send a creditor whose claim
+623 is allowed under § 28-2211, and not satisfied in full, a final accounting sufficient to inform the
+624 creditor of all material aspects of the assignment, including:
+625 “(1) A description of the actions taken by the assignee under the assignment;
+626 “(2) A summary of the assets received by the assignee at the commencement of
+627 the assignment and the assets received by the assignee during the assignment;
+628 “(3) A summary of disbursements made by the assignee during the assignment for
+629 the purpose of administering the assignment estate, including the fees charged by the assignee,
+630 and payments to professionals, for rent, and for business purchases;
+631 “(4) A summary of collections and dispositions of assets by the assignee;
+632 “(5) A summary of distributions made or proposed to be made by the assignee for
+633 creditor claims;
+634 “(6) A description of additional work to be done by the assignee to complete the
+27
+
+635 administration of the assignment estate and the distributions under § 28-2215; and
+636 “(7) Other information considered reasonably necessary by the assignee.
+637 “(b) Except as otherwise provided in the final accounting or if the assignee has not
+638 fulfilled the assignee’s duties under this chapter, the assignee is discharged from the assignee’s
+639 duties under this chapter when the assignee sends the final accounting and distributes all the
+640 assets of the assignment estate.
+641 “(c) If the final accounting describes additional work under subsection (a)(6), the
+642 assignee shall exercise the powers appropriate to complete the work.
+643 “§ 28-2220. Interstate matters.
+644 “(a) Subject to subsection (b), an assignment made under the law of another state must be
+645 recognized and enforced on an issue if the result for the issue would be substantially similar to
+646 the result for the issue if the assignment had been made under this chapter.
+647 “(b) If a claim for wages, salaries, or commissions or a claim of a governmental unit
+648 exists in another state, for the purpose of determining the priority of the claim under § 28-
+649 2215(f)(2), the assignee shall use the amount asserted or determined under the law of the other
+650 state.
+651 “(c) If an assignee determines that a creditor should receive the treatment the creditor
+652 would receive under an assignment made under the law of another state, the assignee may treat
+653 the creditor as the creditor would be treated in the other state.
+654 “§ 28-2221. Court action.
+655 “(a) The Superior Court of the District of Columbia may hear and resolve a matter
+656 involving the administration of an assignment or the exercise of an assignee’s powers and duties,
+657 including a request for instructions or approval or to declare rights.
+28
+
+658 “(b) Without limiting the rights of the assignee or a creditor or other interested person to
+659 request the court to hear or resolve a matter under subsection (a), on request of the assignee, the
+660 court may issue an order relating to the administration of the assignment or the exercise of the
+661 assignee’s powers and duties, including an order for disposition of an asset or the incurrence of
+662 an obligation.
+663 “(c) Acceptance of the assignment by the assignee constitutes the assignee’s consent to
+664 the jurisdiction of the court.
+665 “§ 28-2222. Ancillary assignee.
+666 “(a) Subject to other law of the District governing a person from another state serving as
+667 a fiduciary in the District, the Superior Court of the District of Columbia may appoint a person
+668 serving as an assignee in an assignment in another state, or the person’s nominee, as an ancillary
+669 assignee relating to assigned assets located in the District or subject to the jurisdiction of a court
+670 in the District, if:
+671 “(1) The person or nominee would be eligible to serve as an assignee under § 28-
+672 2204; and
+673 “(2) The appointment furthers the person’s possession, custody, control, or
+674 disposition of an assigned asset under the assignment in the other state.
+675 “(b) The court may issue an order that implements an order entered in another state
+676 appointing or directing an assignee or otherwise concerning an assignment in the other state.
+677 “(c) Unless the court orders otherwise, an ancillary assignee appointed under subsection
+678 (a) has the rights, powers, and duties of an assignee appointed under this chapter.
+679 “(d) A person in possession, custody, or control of an assigned asset in the District, other
+680 than a creditor holding a lien or a right of setoff or recoupment relating to the asset, shall, on
+29
+
+681 notification in a record by an ancillary assignee appointed under subsection (a), turn over the
+682 asset to the ancillary assignee.
+683 “§ 28-2223. Provisions variable by agreement.
+684 “(a) Except as provided in this section and § 28-2210(b), the provisions of this chapter
+685 may not be varied by agreement.
+686 “(b) The duties under § 28-2208(a) and 28-2209(a) may not be disclaimed by agreement.
+687 An assignor and the assignee may determine by agreement the standards measuring the
+688 fulfillment of the duties of the assignor under § 28-2208 and the assignee under § 28-2209 if the
+689 standards are not manifestly unreasonable.
+690 “(c) Except as provided in § 28-2217(d), the assignment agreement may limit the
+691 assignee’s liability under § 28-2217 and may require the assignee be indemnified by the
+692 assignment estate.
+693 “(d) Except as provided under § 28-2207(a), whenever this chapter requires an action to
+694 be taken within a reasonable time, a time not manifestly unreasonable may be fixed by
+695 agreement.
+696 “(e) The assignment agreement may provide for duties of the assignee in addition to those
+697 in this chapter.
+698 “§ 28-2224. Uniformity of application and construction.
+699 “In applying and construing this uniform act, a court shall consider the promotion of
+700 uniformity of the law among states that enact it.
+701 “§ 28-2225. Relation to Electronic Signatures in Global and National Commerce Act.
+702 “This chapter modifies, limits, or supersedes the Electronic Signatures in Global and
+703 National Commerce Act, 15 U.S.C. § 7001 et seq., but does not modify, limit, or supersede 15
+30
+
+704 U.S.C. § 7001(c), or authorize electronic delivery of any of the notices described in 15 U.S.C. §
+705 7003(b).
+706 “§ 28-2226. Transitional provision.
+707 “This chapter applies to an assignment made on or after the effective date of this
+708 chapter.”
+709 Sec. 3. Fiscal impact statement.
+710 The Council adopts the fiscal impact statement in the committee report as the fiscal
+711 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+712 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+713 Sec. 4. Effective date.
+714 This act shall take effect following approval by the Mayor (or in the event of veto by the
+715 Mayor, action by the Council to override the veto), a 30-day period of Congressional review as
+716 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+717 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+718 Columbia Register.
+31

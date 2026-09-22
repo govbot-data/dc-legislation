@@ -1,0 +1,244 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+September 16, 2026
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Please find attached the Health-Care Decisions Amendment Act of 2026 for enactment by the Council of
+the District of Columbia.
+If enacted, the proposed legislation would amend Chapter 22 of Title 21 of the District of Columbia Official
+Code to expand the range of health professionals authorized to assist patients in completing, executing, and
+complying with a Medical Orders for Scope of Treatment (MOST) Form, ensuring that patients can more
+easily document their treatment preferences and that providers have clearer, more consistent guidance when
+honoring those decisions.
+Specifically, the legislation would expand the list of professionals qualified to assist with MOST Forms by
+including advanced practice nurses, naturopathic physicians, and physician assistants acting under
+delegation agreements; clarify which qualified health professionals may review and execute MOST Forms
+with patients or their authorized representatives; revise the composition of the MOST Advisory Committee
+to include members of the District’s healthcare system and update member term lengths; and streamline the
+MOST Form process by clarifying which qualified health professionals may review and execute the form
+with a patient or authorized representative and requiring that completed MOST Forms, where applicable
+and available, be uploaded into the patient’s electronic medical record and treated as part of the permanent
+medical record unless revoked.
+These updates strengthen the District’s system for documenting and honoring patient treatment preferences.
+They also improve clarity for both providers and patients during medical decision-making and ensure that
+MOST Forms are accessible across care settings through modernized electronic recordkeeping.
+I urge the Council to take prompt and favorable action on the Health-Care Decisions Amendment Act of
+2026.
+Sincerely,
+Muriel Bowser
+
+~;??~
+1
+2 ~Phil Mendelson
+3 at the,: request oft he Mayor
+4
+.s
+6
+7 ABil.L
+B,
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF OOLUMBIA
+12
+13
+14
+15
+16 To amendCliiiapte1·22 ofT1tle 21 afthe Distrid ofCoh1mbia Official Code to indude additional
+17 health.p rofessionals authorized to camplete md review a MOST Form., to expand the
+U!, soope af perscms., vho may complete a MOST Form .and the pasoms ·,vho lmliY execute· the
+19 MOS.T Form. aod to expand the circumstances under which.a .M OST fmm may be·
+20 e:xiecuted and incllnded :iin a patient's pemmnmt eledmnic medical record, and to amend
+21 the oompomion and function of the :fito!O:ST Advisory Committee.
+22
+23 BE IT ENACTED BY THE COUNCIL OF IBE DISTRICT OF CO·LUMBIA. 'fhat.1his
+24 act may be cited as the ••Health-Cai:,e·D ecisi,oms AnnmdmemAcl of2026".
+25 Sec. 2. Cliiiapter 22 of Title 21 of the Dimict of Columbia Official Code iis Blended as
+26
+27 (a) Section 21-2221.01 iis amended as follm~is:
+2& (1) Paragr.aph (4) is amended by slrikmg the phrase "a licensed physician or
+29 advmced practice nurse" and inserting the pm.ase '"a licensed p]ly,siician. advanced practice JDine,
+30 nmuropathic physician, or physician assimmt .aeitiing under a valid delegation agm;eemmt" in ~ts
+31
+32 (2) Paragr,aph (11) iis amended by striling the·p hrase ••or profes:sional cowiselors,"
+33 and :inserti.l!lg the phrase "professional omms.elors, mr·m aturopathic physicians," m.i ts p.J.ace.
+34 (3) A new paragraph (14A) is added m ·read as follo~rs:
+
+35 “(14A) “Medically fragile” means a clinical status, as determined by an
+36 authorized healthcare professional in their clinical judgment, in which an individual’s health
+37 condition is characterized by one or more of the following:
+38 “(A) A serious or life-limiting illness, including advanced malignancy,
+39 end-stage cardiac, pulmonary, renal, or hepatic disease, advanced neurological disease, or
+40 advanced dementia;
+41 “(B) Advanced frailty, evidenced by significant functional decline,
+42 dependence in 2 or more activities of daily living, unintentional weight loss, exhaustion,
+43 decreased physical activity, or diminished physiologic reserve;
+44 “(C) A serious or complex chronic medical condition that substantially
+45 impairs the person’s functioning or requires ongoing medical management and for which a life-
+46 threatening complication is reasonably foreseeable; or.
+47 “(D) A progressive degenerative condition with an uncertain but
+48 potentially limited prognosis.”
+49 (4) Paragraph (15) is amended to read as follows:
+50 “(15) “Patient” means a person who is medically fragile, as documented in the
+51 person’s medical records, or whose medical condition and goals of care are otherwise such that
+52 an authorized healthcare professional and the person or person’s authorized representative agree
+53 that documenting the person’s treatment preferences on a MOST Form is appropriate, as
+54 documented in the person’s medical records.”.
+55 (b) Section 21-2221.03 is amended to read as follows:
+56 “§ 21-2221.03. MOST Advisory Committee.
+
+57 “DOH may establish a MOST Advisory Committee, comprised of such healthcare
+58 providers, experts, and stakeholders as the DOH Director may designate, to:
+59 “(1) Assist DOH in the periodic review of the paper and electronic MOST Form;
+60 “(2) Promote public awareness about the option to complete a MOST Form;
+61 “(3) Provide recommendations to DOH for ongoing training of healthcare
+62 professionals about best practices regarding the use of a MOST Form and the nature and
+63 development of related medical protocols; and
+64 “(4) Support any other task related to the MOST Form that is assigned by the
+65 Director of DOH.”.
+66 (c) Section 21-2221.04(a) is amended as follows:
+67 (1) The lead-in text is amended by striking the phrase “regarding the patient’s care
+68 and medical condition:” and inserting a colon in its place.
+69 (2) Paragraph (1) is amended by:
+70 (A) Striking the word “intervention” and inserting the phrase “intervention
+71 to a patient” in its place; and
+72 (B) Striking the phrase “of a patient” and inserting the phrase “of the
+73 patient” in its place.
+74 (d) Section 21-2221.04(c) is amended as follows:
+75 “(a) The executed MOST Form shall be uploaded into the patient’s electronic medical
+76 record and submitted to the District’s health information exchange, as designated by the
+77 Department of Health Care Finance, and shall become a part of the patient’s permanent medical
+78 record until revoked by the patient or their authorized representative.
+
+79 (b) A copy of the executed MOST Form shall be kept in a prominent manner in a patient's
+80 printed medical records in a health care institution or private medical practice, and a copy shall
+81 be transferred with the patient whenever the patient is transferred to another health care
+82 institution or private medical practice, or to the patient's residence.”.
+83 (e) Section 21-2221.05 is amended as follows:
+84 (1) Subsection (a) is amended to read as follows:
+85 “(a) A patient or, if applicable, a patient’s authorized representative, shall be given the
+86 opportunity to have a health care professional prepare a MOST form for the patient and for the
+87 patient or authorized representative to execute the MOST Form, but no patient or authorized
+88 representative shall be required to have a MOST form prepared for the patient nor shall a patient
+89 or authorized representative be required to execute a MOST Form.
+90 (2) Subsection (b) is amended as follows:
+91 (A) Paragraph (1) is amended by striking the phrase “an authorized health
+92 care professional” and inserting the phrase “a health care professional” in its place.
+93 (B) Paragraph (2) is amended by striking the phrase “an authorized health
+94 care professional” and inserting the phrase “a health care professional” in its place.
+95 (3) Subsection (c) is amended as follows:
+96 (A) Paragraph (1) is amended as follows:
+97 (i) Subparagraph (A) is amended by striking the phrase “; or” and
+98 inserting a semicolon in its place
+99 (ii) Subparagraph (B) is amended by striking the period and
+100 inserting the phrase “; or” in its place.
+101 (ii) A new subparagraph (C) is added to read as follows:
+
+102 “(C) An authorized health care professional, after reviewing it with the
+103 patient or their authorized representative.
+104 (B) Paragraph (2) is amended by striking the phrase “signature.” and
+105 inserting the phrase “signature and the signature of an authorized health care professional.” in its
+106 place.
+107 (B) A new paragraph (3) is added to read as follows:
+108 “(3) To be considered valid and effective, a MOST Form must be signed by both:
+109 “(A) The patient or the patient’s authorized representative; and
+110 “(B) An authorized health care professional.”.
+111 (f) Section 21-2221.06(a)(2) is amended by striking the phrase “intent to revoke” and
+112 inserting the phrase “revocation of” in its place.
+113 (g) Section 21-2221.14a is repealed.
+114 (h) Section 21-2221.15 is amended by striking the word “shall” and inserting the word
+115 “may” in its place.
+116 Sec. 3. Fiscal impact statement.
+117 The Council adopts the fiscal impact statement in the committee report as the fiscal
+118 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+119 approved October 16, 2006 (120 Stat 2038; D.C. Official Code § 1-301-47a).
+120 Sec. 4 Effective date.
+121 This act shall take effect following approval of the Mayor (or in the event of veto by the
+122 Mayor, action by the Council to override the veto), a 30-day period of Congressional review as
+123 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+
+124 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206-02(c)(1)), and publication in the District of
+125 Columbia Register.
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+BRIAN L. SCHWALB PRIVILEGED AND CONFIDENTIAL
+ATTORNEY GENERAL ATTORNEY-CLIENT COMMUNICATION
+LEGAL COUNSEL DIVISION
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Adele El-Khouri
+Deputy Attorney General
+Legal Counsel Division
+DATE: March 26, 2026
+SUBJECT: Legal Sufficiency Review of Draft Bill, the “Health-Care Decisions Amendment Act
+of 2026” (AE-26-216)
+_____________________________________________________________________________________
+This is to Certify that
+the Office of the Attorney General has reviewed the
+above-referenced legislation and found it to be legally sufficient. If you have any questions in this
+regard, please do not hesitate to call me at (202) 262-6402.
+_________________________________
+Adele El-Khouri
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004
+Phone (202) 262-6402 Email: adele.el-khouri@dc.gov
+
+Government of the District of Columbia
+Office of the Chief Financial Officer
+Glen Lee
+Chief Financial Officer
+MEMORANDUM
+TO: The Honorable Phil Mendelson
+Chairman, Council of the District of Columbia
+FROM: Glen Lee
+Chief Financial Officer
+DATE: April 13, 2026
+SUBJECT: Fiscal Impact Statement – Health-Care Decisions Amendment Act of
+2026
+REFERENCE: Draft Introduction as provided to the Office of Revenue Analysis on
+March 13, 2026
+Conclusion
+Funds are sufficient in the fiscal year 2026 budget and proposed fiscal year 2027 through fiscal year
+2030 budget and financial plan to implement the bill.
+Background
+The Medical Orders for Scope of Treatment (MOST) program, administered by the Department of
+Health (DC Health), allows terminally ill patients to make decisions about their end-of-life care
+options in consultation with a District-licensed physician or advanced practice registered nurse.
+Patients complete a paper or electronic MOST Form that specifies their preferences for
+cardiopulmonary resuscitation (CPR), medical interventions/treatment options, antibiotics, and
+medically-assisted nutrition.
+The bill makes several changes1 to how the MOST Form is completed and executed, including:
+• Allowing naturopathic physicians and physician assistants acting under a valid delegation
+agreement to assist in the process for completing, executing, and complying with a MOST
+Form;
+1 By amending Chapter 22 of Title 21 of the District of Columbia Official Code.
+1350 Pennsylvania Avenue, NW, Suite 203, Washington, DC 20004 (202)727-2476
+www.cfo.dc.gov
+
+The Honorable Phil Mendelson
+FIS: “Health-Care Decisions Amendment Act of 2026,” Draft Introduction as provided to the Office of Revenue Analysis on
+March 13, 2026.
+• Clarifying who can complete a MOST Form by eliminating the requirement that a person have
+a life expectancy of twelve months or less;
+• Changes the composition and duties of the MOST Advisory Committee; and
+• Requires that MOST Forms be included in a patient’s permanent electronic medical record.
+Financial Plan Impact
+Funds are sufficient in the fiscal year 2026 budget and proposed fiscal year 2027 through fiscal year
+2030 budget and financial plan to implement the bill. Expanding who can complete and execute a
+MOST Form, changing the composition and duties of the MOST Advisory Committee, and requiring
+that MOST Forms be included in a patient’s electronic medical record do not have a cost. DC Health
+can implement the bill with existing resources.
+Page 2 of 2

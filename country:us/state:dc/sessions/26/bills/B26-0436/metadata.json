@@ -112,6 +112,42 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:06Z"
       }
+    },
+    {
+      "description": "Amendment in the Nature of a Substitute (Bonds)",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:14:01Z"
+      }
+    },
+    {
+      "description": "Oral Amendment (Allen)",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:14:01Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:14:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -171,6 +207,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment in the Nature of a Substitute (Bonds)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60560/Meeting3/Amendment/B26-0436-Amendment1.pdf?Id=246176",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60560/Committee_Report/B26-0436-Committee_Report1.pdf?Id=242826",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -192,7 +250,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:06Z",
+    "logs_latest_update": "2026-09-23T10:14:01Z",
     "text_extraction_latest_update": "2026-07-21T20:03:50.112539Z"
   }
 }

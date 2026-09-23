@@ -80,6 +80,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:07Z"
       }
+    },
+    {
+      "description": "Committee Mark-up of B26-0707 by the Health Committee",
+      "date": "2026-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:14:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -138,7 +148,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:07Z",
+    "logs_latest_update": "2026-09-23T10:14:01Z",
     "text_extraction_latest_update": "2026-07-21T21:09:17.692640Z"
   }
 }

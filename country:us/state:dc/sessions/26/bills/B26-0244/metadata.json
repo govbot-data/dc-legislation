@@ -134,6 +134,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:08Z"
       }
+    },
+    {
+      "description": "Final Reading",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:14:01Z"
+      }
+    },
+    {
+      "description": "Amendment (Allen)",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:14:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -153,6 +177,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57702/Introduction/B26-0244-Introduction.pdf?Id=211327",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57702/Meeting1/Engrossment/B26-0244-Engrossment1.pdf?Id=243664",
           "media_type": "application/pdf"
         }
       ],
@@ -193,6 +228,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment (Allen)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57702/Meeting2/Amendment/B26-0244-Amendment1.pdf?Id=246207",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57702/Committee_Report/B26-0244-Committee_Report1.pdf?Id=242467",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -214,7 +271,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:08Z",
+    "logs_latest_update": "2026-09-23T10:14:01Z",
     "text_extraction_latest_update": "2026-07-21T19:10:40.961543Z"
   }
 }

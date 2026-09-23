@@ -124,6 +124,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:08Z"
       }
+    },
+    {
+      "description": "Amendment (Henderson)",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:14:01Z"
+      }
+    },
+    {
+      "description": "Final Reading",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T10:14:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -148,6 +172,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60999/Meeting1/Engrossment/B26-0547-Engrossment1.pdf?Id=243661",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -156,6 +191,28 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60999/Hearing_Notice/B26-0547-Hearing_Notice1.pdf?Id=233190",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Henderson)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60999/Meeting2/Amendment/B26-0547-Amendment1.pdf?Id=246206",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60999/Committee_Report/B26-0547-Committee_Report1.pdf?Id=242431",
           "media_type": "application/pdf"
         }
       ],
@@ -182,7 +239,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:08Z",
+    "logs_latest_update": "2026-09-23T10:14:01Z",
     "text_extraction_latest_update": "2026-07-21T21:01:33.639152Z"
   }
 }

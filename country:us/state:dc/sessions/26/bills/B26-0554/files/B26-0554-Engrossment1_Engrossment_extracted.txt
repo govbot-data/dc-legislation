@@ -1,0 +1,79 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-554
+4
+5 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+6
+7 ________________
+8
+9 To amend the Uniform Classification and Commercial Driver’s License Act of 1990 to update
+10 several references to the U.S. Code regarding the Commercial Motor Vehicle Safety Act,
+11 and to modify the standards for disqualification of a person from operation of a
+12 commercial motor vehicle.
+13 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+14 act may be cited as the “Commercial Driver’s License Amendment Act of 2026”.
+15 Sec. 2. The Uniform Classification and Commercial Driver’s License Act of 1990,
+16 effective September 20, 1990 (D.C. Law 8-161; D.C. Official Code § 50-401 et seq.), is amended
+17 as follows:
+18 (a) Section 2(2) (D.C. Official Code § 50-401(2)) is amended by striking the phrase “the
+19 informational system established pursuant to the Commercial Motor Vehicle Safety Act of 1986,
+20 approved October 27, 1986 (100 Stat. 3207; 49 U.S.C. sec. 2701 et seq.) (“Commercial Motor
+21 Vehicle Safety Act”),” and inserting the phrase “the information system maintained by the
+22 Secretary of Transportation pursuant to 49 U.S.C. § 31309” in its place.
+23 (b) Section 3 (D.C. Official Code § 50-402) is amended as follows:
+1
+
+ENGROSSED ORIGINAL
+24 (1) Paragraph (1) is amended by striking the phrase “under section 12005(a) of
+25 the Commercial Motor Vehicle Safety Act (49 U.S.C. sec. 2704(a))” and inserting the phrase
+26 “under 49 U.S.C. § 31305” in its place.
+27 (2) The lead-in language of paragraph (7) is amended by striking the phrase “to
+28 section 12007 of the Commercial Motor Vehicle Safety Act (49 U.S.C. sec. 2706)” and inserting
+29 the phrase “to 49 U.S.C. § 31309” in its place.
+30 (3) Paragraph (8) is amended by striking the phrase “by section 12009 of the
+31 Commercial Motor Vehicle Safety Act (49 U.S.C. sec. 2708)” and inserting the phrase “by 49
+32 U.S.C. § 31311” in its place.
+33 (c) Section 7 (D.C. Official Code § 50-406) is amended to read as follows:
+34 “Sec. 7. Disqualification.
+35 “The Mayor shall disqualify a person from the operation of a commercial motor vehicle
+36 if:
+37 “(1) The person has been convicted of an offense specified in 49 C.F.R. § 383.51,
+38 and the person shall be disqualified for the time period set forth therein;
+39 “(2) The person’s driving has been determined to constitute an imminent hazard,
+40 as specified in 49 C.F.R. § 383.52(a), and the person shall be disqualified for a time period not to
+41 exceed the time periods set forth in 49 C.F.R. § 383.52(b) and (c);
+42 “(3) The person has been determined, consistent with section 8b of the District of
+43 Columbia Traffic Act, 1925, effective March 14, 2007 (D.C. Law 16-279; D.C. Official Code §
+2
+
+ENGROSSED ORIGINAL
+44 50-1401.04), to have falsified information specified in 49 C.F.R. § 383.73(j), and the person
+45 shall be disqualified for at least the minimum time period set forth therein; or
+46 “(4) The person has been convicted of fraud related to the issuance of a
+47 commercial driver’s license or commercial learner’s permit, or has failed to timely take a
+48 knowledge or skills retest or fails a knowledge or skills retest after suspected fraud, as provided
+49 in 49 C.F.R. § 383.73(k), and the person shall be disqualified for the time period set forth
+50 therein.”.
+51 Sec. 3. Section 8b(e) of the District of Columbia Traffic Act, 1925, effective March 14,
+52 2007 (D.C. Law 16-279; D.C. Official Code § 50-1401.04(e)), is amended by striking the period
+53 and inserting the phrase “, or any other material or information required to obtain a commercial
+54 driver’s license.” in its place.
+55 Sec. 4. Fiscal impact statement.
+56 The Council adopts the fiscal impact statement in the committee report as the fiscal
+57 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+58 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+59 Sec. 5. Effective date.
+60 This act shall take effect following approval by the Mayor (or in the event of veto by the
+61 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+62 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+63 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+3

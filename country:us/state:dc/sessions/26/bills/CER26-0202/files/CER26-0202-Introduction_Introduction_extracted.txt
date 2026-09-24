@@ -62,11 +62,10 @@ Visual Markup Detected: true -- this document likely contains redline (strikethr
 53 service have sustained this historic institution.
 54
 55 RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, that the
-56 Council of the District of Columbia recognizes the St. Paul American Methodist Episcopal
-57 Church.
-58
-59 Sec. 2. The resolution may be cited as the “St. Paul American Methodist Episcopal
-60 Church Recognition Resolution of 2026.”
-61
-62 Sec. 3. This resolution shall take effect immediately upon the first date of publication in
-63 the District of Columbia Register.
+56 Council of the District of Columbia recognizes the St. Paul African Methodist Episcopal Church.
+57
+58 Sec. 2. The resolution may be cited as the “St. Paul African Methodist Episcopal Church
+59 Recognition Resolution of 2026.”
+60
+61 Sec. 3. This resolution shall take effect immediately upon the first date of publication in
+62 the District of Columbia Register.

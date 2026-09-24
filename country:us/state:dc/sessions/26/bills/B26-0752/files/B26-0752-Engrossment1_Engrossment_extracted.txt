@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-752
+4
+5 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+6
+7 ______________________
+8
+9 To amend, on a temporary basis, the Homeless Services Reform Act of 2005 to clarify the
+10 authorization to share certain data within the Department of Human Services and between
+11 the Department of Human Services and other District agencies to facilitate the
+12 determination of eligibility for federal and District health and human service programs;
+13 and to amend the Data-Sharing and Information Coordination Amendment Act of 2010 to
+14 clarify the definition of the term “agency” and the intent of the grant of data system
+15 authority.
+16
+17 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+18 act may be cited as the “Health and Human Service Programs and Benefits Eligibility and Delivery
+19 Data-Sharing Clarifications Temporary Amendment Act of 2026”.
+20 Sec. 2. The Homeless Services Reform Act of 2005, effective October 22, 2005 (D.C. Law
+21 16-35; D.C. Official Code § 4-751.01 et seq.), is amended as follows:
+22 (a) Section 9(a)(7) (D.C. Official Code § 4-754.11(a)(7)) is amended by striking the phrase
+23 “consistent with the confidentiality requirements of District and federal law;” and inserting the
+24 phrase “consistent with the confidentiality requirements of District and federal law, subject to the
+25 authorized uses and mandatory disclosures of such records and information in accordance with
+26 Title I of the Data-Sharing and Information Coordination Amendment Act of 2010, effective
+27 December 4, 2010 (D.C. Law 18-273; D.C. Official Code § 7-241 et seq.);” in its place.
+1
+
+ENGROSSED ORIGINAL
+28 (b) Section 12(12) (D.C. Official Code § 4-754.21(12)) is amended by striking the phrase
+29 “consistent with the confidentiality requirements of District and federal law;” and inserting the
+30 phrase “consistent with the confidentiality requirements of District and federal law, subject to the
+31 authorized uses and mandatory disclosures of such records and information in accordance with
+32 Title I of the Data-Sharing and Information Coordination Amendment Act of 2010, effective
+33 December 4, 2010 (D.C. Law 18-273; D.C. Official Code § 7-241 et seq.);” in its place.
+34 Sec. 3. The Data-Sharing and Information Coordination Amendment Act of 2010, effective
+35 December 4, 2010 (D.C. Law 18-273; D.C. Official Code § 7-241 et seq.), is amended as follows:
+36 (a) Section 101(1) (D.C. Official Code § 7-241(1)) is amended by striking the phrase “or
+37 instrumentality of the District of Columbia government” and inserting the phrase “authority, or
+38 instrumentality of the District of Columbia government, or any subdivision of such agency,
+39 department, unit, authority, or instrumentality” in its place.
+40 (b) Section 102(a) (D.C. Official Code § 7-242(a)) is amended by striking the phrase “In
+41 accordance with section 103 and without” and insert the word “Without” in its place.
+42 Sec. 4. Fiscal impact statement.
+43 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+44 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+45 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+46 Sec. 5. Effective date.
+2
+
+ENGROSSED ORIGINAL
+47 (a) This act shall take effect following approval by the Mayor (or in the event of veto by
+48 the Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+49 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+50 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+51 (b) This act shall expire after 225 days of its having taken effect.
+3

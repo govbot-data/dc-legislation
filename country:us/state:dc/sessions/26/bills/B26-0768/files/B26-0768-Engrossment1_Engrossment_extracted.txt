@@ -1,0 +1,200 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-768
+4
+5
+6 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+7
+8 _________________________
+9
+10
+11 To amend, on an temporary basis, the Green Building Act of 2006 to exempt certain District owned
+12 and funded residential and nonresidential projects from complying with net-zero-energy
+13 standards and to modify net-zero-energy standard compliance requirements for
+14 nonresidential and residential projects; to amend section 2 of the Clean Energy DC Building
+15 Code Amendment Act of 2022 to modify the definition of the net-zero-energy standard and
+16 the types of projects to which the net-zero-energy standard applies; and for other purposes.
+17
+18 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act
+19 may be cited as the “Net Zero Continuity Temporary Amendment Act of 2026”.
+20 Sec. 2. The Green Building Act of 2006, effective March 8, 2007 (D.C. Law 16-234; D.C.
+21 Official Code § 6-1451.01 et seq.), is amended as follows:
+22 (a) Section 2 (D.C. Official Code § 6-1451.01) is amended as follows:
+23 (1) Paragraph (1) is amended to read as follows:
+24 “(1) “Addition” shall have the meaning ascribed to it in the Building Codes.”.
+25 (2) Existing paragraph (2A) is redesignated as paragraph (2B)
+26 (3) A new paragraph (2A) is added to read as follows:
+1
+
+ENGROSSED ORIGINAL
+27 “(2A) “Aquatic center” means a structure intended for swimming or recreational
+28 bathing that contains water over 24 inches deep and includes the pool, decks, and surrounding
+29 structure, locker rooms, electrical and mechanical rooms, and IT controls that support the pool.”.
+30 (4) A new paragraph (3A) is added to read as follows:
+31 “(3A) “Building Codes” means the portions of the Construction Codes designated as
+32 the Building Code, the Energy Conservation Code, and the Existing Building Code.”.
+33 (5) Paragraphs (6) and (7) are amended to read as follows:
+34 “(6) “Construction Codes” shall have the same meaning as in section 2(2) of the
+35 Construction Codes Approval and Amendments Act of 1986, effective March 21, 1987 (D.C. Law 6-
+36 216; D.C. Official Code § 6-1401(2)).
+37 “(7) “Construction documents” shall have the meaning ascribed to it in the Building
+38 Codes.”.
+39 (6) Paragraph (8) is repealed.
+40 (7) Paragraph (14) is amended to read as follows:
+41 “(14) “Existing building” shall have the meaning ascribed to it in the Building Codes.”.
+42 (8) Paragraph (22) is amended to read as follows:
+43 “(22) “Gross floor area” shall have the meaning ascribed to it in the Building Codes.”.
+44 (9) A new paragraph (31B) is added to read as follows:
+45 “(31B) “Level 3 alteration” shall have the meaning ascribed to it in the Building
+46 Codes.”.
+2
+
+ENGROSSED ORIGINAL
+47 (10) A new paragraph (32C) is added to read as follows:
+48 “(32C) “Natatorium” means a building or complex housing one or more indoor pools
+49 featuring HVAC and humidity controls to manage the environment.”.
+50 (11) Paragraph (40A) is amended to read as follows:
+51 “(40A) “Temporary building” means a:
+52 “(A) Trailer; or
+53 “(B) Structure that is used or intended for supporting or sheltering any use or
+54 occupancy on a non-permanent timeframe for an interim use during construction of a permanent
+55 structure.”.
+56 (b) Section 3(a) (D.C. Official Code § 6-1451.02(a)) is amended as follows:
+57 (1) The lead-in language of paragraph (1) is amended by striking the phrase
+58 “substantial improvement” and inserting the phrase “Level 3 alterations”.
+59 (2) Paragraph (2) is amended as follows:
+60 (A) Subparagraph (C) is amended by striking the phrase “; and” and
+61 inserting a semicolon in its place.
+62 (B) Subparagraph (D) is amended to read as follows:
+63 “(D) Be built to comply with the net-zero-energy standard, as defined in section
+64 2(a)(3) of the Clean Energy DC Building Code Amendment Act of 2022, effective September 21,
+65 2022 (D.C. Law 24-177; D.C. Official Code § 6-1453.01(a)(3)) (“Clean Energy DC Building Act”),
+66 unless the project is for the construction of:
+3
+
+ENGROSSED ORIGINAL
+67 “(i) A temporary building;
+68 “(ii) An addition less than 10,000 square feet;
+69 “(iii) A police, fire, emergency response, or Office of Unified
+70 Communications facility; provided, that the facility need not comply with energy conservation and
+71 obtainment standards otherwise required by section 2(a)(3)(A) and (B) of the Clean Energy DC
+72 Building Act (D.C. Official Code § 6-1453.01(a)(3)(A) and (B)), until the effective date of the final
+73 regulations issued by the Mayor pursuant to section 2(b)(1) of the Clean Energy DC Building Act
+74 (D.C. Official Code § 6-1453.01(b)(1));
+75 “(iv) A natatorium; provided, that the aquatics center in which the
+76 natatorium is located need not comply with energy conservation and obtainment standards otherwise
+77 required by section 2(a)(3)(A) and(B) of the Clean Energy DC Building Code Act (D.C. Official Code
+78 § 6-1453.01(a)(3)(A) and(B)), until the effective date of the final regulations issued by the Mayor
+79 pursuant to section 2(b)(1) of the Clean Energy DC Building Code Act (D.C. Official Code § 6-
+80 1453.01(b)(1)); or
+81 “(v) A project for which all permits necessary to begin construction
+82 were submitted before October 1, 2024, and that was not submitted to GBAC before February 1,
+83 2026; and”.
+84 (C) A new subparagraph (E) is added to read as follows:
+85 “(E) Be built to comply with section 2(a)(3)(D) of the Clean Energy DC
+86 Building Code Act (D.C. Official Code § 6-1453.01(a)(3)(D)).”.
+4
+
+ENGROSSED ORIGINAL
+87 (3) Paragraph (3) is amended as follows:
+88 (A) The lead-in language is amended by striking the phrase “If a residential
+89 project includes” and inserting the phrase “If a residential project is for new construction and
+90 includes” in its place.
+91 (B) Subparagraph (A) is amended to read as follows:
+92 “(A) Be built to comply with the net-zero-energy standard; except, that a
+93 project need not comply with the renewable energy requirements otherwise required by section
+94 2(a)(3)(A), (B), and (C) of the Clean Energy DC Building Act (D.C. Official Code § 6-
+95 1453.01(a)(3)(A), (B), and (C)), until the effective date of the final regulations issued by the Mayor
+96 pursuant to section 2(b)(1) of the Clean Energy DC Building Act (D.C. Official Code § 6-
+97 1453.01(b)(1)); and”.
+98 (C) Subparagraph (B) is amended by striking the acronym “DCRA” and
+99 inserting the acronym “DOB” in its place.
+100 (D) Subparagraph (C) is repealed.
+101 (4) Paragraph (6) is amended by striking the phrase “maintain net-zero-energy
+102 compliance” and inserting the phrase “shall be built to comply with the net-zero-energy-standard” in
+103 its place.
+104 Sec. 3. Section 2 of the Clean Energy DC Building Code Amendment Act of 2022, effective
+105 September 21, 2022 (D.C. Law 24-177; D.C. Official Code § 6-1453.01), is amended as follows:
+106 (a) Subsection (a) is amended as follows:
+5
+
+ENGROSSED ORIGINAL
+107 (1) A new paragraph (2A) is added to read as follows:
+108 “(2A) “Level 3 alteration” shall have the same meaning ascribed to it in the
+109 Building Codes.”.
+110 (2) Paragraph (3) is amended as follows:
+111 (A) Subparagraph (A) is amended by striking the phrase “; and” and inserting a
+112 semicolon in its place.
+113 (B) Subparagraph (B) is amended to read as follows:
+114 “(B) A building obtains energy from renewable energy sources in the amount
+115 that would be required by the most recent version of Appendix Z;”.
+116 (C) New subparagraphs (C) and (D) are added to read as follows:
+117 “(C) Renewable energy shall be generated at the building site wherever
+118 feasible; and”.
+119 “(D) On-site fuel combustion shall not be permitted for the provision of thermal
+120 energy to the building except for backup power generation.”.
+121 (b) Subsection (b) is amended to read as follows:
+122 (b)(1) By December 31, 2027, the Mayor, pursuant to pursuant to Title I of the District of
+123 Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C.
+6
+
+ENGROSSED ORIGINAL
+124 Official Code § 2-501 et seq.), shall issue final regulations requiring all new construction or
+125 Level 3 alterations to covered buildings to be constructed to a net-zero-energy standard.
+126 (2) By December 31, 2026, the Mayor, pursuant to Title I of the District of
+127 Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C.
+128 Official Code § 2-501 et seq.), shall issue final regulations prohibiting the use of on-site fuel
+129 combustion for the provision of thermal energy for all new construction of covered buildings
+130 and additions greater than 10,000 square feet to covered buildings.
+131 (3) No permit application for new construction of covered buildings or an addition
+132 greater than 10,000 square feet to covered buildings submitted after December 31, 2026, shall be
+133 approved if the building or addition design provides for the use of on-site fuel combustion for
+134 the provision of thermal energy for space heating and water heating.
+135 (4) Notwithstanding any other provision of law, no building permit application for
+136 new construction of covered buildings, an addition greater than 10,000 square feet to covered
+137 buildings, or Level 3 alteration to covered buildings submitted after December 31, 2026, shall be
+138 approved unless the building design is such that the building conserves an amount of energy
+139 attributable to building operation that is equal to or greater than the amount that would be
+140 conserved if such building complied with the 2024 International Energy Conservation Code.
+141 Subsection (b) is amended as follows:
+142 (1) Paragraph (1) is amended by striking the phrase “substantial improvements”
+143 and inserting the phrase “Level 3 alterations” in its place.
+7
+
+ENGROSSED ORIGINAL
+144 (2) Paragraph (2) is amended by striking the phrase “; except, that nothing in this
+145 paragraph shall be construed to prohibit the on-site combustion of fossil fuels for backup power
+146 generation in buildings that are essential to protecting public health and safety” and inserting a
+147 period in its place.
+148 (c) Subsection (c)(1) is amended by striking the phrase “newly constructed or substantially
+149 improved covered buildings” and inserting the phrase “covered buildings that were newly constructed
+150 or underwent Level 3 alterations” in its place.
+151 Sec. 4. Repealers.
+152 (a) The Green Housing Coordination Temporary Amendment Act of 2025, effective
+153 February 12, 2026 (D.C. Law 26-90; 73 DCR 3), is repealed.
+154 (b) The Net Zero Modification and Preservation Temporary Amendment Act of 2026,
+155 effective May 21, 2026 (D.C. Law 26-123; 73 DCR 5075), is repealed.
+156 Sec. 5. Fiscal impact statement.
+157 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+158 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+159 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+160 Sec. 6. Effective date.
+161 (a) This act shall take effect following approval by the Mayor (or in the event of veto by the
+162 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+163 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24,
+8
+
+ENGROSSED ORIGINAL
+164 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of Columbia
+165 Register.
+166 (b) This act shall expire after 225 days of its having taken effect.
+9

@@ -146,15 +146,27 @@
       }
     },
     {
-      "description": "Final Reading, CC",
+      "description": "First Reading, CC",
       "date": "2026-07-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T10:11:12Z"
+      }
+    },
+    {
+      "description": "Final Reading, CC",
+      "date": "2026-09-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:08Z"
+        "log_file_created": "2026-09-24T10:11:12Z"
       }
     }
   ],
@@ -175,6 +187,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57407/Introduction/B26-0181-Introduction.pdf?Id=208565",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57407/Meeting1/Engrossment/B26-0181-Engrossment1.pdf?Id=245464",
           "media_type": "application/pdf"
         }
       ],
@@ -204,6 +227,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57407/Committee_Report/B26-0181-Committee_Report1.pdf?Id=242537",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57407/Committee_Report/B26-0181-Committee_Report2.pdf?Id=243589",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -225,7 +263,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:08Z",
+    "logs_latest_update": "2026-09-24T10:11:12Z",
     "text_extraction_latest_update": "2026-07-21T21:00:02.748031Z"
   }
 }

@@ -146,6 +146,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:08Z"
       }
+    },
+    {
+      "description": "Final Reading, CC",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T10:11:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -170,6 +182,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/56916/Meeting1/Engrossment/B26-0047-Engrossment1.pdf?Id=243663",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -178,6 +201,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/56916/Hearing_Notice/B26-0047-Hearing_Notice1.pdf?Id=233186",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/56916/Committee_Report/B26-0047-Committee_Report1.pdf?Id=242437",
           "media_type": "application/pdf"
         }
       ],
@@ -204,7 +238,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:08Z",
+    "logs_latest_update": "2026-09-24T10:11:12Z",
     "text_extraction_latest_update": "2026-07-21T21:22:17.283026Z"
   }
 }

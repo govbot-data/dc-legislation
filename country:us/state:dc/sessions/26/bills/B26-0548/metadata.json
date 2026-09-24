@@ -72,13 +72,13 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0548",
+      "description": "Public Hearing on B26-0548 View Public Hearing Record",
       "date": "2026-06-04T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:07Z"
+        "log_file_created": "2026-09-24T10:11:12Z"
       }
     },
     {
@@ -101,6 +101,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:07Z"
+      }
+    },
+    {
+      "description": "Final Reading, CC",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T10:11:12Z"
       }
     }
   ],
@@ -126,6 +138,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61000/Meeting1/Engrossment/B26-0548-Engrossment1.pdf?Id=243659",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -134,6 +157,28 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61000/Hearing_Notice/B26-0548-Hearing_Notice1.pdf?Id=238323",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Public Hearing on B26-0548 View Public Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61000/Hearing_Record/B26-0548-Hearing_Record1.pdf?Id=244641",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61000/Committee_Report/B26-0548-Committee_Report1.pdf?Id=242833",
           "media_type": "application/pdf"
         }
       ],
@@ -160,7 +205,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:07Z",
+    "logs_latest_update": "2026-09-24T10:11:12Z",
     "text_extraction_latest_update": "2026-07-21T19:18:31.776845Z"
   }
 }

@@ -38,6 +38,28 @@
       "_processing": {
         "log_file_created": "2026-09-22T10:13:39Z"
       }
+    },
+    {
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Human Services",
+      "date": "2026-09-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T10:13:49Z"
+      }
+    },
+    {
+      "description": "Public Hearing on B26-0808",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T10:13:49Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,7 +86,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Human Services",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62558/Hearing_Notice/B26-0808-Hearing_Notice1.pdf?Id=246298",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -84,7 +118,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-22T10:13:39Z",
+    "logs_latest_update": "2026-09-26T10:13:49Z",
     "text_extraction_latest_update": "2026-09-22T10:18:57.699001Z"
   }
 }

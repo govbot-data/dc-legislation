@@ -40,6 +40,16 @@
       }
     },
     {
+      "description": "Notice of Intent to Act on B26-0808 Published in the District of Columbia Register",
+      "date": "2026-09-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-28T11:35:43Z"
+      }
+    },
+    {
       "description": "Notice of Public Hearing filed in the Office of Secretary by Human Services",
       "date": "2026-09-25T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -118,7 +128,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-26T10:13:49Z",
+    "logs_latest_update": "2026-09-28T11:35:43Z",
     "text_extraction_latest_update": "2026-09-26T10:15:21.855662Z"
   }
 }

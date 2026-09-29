@@ -82,6 +82,16 @@
       }
     },
     {
+      "description": "Committee Mark-up of B26-0700 by the Committee of the Whole",
+      "date": "2026-09-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T11:34:59Z"
+      }
+    },
+    {
       "description": "First Reading, CC",
       "date": "2026-09-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -161,7 +171,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-24T10:11:12Z",
+    "logs_latest_update": "2026-09-29T11:34:59Z",
     "text_extraction_latest_update": "2026-09-24T10:13:01.567903Z"
   }
 }

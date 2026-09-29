@@ -48,6 +48,28 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:08Z"
       }
+    },
+    {
+      "description": "Notice of Roundtable filed in the Office of Secretary",
+      "date": "2026-09-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T11:34:59Z"
+      }
+    },
+    {
+      "description": "Roundtable on PR26-0717",
+      "date": "2026-10-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T11:34:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -74,7 +96,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Notice of Roundtable filed in the Office of Secretary",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61895/Hearing_Notice/PR26-0717-Hearing_Notice1.pdf?Id=246367",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -94,7 +128,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:08Z",
+    "logs_latest_update": "2026-09-29T11:34:59Z",
     "text_extraction_latest_update": "2026-07-21T21:07:58.123031Z"
   }
 }

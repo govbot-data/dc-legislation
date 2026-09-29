@@ -1,0 +1,2488 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+September 21, 2026
+Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and enactment by the Council of the District of Columbia is an
+emergency bill, the “Contract No. CW130810 with Capitol Paving of D.C., Inc. and
+Modification Nos. M01 and M02, Approval and Payment Authorization Emergency Act of
+2026,” and the accompanying emergency declaration resolution.
+The legislation will approve emergency Contract No. CW130810 with Capitol Paving of D.C.,
+Inc. and Modification No. M01 and M02, to provide equipment and qualified operators for
+snow plowing and removal for the period from November 7, 2026 through November 6, 2027.
+The legislation will approve payment for the goods and services received and to be received
+under the contract in the not-to-exceed amount of $5,000,000.
+My administration is available to discuss any questions you may have regarding the proposed
+contract modification. In order to facilitate a response to any questions you may have, please have
+your staff contact Marc Scott, Chief Operating Officer, Office of Contracting and Procurement, at
+(202) 724-8759.
+I urge the Council to take prompt and favorable action on the enclosed legislation.
+Sincerely,
+Muriel Bowser
+
+~ = -
+1
+2
+3
+4 at the request of the 1byor
+5
+6 ABILL
+7
+8
+9
+10
+n..r
+11 THE COill.JCII.. OF THE DISTRICT OF COLillifBIA
+12
+13
+15
+16 To app ove, on au emergency basis, Contr11ct "'o. C\VB0810 il.rith Capitol Paving ofD.C., Inc.=-
+17 and,M odification No"l -lO 1 and M02 thereto, and to altthorize pay1nent for the goods and
+18 services :received md to be received tinder the contract and mod.ificatiom.
+19
+20 BE IT E_ -ACTED BY THE COUNCIL OF THE DISTRICT OF COLUl\.ffiIA~T hat this
+21 act may be cited as the "Contract No. CV/130810 ,.,.,-ith Capitol Paving of D .C ., me. and
+22 i\ifodification Nos. 1\,101 and ~,1[02 Approval md Paiyment Authorization Pmergency Act of
+23 2026.n
+24 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Ac~ approved
+25 December 24, 1913 (87 Stat. 803; D.C. Offic·ai Code§ 1-204.51), and nohviths1'mding the
+26 reQuirement.s of section 202 of the Procmement Practice.s Reform Act of 2010. effective nrjl 8.
+.L&.
+.. (' 6r,,.,,. ,r
+27 2011 (D.C. Law 8-371; D.C. Official Code§ 2-352.02), the Council aJ)pl"o,;res Contract}fo.
+28 C\V130810 with Capitol Paving ofD.C.:. Inc. md1vfodifictd:ronNos.1!01 and M02 thereto and
+29 authorizes piYilJ.ent in the amount of $5 million for the goods and service£ received and to be
+30 received under the contract and modifications.
+31 Sec. 3. Fis.ea) impact statement
+1
+
+32 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+33 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+34 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+35 Sec. 4. Effective date.
+36 This act shall take effect following approval by the Mayor (or in the event of veto by the
+37 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+38 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+39 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+40 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of Contracting and Procurement
+Pursuant to section 202(c-1) of the Procurement Practices Reform Act of 2010, as amended, D.C.
+Official Code § 2-352.02(c-1), the following contract summary is provided:
+COUNCIL CONTRACT SUMMARY
+(Retroactive)
+(A) Contract Number: CW130810
+Proposed Contractor: Capitol Paving of D.C., Inc.
+Proposed Contractor’s Principals: Frank Neto, Owner
+Luis Neto, President
+Randolph Panizo, Vice President
+Contract Amount: Estimated amount $5,000,000
+- Letter Contract: Not-to-Exceed (NTE) $1,000,000
+- Definitized Contract: Estimated amount $4,717,000
+- Modification M01: Estimated amount: $5,000,000
+(Increase)
+Unit and Method of Compensation: Fixed Unit Prices
+Term of Contract: November 7, 2025, through November 6, 2026
+Type of Contract: Requirements
+Source Selection Method: Invitation for Bids
+(B) For a contract containing option periods, the contract amount for the base period and for
+each option period. If the contract amount for one or more of the option periods differs from
+the amount for the base period, provide an explanation of the reason for the difference:
+Base Period Amount: Estimated amount $5,000,000
+Option Period One Amount: Estimated amount $5,000,000
+Explanation of difference from base period (if applicable): No change from base year as
+Modification M01 increases the estimated amount of all option years from $4,717,000 to
+$5,000,000.
+1
+
+Option Period Two Amount: Estimated amount $5,000,000
+Explanation of difference from base period (if applicable): There is no difference in the
+amounts.
+Option Period Three Amount: Estimated amount $5,000,000
+Explanation of difference from base period (if applicable): There is no difference in the
+amounts.
+Option Period Four Amount: Estimated amount $5,000,000
+Explanation of difference from base period (if applicable): There is no difference in the
+amounts.
+(C) The goods or services to be provided, the methods of delivering goods or services, and any
+significant program changes reflected in the proposed contract:
+The Contractor shall perform snow and ice removal services in accordance with the specifications
+in the scope of work to meet Department of Public Works (DPW) operational requirements.
+(D) The selection process, including the number of offerors, the evaluation criteria, and the
+evaluation results, including price, technical or quality, and past performance components:
+On September 17, 2025, the Office of Contracting and Procurement (OCP) issued the Invitation for
+Bid, Solicitation Doc791128 in eSourcing to 106 vendors, and received a response from only four
+bidders, Capitol Paving was one of the bidders, submitting the lowest bid. Capitol Paving of D.C.,
+Inc. was determined to be responsible and responsive.
+(E) A description of any bid protest related to the award of the contract, including whether the
+protest was resolved through litigation, withdrawal of the protest by the protestor, or
+voluntary corrective action by the District. Include the identity of the protestor, the grounds
+alleged in the protest, and any deficiencies identified by the District as a result of the protest:
+None.
+(F) A description of any other contracts the proposed contractor is currently seeking or holds
+with the District:
+The contractor holds several contracts including the following:
+Contract No. Description Total NTE
+Amount
+DCKA-2025-C-0024 For the civil construction of DC $17,847,643.40
+PLUG Feeder 15021
+DCKA-2025-C-0056 Rehabilitation of Aspen Street $9,500,000
+Improvement Project
+2
+
+DCKA-2025-C-0080-001 Citywide Traffic Safety Construction $10,000,000
+(G) The background and qualifications of the proposed contractor, including its organization,
+financial stability, personnel, and performance on past or current government or private
+sector contracts with requirements similar to those of the proposed contract:
+Capitol Paving of D.C., Inc. is a heavy highway construction firm that specializes in and operates a
+wide range of street and roadway construction services. Capitol Paving has been performing
+contracts for local, state, and federal government agencies, as well as private clients for over 30
+years. In addition, Capitol Paving has a record of satisfactory performance on previous District
+Department of Transportation (DDOT) projects.
+(H) The period of performance associated with the proposed change, including date as of which
+the proposed change is to be made effective:
+January 22, 2026, through May 16, 2026; January 22, 2026
+(I) The value of any work or services performed pursuant to a proposed change for which the
+Council has not provided approval, disaggregated by each proposed change if more than one
+proposed change has been aggregated for Council review:
+Letter Contract Award: NTE $1,000,000
+Definitized contract: Estimated amount of $4,717,000
+Modification M01: Estimated amount of $5,000,000
+(J) The aggregate dollar value of the proposed changes as compared with the amount of the
+contract as awarded:
+$5,000,000 Estimated
+(K) The date on which the contracting officer was notified of the proposed change:
+January 22, 2026
+(L) The reason why the proposed change was sent to Council for approval after it is intended to
+take effect:
+There was not sufficient time to seek Council approval first. The Mayor issued a Declaration of
+Public Emergency on January 23, 2026, under Mayor’s Order 2026‑005, within which a Snow
+Emergency beginning January 24, 2026, at noon was declared. This emergency declaration
+occurred in the middle of the standard internal routing process for submission to the Council. The
+emergency conditions required immediate action to ensure uninterrupted Department of Public
+Works operations, and there was a significant risk that the letter contract’s not‑to‑exceed limit of
+$1,000,000 would be insufficient to meet the operational demands of the Snow Emergency.
+3
+
+(M) The reason for the proposed change:
+The emergency conditions required immediate action to ensure uninterrupted Department of Public
+Works operations, and there was a significant risk that the letter contract’s not‑to‑exceed limit of
+$1,000,000 would be insufficient to meet the operational demands of the Snow Emergency.
+(N) The legal, regulatory, or contractual authority for the proposed change:
+D.C. Official Code § 2-352.02, 27 DCMR 3601.2, 2008.1
+(O) A certification that the proposed contractor has been determined not to violate section 334a of
+the Board of Ethics and Government Accountability Establishment and Comprehensive
+Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2) A
+certification from the proposed contractor that it currently is not and will not be in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+The contractor has certified, via the Bidder/Offeror Certification form, that it is (1) not in violation
+of section 334a of the Board of Ethics and Government Accountability Establishment and
+Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-1163.34a; and (2)
+currently is not and will not be in violation of section 334a of the Board of Ethics and Government
+Accountability Establishment and Comprehensive Ethics Reform Amendment Act of 2011, D.C.
+Official Code § 1-1163.34a.
+(P) A summary of the subcontracting plan required under section 2346 of the Small, Local, and
+Disadvantaged Business Enterprise Development and Assistance Act of 2005, as amended,
+D.C. Official Code § 2-218.01 et seq. (“Act”), including a certification that the subcontracting
+plan meets the minimum requirements of the Act and the dollar volume of the portion of the
+contract to be subcontracted, expressed both in total dollars and as a percentage of the total
+contract amount:
+Capitol Paving of D.C., Inc. is a Certified Business Enterprise (CBE) and will perform 100% of the
+work. Therefore, subcontracting is not required.
+(Q) Performance standards and the expected outcome of the proposed contract:
+The Contractor shall perform required snow and ice removal services in accordance with the terms
+and conditions indicated in the contract.
+(R) The amount and date of any expenditure of funds by the District pursuant to the contract
+prior to its submission to the Council for approval:
+$5,000,000 Estimated; January 22, 2026
+4
+
+(S) A certification that the proposed contract is within the appropriated budget authority for the
+agency for the fiscal year and is consistent with the financial plan and budget adopted in
+accordance with D.C. Official Code §§ 47-392.01 and 47-392.02:
+The Office of the Chief Financial Officer certified that funding is consistent with the financial plan
+and budget.
+(T) A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The Office of the Attorney General has determined the contract to be legally sufficient. The
+Contractor has no legal claims pending against the District.
+(U) A certification that the Citywide Clean Hands database indicates that the proposed contractor
+is current with its District taxes. If the Citywide Clean Hands Database indicates that the
+proposed contractor is not current with its District taxes, either: (1) a certification that the
+contractor has worked out and is current with a payment schedule approved by the District;
+or (2) a certification that the contractor will be current with its District taxes after the District
+recovers any outstanding debt as provided under D.C. Official Code § 2-353.01(b):
+A certification has been issued by the Citywide Clean Hands database that indicates that the
+contractor is current with its District taxes.
+(V) A certification from the proposed contractor that it is current with its federal taxes, or has
+worked out and is current with a payment schedule approved by the federal government:
+The contractor has self-certified its compliance with its federal taxes in Section 6.7 of the Bidder
+Offeror Certification Form.
+(W) The status of the proposed contractor as a certified local, small, or disadvantaged business
+enterprise as defined in the Small, Local, and Disadvantaged Business Enterprise
+Development and Assistance Act of 2005, as amended, D.C. Official Code § 2-218.01 et seq.:
+The contractor is a certified local business enterprise.
+(X) Other aspects of the proposed contract that the Chief Procurement Officer considers
+significant:
+None.
+(Y) A statement indicating whether the proposed contractor is currently debarred from providing
+services or goods to the District or federal government, the dates of the debarment, and the
+reasons for debarment:
+The Contractor is not debarred or excluded from providing services to the District or federal
+governments.
+5
+
+(Z) Any determination and findings issues relating to the contract’s formation, including any
+determination and findings made under D.C. Official Code § 2-352.05 (privatization
+contracts):
+Determination and Findings for Price Reasonableness
+Determination and Findings for Contractor Responsibility
+(AA) Where the contract, and any amendments or modifications, if executed, will be made
+available online:
+www.ocp.dc.gov
+(BB) Where the original solicitation, and any amendments or modifications, will be made
+available online:
+www.ocp.dc.gov
+6
+
+Government of the District of Columbia
+Office of the Chief Financial Officer 1101 4th Street, SW
+Office of Tax and Revenue Washington, DC 20024
+Date of Notice: September 3, 2026 Notice Number: L0017240975
+CAPITOL PAVING OF DC INC FEIN: **-***3117
+2211 CHANNING ST NE Case ID: 19085076
+WCASHINGTON DC 20018-2127
+CERTIFICATE OF CLEAN HANDS
+As reporOted in the Clean Hands system, the above referenced individual/entity has no outstanding
+liability with the District of Columbia Office of Tax and Revenue or the Department of Employment
+Services. As of the date above, the individual/entity has complied with DC Code § 47-2862, therefore
+this Certificate of Clean Hands is issued.
+P
+TITLE 47. TAXATION, LICENSING, PERMITS, ASSESSMENTS, AND FEES
+CHAPTER 28 GENERAL LICENSE
+SUBCHAPTER II. CLEAN HANDS BEFORE RECEIVING A LICENSE OR PERMIT
+Y
+D.C. CODE § 47-2862 (2006)
+§ 47-2862 PROHIBITION AGAINST ISSUANCE OF LICENSE OR PERMIT
+Authorized By Melinda Jenkins
+Branch Chief, Collection and Enforcement Administration
+To validate this certificate, please visit MyTax.DC.gov. On the MyTax DC homepage, click the
+“Validate a Certificate of Clean Hands” hyperlink under the Clean Hands section.
+1101 4th Street SW, Suite W270, Washington, DC 20024/Phone: (202) 724-5045/MyTax.DC.gov
+
+(cid:0)
+(cid:16)(cid:2)(cid:2)(cid:3)(cid:6)(cid:13)(cid:0)(cid:16)(cid:2)(cid:0)(cid:14)S(cid:13)(cid:0)(cid:6)S(cid:3)(cid:13)(cid:2)(cid:0)(cid:2)(cid:3)(cid:4)(cid:5)(cid:4)(cid:6)(cid:3)(cid:5)(cid:7)(cid:0)(cid:16)(cid:2)(cid:2)(cid:3)(cid:6)(cid:13)(cid:15)(cid:0)
+(cid:0) (cid:12)(cid:16)R(cid:13)(cid:15)(cid:4)1(cid:13)(cid:4)(cid:14)(cid:0)(cid:16)(cid:2)(cid:0)(cid:14)S(cid:13)(cid:0)(cid:9)(cid:3)8(cid:14)(cid:15)(cid:3)(cid:6)(cid:14)(cid:0)(cid:16)(cid:2)(cid:0)(cid:6)(cid:16)(cid:7)(cid:11)1(cid:10)(cid:3)(cid:5)(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:2)(cid:3)(cid:4)(cid:5)(cid:4)(cid:6)(cid:3)(cid:5)(cid:7)(cid:0)(cid:8)(cid:7)(cid:5)(cid:4)(cid:0)(cid:5)(cid:4)(cid:9)(cid:0)(cid:10)(cid:11)(cid:9)(cid:12)(cid:13)(cid:14)(cid:0)(cid:6)(cid:13)(cid:15)(cid:14)(cid:3)(cid:2)(cid:3)(cid:6)(cid:5)(cid:14)(cid:3)(cid:16)(cid:4)(cid:0)
+(cid:0)
+(cid:6)(cid:16)(cid:4)(cid:14)(cid:15)(cid:5)(cid:6)(cid:14)(cid:0)(cid:4)(cid:16)(cid:17)(cid:18)(cid:0)(cid:0) (cid:0) (cid:0) (cid:19)(cid:20)(cid:21)(cid:22)(cid:23)(cid:24)(cid:21)(cid:23)(cid:0)
+(cid:0) (cid:0) (cid:0) (cid:0) (cid:0)
+(cid:6)(cid:5)(cid:8)(cid:14)(cid:3)(cid:16)(cid:4)(cid:18)(cid:0)(cid:0) (cid:0) (cid:0) (cid:0) (cid:25)(cid:26)(cid:27)(cid:28)(cid:0)(cid:29)(cid:26)(cid:30)(cid:0)(cid:31) !(cid:0)"!#(cid:27)$(cid:29)%(cid:0)(cid:25)!&$’ !((cid:0))*(cid:29)+’(cid:27)(cid:26)(cid:29)%(cid:0)
+,’-.(cid:28)(cid:29)/(cid:0)(cid:25)/(+!#0(cid:0)
+(cid:0)
+(cid:6)(cid:16)(cid:4)(cid:14)(cid:15)(cid:5)(cid:6)(cid:14)(cid:16)(cid:15)(cid:0)(cid:4)(cid:5)1(cid:13)(cid:18)(cid:0)(cid:0)(cid:0) (cid:0) (cid:19)(cid:29)2’+(cid:27)%(cid:0)3(cid:29)$’(cid:26)-(cid:0)(cid:27)4(cid:0)56(cid:19)67(cid:0)(cid:31)(cid:26) 6(cid:0)(cid:0) (cid:0) (cid:0)
+(cid:0) (cid:0) (cid:0) (cid:0) (cid:0)
+(cid:8)(cid:15)(cid:16)(cid:8)(cid:16)8(cid:13)(cid:9)(cid:0)(cid:6)(cid:16)(cid:4)(cid:14)(cid:15)(cid:5)(cid:6)(cid:14)(cid:0)(cid:5)1(cid:16)(cid:11)(cid:4)(cid:14)9(cid:0) :;7(cid:23)(cid:23)(cid:23)7(cid:23)(cid:23)(cid:23)(cid:0)
+(cid:0) (cid:0) (cid:0) (cid:0) (cid:0)
+(cid:16)(cid:15)(cid:12)(cid:5)(cid:4)(cid:3)<(cid:5)(cid:14)(cid:3)(cid:16)(cid:4)(cid:0)(cid:6)(cid:16)(cid:9)(cid:13)(cid:18)(cid:0)(cid:0) (cid:0) =>(cid:23)(cid:0)
+(cid:0)
+(cid:0)
+(cid:8)(cid:13)(cid:15)(cid:3)(cid:16)(cid:9)(cid:0)(cid:16)(cid:2)(cid:0)(cid:8)(cid:13)(cid:15)(cid:2)(cid:16)(cid:15)1(cid:5)(cid:4)(cid:6)(cid:13)(cid:18)(cid:0)(cid:0) ?&(cid:27)#(cid:0)5(cid:29)+!(cid:0)(cid:27)4(cid:0)@(cid:28)(cid:29)&(cid:30)(cid:0)>.&(cid:27)A-.(cid:0)B(cid:26)!(cid:0)C!(cid:29)&(cid:0)@4+!&
+(cid:0)
+>.!(cid:0)B44’ !(cid:0)(cid:27)4(cid:0)+.!(cid:0)(cid:19).’!4(cid:0)?’(cid:26)(cid:29)(cid:26) ’(cid:29)%(cid:0)B44’ !&(cid:0))B(cid:19)?B0(cid:0) !&+’4’!((cid:0)+.!(cid:0)2&(cid:27)2(cid:27)(!(cid:30)(cid:0) (cid:27)(cid:26)+&(cid:29) +(cid:0)4A(cid:26)(cid:30)’(cid:26)-(cid:0)
+’(cid:26)(cid:0)+.!(cid:0)(cid:29)#(cid:27)A(cid:26)+(cid:0)(cid:27)4(cid:0):D7(cid:24);(cid:22)7(cid:23);E6(cid:21)D(cid:0)’((cid:0)(cid:29)$(cid:29)’%(cid:29)F%!(cid:0)(cid:26)(cid:27)(cid:28)(cid:0)(cid:28)’+.’(cid:26)(cid:0)+.!(cid:0)5!2(cid:29)&+#!(cid:26)+(cid:0)(cid:27)4(cid:0)3AF%’ (cid:0)(cid:20)(cid:27)&G((cid:0)
+)53(cid:20)0(cid:0)FA(cid:30)-!+(cid:0)4(cid:27)&(cid:0)((cid:26)(cid:27)(cid:28)(cid:0)(cid:29)(cid:26)(cid:30)(cid:0)’ !(cid:0)&!#(cid:27)$(cid:29)%(cid:0)(!&$’ !((cid:0))*(cid:29)+’(cid:27)(cid:26)(cid:29)%(cid:0),’-.(cid:28)(cid:29)/(cid:0)(cid:25)/(+!#06(cid:0)?A+A&!(cid:0)
+4A(cid:26)(cid:30)’(cid:26)-(cid:0)(cid:29)F(cid:27)$!(cid:0)+.!(cid:0)(cid:29)$(cid:29)’%(cid:29)F%!(cid:0)(cid:29)#(cid:27)A(cid:26)+(cid:0)’((cid:0) (cid:27)(cid:26)+’(cid:26)-!(cid:26)+(cid:0)A2(cid:27)(cid:26)(cid:0)+.!(cid:0)’(cid:30)!(cid:26)+’4’ (cid:29)+’(cid:27)(cid:26)(cid:0)(cid:27)4(cid:0)(cid:29)(cid:30)(cid:30)’+’(cid:27)(cid:26)(cid:29)%(cid:0)
+4A(cid:26)(cid:30)’(cid:26)-6(cid:0)>.!(cid:0)(!&$’ !(cid:0)’((cid:0)(cid:28)’+.’(cid:26)(cid:0)+.!(cid:0)(cid:29)22&(cid:27)2&’(cid:29)+!(cid:30)(cid:0)FA(cid:30)-!+(cid:0)(cid:29)A+.(cid:27)&’+/(cid:0)4(cid:27)&(cid:0)+.!(cid:0)(cid:29)-!(cid:26) /(cid:0)(cid:29)(cid:26)(cid:30)(cid:0)’((cid:0)
+(cid:27)(cid:26)(’(+!(cid:26)+(cid:0)(cid:28)’+.(cid:0)+.!(cid:0)4’(cid:26)(cid:29)(cid:26) ’(cid:29)%(cid:0)2%(cid:29)(cid:26)(cid:0)(cid:29)(cid:26)(cid:30)(cid:0)FA(cid:30)-!+(cid:0)(cid:29)(cid:30)(cid:27)2+!(cid:30)(cid:0)’(cid:26)(cid:0)(cid:29) (cid:27)&(cid:30)(cid:29)(cid:26) !(cid:0)(cid:28)’+.H(cid:0)EIJ(cid:22)KD6(cid:23)(cid:21)(cid:0)(cid:29)(cid:26)(cid:30)(cid:0)
+EIJ(cid:22)KD6(cid:23)D6(cid:0)(cid:0)
+(cid:0)
+@(cid:30)(cid:30)’+’(cid:27)(cid:26)(cid:29)%(cid:0)4A(cid:26)(cid:30)’(cid:26)-(cid:0)’((cid:0) (cid:27)(cid:26)+’(cid:26)-!(cid:26)+(cid:0)A2(cid:27)(cid:26)(cid:0)FA(cid:30)-!+(cid:0)(cid:29)A+.(cid:27)&’+/(cid:0)(cid:29)22&(cid:27)$(cid:29)%(cid:0)?CDL(cid:0)2(cid:27)&+’(cid:27)(cid:26)(cid:0)(cid:27)4(cid:0)+.!(cid:0)
+(cid:27)(cid:26)+&(cid:29) +(cid:0)):D7(cid:21)EL7KE;6(cid:24)(cid:24)0(cid:0)’((cid:0)(AFM! +(cid:0)+(cid:27)(cid:0)4A+A&!(cid:0)(cid:29)22&(cid:27)2&’(cid:29)+’(cid:27)(cid:26)6(cid:0)
+(cid:0)
+(cid:0)
+(cid:31)4(cid:0)/(cid:27)A(cid:0).(cid:29)$!(cid:0)(cid:29)(cid:26)/(cid:0)NA!(+’(cid:27)(cid:26)((cid:0) (cid:27)(cid:26) !&(cid:26)’(cid:26)-(cid:0)+.’((cid:0) !&+’4’ (cid:29)+’(cid:27)(cid:26)7(cid:0)2%!(cid:29)(!(cid:0) (cid:27)(cid:26)+(cid:29) +(cid:0)3!&&/(cid:0)?’+O2(cid:29)+&’ G7(cid:0)
+@-!(cid:26) /(cid:0)?’( (cid:29)%(cid:0)B44’ !&7(cid:0)(cid:29)+(cid:0)2!&&/64’+O2(cid:29)+&’ GP(cid:30) 6-(cid:27)$(cid:0)6
+(cid:0)
+a(cid:0)bccd(cid:0)efghijgcfkl
+mnopqormrs
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ(cid:0) (cid:0) QQQQQQQQQQQQQQQQQQQQQQQQQQQQQ(cid:0)
+3!&&/(cid:0)?’+O2(cid:29)+&’ G7(cid:0)@?B(cid:0) (cid:0) (cid:0) (cid:0) 5(cid:29)+!(cid:0)
+TUVWXYZ[\](cid:0)
+^_XU‘]tuvvwxyz{|t}{vz~(cid:127)(cid:128)(cid:129)(cid:130)x(cid:131)(cid:132)(cid:133)
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+Office of the Attorney General
+ATTORNEY GENERAL
+BRIAN L. SCHWALB
+Commercial Division
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Robert Schildkraut
+Section Chief
+Government Contracts Section
+DATE: June 15, 2026
+SUBJECT: Approval of Retroactive Contract Over One Million Dollar
+Snow and Ice Removal Services (National Highway System)
+Contract No. CW130810/ Mod Nos. 001 and 002
+Contractor: Capitol Paving of D.C. Inc.
+Total Estimated Amount: $5,000,000.00
+This is to Certify that this Office has reviewed the above-referenced Contract. To the
+extent OAG is being requested to review the contents of the contract action the contents
+are found to be legally sufficient. The process used to enter in this contract violated the
+requirements of DC Code § 2–352.02. (Criteria for Council review of multiyear contracts
+and contracts in excess of $1 million) because the parties agreed the value of the base
+period of the contract would potentially be more than $1,000,000 during a twelve-month
+period, before receiving Council approval. The legislation included with this contract
+action was written to remedy this deficiency.
+_________________________________
+Robert Schildkraut
+
+Government of the District of Columbia
+Office of Contracting and Procurement
+November 7, 2025
+Capitol Paving of DC
+2211 Channing Street NE
+PO Box 41248
+Washington, DC 20018
+Subject: Letter Contract
+Caption: Snow and Ice Removal Services (National Highway Systems)
+Contract: CW130810
+Dear Dr. Neto:
+This is a letter contract between the District of Columbia (District) and Capitol Paving of DC
+wherein Contractor agrees to perform the services set forth as detailed in proposed contract. It is
+the District’s intent to award the definitized contract pending approval of the Council of the District
+of Columbia.
+The District intends to definitize this letter contract within 90 days of the date of award of this
+letter contract (the date the Contracting Officer signs this letter contract), at which time this letter
+contract shall merge with the definitized contract. Before the expiration of the 90 days, the
+Contracting Officer may authorize an additional period in accordance with section 2425.9 of the
+procurements regulations, 27 DCMR, Chapter 24, Section 2425.9 (1988). If the District does not
+definitize this letter contract within 90 days of the date of award of this letter contract or any
+extensions thereof, this letter contract shall expire. In the event of expiration of this letter contract,
+the District shall pay contractor for the services performed under this letter contract in an amount
+not to exceed $1,000,000.
+The award amount of this letter contract is not-to-exceed $1,000,000. In no event shall the amount
+paid under this letter contract, or any extensions thereof, exceed 50% of the total definitized
+contract amount.
+The definitized contract shall be merged with this letter contract once approved by the DC City
+Council and award is made. The District shall pay the contractor for the services performed during
+the duration of the Definitized contract in an amount not to exceed $4,717,000.
+
+Contractor shall perform under this letter contract pursuant to the terms of the following
+documents, which are hereby incorporated by reference and made a part of this letter contract:
+• Definitized Contract including all Appendices
+• Contractor Bid dated October 28, 2025
+• Standard Contract Provisions
+In the event of a conflict among the incorporated documents, the conflict shall be resolved by
+giving precedence to the documents in the order listed above.
+This Letter Contract shall be subject to appropriation of funds.
+Signatures:
+_____________________________________________ _1_1__/_7_/_2_0__2_5______
+Capitol Paving of DC Date
+_____________________________________________ _1_1_/7_/_2_0_2_5_________
+Shawn Brooks Date
+Deputy Chief Contracting Officer
+Enclosures
+
+1. Contract Number Page of Pages
+CW130810 1 1
+AMENDMENT OF SOLICITATION / MODIFICATION OF CONTRACT
+2. Amendment/Modification Number 3. Effective Date 4. Requisition/Purchase Request 5. Solicitation Caption
+No.
+Snow and Ice Removal
+M01 See Block 16C
+Services (NHS)
+6. Issued by: Code 7. Administered by (If other than line 6)
+Office of Contracting and Procurement Department of Public Works
+899 North Capitol, NE, 5th Floor Solid Waste Management Administration
+Washington, DC 20002 District of Columbia Government
+899 North Capitol St NE, Fifth Floor
+8. Name and Address of Contractor (No. Street, city, county, state and zip code) 9A. Amendment of Solicitation No.
+Capitol Paving of D.C., Inc.
+2211 Channing Street, N.E., 9B. Dated (See Item 11)
+P.O. Box 41248,
+Washington, D.C. 20018 X 10A. Modification of Contractor/Order No.
+CW130810
+10B. Dated (See Item 13)
+Code Facility January 22, 2026
+11. THIS ITEM ONLY APPLIES TO AMENDMENTS OF SOLICITATIONS
+The above numbered solicitation is amended as set forth in item 14. The hour and date specified for receipt of Offers is extended. is not extended.
+Offers must acknowledge receipt of this amendment prior to the hour and date specified in the solicitation or as amended, by one of the following methods:
+(a) By completing Items 8 and 15, and returning 1 copies of the amendment: (b) By acknowledging receipt of this amendment on each copy of the offer submitted;
+or (c) BY separate letter or fax which includes a reference to the solicitation and amendment number. FAILURE OF YOUR ACKNOWLEDGMENT TO BE
+RECEIVED AT THE PLACE DESIGNATED FOR THE RECEIPT OF OFFERS PRIOR TO THE HOUR AND DATE SPECIFIED MAY RESULT IN REJECTION OF
+YOUR OFFER. If by virtue of this amendment you desire to change an offer already submitted, such may be made by letter or fax, provided each letter or
+telegram makes reference to the solicitation and this amendment, and is received prior to the opening hour and date specified.
+12. Accounting and Appropriation Data (If Required):
+13. THIS ITEM APPLIES ONLY TO MODIFICATIONS OF CONTRACTORS/ORDERS,
+IT MODIFIES THE CONTRACT/ORDER NO. AS DESCRIBED IN ITEM 14
+X A. This change order is issued pursuant to (Specify Authority): 27 DCMR, Chapter 36, Section 3601.2
+The changes set forth in Item 14 are made in the contract/order no. in item 10A.
+B. The above numbered contract/order is modified to reflect the administrative changes (such as changes in paying office, appropriation data
+etc.) set forth in item 14, pursuant to the authority of 27 DCMR, Chapter 36, Section 3601.3
+C. This supplemental agreement is entered into pursuant to authority of:
+D. Other (Specify type of modification and authority)
+27 DCMR 2008 Exercise of an Option
+E. IMPORTANT: Contractor is not is required to sign this document and return 1 copy to the issuing office.
+14. Description of Amendment/Modification (Organized by UCF Section headings, including solicitation/contract subject matter where feasible.)
+The modification to CW130810 hereby increases the contract ceiling of the base year and all option years
+from $4.717.000 by $283,000 for a total contract ceiling of $5,000,000.
+All other prices, terms, and conditions remain firm.
+Except as provided herein, all terms and conditions of the document referenced in item (9A or 10A) remain unchanged and in full force and effect.
+15A. Name and Title of Signer (Type or print) 16A. Name of Contracting Officer
+Randolph B. Panizo - Vice President Shawn Brooks
+15B. Name of Contractor 15C. Date Signed 16B. District of Columbia 16C. Date Signed
+6 /1/2026 Tamera Anderson
+for Shawn Brooks 05/14/2026
+(Signature) (Signature of Contracting Officer)
+
+(cid:12)(cid:13)(cid:0)(cid:14)(cid:15)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:17)(cid:0)(cid:21)(cid:22)(cid:23)(cid:24)(cid:25)(cid:18) (cid:26)(cid:19)(cid:27)(cid:25)(cid:0)(cid:15)(cid:28)(cid:0)(cid:26)(cid:19)(cid:27)(cid:25)(cid:29)(cid:0)
+(cid:0)#(cid:2)(cid:13)(cid:0)$(cid:3)(cid:23)(cid:25)(cid:4)(cid:16)%(cid:5)(cid:23)(cid:6)(cid:25)(cid:5)(cid:16)(cid:7)(cid:17)&’(cid:8)(cid:15)(cid:9)%((cid:28)(cid:5)((cid:20)(cid:3)(cid:19)(cid:17)(cid:10)((cid:15)(cid:16)(cid:0)(cid:0)(cid:3)(cid:21)(cid:22)(cid:6)(cid:23)(cid:0)(cid:24)(cid:7)(cid:25)(cid:18)(cid:3)(cid:0)(cid:10)(cid:9))(cid:11)(cid:13)(cid:0)*(cid:8)(cid:28)(cid:28)(cid:7)(cid:25)(cid:20)(cid:9)(cid:17)(+(cid:0)(cid:25)(cid:0),(cid:19)(cid:17)(cid:25)(cid:0) -(cid:13)(cid:0).(cid:25)/(cid:22)((cid:29)((cid:17)((cid:15)(cid:16)&(cid:26)(cid:22)(cid:18)(cid:20)0(cid:19)(cid:29)(cid:25)(cid:0).(cid:25)/(cid:22)(cid:25)(cid:29)(cid:17)(cid:0)(cid:21)(cid:15)(cid:13)(cid:0) 1(cid:13)(cid:0)2(cid:15)3((cid:20)((cid:17)(cid:19)(cid:17)((cid:15)(cid:16)(cid:0)(cid:14)(cid:19)4(cid:17)((cid:15)(cid:16)(cid:0)
+(cid:0) (cid:12)(cid:0) #(cid:0)
+(cid:0)
+(cid:7)(cid:30)(cid:31) !"(cid:31)!
+(cid:0)
+(cid:0) 9:;<(cid:0)=:>(cid:0)(cid:5)?@(cid:0)(cid:11)@A;B=C(cid:0)
+(cid:2)8(cid:13)(cid:0)N!(cid:29)(cid:29)5(cid:22)(cid:25)(cid:0)%(cid:0)(cid:24)OP(cid:0) (cid:0)(cid:0)(cid:0)2(cid:25)(cid:25)(cid:0)63(cid:15)(cid:20)7 (cid:14) (cid:0)(cid:12) (cid:15) 8 %(cid:25) (cid:14) (cid:0) (cid:0) (cid:0) (cid:0) (cid:0) (cid:0)(cid:0)(cid:0)Q(cid:0)(cid:13)(cid:0)(cid:0)(cid:0)$%(cid:23)((cid:16)((cid:29)(cid:17)(cid:25)(cid:18)(cid:25)%(cid:0)(cid:24)O(cid:0)RN(cid:28)(cid:0)(cid:15)(cid:17)0(cid:25)(cid:18)(cid:0)(cid:17)0(cid:19)(cid:16)(cid:0)3((cid:16)(cid:25)(cid:0)8S(cid:0) 9@DBE?@F(cid:0)G(cid:10)=HE;:=C(cid:0)
+(cid:17)0
+IEJK<=L(cid:0)9LFH@AM(cid:0)
+(cid:17)0
+,(cid:25)4(cid:19)(cid:18)(cid:17)(cid:23)(cid:25)(cid:16)(cid:17)(cid:0)(cid:15)(cid:28)(cid:0)(cid:26)(cid:22)(cid:24)3((cid:20)(cid:0)V(cid:15)(cid:18)7(cid:29)(cid:0)
+T(cid:0)(cid:28)(cid:28)((cid:20)(cid:25)(cid:0)(cid:15)(cid:28)(cid:0)(cid:14)(cid:15)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:17)((cid:16)(cid:27)(cid:0)(cid:19)(cid:16)%(cid:0)(cid:26)(cid:18)(cid:15)(cid:20)(cid:22)(cid:18)(cid:25)(cid:23)(cid:25)(cid:16)(cid:17)U(cid:0)(cid:0) XYY(cid:0)(cid:21)(cid:15)(cid:18)(cid:17)0(cid:0)(cid:14)(cid:19)4((cid:17)(cid:15)3(cid:0)2(cid:17)(cid:18)(cid:25)(cid:25)(cid:17)U(cid:0)1(cid:0)Z3(cid:15)(cid:15)(cid:18)(cid:0)
+R(cid:21)(cid:15)(cid:13)(cid:0)(cid:29)(cid:17)(cid:18)(cid:25)(cid:25)(cid:17)U(cid:0)(cid:20)((cid:17)OU(cid:0)(cid:20)(cid:15)(cid:22)(cid:16)(cid:17)OU(cid:0)(cid:29)(cid:17)(cid:19)(cid:17)(cid:25)(cid:0)(cid:19)(cid:16)%(cid:0)[(4(cid:0)(cid:20)(cid:15)%(cid:25)S(cid:0)
+-X(cid:13)-(cid:0)(cid:21)(cid:12)(cid:19)(cid:23)(cid:0)-(cid:25)(cid:0)(cid:19)(cid:16)(cid:0)2%(cid:0)$(cid:17)(cid:18)%(cid:25)%(cid:25)(cid:18)(cid:25)(cid:17)(cid:29)U(cid:29)(cid:0)(cid:0)(cid:21)(cid:15)(cid:28)(cid:0)V(cid:14)(cid:15)(cid:16)U(cid:17)(cid:0)(cid:18)2(cid:19)(cid:20)(cid:22)(cid:17)(cid:15)((cid:18)(cid:17)(cid:0)(cid:25)(cid:0)QWW(cid:0)2(cid:15)(cid:22)(cid:17)0(cid:0)
+V(cid:19)(cid:29)
+(cid:0)
+0((cid:16)(cid:27)
+Y$
+(cid:17)(cid:15)
+(cid:13)(cid:0)
+(cid:16)
+$
+U
+(cid:23)
+(cid:0),
+(cid:25)(cid:16)
+(cid:14)
+%(cid:23)
+(cid:0)(cid:0)
+(cid:25)
+#
+(cid:16)
+W
+(cid:17)(cid:0)(cid:15)
+W
+(cid:28)
+W
+(cid:0)2
+#
+(cid:15)3((cid:20)((cid:17)(cid:19)(cid:17)((cid:15)(cid:16)(cid:0)(cid:21)(cid:15)(cid:13)(cid:0)(cid:10)i(cid:8)(cid:0)
+(cid:0)
+(cid:0)
+V(cid:19)(cid:29)0((cid:16)(cid:27)(cid:17)(cid:15)(cid:16)U(cid:0),(cid:13)(cid:14)(cid:13)(cid:0)(cid:0)#WWW(cid:12)(cid:0)
+(cid:0) Y6(cid:13)(cid:0),(cid:19)(cid:17)(cid:25)%(cid:0)R2(cid:25)(cid:25)(cid:0)N(cid:17)(cid:25)(cid:23)(cid:0)(cid:12)(cid:12)S(cid:0)
+(cid:0) (cid:0)
+(cid:0)(cid:0) (cid:0) (cid:12)W$(cid:13)(cid:0)’(cid:15)%((cid:28)((cid:20)(cid:19)(cid:17)((cid:15)(cid:16)(cid:0)(cid:15)(cid:28)(cid:0)(cid:14)(cid:15)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:17)&T(cid:18)%(cid:25)(cid:18)(cid:0)(cid:21)(cid:15)(cid:13)(cid:0)
+j(cid:0)
+(cid:7)=\EH;C(cid:0)]=BE:J(cid:0)
+55(cid:31)(cid:31)(cid:0)(cid:7)K=::E:J(cid:0)9HD@@H(cid:0)(cid:10)^(cid:0) (cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+](cid:3)(cid:0)_;‘(cid:0)a(cid:31)5a"(cid:0) (cid:0)
+(cid:30)(cid:0)=FKE:(cid:0)JH;:b(cid:0)(cid:4)(cid:7)(cid:0)(cid:0)5!!(cid:31)"(cid:0) (cid:0)(cid:0) (cid:0) (cid:12) (cid:14) W V 6(cid:13)(cid:0), (cid:12) (cid:19) ) (cid:17)(cid:25) W %(cid:0) X R2 (cid:12) (cid:25)(cid:25) W (cid:0)N(cid:17)(cid:25)(cid:23)(cid:0)(cid:12))S(cid:0)
+c(cid:14)d(cid:15)%E(cid:25)F(cid:0)(cid:0)(cid:0)(cid:0)_(cid:0)(cid:0)D=A=;(cid:0)(cid:0) Z(cid:19)(cid:20)(3((cid:17)O(cid:0)(cid:0) (cid:0)
+^A=ECe(cid:0)CdEFfgD=A=;h?=\EH;C(cid:12)\(cid:12)(cid:13)=(cid:0)kBlEN:2(cid:0)JNkf*?’;A(cid:0)T(cid:21)cm(cid:0)$(cid:26)(cid:26)cN*2(cid:0)kT(cid:0)$’*(cid:21),’*(cid:21)k2(cid:0)TZ(cid:0)2TcN(cid:14)Nk$kNT(cid:21)2(cid:0)
+k0(cid:25)(cid:0)(cid:19)(cid:24)(cid:15)+(cid:25)(cid:0)(cid:16)(cid:22)(cid:23)(cid:24)(cid:25)(cid:18)(cid:25)%(cid:0)(cid:29)(cid:15)3((cid:20)((cid:17)(cid:19)(cid:17)((cid:15)(cid:16)(cid:0)((cid:29)(cid:0)(cid:19)(cid:23)(cid:25)(cid:16)%(cid:25)%(cid:0)(cid:19)(cid:29)(cid:0)(cid:29)(cid:25)(cid:17)(cid:0)(cid:28)(cid:15)(cid:18)(cid:17)0(cid:0)((cid:16)(cid:0)((cid:17)(cid:25)(cid:23)(cid:0)(cid:12)-(cid:13)(cid:0)(cid:0)k0(cid:25)(cid:0)0(cid:15)(cid:22)(cid:18)(cid:0)(cid:19)(cid:16)%(cid:0)%(cid:19)(cid:17)(cid:25)(cid:0)(cid:29)4(cid:25)(cid:20)((cid:28)((cid:25)%(cid:0)(cid:28)(cid:15)(cid:18)(cid:0)(cid:18)(cid:25)(cid:20)(cid:25)(4(cid:17)(cid:0)(cid:15)(cid:28)(cid:0)T(cid:28)(cid:28)(cid:25)(cid:18)(cid:29)(cid:0)(cid:0) (cid:0)((cid:29)(cid:0)(cid:25)n(cid:17)(cid:25)(cid:16)%(cid:25)%(cid:13)(cid:0) ((cid:29)(cid:0)(cid:16)(cid:15)(cid:17)(cid:0)(cid:25)n(cid:17)(cid:25)(cid:16)%(cid:25)%(cid:13)(cid:0)
+(cid:12)&##&#W#8(cid:0)
+T(cid:28)(cid:28)(cid:25)(cid:18)(cid:29)(cid:0)(cid:23)(cid:22)(cid:29)(cid:17)(cid:0)(cid:19)(cid:20)7(cid:16)(cid:15)o3(cid:25)%(cid:27)(cid:25)(cid:0)(cid:18)(cid:25)(cid:20)(cid:25)(4(cid:17)(cid:0)(cid:15)(cid:28)(cid:0)(cid:17)0((cid:29)(cid:0)(cid:19)(cid:23)(cid:25)(cid:16)%(cid:23)(cid:25)(cid:16)(cid:17)(cid:0)4(cid:18)((cid:15)(cid:18)(cid:0)(cid:17)(cid:15)(cid:0)(cid:17)0(cid:25)(cid:0)0(cid:15)(cid:22)(cid:18)(cid:0)(cid:19)(cid:16)%(cid:0)%(cid:19)(cid:17)(cid:25)(cid:0)(cid:29)4(cid:25)(cid:20)((cid:28)((cid:25)%(cid:0)((cid:16)(cid:0)(cid:17)0(cid:25)(cid:0)(cid:29)(cid:15)3((cid:20)((cid:17)(cid:19)(cid:17)((cid:15)(cid:16)(cid:0)(cid:15)(cid:18)(cid:0)(cid:19)(cid:29)(cid:0)(cid:19)(cid:23)(cid:25)(cid:16)%(cid:25)%U(cid:0)(cid:24)O(cid:0)(cid:15)(cid:16)(cid:25)(cid:0)(cid:15)(cid:28)(cid:0)(cid:17)0(cid:25)(cid:0)(cid:28)(cid:15)33(cid:15)o((cid:16)(cid:27)(cid:0)(cid:23)(cid:25)(cid:17)0(cid:15)%(cid:29)P(cid:0)
+(cid:0)
+(cid:0)R(cid:19)S(cid:0)6O(cid:0)(cid:20)(cid:15)(cid:23)43(cid:25)(cid:17)((cid:16)(cid:27)(cid:0)N(cid:17)(cid:25)(cid:23)(cid:29)(cid:0)X(cid:0)(cid:19)(cid:16)%(cid:0)(cid:12)1U(cid:0)(cid:19)(cid:16)%(cid:0)(cid:18)(cid:25)(cid:17)(cid:22)(cid:18)(cid:16)((cid:16)(cid:27)(cid:0)ppppppppp(cid:0)(cid:20)(cid:15)4((cid:25)(cid:29)(cid:0)(cid:15)(cid:28)(cid:0)(cid:17)0(cid:25)(cid:0)(cid:19)(cid:23)(cid:25)(cid:16)%(cid:23)(cid:25)(cid:16)(cid:17)P(cid:0)R(cid:24)S(cid:0)6O(cid:0)(cid:19)(cid:20)7(cid:16)(cid:15)o3(cid:25)%(cid:27)((cid:16)(cid:27)(cid:0)(cid:18)(cid:25)(cid:20)(cid:25)(4(cid:17)(cid:0)(cid:15)(cid:28)(cid:0)(cid:17)0((cid:29)(cid:0)(cid:19)(cid:23)(cid:25)(cid:16)%(cid:23)(cid:25)(cid:16)(cid:17)(cid:0)(cid:15)(cid:16)(cid:0)(cid:25)(cid:19)(cid:20)0(cid:0)(cid:20)(cid:15)4O(cid:0)(cid:15)(cid:28)(cid:0)(cid:17)0(cid:25)(cid:0)(cid:15)(cid:28)(cid:28)(cid:25)(cid:18)(cid:0)(cid:29)(cid:22)(cid:24)(cid:23)((cid:17)(cid:17)(cid:25)%q(cid:0)(cid:15)(cid:18)(cid:0)R(cid:20)S(cid:0)
+6m(cid:0)(cid:29)(cid:25)4(cid:19)(cid:18)(cid:19)(cid:17)(cid:25)(cid:0)3(cid:25)(cid:17)(cid:17)(cid:25)(cid:18)(cid:0)(cid:15)(cid:18)(cid:0)(cid:28)(cid:19)n(cid:0)o0((cid:20)0(cid:0)((cid:16)(cid:20)3(cid:22)%(cid:25)(cid:29)(cid:0)(cid:19)(cid:0)(cid:18)(cid:25)(cid:28)(cid:25)(cid:18)(cid:25)(cid:16)(cid:20)(cid:25)(cid:0)(cid:17)(cid:15)(cid:0)(cid:17)0(cid:25)(cid:0)(cid:29)(cid:15)3((cid:20)((cid:17)(cid:19)(cid:17)((cid:15)(cid:16)(cid:0)(cid:19)(cid:16)%(cid:0)(cid:19)(cid:23)(cid:25)(cid:16)%(cid:23)(cid:25)(cid:16)(cid:17)(cid:0)(cid:16)(cid:22)(cid:23)(cid:24)(cid:25)(cid:18)(cid:13)(cid:0)(cid:0)Z$Ncr.*(cid:0)TZ(cid:0)mTr.(cid:0)$(cid:14)s(cid:21)TVc*,t’*(cid:21)k(cid:0)kT(cid:0)6*(cid:0).*(cid:14)*Nu*,(cid:0)$k(cid:0)kl*(cid:0)
+(cid:26)c$(cid:14)*(cid:0),*2Nt(cid:21)$k*,(cid:0)ZT.(cid:0)kl*(cid:0).*(cid:14)*N(cid:26)k(cid:0)TZ(cid:0)TZZ*.2(cid:0)(cid:26).NT.(cid:0)kT(cid:0)kl*(cid:0)lTr.(cid:0)$(cid:21),(cid:0),$k*(cid:0)2(cid:26)*(cid:14)NZN*,(cid:0)’$m(cid:0).*2rck(cid:0)N(cid:21)(cid:0).*v*(cid:14)kNT(cid:21)(cid:0)TZ(cid:0)mTr.(cid:0)TZZ*.(cid:13)(cid:0)(cid:0)N(cid:28)(cid:0)(cid:24)O(cid:0)+((cid:18)(cid:17)(cid:22)(cid:25)(cid:0)
+(cid:15)(cid:28)(cid:0)(cid:17)0((cid:29)(cid:0)(cid:19)(cid:23)(cid:25)(cid:16)%(cid:23)(cid:25)(cid:16)(cid:17)(cid:0)O(cid:15)(cid:22)(cid:0)%(cid:25)(cid:29)((cid:18)(cid:25)(cid:0)(cid:17)(cid:15)(cid:0)(cid:20)0(cid:19)(cid:16)(cid:27)(cid:25)(cid:0)(cid:19)(cid:16)(cid:0)(cid:15)(cid:28)(cid:28)(cid:25)(cid:18)(cid:0)(cid:19)3(cid:18)(cid:25)(cid:19)%O(cid:0)(cid:29)(cid:22)(cid:24)(cid:23)((cid:17)(cid:17)(cid:25)%U(cid:0)(cid:29)(cid:22)(cid:20)0(cid:0)(cid:23)(cid:19)O(cid:0)(cid:24)(cid:25)(cid:0)(cid:23)(cid:19)%(cid:25)(cid:0)(cid:24)O(cid:0)3(cid:25)(cid:17)(cid:17)(cid:25)(cid:18)(cid:0)(cid:15)(cid:18)(cid:0)(cid:28)(cid:19)nU(cid:0)4(cid:18)(cid:15)+(%(cid:25)%(cid:0)(cid:25)(cid:19)(cid:20)0(cid:0)3(cid:25)(cid:17)(cid:17)(cid:25)(cid:18)(cid:0)(cid:15)(cid:18)(cid:0)(cid:17)(cid:25)3(cid:25)(cid:27)(cid:18)(cid:19)(cid:23)(cid:0)(cid:23)(cid:19)7(cid:25)(cid:29)(cid:0)(cid:18)(cid:25)(cid:28)(cid:25)(cid:18)(cid:25)(cid:16)(cid:20)(cid:25)(cid:0)(cid:17)(cid:15)(cid:0)(cid:17)0(cid:25)(cid:0)(cid:29)(cid:15)3((cid:20)((cid:17)(cid:19)(cid:17)((cid:15)(cid:16)(cid:0)(cid:19)(cid:16)%(cid:0)(cid:17)0((cid:29)(cid:0)
+(cid:19)(cid:23)(cid:25)(cid:16)%(cid:23)(cid:25)(cid:16)(cid:17)U(cid:0)(cid:19)(cid:16)%(cid:0)((cid:29)(cid:0)(cid:18)(cid:25)(cid:20)(cid:25)(+(cid:25)%(cid:0)4(cid:18)((cid:15)(cid:18)(cid:0)(cid:17)(cid:15)(cid:0)(cid:17)0(cid:25)(cid:0)(cid:15)4(cid:25)(cid:16)((cid:16)(cid:27)(cid:0)0(cid:15)(cid:22)(cid:18)(cid:0)(cid:19)(cid:16)%(cid:0)%(cid:19)(cid:17)(cid:25)(cid:0)(cid:29)4(cid:25)(cid:20)((cid:28)((cid:25)%(cid:13)
+(cid:0)
+(cid:12)#(cid:13)(cid:0)$(cid:20)(cid:20)(cid:15)(cid:22)(cid:16)(cid:17)((cid:16)(cid:27)(cid:0)(cid:19)(cid:16)%(cid:0)$44(cid:18)(cid:15)4(cid:18)((cid:19)(cid:17)((cid:15)(cid:16)(cid:0),(cid:19)(cid:17)(cid:19)(cid:0)RN(cid:28)(cid:0).(cid:25)/(cid:22)((cid:18)(cid:25)%S(cid:0)
+(cid:0)
+(cid:12))(cid:13)(cid:0)klN2(cid:0)Nk*’(cid:0)$(cid:26)(cid:26)cN*2(cid:0)T(cid:21)cm(cid:0)kT(cid:0)’T,NZN(cid:14)$kNT(cid:21)2(cid:0)TZ(cid:0)(cid:14)T(cid:21)k.$(cid:14)k2&T.,*.2U(cid:0)
+Nk(cid:0)’T,NZN*2(cid:0)kl*(cid:0)(cid:14)T(cid:21)k.$(cid:14)k&T.,*.(cid:0)(cid:21)T(cid:13)(cid:0)$2(cid:0),*2(cid:14).N6*,(cid:0)N(cid:21)(cid:0)Nk*’(cid:0)(cid:12)-(cid:0)
+j(cid:0) $(cid:13)(cid:0)(cid:0)k0((cid:29)(cid:0)(cid:20)0(cid:19)(cid:16)(cid:27)(cid:25)(cid:0)(cid:15)(cid:18)%(cid:25)(cid:18)(cid:0)((cid:29)(cid:0)((cid:29)(cid:29)(cid:22)(cid:25)%(cid:0)4(cid:22)(cid:18)(cid:29)(cid:22)(cid:19)(cid:16)(cid:17)(cid:0)(cid:17)(cid:15)(cid:0)R24(cid:25)(cid:20)((cid:28)O(cid:0)$(cid:22)(cid:17)0(cid:15)(cid:18)((cid:17)OSP(cid:0)#Q(cid:0),(cid:14)’.U(cid:0)(cid:14)0(cid:19)4(cid:17)(cid:25)(cid:18)(cid:0))8U(cid:0)(cid:19)(cid:16)%(cid:0)2(cid:25)(cid:20)(cid:17)((cid:15)(cid:16)(cid:0))8W(cid:12)(cid:13)#(cid:0)
+(cid:0) (cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)k0(cid:25)(cid:0)(cid:20)0(cid:19)(cid:16)(cid:27)(cid:25)(cid:29)(cid:0)(cid:29)(cid:25)(cid:17)(cid:0)(cid:28)(cid:15)(cid:18)(cid:17)0(cid:0)((cid:16)(cid:0)N(cid:17)(cid:25)(cid:23)(cid:0)(cid:12)-(cid:0)(cid:19)(cid:18)(cid:25)(cid:0)(cid:23)(cid:19)%(cid:25)(cid:0)((cid:16)(cid:0)(cid:17)0(cid:25)(cid:0)(cid:20)(cid:15)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:17)&(cid:15)(cid:18)%(cid:25)(cid:18)(cid:0)(cid:16)(cid:15)(cid:13)(cid:0)((cid:16)(cid:0)((cid:17)(cid:25)(cid:23)(cid:0)(cid:12)W$(cid:13)(cid:0)
+(cid:0) 6(cid:13)(cid:0)k0(cid:25)(cid:0)(cid:19)(cid:24)(cid:15)+(cid:25)(cid:0)(cid:16)(cid:22)(cid:23)(cid:24)(cid:25)(cid:18)(cid:25)%(cid:0)(cid:20)(cid:15)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:17)&(cid:15)(cid:18)%(cid:25)(cid:18)(cid:0)((cid:29)(cid:0)(cid:23)(cid:15)%((cid:28)((cid:25)%(cid:0)(cid:17)(cid:15)(cid:0)(cid:18)(cid:25)(cid:28)3(cid:25)(cid:20)(cid:17)(cid:0)(cid:17)0(cid:25)(cid:0)(cid:19)%(cid:23)((cid:16)((cid:29)(cid:17)(cid:18)(cid:19)(cid:17)(+(cid:25)(cid:0)(cid:20)0(cid:19)(cid:16)(cid:27)(cid:25)(cid:29)(cid:0)R(cid:29)(cid:22)(cid:20)0(cid:0)(cid:19)(cid:29)(cid:0)(cid:20)0(cid:19)(cid:16)(cid:27)(cid:25)(cid:29)(cid:0)((cid:16)(cid:0)4(cid:19)O((cid:16)(cid:27)(cid:0)(cid:15)(cid:28)(cid:28)((cid:20)(cid:25)U(cid:0)(cid:19)44(cid:18)(cid:15)4(cid:18)((cid:19)(cid:17)((cid:15)(cid:16)(cid:0)%(cid:19)(cid:17)(cid:19)(cid:0)(cid:0)
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:25)(cid:17)(cid:20)(cid:13)S(cid:0)(cid:29)(cid:25)(cid:17)(cid:0)(cid:28)(cid:15)(cid:18)(cid:17)0(cid:0)((cid:16)(cid:0)((cid:17)(cid:25)(cid:23)(cid:0)(cid:12)-U(cid:0)4(cid:22)(cid:18)(cid:29)(cid:22)(cid:19)(cid:16)(cid:17)(cid:0)(cid:17)(cid:15)(cid:0)(cid:17)0(cid:25)(cid:0)(cid:19)(cid:22)(cid:17)0(cid:15)(cid:18)((cid:17)O(cid:0)(cid:15)(cid:28)(cid:0)#Q(cid:0),(cid:14)’.U(cid:0)(cid:14)0(cid:19)4(cid:17)(cid:25)(cid:18)(cid:0))8U(cid:0)(cid:19)(cid:16)%(cid:0)2(cid:25)(cid:20)(cid:17)((cid:15)(cid:16)(cid:0))8W(cid:12)(cid:13))(cid:13)(cid:0)
+(cid:0) (cid:14)(cid:13)(cid:0)k0((cid:29)(cid:0)(cid:29)(cid:22)443(cid:25)(cid:23)(cid:25)(cid:16)(cid:17)(cid:19)3(cid:0)(cid:19)(cid:27)(cid:18)(cid:25)(cid:25)(cid:23)(cid:25)(cid:16)(cid:17)(cid:0)((cid:29)(cid:0)(cid:25)(cid:16)(cid:17)(cid:25)(cid:18)(cid:25)%(cid:0)((cid:16)(cid:17)(cid:15)(cid:0)4(cid:22)(cid:18)(cid:29)(cid:22)(cid:19)(cid:16)(cid:17)(cid:0)(cid:17)(cid:15)(cid:0)(cid:19)(cid:22)(cid:17)0(cid:15)(cid:18)((cid:17)O(cid:0)(cid:15)(cid:28)P(cid:0)
+(cid:0)
+(cid:0) ,(cid:13)(cid:0)T(cid:17)0(cid:25)(cid:18)(cid:0)R24(cid:25)(cid:20)((cid:28)O(cid:0)(cid:17)O4(cid:25)(cid:0)(cid:15)(cid:28)(cid:0)(cid:23)(cid:15)%((cid:28)((cid:20)(cid:19)(cid:17)((cid:15)(cid:16)(cid:0)(cid:19)(cid:16)%(cid:0)(cid:19)(cid:22)(cid:17)0(cid:15)(cid:18)((cid:17)OS(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+(cid:0)
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:14)(cid:15)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:17)(cid:15)(cid:18)(cid:0) ((cid:29)(cid:0)(cid:16)(cid:15)(cid:17)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0) ((cid:29)(cid:0)(cid:18)(cid:25)/(cid:22)((cid:18)(cid:25)%(cid:0)(cid:17)(cid:15)(cid:0)(cid:29)((cid:27)(cid:16)(cid:0)(cid:17)0((cid:29)(cid:0)%(cid:15)(cid:20)(cid:22)(cid:23)(cid:25)(cid:16)(cid:17)(cid:0)(cid:19)(cid:16)%(cid:0)(cid:18)(cid:25)(cid:17)(cid:22)(cid:18)(cid:16)(cid:0)(cid:0)(cid:0)p(cid:12)pp(cid:0)(cid:20)(cid:15)4O(cid:0)(cid:17)(cid:15)(cid:0)(cid:17)0(cid:25)(cid:0)((cid:29)(cid:29)(cid:22)((cid:16)(cid:27)(cid:0)(cid:15)(cid:28)(cid:28)((cid:20)(cid:25)(cid:13)(cid:0)
+^(cid:0)(cid:0)f(cid:0)(cid:5)(cid:2)](cid:3)(cid:11)(cid:9)(cid:8)(cid:10)(cid:9)e
+(cid:12)-(cid:13)(cid:0),(cid:25)(cid:29)(cid:20)(cid:18)(4(cid:17)((cid:15)(cid:16)(cid:0)(cid:15)(cid:28)(cid:0)$(cid:23)(cid:25)(cid:16)%(cid:23)(cid:25)(cid:16)(cid:17)&’(cid:15)%((cid:28)((cid:20)(cid:19)(cid:0)(cid:17)((cid:15)(cid:16)(cid:0)RT(cid:18)(cid:27)(cid:19)(cid:16)([(cid:0)(cid:25)%(cid:0)(cid:24)O(cid:0)r(cid:14)Z(cid:0)2(cid:25)(cid:20)(cid:17)((cid:15)(cid:16)(cid:0)0(cid:25)(cid:19)%((cid:16)(cid:27)(cid:29)U(cid:0)((cid:16)(cid:20)3(cid:22)%((cid:16)(cid:27)(cid:0)(cid:29)(cid:15)3((cid:20)((cid:17)(cid:19)(cid:17)((cid:15)(cid:16)&(cid:20)(cid:15)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:17)(cid:0)(cid:29)(cid:22)(cid:24)w(cid:25)(cid:20)(cid:17)(cid:0)(cid:23)(cid:19)(cid:17)(cid:17)(cid:25)(cid:18)(cid:0)o0(cid:25)(cid:18)(cid:25)(cid:0)(cid:28)(cid:25)(cid:19)(cid:29)((cid:24)3(cid:25)(cid:13)S(cid:0)
+(cid:12)(cid:13)(cid:0)
+(cid:9)K@(cid:0)?;:HD=?H(cid:0)E>@:HExE@>(cid:0)E:(cid:0)_C;?y(cid:0)(cid:31)!(cid:8)(cid:0)=g;B@(cid:0)EF(cid:0)K@D@gL(cid:0)A;>ExE@>(cid:0)=F(cid:0)>@F?DEg@>(cid:0)g@C;<e(cid:0)(cid:0)
+(cid:26)(cid:22)(cid:18)(cid:29)(cid:22)(cid:19)(cid:16)(cid:17)(cid:0)(cid:17)(cid:15)(cid:0)#Q(cid:0),(cid:14)’.U(cid:0)(cid:14)0(cid:19)4(cid:17)(cid:25)(cid:18)(cid:0))8U(cid:0)2(cid:25)(cid:20)(cid:17)((cid:15)(cid:16)(cid:0))8W(cid:12)(cid:13)#(cid:0)R6(3(cid:19)(cid:17)(cid:25)(cid:18)(cid:19)3(cid:0)(cid:23)(cid:15)%((cid:28)((cid:20)(cid:19)(cid:17)((cid:15)(cid:16)S(cid:0)(cid:17)0((cid:29)(cid:0)(cid:20)(cid:15)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:17)(cid:0)((cid:29)(cid:0)0(cid:25)(cid:18)(cid:25)(cid:24)O(cid:0)(cid:23)(cid:15)%((cid:28)((cid:25)%(cid:0)(cid:19)(cid:29)(cid:0)%(cid:25)(cid:29)(cid:20)(cid:18)((cid:24)(cid:25)%(cid:0)
+(cid:0)
+(cid:24)(cid:25)3(cid:15)oP(cid:0)(cid:0)
+k0(cid:25)(cid:0)4(cid:22)(cid:18)4(cid:15)(cid:29)(cid:25)(cid:0)(cid:15)(cid:28)(cid:0)(cid:17)0((cid:29)(cid:0)(cid:23)(cid:15)%((cid:28)((cid:20)(cid:19)(cid:17)((cid:15)(cid:16)(cid:0)((cid:29)(cid:0)(cid:17)(cid:15)(cid:0)(cid:22)4%(cid:19)(cid:17)(cid:25)(cid:0)(cid:19)(cid:16)%(cid:0)((cid:16)(cid:20)(cid:18)(cid:25)(cid:19)(cid:29)(cid:25)(cid:0)(cid:17)0(cid:25)(cid:0)*(cid:29)(cid:17)((cid:23)(cid:19)(cid:17)(cid:25)%(cid:0)*/(cid:22)(4(cid:23)(cid:25)(cid:16)(cid:17)(cid:0)z(cid:22)(cid:19)(cid:16)(cid:17)((cid:17)((cid:25)(cid:29)(cid:0)R(cid:20)(cid:15)3(cid:22)(cid:23)(cid:16)(cid:0)$S(cid:0)(cid:19)(cid:16)%(cid:0)
+(cid:14)cN(cid:21)WWWQ(cid:0){(cid:0)(cid:14)(cid:15)(cid:16)(cid:17)((cid:16)(cid:27)(cid:25)(cid:16)(cid:20)O(cid:0)((cid:16)(cid:0)(cid:29)(cid:25)(cid:20)(cid:17)((cid:15)(cid:16)(cid:0)6(cid:13)1U(cid:0)(cid:26)(cid:18)((cid:20)(cid:25)(cid:0)2(cid:20)0(cid:25)%(cid:22)3(cid:25)(cid:0){(cid:0)6(cid:19)(cid:29)(cid:25)(cid:0)m(cid:25)(cid:19)(cid:18)U(cid:0)(cid:17)(cid:15)(cid:0)(cid:18)(cid:25)(cid:28)3(cid:25)(cid:20)(cid:17)(cid:0)(cid:17)0(cid:25)(cid:0)|1UWWWUWWW(cid:0)(cid:20)(cid:15)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:17)(cid:0)(cid:20)(cid:25)(3((cid:16)(cid:27)U(cid:0)
+o0((cid:20)0(cid:0)o(cid:19)(cid:29)(cid:0)((cid:16)(cid:20)(cid:18)(cid:25)(cid:19)(cid:29)(cid:25)%(cid:0)(cid:17)(cid:15)(cid:0)|1UWWWUWWW(cid:0)+((cid:19)(cid:0)(cid:23)(cid:15)%((cid:28)((cid:20)(cid:19)(cid:17)((cid:15)(cid:16)(cid:0)(cid:16)(cid:15)(cid:13)(cid:0)’W(cid:12)(cid:0)(cid:15)(cid:16)(cid:0)1&(cid:12)8&#W#8(cid:13)(cid:0)$(cid:29)(cid:0)(cid:29)(cid:22)(cid:20)0U(cid:0)2(cid:25)(cid:20)(cid:17)((cid:15)(cid:16)(cid:0)6(cid:13)1(cid:0)(cid:26)(cid:18)((cid:20)(cid:25)(cid:0)2(cid:20)0(cid:25)%(cid:22)3(cid:25)(cid:0)
+{(cid:0)6(cid:19)(cid:29)(cid:25)(cid:0)m(cid:25)(cid:19)(cid:18)(cid:0)(cid:29)0(cid:15)(cid:22)3%(cid:0)(cid:24)(cid:25)(cid:0)(cid:18)(cid:25)43(cid:19)(cid:20)(cid:25)%(cid:0)o((cid:17)0(cid:0)(cid:17)0(cid:25)(cid:0)(cid:28)(cid:15)33(cid:15)o((cid:16)(cid:27)P(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+*n(cid:20)(cid:25)4(cid:17)(cid:0)(cid:19)(cid:29)(cid:0)4(cid:18)(cid:15)+(%(cid:25)%(cid:0)0(cid:25)(cid:18)(cid:25)((cid:16)U(cid:0)(cid:19)33(cid:0)(cid:17)(cid:25)(cid:18)(cid:23)(cid:29)(cid:0)(cid:19)(cid:16)%(cid:0)(cid:20)(cid:15)(cid:16)%((cid:17)((cid:15)(cid:16)(cid:29)(cid:0)(cid:15)(cid:28)(cid:0)(cid:17)0(cid:25)(cid:0)%(cid:15)(cid:20)(cid:22)(cid:23)(cid:25)(cid:16)(cid:17)(cid:0)((cid:29)(cid:0)(cid:18)(cid:25)(cid:28)(cid:25)(cid:18)(cid:25)(cid:16)(cid:20)(cid:25)%(cid:0)((cid:16)(cid:0)N(cid:17)(cid:25)(cid:23)(cid:0)Y$(cid:0)(cid:15)(cid:18)(cid:0)(cid:12)W$(cid:0)(cid:18)(cid:25)(cid:23)(cid:19)((cid:16)(cid:0)(cid:22)(cid:16)(cid:20)0(cid:19)(cid:16)(cid:27)(cid:25)%(cid:0)(cid:19)(cid:16)%(cid:0)((cid:16)(cid:0)(cid:28)(cid:22)33(cid:0)(cid:28)(cid:15)(cid:18)(cid:20)(cid:25)(cid:0)(cid:19)(cid:16)%(cid:0)(cid:25)(cid:28)(cid:28)(cid:25)(cid:20)(cid:17)(cid:13)(cid:0)
+(cid:0)
+(cid:12)1$(cid:13)(cid:0)(cid:21)(cid:19)(cid:23)(cid:25)(cid:0)(cid:19)(cid:16)%(cid:0)k((cid:17)3(cid:25)(cid:0)(cid:15)(cid:28)(cid:0)2((cid:27)(cid:16)(cid:25)(cid:18)(cid:0)RkO4(cid:25)(cid:0)(cid:15)(cid:18)(cid:0)4(cid:18)((cid:16)(cid:17)S(cid:0) (cid:12)8$(cid:13)(cid:0)(cid:21)(cid:19)(cid:23)(cid:25)(cid:0)(cid:15)(cid:28)(cid:0)(cid:14)(cid:15)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:17)((cid:16)(cid:27)(cid:0)T(cid:28)(cid:28)((cid:20)(cid:25)(cid:18)(cid:0)
+(cid:0)
+(cid:0) (cid:0) (cid:0) (cid:0)
+(cid:0)(cid:12)(cid:0)(cid:0)(cid:0)(cid:0)1(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)6(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:13)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:21)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:19)(cid:0)(cid:0)(cid:0)(cid:23)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:25)(cid:0)(cid:15)(cid:28)(cid:0)(cid:14)(cid:15)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:17)(cid:15)(cid:18)(cid:0) (cid:12)1(cid:14)(cid:13)(cid:0),(cid:19)(cid:17)(cid:25)(cid:0)2((cid:27)(cid:16)(cid:25)%(cid:0) (cid:12)86(cid:13)(cid:0),((cid:29)(cid:17)(cid:18)((cid:20)(cid:17)(cid:0)(cid:15)(cid:28)(cid:0)(cid:14)(cid:15)3(cid:22)(cid:23)(cid:24)((cid:19)(cid:0) (cid:0) (cid:12)8(cid:14)(cid:13)(cid:0),(cid:19)(cid:17)(cid:25)(cid:0)2((cid:27)(cid:16)(cid:25)%(cid:0)
+R2((cid:27)(cid:16)(cid:19)(cid:17)(cid:22)(cid:18)(cid:25)(cid:0)(cid:15)(cid:28)(cid:0)(cid:14)(cid:15)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:17)((cid:16)(cid:27)(cid:0)T(cid:28)(cid:28)((cid:20)(cid:25)(cid:18)S(cid:0)
+R2((cid:27)(cid:16)(cid:19)(cid:17)(cid:22)(cid:18)(cid:25)(cid:0)(cid:15)(cid:28)(cid:0)4(cid:25)(cid:18)(cid:29)(cid:15)(cid:16)(cid:0)(cid:19)(cid:22)(cid:17)0(cid:15)(cid:18)([(cid:25)%(cid:0)(cid:17)(cid:15)(cid:0)(cid:29)((cid:27)(cid:16)S(cid:0) (cid:0) 20(cid:19)o(cid:16)(cid:0)6(cid:18)(cid:15)(cid:15)7(cid:29)(cid:0) (cid:150)(cid:151)(cid:152)(cid:0)(cid:153)(cid:154)(cid:155)(cid:156)(cid:157)(cid:0)(cid:158)(cid:152)(cid:151)(cid:151)(cid:159)(cid:160) (cid:0)
+(cid:0)(cid:0)(cid:0)(cid:0)
+}~(cid:127)(cid:128)(cid:0)(cid:129)(cid:130)(cid:131)(cid:132)(cid:0)(cid:133)(cid:134)(cid:0)(cid:135)~(cid:127)(cid:136)(cid:137)(cid:129)(cid:0)(cid:138)(cid:0)(cid:139)(cid:136)(cid:140)(cid:141)(cid:0)(cid:135)(cid:142)(cid:141)(cid:143)(cid:136)(cid:128)(cid:141)
+(cid:0)(cid:0)
+(cid:127)
+(cid:0)(cid:0)
+(cid:144)
+(cid:0)
+(cid:145)(cid:146)(cid:147)(cid:146)(cid:148)(cid:149)(cid:148)(cid:145) ¡¢£¢⁄¥⁄¡
+(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)
+
+(cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:21)(cid:23)(cid:24)(cid:25)(cid:21)(cid:19)(cid:26)(cid:0)(cid:27)(cid:28)(cid:29)(cid:30)(cid:31) (cid:0) !(cid:24)"(cid:31)(cid:0)(cid:19)(cid:22)(cid:0)!(cid:24)"(cid:31)#(cid:0)
+*(cid:0) *(cid:0)
+(cid:0) (cid:0)
+(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:4)(cid:7)(cid:8)(cid:5)(cid:6)(cid:3)(cid:4)(cid:0)(cid:9)(cid:10)(cid:11)(cid:11)(cid:5)(cid:0)
+$%&’()&(
+(cid:8)(cid:12)(cid:11)(cid:4)(cid:13)(cid:12)(cid:11)(cid:4)(cid:5)(cid:0)(cid:3)(cid:14)(cid:0)(cid:9)(cid:3)(cid:15)(cid:6)(cid:2)(cid:6)(cid:5)(cid:8)(cid:5)(cid:6)(cid:3)(cid:4)(cid:0)(cid:16)(cid:0)(cid:12)(cid:3)(cid:13)(cid:6)(cid:14)(cid:6)(cid:2)(cid:8)(cid:5)(cid:6)(cid:3)(cid:4)(cid:0)(cid:3)(cid:14)(cid:0)(cid:2)(cid:3)(cid:4)(cid:5)(cid:17)(cid:8)(cid:2)(cid:5)(cid:0)
+(cid:0)+(cid:17)(cid:6)(cid:2)(cid:11)(cid:0)(cid:9)(cid:2)(cid:10)(cid:11)(cid:13)(cid:7)(cid:15)(cid:11)(cid:0),(cid:0)-(cid:8)(cid:9)(cid:11)(cid:0).(cid:11)(cid:8)(cid:17)(cid:0)
+(cid:0)
+(cid:0) (cid:0)
+(cid:11)8157316=(cid:0)(cid:5)/13D(cid:0)
+(cid:2)/012341(cid:0)
+(cid:15)506(cid:0)(cid:6)167(cid:0) (cid:0) (cid:11)8157316=(cid:0) /A(cid:0)>?30151@(cid:0)/A(cid:0) (cid:11)8157316=(cid:0) (cid:7)051(cid:0)+2546(cid:0)<62(cid:0)(cid:5)/13D(cid:0)(cid:11)8157316=(cid:0)
+(cid:4)/89(cid:0)
+>?30151@(cid:0)/A(cid:0) (cid:10)/?28(cid:0)<62(cid:0)(cid:11)C601(cid:0)(cid:4)?7E62(cid:0)/A(cid:0)
+(cid:10)/?2(cid:16)<62(cid:0) +2546(cid:0)
+(cid:6)167(cid:0)(cid:13)68425<15/0(cid:0) (cid:11)B?5<7601(cid:0) (cid:11)C6018(cid:0)+62(cid:0).632(cid:0)
+:(cid:2)(cid:15)(cid:6)(cid:4)8;(cid:0) (cid:11)B?5<7601(cid:0)F51G(cid:0)
+<62(cid:0)(cid:11)C601(cid:0) :-;(cid:0)
+(cid:3)<6231/2(cid:0):(cid:2);(cid:0) :(cid:8)(cid:0)H(cid:0)-(cid:0)H(cid:0)(cid:2);(cid:0)I(cid:0):(cid:13);(cid:0)
+:(cid:8);(cid:0)
+J (cid:19)(cid:26)(cid:25)(cid:0)K(cid:19)(cid:24)(cid:20)(cid:31) #(cid:0)L(cid:21)(cid:25)M(cid:0)
+(((&(cid:0) &)(cid:0) &(((cid:0) &(cid:0) T*U(Q(((cid:0) TVU(W(((Q(((cid:0)
+(cid:19)N(cid:31) (cid:24)(cid:25)(cid:19) (cid:0)OP(cid:31)(cid:23)(cid:25)(cid:21)(cid:19)(cid:26)(cid:0)$QRS(cid:0)
+X(cid:24)(cid:28)Y(cid:0)Z (cid:28)(cid:23)[#(cid:0)L(cid:21)(cid:25)M(cid:0)
+(((*(cid:0) UU(cid:0) &(((cid:0) &(cid:0) T&U(Q(((cid:0) T)*UW(((Q(((cid:0)
+(cid:19)N(cid:31) (cid:24)(cid:25)(cid:19) (cid:0)OP(cid:31)(cid:23)(cid:25)(cid:21)(cid:19)(cid:26)(cid:0)$Q\S(cid:0)
+(cid:0)
+(((’(cid:0) PN (cid:24)](cid:0)Z(cid:24)(cid:26)[(cid:31) (cid:0)Z (cid:28)(cid:23)[(cid:0) U(cid:0) V)(cid:0) &U(cid:0) TVU(Q(((cid:0) T&R*W(((Q(((cid:0)
+L(cid:21)(cid:25)M(cid:0)(cid:19)N(cid:31) (cid:24)(cid:25)(cid:19) (cid:0)! (cid:31)(cid:0)Z (cid:31)(cid:24)(cid:25)(cid:0)
+L(cid:21)(cid:25)M(cid:0)NY(cid:19)L#(cid:0) (cid:0)
+(cid:0)
+(((V(cid:0) K(cid:24) "(cid:31)(cid:0)!Y(cid:19)L^PN (cid:31)(cid:24)(cid:20)(cid:31) (cid:0) U)(cid:0) V)(cid:0) &U(cid:0) T’U(Q(((cid:0) T&WVR&WR((W(((cid:0)
+Z (cid:28)(cid:23)[#(cid:0)L(cid:21)(cid:25)M(cid:0)(cid:19)N(cid:31) (cid:24)(cid:25)(cid:19) (cid:0)
+OP(cid:31)(cid:23)(cid:25)(cid:21)(cid:19)(cid:26)(cid:0)$Q&(S(cid:0)
+!(cid:21)(cid:23)[_‘N(cid:0)Z (cid:28)(cid:23)[#(cid:0)L(cid:21)(cid:25)M(cid:0)
+NY(cid:19)L^#N (cid:31)(cid:24)(cid:20)(cid:31) (cid:0)(cid:24)(cid:26)(cid:20)(cid:0)
+(((U(cid:0) (cid:19)N(cid:31) (cid:24)(cid:25)(cid:19) (cid:0) U(cid:0) V)(cid:0) &U(cid:0) T*U(Q(((cid:0) Ta(W(((Q(((cid:0)
+OP(cid:31)(cid:23)(cid:25)(cid:21)(cid:19)(cid:26)(cid:0)$Q&&S(cid:0)
+(cid:0)
+b(cid:19)YY_(cid:19)(cid:22)(cid:22)(cid:0)X(cid:24)(cid:28)Y(cid:0)Z (cid:28)(cid:23)[#(cid:0)
+(((R(cid:0) *R(cid:0) &(((cid:0) &(cid:0) T*((Q(((cid:0) TU*(W(((Q(((cid:0)
+L(cid:21)(cid:25)M(cid:0)V((cid:0)$(cid:28)(cid:0)c(cid:20)Q(cid:0)d(cid:19)e(cid:31)#(cid:0)
+(cid:24)(cid:26)(cid:20)(cid:0)(cid:19)N(cid:31) (cid:24)(cid:25)(cid:19) (cid:0)OP(cid:31)(cid:23)(cid:25)(cid:21)(cid:19)(cid:26)(cid:0)
+$Q&’S(cid:0)
+$(cid:19)(cid:26)(cid:25)(cid:21)(cid:26)"(cid:31)(cid:26)(cid:23)](cid:0)K(cid:21)(cid:26)(cid:31)(cid:0)(cid:22)(cid:19) (cid:0) (cid:0)
+(((\(cid:0) (cid:24)(cid:23)(cid:25)(cid:28)(cid:24)Y(cid:0)M(cid:19)(cid:28) #(cid:0)(cid:31)e(cid:23)(cid:31)(cid:31)(cid:20)(cid:21)(cid:26)"(cid:0)(cid:0) (cid:0)
+(cid:31)#(cid:25)(cid:21)(cid:29)(cid:24)(cid:25)(cid:31)(cid:0)(cid:24)(cid:26)(cid:20)^(cid:19) (cid:0) T&WVa&WV((Q(((cid:0)
+(cid:24)(cid:20)(cid:20)(cid:21)(cid:25)(cid:21)(cid:19)(cid:26)(cid:24)Y(cid:0)(cid:31)f(cid:28)(cid:21)N(cid:29)(cid:31)(cid:26)(cid:25)(cid:0)
+(cid:0)
+(cid:0) g(cid:17)(cid:8)(cid:4)(cid:13)(cid:0)(cid:5)(cid:3)(cid:5)(cid:8)(cid:15)(cid:0)(cid:2)(cid:3)(cid:15)(cid:7)(cid:12)(cid:4)(cid:0):(cid:13);(cid:0)
+TUW(((W((((cid:0)
+(cid:0)
+hYY(cid:0)(cid:19)(cid:25)M(cid:31) (cid:0)(cid:25)(cid:31) (cid:29)#(cid:0)(cid:24)(cid:26)(cid:20)(cid:0)(cid:23)(cid:19)(cid:26)(cid:20)(cid:21)(cid:25)(cid:21)(cid:19)(cid:26)#(cid:0) (cid:31)(cid:29)(cid:24)(cid:21)(cid:26)(cid:0)(cid:25)M(cid:31)(cid:0)#(cid:24)(cid:29)(cid:31)Q(cid:0)
+(cid:0)
+ii(cid:0)j(cid:27)k(cid:0)lJ(cid:0)kl$‘(cid:18)j(cid:27)Z(cid:0)ii(cid:0)
+(cid:0)
+(cid:0)(cid:0)(cid:0)
+
+1/22/2026
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+SECTION B: CONTRACT TYPE, SUPPLIES OR SERVICES AND PRICE/COST
+B.1 TheDistrict of Columbia (District), Office of ContractingandProcurement, on behalfof the
+District of Columbia, Department of Public Work (DPW) is awarding a contract to perform
+snow and ice removal services in accordance with the specifications specified herein with
+Capitol Paving of D.C., Inc.
+B.2 LETTER CONTRACT
+This is the definitized contract, as contemplated by the awarded Letter contract on November 7,
+2025. The Letter Contract is merged herewith and is superseded by this Contract. The
+Definitized Contract shall be from date of award through November 6, 2026.
+B.3 The Districtcontemplates a single award of Requirements Contractbased on estimated unit pricing
+as specified in the Price Schedule in accordance with 27 DCMR Chapter 2416.
+B.4 REQUIREMENTS CONTRACT
+Thisis a requirements contract for the supplies or workspecified.
+B.4.1. Delivery or performance shall be made only as authorized by Task Orders issued by the
+Contracting Officer in accordance with the Contract. There is no limit on the number of task
+orders that may be issued. The District may issue task orders requiring delivery to multiple
+destinations or performance at multiple locations.
+B.4.2. Any order issued during the effective period of this contract and not completed within that
+period shall be completed by the Contractor within the time specified in the task order. The
+contract shall govern the Contractor's and District’s rights and obligations with respect to that
+task order to the same extend as if the task order were completed during the contract’seffective
+period.
+B.4.3. TheDistrictreserves the right to require additional contractorsand equipment, e.g., haul trucks,
+loadersand traffic control devices on specified routes.The Contractor will be given the option
+of providing the additional equipment necessary to meet DPW/DOT’s additional needs. If the
+Contractor does not have the capacity to accept this order of providing additional equipment,
+the District may acquire the urgently required goods or services from another source.
+2
+
+DOC791128, Snow and Ice Removal Services (National Highway System)
+PRICE SCHEDULE BASE YEAR
+Contract
+Line Item Estimated Estimated Estimated Unit Price per
+Item Description Quantity of Total of Number of
+Nos. Hour/per Total Estimated Price
+Equipment Quantity of Events Per
+(CLINs) per Event Hours per Year Equipment (A x B x C) = (D)
+with Operator
+(A) Event
+(C)
+(B)
+Front Loaders with
+0001 operator (Section C.6) 15 100 1 $_ 2 _ 5 __ 0 _ . _ 0 0 $_ 3 _ 7 __ 5 _ , _ 0 _ 0 _ 0 __ . _ 0 _ 0 ______
+0002 Haul Trucks with operator 50 100 1 $______ 750,000.00
+$__________________
+(Section C.7)
+Spray Tanker Truck with
+450.00 108,000.00
+0003 operator Pre Treat with 5 48 15 $______ $__________________
+plows
+Large Plow/Spreader
+350.00 924,000.00
+0004 Trucks with operator 55 48 15 $______ $__________________
+Pick-Up Trucks with 60,000 .00
+0005 plow/spreader and operator 5 48 15 $_ 2 _ 5 __ 0 _ . _ 0 0 $__________________
+(Sec. C.11 )
+Roll-off Haul Trucks with
+0006 40 Cu Yd. Boxes and 25 100 1 $_ 2 _ 0 __ 0 _ . _ 0 0 $_ 5 _ 0 __ 0 _ , _ 0 _ 0 _ 0 __ . _ 0 _ 0 ______
+operator )
+Contingency Line for
+0007 actual hours exceeding
+$2,000,000
+estimate and/or additional
+equipment
+GRAND TOTAL COLUMN (D) $_ 4 _ , _ 7 __ 1 _ 7 __ ,0 __ 0 _ 0 __ . _ 0 _ 0 ___
+
+DOC791128, Snow and Ice Removal Services (National Highway System)
+B. .1 - PRICING SCHEDULE OPTION YEAR ONE (1)
+Contract
+Line Item Estimated Estimated Estimated Unit Price per
+Item Description Quantity of Total of Number of
+Nos. Hour/per Total Estimated Price
+Equipment Quantity of Events Per
+(CLINs) per Event Hours per Year Equipment (A x B x C) = (D)
+with Operator
+(A) Event
+(C)
+(B)
+Front Loaders with
+1001 operator (Section C.6) 15 100 1 $_ 2 _ 5 __ 0 _ . _ 0 0 $_ 3 _ 7 __ 5 _ , _ 0 __ 0 _ 0 __ .0 __ 0 _____
+1002 Haul Trucks with operator 50 100 1 $_ 1 _ 5 __ 0 _ . _ 0 0 750,000.00
+$__________________
+(Section C.7)
+Spray Tanker Truck with
+450.00 108,000.00
+1003 operator Pre Treat with 5 48 15 $______ $__________________
+plows
+Large Plow/Spreader
+350.00 924,000.00
+1004 Trucks with operator 55 48 15 $______ $__________________
+Pick-Up Trucks with 60,000. 00
+1005 plow/spreader and operator 5 48 15 $_ 2 _ 5 __ 0 _ . _ 0 0 $__________________
+(Sec. C.11 )
+Roll-off Haul Trucks with
+200.00 500,000.00
+1006 40 Cu Yd. Boxes and 25 100 1 $______ $__________________
+operator )
+Contingency Line for
+1007 actual hours exceeding
+$2,000,000
+estimate and/or additional
+equipment
+GRAND TOTAL COLUMN (D) $_ 4 _ , _ 7 _ 1 __ 7 _ , _ 0 _ 0 __ 0 _ . _ 0 _ 0 ____
+
+DOC791128, Snow and Ice Removal Services (National Highway System)
+B. .2- PRICING SCHEDULE OPTION YEAR TWO (2)
+Contract
+Line Item Estimated Estimated Estimated Unit Price per
+Item Description Quantity of Total of Number of
+Nos. Hour/per Total Estimated Price
+Equipment Quantity of Events Per
+(CLINs) per Event Hours per Year Equipment (A x B x C) = (D)
+with Operator
+(A) Event
+(C)
+(B)
+Front Loaders with
+2001 operator (Section C.6) 15 100 1 $_ 2 _ 5 __ 0 _ . _ 0 0 $_ 3 _ 7 __ 5 _ , _ 0 __ 0 _ 0 __ .0 __ 0 _____
+2002 Haul Trucks with operator 50 100 1 $_ 1 _ 5 __ 0 _ . _ 0 0 750,000.00
+$__________________
+(Section C.7)
+Spray Tanker Truck with
+450.00 108,000.00
+2003 operator Pre Treat with 5 48 15 $______ $__________________
+plows
+Large Plow/Spreader
+350.00 924,000.00
+2004 Trucks with operator 55 48 15 $______ $__________________
+Pick-Up Trucks with 60,000. 00
+2005 plow/spreader and operator 5 48 15 $_ 2 _ 5 __ 0 _ . _ 0 0 $__________________
+(Sec. C.11 )
+Roll-off Haul Trucks with
+200.00 500,000.00
+2006 40 Cu Yd. Boxes and 25 100 1 $______ $__________________
+operator )
+Contingency Line for
+2007 actual hours exceeding
+$2,000,000
+estimate and/or additional
+equipment
+GRAND TOTAL COLUMN (D) $_ 4 _ , _ 7 _ 1 __ 7 _ , _ 0 _ 0 __ 0 _ . _ 0 _ 0 ____
+
+DOC791128, Snow and Ice Removal Services (National Highway System)
+B. .3. OPTION YEAR THREE (3)
+Contract
+Line Item Estimated Estimated Estimated Unit Price per
+Item Description Quantity of Total of Number of
+Nos. Hour/per Total Estimated Price
+Equipment Quantity of Events Per
+(CLINs) per Event Hours per Year Equipment (A x B x C) = (D)
+with Operator
+(A) Event
+(C)
+(B)
+Front Loaders with
+3001 operator (Section C.6) 15 100 1 $_ 2 _ 5 __ 0 _ . _ 0 0 $_ 3 _ 7 __ 5 _ , _ 0 __ 0 _ 0 __ .0 __ 0 _____
+3002 Haul Trucks with operator 50 100 1 $_ 1 _ 5 __ 0 _ . _ 0 0 750,000.00
+$__________________
+(Section C.7)
+Spray Tanker Truck with
+450.00 108,000.00
+3003 operator Pre Treat with 5 48 15 $______ $__________________
+plows
+Large Plow/Spreader
+350.00 924,000.00
+3004 Trucks with operator 55 48 15 $______ $__________________
+Pick-Up Trucks with 60,000. 00
+3005 plow/spreader and operator 5 48 15 $_ 2 _ 5 __ 0 _ . _ 0 0 $__________________
+(Sec. C.11 )
+Roll-off Haul Trucks with
+200.00 500,000.00
+3006 40 Cu Yd. Boxes and 25 100 1 $______ $__________________
+operator )
+Contingency Line for
+3007 actual hours exceeding
+$2,000,000
+estimate and/or additional
+equipment
+GRAND TOTAL COLUMN (D) $_ 4 _ , _ 7 _ 1 __ 7 _ , _ 0 _ 0 __ 0 _ . _ 0 _ 0 ____
+
+DOC791128, Snow and Ice Removal Services (National Highway System)
+B. .4. OPTION YEAR FOUR (4)
+Contract
+Line Item Estimated Estimated Estimated Unit Price per
+Item Description Quantity of Total of Number of
+Nos. Hour/per Total Estimated Price
+Equipment Quantity of Events Per
+(CLINs) per Event Hours per Year Equipment (A x B x C) = (D)
+with Operator
+(A) Event
+(C)
+(B)
+Front Loaders with
+4001 operator (Section C.6) 15 100 1 $_ 2 _ 5 __ 0 _ . _ 0 0 $_ 3 _ 7 __ 5 _ , _ 0 __ 0 _ 0 __ .0 __ 0 _____
+4002 Haul Trucks with operator 50 100 1 $_ 1 _ 5 __ 0 _ . _ 0 0 750,000.00
+$__________________
+(Section C.7)
+Spray Tanker Truck with
+450.00 108,000.00
+4003 operator Pre Treat with 5 48 15 $______ $__________________
+plows
+Large Plow/Spreader
+350.00 924,000.00
+4004 Trucks with operator 55 48 15 $______ $__________________
+Pick-Up Trucks with 60,000. 00
+4005 plow/spreader and operator 5 48 15 $_ 2 _ 5 __ 0 _ . _ 0 0 $__________________
+(Sec. C.11 )
+Roll-off Haul Trucks with
+200.00 500,000.00
+4006 40 Cu Yd. Boxes and 25 100 1 $______ $__________________
+operator )
+Contingency Line for
+4007 actual hours exceeding
+$2,000,000
+estimate and/or additional
+equipment
+GRAND TOTAL COLUMN (D) $_ 4 _ , _ 7 _ 1 __ 7 _ , _ 0 _ 0 __ 0 _ . _ 0 _ 0 ____
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+B.6 A bidder responding tothis solicitation that is required to subcontract shall be requiredto submit
+with its bid, any subcontracting plan required by law. Bids responding to this IFB shall be
+deemed nonresponsive and shall be rejected if the bidder fails to submit a subcontracting plan
+that is required by law.
+B.7 For contracts in excess of $250,000, atleast 35% of the dollar volume of the contractshallbe
+subcontracted in accordance with section H.9.1
+A Subcontracting Plan form is availableat http://ocp.dc.gov, under Quick Links clickon
+“Required SolicitationDocuments”.
+8
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+SECTION C: SPECIFICATIONS/WORK STATEMENT
+C.1 SCOPE:
+The District of Columbia Government, Department of Public Works requires the services of a
+Contractor to perform snow and iceremoval to ensure that the roadways are passable as specified
+herein. The source of the roadway coverage is the National Highway System (NHS) within the
+District of Columbia as shown in Attachment J.10.
+The Contractor shall provide all supervision, personnel, equipment, materials, tools, supplies and
+all incidentals required to remove ice and snowfromDistrictstreetsdesignated underthe National
+Highway System. The District will provide de-icing sodium chloride rock salt and brine for pre-
+treating.
+C.2 APPLICABLE DOCUMENTS
+The following documents are applicable to this procurement and are hereby incorporated by this
+reference:
+Item No. DocumentType Title Accessibility
+1 PDF Street Maps ofNHSSnow Link referencedin
+Routes this IFB in J.10
+C.3 DEFINITIONS
+These terms when used in this IFB havethefollowing meanings:
+C.3.1 Snow Event (Event) – is a Snow, Ice or Anti-icing Event declared by the District in which the
+Contractor is required to perform all requirements of the contract, more specifically provide all
+required equipment and equipment operators as ordered by the Contract Administrator (CA).
+C.4 BACKGROUND
+The District has a recurring need to ensure the safety of the traveling public through the
+provision of snow and ice control services on the National Highway System (NHS). These
+services have been satisfied over the last seven years, through the employment of a Contractor
+that provided the required equipment, equipment operators and the resources required to keep
+all such equipment operational during the declared “Event”.
+It is estimated that during the snow season the District will experience fifteen (15) snow events
+that last for approximately forty-eight (48) hours each. The total mileage for NHS is approximately
+seventy-six (76) miles consisting of 334 lane miles.
+C.5 REQUIREMENTS
+C.5.1 The Contractor’s operators shall work under the purview of the Contract Administrator
+(CA) and/or a zone supervisor provided by DPW/DDOT to fulfill the defined winter
+9
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+recoveryoperationalobjective.
+C.5.1.1 No later than three(3) hourspriortothe required deployment time of an event, the
+Contractor shall provide each DDOT/DPW zone supervisor and the CA with a list
+containing the names of each equipment operator assigned to routes within that
+supervisor’s zone that is on dutyalong with their corresponding cellular telephone
+number and equipment identification number.
+C.5.1.2 The Contractor shall provide all the supervision, personnel, equipment, materials, tools,
+supplies required to provide the required snow and ice removal and related services on
+District streets as designated under the National Highway System (NHS). The Contractor
+shall use the procedures prescribed in Section C.5.2 in the performance of the services.
+The Contractor shall provide the equipment and personnel specified in Sections C.6
+through C.12.
+The Contractor shall provide licensed/qualified drivers to staff, at a minimum, two (2)
+consecutive 12 hour shifts for a snow event or as otherwise directed by the CA. A
+qualified driver shall have a valid CDL driver’s license and be trained and proficient on
+the operation of truck and snow equipment being operated.
+C.5.2 OPERATIONING PROCEDURES
+C.5.2.1 The Contractor shall provide roadway pre-treatment, snow plowing, spreading salt on
+roadways, loading and hauling snow services. The CA will notify the Contractor a
+minimum of six (6) hours prior to the required deployment time of an event (except as
+otherwise specified in by the CA). The CA will inform the Contractor of the event start
+time and of the services by CLINS that the Contractor is required to provide for that
+event. Once the equipment is inspected and approved for deployment by the CA or
+designee, both the event start time and the hourly payment commence.
+The Contractor shall have all the ordered resources, e.g. equipment and personnel at
+the District’s designated equipment deployment location and after passing a readiness
+inspection, plow trucks would be directed to a District salt storage facility to be loaded
+with salt. The event will continue until DPW, through the CA, declares that it is over.
+If DPW calls off an event within four (4) hours prior to the required deployment time,
+the District will compensate the Contractor for a minimum of four (4) hours for the
+CLINS that DPW ordered for that event.
+A DDOT/DPW supervisor per zone will be assigned to provide instruction to the
+Contractor’s personnel and equipment operation during each event. If the duration of
+the snow event requires it, the Contractor shall be responsible for providing relief
+drivers in order to sustain 24 hour around the clock operation without down time for
+removal of snow on District NHS routes.
+C.5.2.2 If any equipment break-down occurs during an event operation the Contractor shall
+provide a replacement. Each hour that the dysfunctional equipment is out of service
+without a replacement, liquidated damages will be applied. See Section H.14
+10
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+Liquidated Damages.
+C.5.2.3 DRY RUN
+One “dry-run” (100%readinessmobilizationof Contractor’s equipment and personnel)
+will be conducted each snow season. On a predetermined date, usually in October or
+November, the District will conduct a dry-run test of the entire snow program. The dry-
+run is required to identify any weaknesses in the overall plan. It isan exercisethatwill
+demonstrate that each plow/spreader truck and chemical spray tanker truck is
+operational and each driver demonstrates knowledge of his assignment. Each driver
+will be given the opportunity to drive his assigned route entirely and to identify any
+potential roadway obstacles prior to an Event. The event will last at least 4 hours.
+Equipment operators shall be required to have all required communication devices
+during the dry-run and be able to communicate with DPW supervisors. All
+requirements outlined in the contract that are necessary during an actual storm event
+shall be in place and operational during the dry run.
+The equipment required is what the District would call a full deployment. The
+equipment for the dry-run typically includes, 33 large plow/spreaders with operator, 5
+pick-ups with spreader and plow and operator, and 5 spray tankers with operator with
+plows. Front loaders, haul trucks, and roll-off haul trucks with 40 CY boxes with
+operator shall not be required at the dry run.
+The District reserves the right toadjustthe minimum amount of equipment and type of
+equipment at anytime.
+C.6 LOADERS - CLINS 0001, 1001, 2001, 3001 AND 4001
+As ordered by the CA, the Contractor shall provide fully operational loaders with operators
+either at the salt dome facility to assist District personnel in loading salt or at District street
+locations to load snow. The bucket size of the loader must be a minimum of five (5) cubic
+yards. It is estimated that during the snow season there will be at least one (1) event that will
+require the use of loaders.
+C.7 HAUL TRUCKS - CLINS 0002, 1002, 2002, 3002, AND 4002
+As ordered by the CA, the Contractor shall provide fully operational haul trucks with operators.
+The haul trucks generally will beusedfor thepurpose of hauling snow/ice debris from various
+routes within the District to designated “dump sites” within the District. Under normal
+operating procedures, the CA will order haul trucks for snow events of 10 inches or greater.
+Haul trucks shall be 10-wheel dump, 6x4, minimum 64,000 lbs. with dump bed minimum
+capacity of 17 cubic yards.
+C.7.1 The Contractor shall provide work zone traffic control devices that are applicable for a two
+lane closure on a high speed interstate highway when requested by the CA along with advance
+11
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+warning signsfor designated “HaulingAreas”and“Snow Relocation Areas” where haul trucks
+and loaders are utilized. These devices for such Traffic control shall be incidental to haul trucks
+and snow relocation activities and no separate payment will be made. The Contractor may be
+required to provide such traffic control such as Truck Mounted Attenuators (TMAs), arrow
+boards, cone message boards in five concurrent locations.
+C.8. SPRAY TRUCK TO PRE-TREAT – CLINS 0003, 1003, 2003, 3003 AND 4003
+As ordered by the CA, the Contractor shall provide fully operational spray trucks with operators.
+All liquid spray trucks must have a minimum capacity of 2,000 gallons. Each truck must have
+the ability to spray a minimum of 12 feet wide. Speed sensitive adjustable spray rates from 20 to
+100 gallons per lane mile are required.
+C.9. LARGE PLOW/SPREADER TRUCKS - CLINS 0004, 1004, 2004, 3004 AND 4004
+C.9.1 As ordered by the CA, the Contractor shall provide fully operational plow/spreader
+(snowplow) trucks. The tandem axle trucks must have a minimum 270 horsepower
+engine. All Contractor vehicles shall have a current inspection and registration from that
+State where the vehicle is registered and must be properly insured in accordance with that
+State's requirements. Contractor's equipment and operators shall be in compliance with
+all applicable District of Columbia, DMV and State and Federal regulations regarding the
+conditions and operations of the requested vehicles.
+C.9.2 All snowplow trucks must be designed and engineered to safely operate under the
+expected load capacity and extreme weather working conditions. If, in the opinion of the
+DPW/DDOT zone supervisor, the truck is not in satisfactory mechanical or safe
+condition, then the Contractor shall remove it from the work site and replace it with a
+fully operational vehicle. Failure to replace equipment and/or operator within one hour
+will result in liquidated damages.
+C.9.3 The Contractor shall assign a unique number, provided by the District that shall be
+prominently displayed on each truck used in performance of the contract. The
+Contractor shall prominently display the Contractor’s company name or logo and
+phone number on the door of each truck.
+C.9.4 The Contractor shall ensure that all truck, including TMA’s and escort vehicles have
+flashing warning lights that can be viewed from any angle and side.
+C.9.5 The Contractor shall ensure that each trucks has 75 mm wide, orange colored reflector
+tape applied near the top and along the full width of the truck hopper at the rear of the
+vehicle and a similar 75 mm wide tape applied to the full width of the tail plate.
+C.9.6 TheContractor shall install anddisplay a warning sign on the back of each plow truck
+and spray truck that reads: “STAY BACK 250 Feet”.
+C.9.7 The Contractor shall equip each truck with power floats, castor wheels and rubber
+blades to reduce damage done to the road surfaces. The Contractor shall not use other
+12
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+“protective equipment” without receiving the written approval from the CA.
+C.9.8 The Contractor shall not use trucks that spread salt by raising the bed. Tailgate
+spreaders are prohibited.
+C.10 PICK UP TRUCKS –CLINS 0005, 1005, 2005, 3005 AND 4005
+As ordered by the CA, the Contractor shall supply pick-up trucks with required operators. The
+Contractor shall equip these vehicles for snow plowing and salt spreading capability at all times
+during the snow season.
+C.11. ROLL-OFF HAUL TRUCKS WITH 40 CY BOXES – CLINS 0006, 1006, 2006, 3006 AND
+4006
+As ordered by the CA, the Contractor shall provide fully operational roll-off cargo box haul
+trucks. The Contractor shall equip these vehicles with 40 cubic yard cargo boxes for the purpose
+of hauling snow from the NHS to a dump site so designated by the District.
+C.12 SPECIFICATIONS FOR SALT SPREADING UNIT AND SNOWPLOW
+C.12.1 SALT SPREADING UNIT – CLIN 0004, 0005, 1004, 1005, 2004, 2005, 3004, 3005,
+4004, 4005
+On plow/spreader trucks, the Contractor shall provide a large salt spreading unit either
+a frame mounted or slide-in-box type with a minimum capacity of 8 cubic yards. Those
+salt spreading units must be able to apply a minimum 250 lbs. and a maximum of 800
+lbs. per lane mile. During the equipment inspection - Dry Run, the Contractor shall
+demonstrate that these application rates can be met. Pick-up plow/spreader trucks must
+have slide-in-box type spreaders with a minimum capacity of 3 cubic yards.
+C.12.2 SNOWPLOW– CLIN 0003 - 0005, 1003 -1005, 2003- 2005, 3003 - 3005, 4003 -4005
+TheContractorshallequipall trucks under CLIN 0003, 0004, and 0005 (baseandoption
+years) with a snowplow. The snowplow blade must be front mounted, with the ability to
+plow to the left and to the right. The snowplow must be at a minimum of 10 feet in
+length. The Contractor shall change out the cutting portion of the blade from a steel or
+carbon type to a rubber blade at least 1 ½ inch thick. The plow must have a marker on
+both ends that is florescent orange and be a minimum of 24 inches in length and a
+minimum width of ½inch. There must beanin-cab control system to raise and lowerthe
+blade.
+C.13. PERMITS,LICENCES AND SPECIFICATIONS
+TheContractorshall at all timesduring theperiodofthe contract,observeandcomply
+with all federal, state, local and municipal laws, ordinances, rules, regulations and
+specifications, where applicable, in any manner affecting compliance with the terms
+and conditions of this contract.
+13
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+Thisincludes obtaining and maintaining theproperpermitsandlicenses to providethe
+required service.
+C.14 COMMUNICATION DURING EVENTS
+C.14.1. The Contractor shall follow the procedures and guidelines regarding communication
+with District personnel:
+C.14.2 The Contractor is required to provide or to ensure that each driver has the use of a
+cellular telephone in order to communicate with the District’s zone supervisors
+throughout the entire period of deployment during a declared snow/ice removal event.
+C.14.3. Equipment operators shall be required to keep their cellular telephone on and in a full
+charging status at all times while they are on duty during an event.
+C.14.4. Equipment operators shall immediately inform their respective zone supervisor, if their
+cellular telephone malfunctions.
+C.14.5. Equipment operators shall be required to maintain communication with their respective
+zone supervisors, a minimum of once each half hour, and shall provide information
+related to their current location, the functionality of the components of their equipment
+and the quantity of salt remaining within their trucks.
+C.15 AUTOMATIC VEHICLE LOCATION (AVL) REQUIREMENTS
+At the discretion of the District, AVL devices with GPS (Global Position Satellite) shall be
+required for any equipment the contractor provides. The District will provide Geotab devices or
+similar, and the Contractor is responsible for the cost of reimbursement, if not returned.
+C.18 TRAFFIC CONTROL DEVICES
+The Contractor shall be responsible for furnishing, installing, maintaining, and removing any
+traffic control devices required to safely perform snow removal and hauling operations. All
+traffic control devices, including but not limited to cones, signage, barricades, and warning
+lights, shall conform to applicable federal, state, and local standards and regulations. The use of
+such traffic control devices shall be considered incidental to the various CLINs described herein.
+No additional or separate payment will be made for the provision, use, or maintenance of traffic
+control devices during snow events. All costs associated with traffic control are deemed to be
+included in the Contractor’s unit prices for the Work.
+C.18 COMPLIANCE AND LIABILITY
+The Contractor shall comply with all applicable traffic safety laws, the Manual on Uniform
+Traffic Control Devices (MUTCD), and any directives issued by the District. Failure to provide
+14
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+and maintainadequate trafficcontrolmeasures may be considered a breach of contract and may
+result in suspension of work, withholding of payment, or termination for default.
+The Contractor shall be solely liable for any claims, damages, or accidents resulting from
+inadequate, improperly installed, or non-compliant traffic control devices. The District assumes
+no responsibility for injuries, damages, or delays arising from the Contractor’s failure to
+implement and maintain proper traffic control.
+15
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+SECTION D: PACKAGINGAND MARKING
+D.1 The packaging and marking requirements for thiscontract shall be governedbyclause number 2,
+Shipping Instructions-Consignment, of the Government of the District of Columbia's Standard
+Contract Provisions for use with Supplies and Services Contracts, dated July 2010. (Attachment
+J.1)
+16
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+SECTION E: INSPECTIONANDACCEPTANCE
+E.1 The inspection and acceptance requirements for this contract shall be governed by clause number
+six (6), Inspection of Services of the Government of the District of Columbia's Standard Contract
+Provisions for use with Supplies and Services Contracts, dated July 2010. (Attachment J.1)
+E.2. EQUIPMENT INSPECTION
+On a predetermined date, all snow removal equipment that is to be used in performance of the
+contract from all sources must be made available to the CA for a visual and operational
+inspection. The Dry Run and the visual and operational inspection can take place on the same
+date but it is not required. The operational inspection will cover the following checks:
+E.2.1 PLOWING AND CHEMICAL APPLICATION EQUIPMENT
+Vehicle must pass a DOT pre-trip inspection. All vehicles must have and maintain a current
+license, tags, title, and inspection. The required plow must rise and lower and turn right and
+left. Also, the plow cutting blade must be a change from steel/composite to a rubber blade.
+Please note that rubber blades are mandatory for the roadways. The spreader and sprayers must
+operate and show adjustability.
+E.2.2 LOADING EQUIPMENT
+All equipment must run and operate with all functionalities per the equipment’s manufacturing
+guidelines.
+E.2.3 HAULING EQUIPMENT
+All vehicles must pass a DOT pre-trip inspection. All vehicles must have and maintain a current
+license, title, tags, and inspection. All vehicles must run operate with all functionalities per the
+equipment’s manufacturing guidelines.
+E.2.4. DRIVER INSPECTION
+The Contractor shall furnish the names and copies of each driver's valid operator's permit.
+17
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+SECTION F: PERIOD OFPERFORMANCE AND DELIVERABLES
+F.1 TERMOF CONTRACT
+The term of the contract shall be for a period of one year from the date of award of Letter
+Contract CW130810. The Letter Contract will merge with the definitized contract.
+F.2 OPTION TO EXTEND THE TERM OF THE CONTRACT
+F.2.1 The District may extend the term of this contract for a period of four (4), one (1) year option
+periods,orsuccessivefractionsthereof,bywritten noticeto theContractorbeforetheexpiration
+of the contract; provided that the District will give the Contractor preliminary written notice of
+its intent to extend at least thirty (30) days before the contract expires. The preliminary notice
+does not commit the District to an extension. The exercise of this option is subject to the
+availability of funds at the time of the exercise of this option. The Contractor may waive the
+thirty (30) day preliminary notice requirement by providing a written waiver to the Contracting
+Officer prior to expiration of the contract.
+F.2.2 If the District exercises this option, the extended contract shall be considered to include this option
+provision.
+F.2.3 The price for the option period(s) shall be as specified in the Section B of the contract.
+F.2.4 The total duration of this contract, including the exercise of any options under this clause, shall
+not exceed five (5) years.
+F.3 DELIVERABLES
+The Contractor shall perform the activities required to successfully complete the District’s
+requirements and submit each deliverable to the Contract Administrator identified in section G.9
+in accordance with the following:
+CLIN Deliverable Quantity Format/Method of Due Date
+Delivery
+As Usage Asapplicable ViaEmail No later than 7 days after
+Applicable Report Each Snow Event
+F.4 The Contractorshall submit totheDistrict,asadeliverable, the report described insectionH.5.5
+which is required by the 51% District Residents New Hires Requirements and First Source
+Employment Agreement. If the Contractor does not submit the report as part of the deliverables,
+the District shall not make final payment to the Contractor pursuant to section G.3.2.
+18
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+SECTIONG: CONTRACTADMINISTRATION
+G.1 INVOICE PAYMENT
+G.1.1 The District will make payments to the Contractor, upon the submission of proper invoices, at
+the prices stipulated in this contract, for supplies delivered and accepted or services performed
+and accepted, less any discounts, allowances or adjustments provided for in this contract.
+G.1.2 The District will pay the Contractor on or before the 30th dayafterreceivingaproperinvoice
+from the Contractor.
+G.2 INVOICE SUBMITTAL
+G.2.1 The Contractor shall create andsubmitpayment requests in an electronic format through
+the DC Voucher Portal, https://vendorportal.dc.gov.
+G.2.2 The Contractor shall submit proper invoices on a monthly basis or as otherwise
+specified in Section.
+G.2.3. To constitute a proper invoice, the Contractor shall enter all required information into
+the Portal after selecting the applicable purchase order number which is listed on the
+Contractor’s profile.
+G.3 FIRST SOURCE AGREEMENTREQUEST FOR FINAL PAYMENT
+G.3.1 For contracts subject to the 51% District Residents New Hires Requirements and First Source
+Employment Agreement requirements, final request for payment must beaccompaniedbythe
+report or a waiver of compliance discussed in section H.5.5.
+G.3.2 TheDistrictshall not make final payment tothe Contractor untilthe agency CFO has received
+the CO’s final determination or approval of waiver of the Contractor’s compliance with 51%
+District Residents New Hires Requirements and First Source Employment Agreement
+requirements.
+G.4 LUMP SUM PAYMENT FOR EACH ORDERED EVENT
+The District will pay the full amount due the Contractor after:
+a) Completion and acceptance of all work; and
+b) Presentation of a properly executed invoice.
+G.5 ASSIGNMENT OF CONTRACT PAYMENTS
+G.5.1 In accordance with 27 DCMR 3250, the Contractor may assign to a bank, trust company, or
+other financing institution funds due or to become due as a result of the performance of this
+contract.
+19
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+G.5.2 Anyassignmentshallcoverallunpaidamounts payableunderthiscontract, and shall notbe made
+to more than one party.
+G.5.3 Notwithstanding an assignment of contract payments, the Contractor, not the assignee, is
+required to prepare invoices. Where such an assignment has been made, the original copy of the
+invoice must refer to the assignment and must show that payment of the invoice is to be made
+directly to the assignee as follows:
+“Pursuant to the instrument of assignment dated , make payment of this invoice to
+(name and addressof assignee).”
+G.6 THEQUICKPAYMENT ACT
+G.6.1 Interest Penalties to Contractors
+G.6.1.1 The District will pay interest penalties on amounts due to the Contractor under the Quick
+Payment Act, D.C. OfficialCode§2-221.01et seq., as amended, for the period beginningon
+the day after the required payment date and ending on the date on which payment of the
+amount is made. Interest shall be calculated at the rateof at least 1.5% per month. No interest
+penalty shall be paid if payment for the completed delivery of the item of property or service
+is made on or before the required payment date. The required payment date shall be:
+G.6.1.1.1 The date on which payment is due under the terms of the contract;
+G.6.1.1.2 Not later than 7 calendar days, excluding legal holidays, after the date of delivery of meat or
+meat food products;
+G.6.1.1.3 Not later than 10 calendar days, excluding legal holidays, after the date of delivery of a
+perishable agricultural commodity; or
+G.6.1.1.4 30 calendar days, excluding legal holidays, after receipt of a proper invoice for the amount of
+the payment due.
+G.6.1.2 NointerestpenaltyshallbeduetotheContractorifpaymentforthecompleteddeliveryof
+goods or services is made on or after:
+G.6.1.2.1 3rd dayafter the required payment date for meat or ameat food product;
+G.6.1.2.2 5th dayafter the required payment date for anagricultural commodity; or
+G.6.1.2.3 15th dayafter anyotherrequired payment date.
+G.6.1.3 Anyamount ofaninterest penaltywhichremains unpaid at the end of any 30-day period
+shall be added to the principal amount of the debt and thereafter interest penalties shall
+accrue on the added amount.
+20
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+G.6.2 PaymentstoSubcontractors
+G.6.2.1 The Contractor must take oneof thefollowing actions within seven (7) days of receipt of any
+amount paid to the Contractor by the District for work performed by any subcontractor under
+the contract:
+G.6.2.1.1 Pay the subcontractor(s) for the proportionate share of the total payment received from the
+District that is attributable to the subcontractor(s) for work performed under the contract;or
+G.6.2.1.2 Notify the CO andthe subcontractor(s), in writing, of the Contractor’s intention to withhold
+all or part of the subcontractor’s payment and state the reason for the nonpayment.
+G.6.2.2 The Contractor must pay any subcontractor or supplier interest penalties on amounts due to
+thesubcontractor orsupplier beginning on the day after the payment is due and ending on the
+date on which the payment is made. Interest shall be calculated at the rate of at least 1.5% per
+month. No interest penalty shall be paid on the following if payment for the completed
+delivery of the item of property or service is made on or before the:
+G.6.2.2.1 3rd dayafterthe required payment datefor meat or a meat product;
+G.6.2.2.2 5th dayaftertherequired payment datefor anagricultural commodity; or
+G.6.2.2.3 15th dayafteranyother required payment date.
+G.6.2.3 Anyamount ofaninterest penaltywhichremains unpaid by the Contractor at the end of any
+30-day period shall be added to the principal amount of the debt to the subcontractor and
+thereafter interest penalties shall accrue on the added amount.
+G.6.2.4 AdisputebetweentheContractorand subcontractorrelating tothe amounts or entitlementof
+a subcontractor to a payment or a late payment interest penalty under the Quick Payment Act
+does not constitute a dispute to which the District is a party. The District may not be
+interpleaded in any judicial or administrative proceeding involving such a dispute.
+G.6.3 Subcontract requirements - The Contractor shall include in each subcontract under this
+contract a provision requiring the subcontractor to include in its contract with any lower-tier
+subcontractor or supplier the payment and interest clauses required under paragraphs (1) and
+(2) ofD.C. Official Code § 2-221.02(d).
+G.7 CONTRACTING OFFICER (CO)
+Contracts will beentered intoandsigned on behalf of the District only by contracting officers.
+The contact information for the Contracting Officer is:
+HildredPepper
+ContractingOfficerDepartmentofPublicWorks
+Office of Contracting and Procurement
+899 North Capitol St NE, 5th Floor
+21
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+Washington, DC 20009
+202-671-0470
+E-mail address:hildred.pepper@dc.gov
+G.8 AUTHORIZED CHANGES BY THECONTRACTINGOFFICER
+G.8.1 The CO is the only person authorized to approve changes in any of the requirements of this
+contract.
+G.8.2 The Contractor shall not comply with any order, directive or request that changes or modifies the
+requirements of this contract, unless issued in writing and signed by the CO.
+G.8.3 In the event the Contractor effects any change at the instruction or request of any person other
+than the CO, the change will be considered to have been made without authority and no
+adjustment will be made in the contract price to cover any cost increase incurred as a result
+thereof.
+G.9 CONTRACT ADMINSTRATOR (CA)
+G.9.1 The CA is responsible for general administration of the contract and advising the CO as to the
+Contractor’s compliance or noncompliance with the contract. The CA has the responsibility of
+ensuring the work conforms to the requirements of the contract and such other responsibilities
+and authorities as may be specified in the contract. These include:
+G.9.1.1Keeping theCO fully informed of anytechnicalorcontractualdifficultiesencountered during the
+performance period and advising the CO of any potential problem areas under the contract;
+G.9.1.2Coordinatingsite entry for Contractor personnel, if applicable;
+G.9.1.3Reviewing invoices for completed work and recommending approval by the CO if the
+Contractor’scosts are consistentwiththe negotiated amounts and progress is satisfactory and
+commensurate with the rate of expenditure;
+G.9.1.4Reviewing and approving invoices for deliverablestoensurereceipt of goods and services. This
+includes the timely processing of invoices and vouchers in accordance with the District’s
+payment provisions; and
+G.9.1.5Maintaining a file that includes all contract correspondence, modifications, records of
+inspections (site, data, equipment) and invoice or vouchers.
+G.9.2 The address and telephone number of the CA is:
+22
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+PrimaryContractAdministrator SecondaryContract Administrator
+WarniqueWest Andrew Kaufmann
+District Wide Snow Coordinator Supervisory General Engineer
+Solid Waste Management Administration Roadway Management Branch
+District of Columbia Government DistrictDepartmentofTransportation(DDOT)
+899 North Capitol St NE, Fifth Floor 60 Florida Ave. NE
+Washington, DC 20002 Washington, DC 20002
+Telephone: 202-645-3900 Telephone: (202) 359-0730
+E-mailaddress:wanique.west@dc.gov E-mail address:andrew.kaufmann@dc.gov
+G.9.3 The CAshall NOT have the authority to:
+1. Award,agree to,or sign any contract, delivery order or task order. Only the CO shall
+make contractual agreements, commitments or modifications;
+2. Grant deviations from or waive any of the terms and conditions of the contract;
+3. Increase the dollar limit of the contract or authorize work beyond the dollar limit of the
+contract,
+4. Authorize the expenditure of funds by the Contractor;
+5. Change the period of performance; or
+6. Authorize the use of District property, except as specified under the contract.
+G.9.4 The Contractor will be fully responsible for any changes not authorized in advance, in writing,
+by the CO; may be denied compensation or other relief for any additional work performed that is
+not so authorized; and may also be required, at no additional cost to the District, to take all
+corrective action necessitated by reason of the unauthorized changes.
+23
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+SECTION H: SPECIALCONTRACT REQUIREMENTS
+H.1 HIRINGOFDISTRICTRESIDENTSASAPPRENTICESANDTRAINEES
+H.1.1 For all new employment resulting from this contract or subcontracts hereto, as defined in
+Mayor’s Order 83-265 and implementinginstructions, theContractorshalluseitsbestefforts to
+comply with the following basic goal and objectives for utilization of bona fide residents of the
+District of Columbia in each project’s labor force:
+H.1.1.1 At least fifty-one (51) percent of apprentices and trainees employed shall be residents of the
+District of Columbia registered in programs approved by the District of Columbia
+Apprenticeship Council.
+H.1.2 The Contractor shall negotiate an Employment Agreement with the Department of Employment
+Services (DOES) for jobs created as a result of this contract. The DOES shall be the Contractor’s
+first source of referral for qualified apprentices and trainees in the implementation of
+employment goals contained in this clause.
+H.2 DEPARTMENT OF LABOR WAGE DETERMINATIONS
+The Contractor shall be bound by the Wage Determination No. 2025-483, Revision No. 2 dated
+August 15, 2025, issued by the U.S. Department of Labor in accordance with the Service
+Contract Act, 41 U.S.C. § 351 et seq., and incorporated herein as Section J.2. The Contractor
+shall be bound by the wage rates for the term of the contract subject to revision as stated herein
+and in accordance with clause 24 of the SCP. If an option is exercised, the Contractor shall be
+bound by the applicable wage rates at the time of the exercise of the option. If the option is
+exercised and the CO obtains a revised wage determination, the revised wage determination is
+applicable for the option periods and the Contractor may be entitled to an equitable adjustment.
+H.3 PREGNANT WORKERS FAIRNESS
+H.3.1 The Contractor shall comply with the Protecting Pregnant Workers Fairness Act of 2016, D.C.
+Official Code § 32-1231.01 et seq. (PPWF Act).
+H.3.2 The Contractor shall not:
+(a) Refuse to make reasonable accommodations to the known limitations related to pregnancy,
+childbirth, related medical conditions, or breastfeeding for an employee, unless the Contractor
+can demonstrate that the accommodation would impose an undue hardship;
+(b) Take an adverse action against an employee who requests or uses a reasonable
+accommodation in regard to the employee's conditions or privileges of employment, including
+failing to reinstate the employee when the need for reasonable accommodations ceases to the
+employee's original job or to an equivalent position with equivalent:
+(1)Pay;
+(2) Accumulated seniorityand retirement;
+24
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+(3)Benefits; and
+(4)Otherapplicable service credits;
+(c) Deny employment opportunities to an employee, or a job applicant, if the denial is based on
+the needof the employer to make reasonable accommodationstotheknown limitationsrelated to
+pregnancy, childbirth, related medical conditions, or breastfeeding;
+(d) Require an employee affected by pregnancy, childbirth, related medical conditions, or
+breastfeeding to accept an accommodation that the employee chooses not to accept if the
+employee does not have a known limitation related to pregnancy, childbirth, related medical
+conditions, or breastfeeding or the accommodation is not necessary for the employee to perform
+her duties;
+(e) Require an employee to take leave if a reasonable accommodation can be provided; or
+(f) Take adverse action against an employee who has been absent from work as a result of a
+pregnancy-related condition, including a pre-birth complication.
+H.3.3 The Contractor shall post and maintain in a conspicuous place a notice of rights in both English
+and Spanish and provide written notice of an employee's right to a needed reasonable
+accommodation related to pregnancy, childbirth, related medical conditions, or breastfeeding
+pursuant to the PPWF Act to:
+(a) New employees at the commencement of employment;
+(b) Existing employees; and
+(c) An employee who notifies the employer of her pregnancy, or other condition covered by the
+PPWF Act, within 10 days of the notification.
+H.3.4 The Contractor shall provide an accurate written translation of the notice of rights to any non-
+English or non-Spanish speaking employee.
+H.3.5 Violations of the PPWF Act shall be subject to civil penalties as described in the Act.
+H.4 UNEMPLOYED ANTI-DISCRIMINATION
+H.4.1 The Contractor shall comply with the Unemployed Anti-Discrimination Act of 2012, D.C.
+Official Code § 32-1361 et seq.
+H.4.2 The Contractorshall not:
+(a)Failorrefusetoconsiderfor employment,orfailor refuseto hire,anindividualasan
+employee because of the individual's status as unemployed; or
+25
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+(b)Publish, inprint, onthe Internet,orinanyother medium, anadvertisement or announcement
+for any vacancy in a job for employment that includes:
+(1) Any provision stating or indicating that an individual's status as unemployed disqualifies
+the individual for the job; or
+(2) Any provision stating or indicating that an employment agency will not consider or hire
+an individual for employment based on that individual's status as unemployed.
+H.4.3 Violations of the Unemployed Anti-Discrimination Act shall be subject to civil penalties as
+described in the Act.
+H.5 51% DISTRICT RESIDENTS NEW HIRES REQUIREMENTS AND FIRST SOURCE
+EMPLOYMENT AGREEMENT
+Delete Article 35, 51% District Residents New Hires Requirements and First Source
+Employment Agreement, of the Standard Contract Provisions dated July 2010 for use with
+District of Columbia Government Supplies and Services Contracts and substitute the following
+Section H.5 51% DISTRICT RESIDENTS NEW HIRES REQUIREMENTS AND FIRST
+SOURCE EMPLOYMENT AGREEMENT in its place:
+H.5 51% DISTRICT RESIDENTS NEW HIRES REQUIREMENTS AND FIRST SOURCE
+EMPLOYMENT AGREEMENT
+H.5.1 For contracts for services in the amount of $300,000 or more, the Contractor shall comply with
+the First Source Employment Agreement Act of 1984, as amended, D.C. Official Code § 2-
+219.01 et seq. (First Source Act).
+H.5.2 The Contractor shall enter into and maintain during the term of the contract, a First Source
+Employment Agreement (Employment Agreement) with the District of Columbia Department of
+Employment Service’s (DOES), in which the Contractor shall agree that:
+(a) The first source for finding employees to fill all jobs created in order to perform the
+contract shall be the First Source Register; and
+(b) The first source for finding employees to fill any vacancy occurring in all jobs covered by
+the Employment Agreement shall be the First Source Register.
+H.5.3 The Contractor shall not begin performance of the contract until its Employment Agreement has
+been accepted by DOES. Once approved, the Employment Agreement shall not be amended
+except with the approval of DOES.
+H.5.4 TheContractoragrees thatatleast51%ofthenew employees hired to perform the contract shall
+be District residents.
+H.5.5 The Contractor’s hiring and reporting requirements under the First Source Act and any rules
+promulgated thereunder shall continue for the term of the contract.
+26
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+H.5.6 TheCOmayimposepenalties,including monetaryfinesof5%ofthetotal amountofthedirect
+and indirect labor costs of the contract, for a willful breach of the Employment Agreement,
+failure to submit the required hiring compliance reports, or deliberate submission of falsified
+data.
+H.5.7 If theContractordoesnotreceive agoodfaithwaiver, the CO may also impose an additional
+penalty equal to 1/8 of 1% of the total amount of the direct and indirect labor costs of the
+contract for each percentage by which the Contractor fails to meet its hiring requirements.
+H.5.8 Any contractor which violates, more than once within a 10-year timeframe, the hiring or
+reporting requirements of the First Source Act shall be referred for debarment for not more than
+five (5) years.
+H.5.9 The contractor may appeal any decision of the CO pursuant to this clause to the D.C. Contract
+Appeals Board as provided in clause 14 of the SCP, Disputes.
+H.5.10 The provisions of the First Source Act do not apply to nonprofit organizations which employ 50
+employees or less.
+H.6 RESERVED
+H.7 RESERVED
+H.8 RESERVED
+H.9 SUBCONTRACTING REQUIREMENTS
+H.9.1 MANDATORY SUBCONTRACTING REQUIREMENTS
+H.9.1.1 For all contracts in excessof $250,000,at least35%ofthedollarvolumeofthe contractshall
+be subcontracted to qualified small business enterprises (SBEs).
+H.9.1.2 If there are insufficient SBEs to completely fulfill the requirement of paragraph H.9.1.1,then
+the subcontracting may be satisfied by subcontracting 35% of the dollar volume to any
+qualified certified business enterprises (CBEs); provided, however, that all reasonable efforts
+shall be made to ensure that SBEs are significant participants in the overall subcontracting
+work.
+H.9.1.3 A prime contractor that is certified by DSLBD as a small, local, or disadvantaged business
+enterprise shall not be required to comply with the provisions of sections H.9.1.1 and H.9.1.2.
+H.9.1.4 Except as provided in H.9.1.5 and H.9.1.7, a prime contractor that is a CBE and has been
+granted a bid preference pursuant to D.C. Official Code § 2-218.43, or is selected througha
+set-aside program, shall perform at least 35% of the contracting effort with its own
+organization and resources and, if it subcontracts, 35% of the subcontracting effort shall be
+with CBEs. A CBE prime contractor that performs less than 35% of the contracting effort
+shall be subject to enforcement actions under D.C. Official Code § 2-218.63.
+27
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+H.9.1.5 If the prime contractor is a certified joint venture and has been granted a bid preference
+pursuant to D.C. Official Code § 2-218.43, or is selected through a set-aside program, the
+CBE member of the certified joint venture shall perform at least 50% of the contracting effort
+with its own organization and resources and, if it subcontracts, 35% of the subcontracting
+effort shall be with CBEs. If the CBE member of the certified joint venture prime contractor
+performs less than 50% of the contracting effort, the certified joint venture shall be subject to
+enforcement actions under D.C. Official Code § 2-218.63.
+H.9.1.6 Each CBE utilized to meet these subcontracting requirements shall perform at least 35% ofits
+contracting effort with its own organization and resources.
+H.9.1.7 A prime contractor that is a CBE and has been granted a bid preference pursuant to D.C.
+Official Code § 2-218.43, or is selected through a set-aside program, shall perform at least
+50% of the on-site work with its own organization and resources if the contract is $1 million
+or less.
+H.9.2 Subcontracting Plan
+If the prime contractor is required to subcontract under this contract, it shall submit a
+subcontracting plan as part of the bid and it may only be amended after award with the prior
+writtenapprovalofthe COandDirectorofDSLBD. Any reduction in the dollar volume of the
+subcontracted portion resulting from an amendment of the plan after award shall inure to the
+benefit of the District.
+Each subcontracting plan shall include the following:
+(1) The name and address of each subcontractor;
+(2) A current certification number of the small or certified business enterprise;
+(3) The scope of work to be performed by each subcontractor; and
+(4) The price that the prime contractor will pay each subcontractor.
+H.9.3 COPIES OF SUBCONTRACTS
+Withintwenty-one(21)days of thedateofaward,theContractorshall providefullyexecuted
+copies of all subcontracts identified in the subcontracting plan to the CO, CA, District of
+Columbia Auditor and the Director of DSLBD.
+H.9.4 SUBCONTRACTING PLAN COMPLIANCE REPORTING
+H.9.4.1 The Contractor shall submit a quarterly report to the CO, CA, District of Columbia Auditor
+andtheDirectorofDSLBD. The quarterlyreport shall includethefollowing informationfor
+each subcontract identified in the subcontracting plan:
+(A) Theprice that the prime contractor will payeach subcontractorunder the subcontract;
+(B) A descriptionofthegoodsprocured orthe services subcontracted for;
+(C) The amount paid by the prime contractor under the subcontract; and
+28
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+(D) A copy ofthefullyexecutedsubcontract,if it was not provided with an earlier quarterly
+report.
+H.9.4.2 If the fully executed subcontract is not provided with the quarterly report, the prime
+contractor will not receive credit toward its subcontracting requirements for that subcontract.
+H.9.5 ANNUAL MEETINGS
+Upon at least 30-days written notice provided by DSLBD, the Contractor shall meet annually
+withtheCO,CA,Districtof ColumbiaAuditorandthe Director of DSLBD to provide an update
+on its subcontracting plan.
+H.9.6 NOTICES
+The ContractorshallprovidewrittennoticetotheDSLBDandthe District of ColumbiaAuditor
+upon commencement of the contract and when the contract is completed.
+H.9.7 ENFORCEMENT AND PENALTIESFOR BREACH OF SUBCONTRACTINGPLAN
+H.9.7.1 A contractor shall be deemed to have breached a subcontracting plan required by law, if the
+contractor (i) fails to submit subcontracting plan monitoring or compliance reports or other
+required subcontracting information in a reasonablytimely manner; (ii)submitsamonitoring
+or compliance report or other required subcontracting information containing a materially
+false statement; or (iii) fails to meet its subcontracting requirements.
+H.9.7.2 A contractor that is found to have breached its subcontracting planfor utilizationofCBEsin
+the performance of a contract shall be subject to the imposition of penalties, including
+monetary fines in accordance with D.C. Official Code § 2-218.63.
+H.9.7.3 If the CO determines the Contractor’s failure to be a material breach of the contract, the CO
+shall have cause to terminate the contract under the default provisions in clause 8 of the
+SCP, Default.
+H.10 FAIR CRIMINAL RECORD SCREENING
+H.10.1 The Contractor shall comply with the provisions of the Fair Criminal Record Screening
+Amendment Act of 2014, effective December 17, 2014 (D.C. Law 20-152) (“Act” as used in
+thissection). This section applies to any employment, includingemployment on atemporary
+or contractual basis, where the physical location of the employment isin whole or substantial
+part within the District of Columbia.
+H.10.2 Prior to making a conditional offer of employment, the Contractor shall not require an
+applicant for employment, or a person who has requested consideration for employment by
+the Contractor, to reveal or disclose an arrest or criminal accusation that is not then pending
+or did not result in a criminal conviction.
+29
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+H.10.3 After making a conditional offer ofemployment,theContractormay requirean applicantto
+disclose or reveal a criminal conviction.
+H.10.4 TheContractormayonly withdrawaconditionaloffer ofemployment,ortake adverseaction
+against an applicant, for a legitimate business reason as described in the Act.
+H.10.5 ThissectionandtheprovisionsoftheAct shall not apply:
+(a) Where a federal or District laworregulation requires theconsideration of an
+applicant’s criminal history for the purposes of employment;
+(b)To a position designated by theemployeras partofafederalor District government
+program or obligation that is designed to encourage the employment of those with
+criminal histories;
+(c) To anyfacility or employerthatprovides programs, services, or direct careto,
+children, youth, or vulnerable adults; or
+(d) To employers that employ less than 11 employees.
+H.10.6 A person claiming to be aggrieved by a violation of the Act may file an administrative
+complaint with the District of Columbia Office of Human Rights, and the Commission on
+Human Rights may impose monetary penalties against the Contractor.
+H.11 DISTRICT RESPONSIBILITIES
+H.11.1. The District will supply salt and deicer and issue a set of maps detailing the route areas to
+be treated.
+H.11.2. The CA will specify the application rate at which salt and deicer must be applied.
+H.11.3. The District will take out of service an equipment operator who fails to comply with the
+communication requirements on a per truck/equipment basis. The Contractor shall be
+responsible for providing a replacement.
+H.12 CONTRACTOR RESPONSIBILITIES
+H.12.1. The Contractor shall utilize the following procedures to apply materials:
+H.12.1.1 Generally, material applications shall be carried out at a speed not to exceed 25 miles per
+hour. However,theindividualtruckspeedshallbeadjustedto account for weather, traffic,
+highway conditions and the type of material being applied.
+H.12.1.2 Unless directed otherwise by the CA, the Contractor shall adjust thespinnerspeedtoensure
+the spread of ice control material in the following manner:
+a. Onastraight-a-way,the Contractorshall concentrate theplacement ofice control
+30
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+materials on the crown area or the road. The crown is designed so that positive surface
+drainage occurs on both sides of it. When ice control materials are placed on the crown
+area, then the brineformedbysaltandthesubsequent melting of snow and ice willdrain
+off the road in two directions.
+b. On a curve, the Contractor shall place ice control materials on the high side of the curve
+so that any melting which may occur will run down the face of the curve and off the
+roadway surface.
+c. On multiple-lane-highway, the crown is usually in the middle of the roadway.
+H.12.1.3 The Contractor shall place ice control materials on one or two lanes at a time but, starting
+with the lane or lanes closest to the roadway crown.
+H.12.1.4 All bridges and overpasses will be pretreated before each storm event. A default amount of
+50 gallons per lane mile will be used unless directed by the CA. When applying liquid to the
+bridges and overpasses, material must not be sprayed over or off the structure being
+addressed.
+H.12.2 The Contractor shall abide by the following policy while providing snowplowing and salting
+services:
+H.12.2.1 Truck speeds while plowing or salting shall not exceed 25 miles per hour. Individual truck
+speed shall be adjusted to meet snow, wind, highway and traffic conditions and the
+application requirements of the salt and/or anti icing mixture.
+H.13.2.2 Except when performing work on intersection, trucks shall always be operated such that
+travel is in the same directions as traffic. When work is being done that is not in a normal
+traffic pattern flow, the Contractor shall request from DDOT approval for application of
+traffic control devises.
+H.13.2.3 The angle of the snowplow blade shall be adjusted by the operator to remove snow and ice
+from the roadway in the most efficient manner and not to cause large windrows at curb cuts
+and crosswalks, also to maximize pedestrian mobility.
+H.13.2.4 When plowing on intersections, curb cuts, crosswalks, crossover approaches or other high
+pedestrian “confined” areas, the Contractor shall ensure that equipment operates in a manner
+which does not create a hazard to traffic or pedestrians. The Contractor shall in the most
+efficient manner possible, not leave large windrows of snow plowed in crosswalks or curb
+cuts in high pedestrian areas. All operators must exercise good judgment, skill and
+experience in plowing techniques to minimize the impact of snow piles in these areas.
+H.13.2.5 When approaching railway crossing, trucks shall have the plow raised sufficiently to clear
+the tracks. Snow orice shall not be deposited on the crossing. Damage to the crossing shall
+be reported to the local railway authority and to the CA immediately and will be the sole
+responsibility of the Contractor. Windows of snow shall not reduce the lateral sight distance
+of motorist nor obscure the motorists’ vision of railway traffic.
+H.13.2.6 Whenplowingoverpass structures, theContractor shall ensure snowisnot plowedoffthe
+31
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+overpass ontothe roadway below.
+H.13.2.7 TheContractorshall ensure all truckslights are clear of snow, ice and other materials that
+may reduce the illumination of the lighting on the trucks
+H.14. LIQUIDATED DAMAGES
+For failure to provide the requirements on this contract, the contractor will be
+assessed Liquidated Damages as follows:
+H.14.1 In the event the Contractor fails to timely perform snow removal services, including but not
+limited to:
+(i) replacingequipment within one (1)hour of breakdown or nonperformance,
+(ii) the failure to replace equipment and/or operator more than one hour if a DPW/DDOT
+zone supervisor believes that a truck and/or operator is not in a satisfactory mechanical or
+safe working condition, or:
+(iii)thefailure to arriveat the assigned site more thantwenty(20)minutes after thescheduled
+reporting time.
+H.14.2 If one or more of the above conditions apply, then the Contractor shall be subject to
+liquidated damages.
+H.14.3 The applicable definitions, formulas, escalation caps, and the District’s right to obtain
+substitute services areset forth in Exhibit J.11 – Liquidated Damages Definitions & Pricing
+Appendix, which is incorporated herein by reference and shall govern the assessment and
+application of such damages.
+32
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+SECTION I: CONTRACTCLAUSES
+I.1 APPLICABILITY OFSTANDARD CONTRACTPROVISIONS
+The Standard Contract Provisions for use with District of Columbia Government Supplies and
+Services Contracts dated July 2010 (SCP)are incorporatedaspartofthe contract. Toobtaina
+copy of the SCP go to http://ocp.dc.gov, under Quick Links click on “Required Solicitation
+Documents”.
+I.2 CONTRACTSTHAT CROSS FISCAL YEARS
+Continuation of this contract beyond the current fiscal year is contingent upon future fiscal
+appropriations.
+I.3 CONFIDENTIALITY OF INFORMATION
+The Contractor shall keep all information relating to any employee or customer of the District in
+absolute confidence and shall not use the information in connection with any other matters; nor
+shall it disclose any such information to any other person, firm or corporation, in accordance
+with the District and federal laws governing the confidentiality of records.
+I.4 TIME
+Time, if stated in a number of days, will include Saturdays, Sundays, and holidays, unless
+otherwise stated herein.
+I.5 RIGHTS IN DATA
+Delete clause 42, Rights in Data, of the Standard Contract Provisions dated July 2010 foruse
+with District of Columbia Government Supplies and Services Contracts and substitute the
+following clause 42, Rights in Data) in its place:
+A. Definitions
+1. “Products” - A deliverable under any contract that may include commodities, services and/or
+technologyfurnishedbyor through Contractor, including existing and customProducts,such as,
+but not limited to: a) recorded information, regardless of form or the media on which it may be
+recorded; b) document research; c) experimental, developmental, or engineering work; d)
+licensed software; e) components of the hardware environment; f) printed materials (including
+but not limited to training manuals, system and user documentation, reports, drawings); g) third
+party software; h) modifications, customizations, custom programs, program listings,
+programming tools, data, modules, components; and i) any intellectual property embodied
+therein, whether in tangible or intangible form, including but not limited to utilities, interfaces,
+templates, subroutines, algorithms, formulas, source code, and object code.
+33
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+2. “ExistingProducts”-TangibleProducts and intangible licensed Products that existpriortothe
+commencement of work under the contract. Existing Products must be identified on the Product
+prior to commencement of work or else will be presumed to be Custom Products.
+3. “CustomProducts”-Products,preliminary, final or otherwise, which are created or developed
+by Contractor, its subcontractors, partners, employees, resellers or agents for the District under
+the contract.
+4. “District” –TheDistrict ofColumbiaandits agencies.
+B. TitletoProjectDeliverables
+The Contractoracknowledgesthatitiscommissionedbythe District to performservices detailed
+in the contract. The District shall have ownership and rights for the duration set forth in the
+contract to use, copy, modify, distribute, or adapt Products as follows:
+1. Existing Products: Title to all Existing Licensed Product(s), whether or not embedded in,
+delivered or operating in conjunction with hardware or Custom Products, shall remain with
+Contractor or third party proprietary owner, who retains all rights, title and interest (including
+patent, trademark or copyrights). Effective upon payment, the District shall be granted an
+irrevocable, non-exclusive, worldwide, paid-up license to use, execute, reproduce, display,
+perform, adapt (unless Contractor advises the District as partof Contractor’s bid thatadaptation
+will violate existing agreements or statutes and Contractor demonstrates such to the District’s
+satisfaction), anddistributeExistingProducttoDistrict users up to the license capacity stated in
+the contract with all license rights necessary to fully effect the general business purpose of the
+project or work plan or contract. Licenses shall be granted in the name of the District. The
+District agrees to reproduce the copyright notice and any other legend of ownership on any
+copies authorized under this paragraph.
+2. Custom Products: Effective upon Product creation, Contractor shall convey, assign, and
+transfer to the District the sole and exclusive rights, title and interest in Custom Products,
+whether preliminary, final or otherwise, including all patent, trademark, and copyrights.
+Contractor hereby agrees to take all necessary and appropriate steps to ensure that the Custom
+Productsare protected against unauthorized copying, reproduction and marketing by or through
+Contractor.
+C. Transfers or Assignments of Existing or Custom Products by the District
+The Districtmaytransfer orassignExisting or Custom Productsandthelicenses thereunderto
+another District agency. Nothing herein shall preclude the Contractor from otherwise using the
+related or underlying general knowledge, skills, ideas, concepts, techniques and experience
+developed under a project or work plan in the course of Contractor’s business.
+D. Subcontractor Rights
+Whenever any data, including computer software, are to be obtained from a subcontractor under
+the contract, the Contractor shall use this clause, Rights in Data, in the subcontract, without
+34
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+alteration, and no other clause shall be used to enlarge or diminish the District’s or the
+Contractor’srightsin that subcontractor data orcomputer software which is required for the
+District.
+E. Source Code Escrow
+1. For all computer software furnished to the District with the rights specified in section B.2, the
+Contractor shall furnish to the District, a copy of the source code with such rights of the scope as
+specified in section B.2 of this clause. For all computer software furnished to the District with
+the restricted rights specified in section B.1 of this clause, the District, if the Contractor either
+directly or through a successor or affiliate shall cease to provide the maintenance or warranty
+services provided the District under the contract or any paid-up maintenance agreement, or if the
+Contractor should be declared insolvent by a court of competent jurisdiction, shall have the right
+to obtain, for its own and sole use only, a single copy of the current version of the source code
+supplied under the contract, and a single copy of the documentation associated therewith, upon
+payment to the person in control of the source code the reasonable cost of making each copy.
+2. If the Contractor or Product manufacturer/developer of software furnished to the District with
+the rights specified in section B.1 of this clause offers the source code or source code escrow to
+any other commercial customers, the Contractor shall either: (1) provide the District with the
+source code for the Product; (2) place the source code in a third party escrow arrangement with a
+designated escrow agent who shall be named and identified to the District, and who shall be
+directed to release the deposited source code in accordance with a standard escrow arrangement
+acceptable to the District; or (3) will certify to the District that the Product manufacturer/
+developer has named the District as a named beneficiary of an established escrow arrangement
+with its designated escrow agent who shall be named and identified to the District, and who shall
+be directed to release the deposited source code in accordance with the terms of escrow.
+3. The Contractor shall update the source code, as well as any corrections or enhancements to the
+source code, for each new release of the Product in the same manner as provided above, and
+certify such updating of escrow to the District in writing.
+F. Indemnification and Limitation of Liability
+The Contractor shall indemnify and save and hold harmless the District, its officers, agents and
+employees acting within the scope of their official duties against any liability, including costs
+and expenses, (i) for violation of proprietary rights, copyrights, or rights of privacy, arising out
+of the publication, translation, reproduction, delivery, performance, use or disposition of any data
+furnished under this contract, or (ii) based upon any data furnished under this contract, or based
+upon libelous or other unlawful matter contained in such data.
+I.6 OTHER CONTRACTORS
+The Contractor shall not commit or permit any act that will interfere with the performance of
+work by another District contractor or by any District employee.
+35
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+I.7 SUBCONTRACTS
+The Contractor hereunder shall not subcontract any of the Contractor’s work or services to any
+subcontractorwithoutthepriorwrittenconsent of the CO. Any work or service so subcontracted
+shall be performed pursuant to a subcontract agreement, which the District will have the right to
+review and approve prior to its execution by the Contractor. Any such subcontract shall specify
+that the Contractor and the subcontractor shall be subject to every provision of this contract.
+Notwithstanding anysuch subcontractapproved bytheDistrict, the Contractor shall remain
+liable to the District for all Contractor's work and services required hereunder.
+I.8 INSURANCE
+A. GENERAL REQUIREMENTS. The Contractor shall procure and maintain, during the
+entire period of performance under this contract, the types of insurance specified below.
+The Contractor shall have its insurance broker or insurance company submit a Certificate of
+Insurance to the CO giving evidence of the required coverage prior to commencing
+performance under this contract. In no event shall any work be performed until the required
+Certificates of Insurance signed by an authorized representative of the insurer(s) have been
+provided to, and accepted by, the CO. All insurance shall be written with financially
+responsible companies authorized to do business in the District of Columbia or in the
+jurisdiction where the work is to be performed and have an A.M. Best Company rating of A-
+VIII or higher. The Contractor shall require all of its subcontractors to carry the same
+insurance required herein. The Contractor shall ensure that all policies provide that the CO
+shall be given thirty (30) days prior written notice in the event the stated limit in the
+declarations page of the policy is reduced via endorsement or the policy is canceled prior to
+the expiration date shown on the certificate. The Contractor shall provide the CO with ten
+(10) days prior written notice in the event of non-payment of premium.
+B. INSURANCE REQUIREMENTS
+1. Commercial General Liability Insurance. The Contractor shall provide
+evidencesatisfactory to the CO with respect to the services performed that it carries
+$1,000,000 per occurrence limits; $2,000,000 aggregate; Bodily Injury andProperty
+Damage including, but not limited to: premises-operations; broad form property
+damage; Products and Completed Operations; Personal and Advertising Injury;
+contractual liability and independent contractors. The policy coverage shall include
+the District of Columbia as an additional insured, shall be primary and non-
+contributory with any other insurance maintained by the District of Columbia, and
+shall contain a waiver of subrogation. The Contractor shall maintain Completed
+Operations coverage for 5 years following final acceptance of the work performed
+under this contract.
+2. Automobile Liability Insurance. The Contractor shall provide automobile liability
+insurance to cover all owned, hired or non-ownedmotor vehicles used inconjunction
+with the performance of this contract. The policy shall provide a $1,000,000 per
+occurrence combined single limit for bodily injury and property damage.
+36
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+3. Workers’ Compensation Insurance. The Contractor shall provide Workers’
+CompensationinsuranceinaccordancewiththestatutorymandatesoftheDistrictof
+Columbia or the jurisdiction in which the contract is performed.
+4. Employer’s Liability Insurance. The Contractor shall provide employer’s liability
+insurance asfollows: $500,000 per accident forinjury;$500,000peremployeefor
+disease; and $500,000 for policy disease limit.
+5. Cyber Liability Insurance - The Contractor shall provide evidence satisfactory to the
+Contracting Officer ofCyberLiabilityInsurance, with limitsnotlessthan $2,000,000
+per occurrence or claim, $2,000,000 aggregate. Coverage shall be sufficiently broad
+to respond to the duties and obligations as is undertaken by Contractor in this
+agreement and shall include, but not limited to, claims involving infringement of
+intellectual property, including but not limited to infringement of copyright,
+trademark, trade dress, invasion ofprivacy violations, information theft, damage toor
+destruction of electronic information, release of private information, alteration of
+electronic information, extortion and network security. The policy shall provide
+coverage for breach response costs as well as regulatory fines and penalties as well as
+credit monitoring expenses with limits sufficient to respond to these obligations.
+Limits may not be shared with other lines of coverage. A copy of the cyber liability
+policy must be submitted to the Office of Risk Management (ORM) for compliance
+review.
+6. Environmental Liability/Contractors Pollution Liability Insurance - The Contractor
+shall provide evidence satisfactory to the CO of environmental liability insurance
+covering losses caused by pollution or other hazardous conditions arising from
+ongoing or completed operations of the Contractor. Such insurance shall apply to
+bodily injury, property damage (including loss of use of damaged property or of
+property that has been physically injured), clean-up costs, transit and non-owned
+disposal sites. Coverage shall extend to defense costs and expenses incurred in the
+investigation, civilfines,penaltiesand damages or settlements. There shall be neither
+an exclusion nor a sublimit for mold or fungus-related claims. The minimum limits
+required under this paragraph shall be equal to the greater of (i) the limits set forth in
+the Contractor’s pollution liability policy or (ii) $2,000,000 per occurrence and
+$2,000,000 in the annual aggregate. If such coverage is written on a claims-made
+basis, the Contractor warrants that any retroactive date applicable to coverages under
+the policy precedes the Contractor’s performance of any work under the Contract and
+that continuous completed operations coverage will be maintained for at least ten (10)
+years or an extended reporting period shall be purchased for no less than ten (10)
+years after completion.
+The Contractor also must furnish to the CO - Owner certificates of insurance
+evidencing environmental liability insurance maintained by third party transportation
+and disposal site operators(s) used by the Contractor for losses arising from
+facility(ies) accepting, storing or disposing hazardous materials or other waste as a
+result of the Contractor’s operations. Such coverages must be maintained with limits
+of at least the amounts set forth above.
+37
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+7. Commercial Umbrella or Excess Liability - The Contractor shall provide evidence
+satisfactory to the CO of commercial umbrella or excess liability insurance with
+minimum limits equal to the greater of (i) the limits set forth in the Contractor’s
+umbrellaorexcess liability policy or (ii) $10,000,000peroccurrence and$10,000,000
+in the annual aggregate, following the form and in excess of all liability policies. All
+liability coverages must be scheduled under the umbrella and/or excess policy. The
+insurance required under this paragraph shall be written in a form that annually
+reinstates all required limits. Coverage shall be primary to any insurance, self-
+insurance or reinsurance maintained by the District and the “other insurance”
+provision must be amended in accordance with this requirement and principles of
+vertical exhaustion.
+C. PRIMARY AND NONCONTRIBUTORY INSURANCE
+The insurance requiredhereinshallbeprimaryto and will not seek contribution from
+any other insurance, reinsurance or self-insurance including any deductible or
+retention, maintained by the Government of the District of Columbia.
+D. DURATION. The Contractor shall carry all required insurance until all contract work is
+accepted by the District, and shall carry the required General Liability; any required
+Professional Liability; and any required Employment PracticesLiabilityinsurancefor five
+(5) years following final acceptance ofthework performedunderthis contract.
+E. LIABILITY. These are the required minimum insurance requirements established by the
+District of Columbia. However, therequiredminimum insurancerequirementsprovided
+above will not in any way limit the contractor’s liability under this contract.
+F. CONTRACTOR’S PROPERTY. Contractor and subcontractors are solely responsible for
+any loss or damage to their personal property, including but not limited to tools and
+equipment, scaffolding and temporarystructures,rentedmachinery, or owned and leased
+equipment. A waiver of subrogation shall apply in favor of the District of Columbia.
+G. MEASURE OF PAYMENT. The District shall not make any separate measure or payment
+for the cost of insurance and bonds. The Contractor shall include all of the costs of
+insurance and bonds in the contract price.
+H. NOTIFICATION. The Contractor shall immediately provide the CO with written notice in
+the event that its insurance coverage has or will be substantially changed, canceled or not
+renewed, and provide an updated certificate of insurance to the CO.
+I. CERTIFICATES OF INSURANCE. The Contractor shall submit certificates of insurance
+giving evidence of the required coverage as specified in this section prior to commencing
+work. Evidence of insurance shall be submitted to the Contracting Officer.
+38
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+The Government of the District of Columbia
+And mailed to the attention of:
+Hildred Pepper
+Contracting Officer DepartmentofPublicWorks
+Office of Contracting and Procurement
+899 North Capitol, NE 5th Floor
+Washington, DC 20002
+202-671-0470
+E-mail address:hildred.pepper@dc.gov
+The CO may request, and the Contractor shall promptly deliver updated certificates of
+insurance, endorsements indicating the required coverages, and/or certified copies ofthe
+insurance policies. If the insurance initially obtained by the Contractor expires prior to
+completion of the contract, renewal certificates of insurance and additional insured and
+other endorsements shall be furnished to the CO prior to the date of expiration of all such
+initial insurance. For all coverage required to be maintained after completion, an
+additional certificate of insurance evidencing such coverage shall be submitted to the CO
+on an annual basis as the coverage is renewed (or replaced).
+J. DISCLOSURE OF INFORMATION. The Contractor agrees that the District may disclose
+the name and contact information of its insurers to any third party which presents a claim
+against the District for any damages or claims resulting from or arising out of work
+performed by the Contractor, its agents, employees, servants or subcontractors in the
+performance of this contract.
+I.9 EQUAL EMPLOYMENT OPPORTUNITY
+In accordance with the District of Columbia Administrative Issuance System, Mayor’s Order 85-
+85 dated June 10, 1985, the forms for completion of the Equal Employment Opportunity
+Information Report are incorporated herein as Section J.3. An award cannot be made to any
+bidder who has not satisfied the equal employment requirements.
+I.10 ORDER OF PRECEDENCE
+The contract awarded as a result of this IFB will contain the following clause:
+ORDER OF PRECEDENCE
+A conflict in language shall be resolved by giving precedence to the document in the highest order of
+priority that contains language addressing the issue in question. The following documents are
+incorporated into the contract by reference and made a part of the contract in the following order of
+precedence:
+(1) An applicable Court Order, if any
+(2) Definitized Contract document
+(3) Letter Contract
+(4) Standard Contract Provisions
+39
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+(5) Contractattachments other thantheStandardContractProvisions
+(6) IFB, as amended
+(7) Bid
+I.11 DISPUTES
+Delete clause 14, Disputes, of the Standard Contract Provisions dated July 2010 for use with
+District of Columbia Government Supplies and Services Contracts and substitute the following
+clause 14, Disputes, in its place:
+14. Disputes
+All disputes arising under or relating to the contract shall be resolved as provided herein.
+(a) Claims by the Contractor against the District: Claim, as used in paragraph (a) of
+this clause, means a written assertion by the Contractor seeking, as a matter of right,
+the payment of money in a sum certain, the adjustment or interpretation of contract
+terms, or other relief arising under or relating to the contract. A claim arising under a
+contract, unlike a claim relating to that contract, is a claim that can be resolved under
+a contract clause that provides for the relief sought by the claimant
+(1) All claims by a Contractor against the District arising under or relating to a contract shall
+be in writing and shall be submitted to the CO for a decision. The Contractor’s claim
+shall contain at least the following:
+(i) A description of the claim and theamount in dispute;
+(ii) Dataorother information in support of theclaim;
+(iii) Abriefdescriptionof the Contractor’sefforts toresolve the dispute priorto filing
+the claim; and
+(iii) The Contractor’s request for relief or other action by the CO.
+(2) The CO may meet with the Contractor in a further attempt to resolve the claim by
+agreement.
+(3) The CO shall issue a decision on any claim within 120 calendar days after receipt of the
+claim. Whenever possible, the CO shall take into account factors such as the size and
+complexity of the claim and the adequacy of the information in support of the claim
+provided by the Contractor.
+(4) TheCO’s written decision shall do the following:
+(i) Provideadescription of theclaim or dispute;
+(ii) Refertothepertinent contract terms;
+(iii) State thefactual areasof agreement anddisagreement;
+(iv) State the reasons for the decision, including any specific findings of
+fact, although specific findings of fact are not required and, if made,
+shall not be binding in any subsequent proceeding;
+40
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+(v) If all or any part of the claim is determined to be valid, determine the
+amount of monetary settlement,the contractadjustmenttobemade,or
+other relief to be granted;
+(vi) Indicatethatthewrittendocument is theCO’s final decision; and
+(vii) Inform the Contractor of the right to seek further redress by appealing
+the decision to the Contract Appeals Board.
+(5) Failure by the CO to issueadecisiononacontract claimwithin120daysofreceiptof the
+claim will be deemed to be a denial of the claim, and will authorize the commencement
+of an appeal to the Contract Appeals Board as provided by D.C. Official Code
+§ 2-360.04.
+(6) If a contractor is unable to support any part of its claim and it is determined that
+the inability is attributable to a material misrepresentation of fact or fraud on the
+part of the Contractor, the Contractor shall be liable to the District for an amount
+equal to the unsupported part of the claim in addition to all costs to the District
+attributable to the cost of reviewing that part of the Contractor’s claim. Liability
+under this paragraph (a)(6) shall be determined within six (6) years of the
+commission of the misrepresentation of fact or fraud.
+(7) Pending final decision of an appeal, action, or final settlement, the Contractor shall
+proceed diligently with performance of the contract in accordance with the decision of
+the CO.
+(b) Claims by the District against the Contractor: Claim as used in paragraph (b) of
+this clause, means a written demand or written assertion by the District seeking, as a
+matter of right, the payment of money in a sum certain, the adjustment of contract
+terms, or other relief arising under or relating to the contract. A claim arising under a
+contract, unlike a claim relating to that contract, is a claim that can be resolved under
+a contract clause that provides for the relief sought by the claimant.
+(1) The CO shall decide all claims by the District against a contractor arising under or
+relating to a contract.
+(2) The CO shall send written notice of the claim to the contractor. The CO’s written
+decision shall do the following:
+(i) Provideadescription of theclaim or dispute;
+(ii) Refertothepertinent contract terms;
+(iii) State thefactual areas ofagreement anddisagreement;
+(iv) State the reasons for the decision, including any specific findings of
+fact, although specific findings of fact are not required and, if made,
+shall not be binding in any subsequent proceeding;
+(v) If all or anypart of the claim isdeterminedto be valid, determine theamount
+of monetary settlement, the contract adjustment to be made, or other relief to
+be granted;
+(vi) Indicatethat thewrittendocument istheCO’s final decision; and
+41
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+(vii) Inform the Contractor of the rightto seek further redress by appealing
+the decision to the Contract Appeals Board.
+(3) TheCOshallsupport thedecisionbyreasons andshallinform the
+Contractor of its rights as provided herein.
+(4) Before or after issuing the decision, the CO may meet with the Contractor to
+attempt to resolve the claim by agreement.
+(5) The authority contained in this paragraph (b) shall not apply to a claim or dispute
+for penalties or forfeitures prescribed by statute or regulation which another
+District agency is specifically authorized to administer, settle or determine.
+(6) This paragraph shall not authorize the CO to settle, compromise, pay, or
+otherwise adjust any claim involving fraud.
+(c) Decisions of the CO shall be final and not subject to review unless the Contractor timely
+commences an administrative appeal for review of the decision, by filing a complaint
+with the Contract Appeals Board, as authorized by D.C. Official Code § 2-360.04.
+(d) Pending final decision of an appeal, action, or final settlement, the Contractor
+shall proceed diligently with performance of the contract in accordance with the
+decision of the CO.
+I.12 CHANGES
+Delete clause 15, Changes, of the Standard Contract Provisions dated July 2010 for use with
+District of Columbia Government Supplies and Services Contracts and substitute the following
+clause 15, Changes, in its place:
+15. Changes:
+(a) The CO may, at any time, by written order, and without notice to the surety, if any, make
+changes in the contract within the general scope hereof. If such change causes an increase or
+decrease in the cost of performance of the contract, or in the time required for performance,
+an equitable adjustment shall be made. Any claim for adjustment for a change within the
+general scope must be asserted within ten (10) days from the date the change is ordered;
+provided, however, that the CO, if he or she determines that the facts justify such action,
+may receive, consider and adjust any such claim asserted at any time prior to the date of
+final settlement of the contract. If the parties fail to agree upon the adjustment to be made,
+the dispute shall be determined as provided in clause 14 Disputes.
+(b) The District shall not require the Contractor, and the Contractor shall not require a
+subcontractor, to undertake any work that is beyond the original scope of the contract or
+subcontract, including work under a District-issued change order, when the additional work
+increases the contract price beyond the not-to-exceed price or negotiated maximum price of
+this contract, unless the CO:
+42
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+(1) Agrees with Contractor, and if applicable,the subcontractor on a price for the
+additional work;
+(2) Obtains a certification of funding to pay forthe additional work;
+(3) Makes a written, binding commitment with the Contractor to pay for the
+additional work within 30-days after the Contractorsubmitsaproper invoice;and
+(4) Provides the Contractor with written notice of the funding certification.
+(c) The Contractor shall include initssubcontractsa clause that requiresthe Contractor to:
+(1) Within5 businessdaysof itsreceipt of notice theapproved additionalfunding,
+provide the subcontractor with notice of the amount to be paid to the
+subcontractor for the additional work to be performed by the subcontractor;
+(2) Pay the subcontractor any undisputed amount to which the subcontractor is
+entitled for the additional workwithin 10 days of receiptofpaymentfromthe
+District; and
+(3) NotifythesubcontractorandCOin writing of thereason the Contractorwithholds
+any payment from a subcontractor for the additional work.
+(d) Neither the District, Contractor, nor any subcontractor may declare another party to be in
+default, or assess, claim, or pursue damages for delays, until the parties to agree on a price
+for the additional work.
+I.13 NON-DISCRIMINATION CLAUSE
+Delete clause 19, Non-Discrimination Clause, of the Standard Contract Provisions dated July 2010 for
+use with District of Columbia Government Supplies and Services Contracts and substitute the following
+clause 19, Non-Discrimination Clause, in its place:
+19. Non-Discrimination Clause:
+(a) The Contractor shall not discriminate in any manner against any employee or applicant for
+employment that would constitute a violation of the District of Columbia Human Rights Act,
+effective December 13, 1977, as amended (D.C. Law 2-38; D.C. Official Code § 2-1401.01
+et seq.) (“Act”, as used in this clause). The Contractor shall include a similar clause in all
+subcontracts, except subcontracts for standard commercial supplies or raw materials. In
+addition, the Contractor agrees, and any subcontractor shall agree, to post in conspicuous
+places, available to employees and applicants for employment, a notice setting forth the
+provisions of this non-discrimination clause as provided in section 251 of the Act.
+(b) Pursuant to Mayor’s Order 85-85, (6/10/85), Mayor’s Order 2002-175 (10/23/02), Mayor’s
+Order 2011-155 (9/9/11) and the rules of the Office of Human Rights, Chapter 11 of Title 4
+of the D.C. Municipal Regulations, the following clauses apply to the contract:
+(1) TheContractorshallnot discriminateagainstanyemployeeorapplicantfor
+employment because of actual or perceived: race, color, religion, national
+origin, sex, age, marital status, personal appearance, sexual orientation,
+43
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+gender identity orexpression, family responsibilities,genetic information,
+disability, matriculation, political affiliation, or credit information. Sexual
+harassment is a form of sexdiscrimination which is prohibited by the Act.
+In addition, harassment based on any of the above protected categories is
+prohibited by the Act.
+(2) The Contractor agrees to take affirmative action to ensure that applicants
+are employed, and that employees are treated during employment, without
+regard to their actual or perceived: race, color, religion, national origin, sex,
+age, marital status, personal appearance, sexual orientation, gender identity
+or expression, family responsibilities, genetic information, disability,
+matriculation, political affiliation, or credit information. The affirmative
+action shall include, but not be limited to the following:
+(a) employment, upgrading or transfer;
+(b) recruitment, or recruitment advertising;
+(c) demotion, layoff or termination;
+(d) rates of pay, or other forms of compensation; and
+(e) selection fortraining and apprenticeship.
+(3) The Contractor agrees to post in conspicuous places, available to employees
+and applicants for employment, notices to be provided by the contracting
+agency, setting forth the provisions in paragraphs 19(b)(1) and (b)(2)
+concerning non-discrimination and affirmative action.
+(4) The Contractor shall, in all solicitations or advertisements for employees
+placed by or on behalf of the Contractor, state that all qualified applicants
+will receive consideration for employment pursuant to the non-
+discrimination requirements set forth in paragraph 19(b)(2).
+(5) The Contractor agrees to send to each labor union or representative of
+workers with which it has a collective bargaining agreement or other
+contract or understanding, a notice to be provided by the contracting
+agency, advising the said labor union or workers’ representative of that
+contractor’s commitments under this nondiscrimination clause and the Act,
+and shall post copies of the notice in conspicuous places available to
+employees and applicants for employment.
+(6) The Contractor agrees to permit access to its books, records, and accounts
+pertaining to its employment practices, by the Chief Procurement Officer or
+designee, or the Director of the Office of Human Rights or designee, for
+purposes of investigation to ascertain compliance with the Act, and to
+require under terms of any subcontractor agreement each subcontractor to
+permit access of such subcontractors’ books, records, and accounts for such
+purposes.
+44
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+(7) TheContractoragreestocomplywith theprovisions of the Act and with all
+guidelines for equal employment opportunity applicable in the District
+adopted by the Director of the Office of Human Rights, or any authorized
+official.
+(8) The Contractor shall include in every subcontract the equal opportunity
+clauses, i.e., paragraphs 19(b)(1) through (b)(9) of this clause, so that such
+provisions shall be binding upon each subcontractor.
+(9) The Contractor shall take such action with respect to any subcontract as the CO
+may direct as a means of enforcing these provisions, including sanctions for
+noncompliance; provided, however, that in the event the Contractor becomes
+involved in, or is threatened with, litigation with a subcontractor or vendor as a
+result of such direction by the contracting agency, the Contractor may request the
+District to enter into such litigation to protect the interest of the District.
+45
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+SECTION J: ATTACHMENTS
+The following list ofattachmentsis incorporated into the solicitation by reference.
+Attachment
+Document
+Number
+GovernmentoftheDistrictofColumbiaStandardContractProvisionsfor
+Use with the Supplies and Services Contracts (July 2010)
+J.1
+available at http://ocp.dc.gov, under Quick Links click on “Required
+Solicitation Documents”
+U.S.Department of Labor Wage Determination 2025-483, Revision No. 2
+J.2
+dated August 15, 2025
+EqualEmploymentOpportunity EmployerInformationReportandMayor’s
+Order 85-85
+J.3
+available at available at http://ocp.dc.gov, under Quick Links click on
+“Required SolicitationDocuments”
+Department ofEmploymentServicesFirstSourceEmployment Agreement
+J.4 available at http://ocp.dc.gov, under Quick Links click on “Required
+Solicitation Documents”
+WaytoWork Amendment Act of2006-LivingWageNotice available at
+J.5 http://ocp.dc.gov, under Quick Links click on “Required Solicitation
+Documents”
+Wayto WorkAmendmentActof2006 -Living Wage FactSheetavailableat
+J.6 http://ocp.dc.gov, under Quick Links click on “Required Solicitation
+Documents”
+Tax CertificationAffidavit available at http://ocp.dc.gov, under Quick Links
+J.7
+click on “Required Solicitation Documents”
+Subcontracting Plan (if required by law)available at http://ocp.dc.gov,under
+J.8
+Quick Links click on “Required SolicitationDocuments”
+First Source Initial EmploymentPlan(ifcontract is $300,000 or more)
+J.9 available at http://ocp.dc.gov, under Quick Links click on “Required
+Solicitation Documents”
+J.10 Street Maps of NHS Snow Routes,
+https://ddotwiki.atlassian.net/wiki/spaces/HOME/pages/3531309057/NHS+S
+now+Routes
+J.11 LiquidatedDamages Definitions & Pricing
+46
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+SECTION K: REPRESENTATIONS,CERTIFICATIONSAND OTHER
+STATEMENTS OF BIDDERS
+Bidder/Offeror Certification Form
+available at http://ocp.dc.gov,
+under Quick Linksclickon“Required SolicitationDocuments”
+47
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+SECTION L: INSTRUCTIONS,CONDITIONS AND NOTICES TO BIDDERS
+L.1 METHODOF AWARD
+L.1.1 The District reserves the right to accept/reject any/all bids resulting from this solicitation. The
+CO mayreject allbidsor waive any minorinformality orirregularity inbids received whenever
+it is determined that such action is in the best interest of the District.
+L.1.2 The District intends to award a single contract resulting from thissolicitationto the responsive and
+responsible bidder who has the lowest bid.
+L.2 PREPARATION AND SUBMISSION OFBIDS
+L.2.1 Thissolicitationwill beconductedelectronicallyusing the District’s Ariba E-Sourcing system.
+To be considered, a bidder must submit its bid via the Ariba E-Sourcing system before the
+closing date and time. Paper, telephonic, telegraphic, and facsimile bids may not be accepted.
+L.2.2 All attachments shall be submitted as a .pdf file. The District will not be responsible for
+corruption of any file submitted. If the submitted file cannot be viewed and printed as submitted,
+it will not be considered.
+L.2.2 The District will reject as non-responsive any bid that fails to conform in any material respect to
+the IFB.
+L.2.3 Bidders shall make no changes to the requirements set forth in the solicitation.
+L.2.4 The District will reject as non-responsive any bid that fails to include a subcontracting plan that
+is required by law.
+L.2.5 The bidder shall complete, sign and submit its initial First Source Employment Plan and all
+Representations, Certifications and Acknowledgments as appropriate. Failure to do so may
+result in a bid rejection.
+L.2.6 The bidder must bid on all CLINs to be considered for this award. Failure to bid on all CLINs
+will render the bid non-responsive and disqualify a bid.
+L.3 FAMILIARIZATION WITH CONDITIONS
+Biddersshallthoroughly familiarizethemselveswith the terms and conditions of this solicitation,
+acquainting themselves with all available information regarding difficulties which may be
+encountered and the conditions under which the work is be accomplished. Bidders will not be
+relieved from assuming all responsibility for properly estimating the difficulties and the cost of
+performing the services required herein due to their failure to investigate the conditions or to
+become acquainted with all information, schedules and liability concerning the services to be
+performed.
+48
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+L.4 BIDSUBMISSION DATE ANDTIME
+Bids must be submitted into the District's E-Sourcing system no later than the closing date and
+time. The system will not allow late bids, modifications to bids, or requests for withdrawals after
+the exact closing date and time.
+L.5 WITHDRAWAL OR MODIFICATION OF BIDS
+A bidder may modify or withdraw its bid via the District's E-Sourcing system at any time before
+the closing date and time for receipt of bids.
+L.6 LATE SUBMISSIONS, LATE MODIFICATIONS, AND LATE WITHDRAWALS
+L.6.1 Late Submissions
+The District's E-Sourcing system will not accept late bids or modifications to bids after the
+closing date and time for receipt of bids.
+L.6.2 Late Modifications
+A late modification of a successful bid which makes its terms more favorable to the District will
+be considered at any time it is received and may be accepted.
+L.7 ERRORS IN BIDS
+Bidders are expected to read and understand fully all information and requirements contained in
+the solicitation; failure to do so will be at the bidder’s risk. In event of a discrepancy between the
+unit price and the total price, the unit price shall govern.
+L.8 QUESTIONS ABOUT THE SOLICITATION
+If a prospective bidder has any questions relative to this solicitation, the prospective bidder shall
+submit the question electronically via the District's E-Sourcing system's instructions. The
+prospective bidder should submit questions no later than 10 days prior to the closing date and
+time indicated for this solicitation. The District may not consider any questions received less than
+7 days before the date set for submission of bids. The District will furnish responses via the
+District's E-Sourcing system's messaging process. An amendment to the solicitation will be
+issued if the CO decides that information is necessary in submitting bids, or if the lack of it
+would be prejudicial to any prospective bidder. Oral explanations or instructions given by
+District officials before the award of the contract will not be binding.
+L.9 BID PROTESTS
+Any actual or prospective bidder or contractor, who is aggrieved in connection with the
+solicitation or award of a contract, must file with the D.C. Contract Appeals Board (Board) a
+protest no later than ten (10) business days after the basis of protest is known or should have
+49
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+been known, whichever is earlier. A protest based on alleged improprieties in a solicitation
+which are apparent prior to bid opening or the time set for receipt of initial bids shall be filed
+withtheBoardpriorto bid opening orthetime set for receipt of initial bids. In procurements in
+which bids are requested, alleged improprieties which do not exist in the initial solicitation, but
+which are subsequently incorporated into this solicitation, must be protested no later than the
+next closing time for receipt of bids following the incorporation. The protest shall be filed in
+writing, with the Contract Appeals Board, 441 4th Street, N.W., Suite 350N, Washington, D.C.
+20001. Theaggrievedpersonshall alsomail acopyoftheprotest totheCOforthesolicitation.
+L.10 ACKNOWLEDGMENT OF AMENDMENTS
+The bidder shall acknowledge receipt of any amendment tothissolicitation electronicallyviathe
+District's E-Sourcing system'smessagingprocess. TheDistrict must receive the acknowledgment
+by the date and time specified for receipt of bids. A bidder’s failure to acknowledge an
+amendment may result in rejection of its bid.
+L.11 SIGNING OF BIDS
+L.11.1 The Contractor shall sign the bid and print or type its name on the Solicitation, Offer and Award
+form of this solicitation. Each bid must show a full business address and telephone number of the
+bidder and be signed by the person or persons legally authorized to sign contracts. Erasures or
+other changes must be initialed by the person signing the bid. Bids signed by an agent shall be
+accompanied by evidence of that agent’s authority, unless that evidence has been previously
+furnished to the CO.
+L.11.2 All correspondence concerning the bid or resulting contract will be mailed to the address shown
+on the bid in the absence of written instructions from the bidder or contractor to the contrary.
+Any bid submitted by a partnership must be signed with the partnership name by a general
+partner with authority to bind the partnership. Any bid submitted by a corporation must be
+signed with the name of the corporationfollowed by the signature and title of the person having
+authority to sign for the corporation.
+L.12 BIDS WITH OPTION YEARS
+The bidder shall include option year prices in its bid. A bid may be determined to be
+nonresponsive if it does not include option year pricing.
+L.12 LEGAL STATUS OF BIDDER
+Each bid must provide the following information:
+L.12.1 Name, address, telephone number and federal tax identification number of bidder;
+L.12.2 A copy of each District of Columbia license, registration or certification that the bidder is
+required bylawto obtain. Ifthebidderis a corporation orpartnership anddoesnotprovidea
+copy of its license, registration or certification to transact business in the District of
+50
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+Columbia, the bid shallcertifyitsintenttoobtainthenecessarylicense, registrationor
+certification prior to contract award or its exemption from such requirements; and
+L.12.3 If the bidder is a partnership or joint venture, the names and addresses of the general partners
+or individual members of the joint venture, and copies of any joint venture or teaming
+agreements.
+L.13 BID OPENING
+The District shall make publicly available the name of each bidder, the bid price, and other
+information that is deemed appropriate.
+L.14 CERTIFICATES OF INSURANCE
+Prior to commencing work, the Contractor shall have its insurance broker or insurance company
+submit certificates of insurance giving evidence of the required coverages to the CO. Each
+certificate of insurance must identify the contract or solicitation number.
+L.15 GENERAL STANDARDS OF RESPONSIBILITY
+L.15.1 To be determined responsible, a prospective contractor must demonstrate that it:
+(a) Has adequate financial resources, or the ability to obtain such resources, required to
+perform the contract;
+(b) Is able to comply with the required or proposed delivery or performance schedule, taking
+into consideration all existing commercial and government contract commitments;
+(c) Has a satisfactory performancerecord;
+(d) Has a satisfactory record of integrity and business ethics;
+(e) Has a satisfactory record of compliance with the applicable District licensing and tax laws
+and regulations;
+(f) Has a satisfactory record of compliance with the law, including labor and civil rights laws
+and rules, and the First Source Employment Agreement Act of 1984, , D.C. Official Code
+§2-219.01 et seq.,as amended;
+(g) Has,or has the ability to obtain, the necessary organization, experience, accounting, and
+operational control, and technical skills;
+(h) Has,orhastheabilitytoobtain,thenecessaryproduction,construction,technical
+equipment, and facilities;
+(i) Hasnot exhibited apatternofoverchargingthe District;
+51
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+(j) Doesnot havean outstanding debtwith theDistrictorthe federal government in a
+delinquent status; and
+(k) Is otherwise qualified and iseligible toreceivean award underapplicable lawsand
+regulations.
+L.15.2 If the prospective contractor fails to supply the information requested, the CO shall make the
+determination of responsibility or non-responsibility based upon available information. If the
+available information is insufficient to make a determination of responsibility, the CO shall
+determine the prospective contractor to be non-responsible.
+52
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+SECTION M: EVALUATIONFACTORS
+M.1. Preferencesfor CertifiedBusinessEnterprises
+Under the provisions of the “Small and Certified Business Enterprise Development and
+Assistance Act of2005”,D.C. Official Code § 2-218.01 et seq., as amended (“Act”, as used in
+this section), the District shall apply preferences in evaluating bids from businesses that are
+certified by the Department of Small and Local Business Development (DSLBD) pursuant to
+Part D of the Act.
+M.1.1. Application of Preferences
+For evaluation purposes, theallowablepreferences underthe Act shall be applicable toprime
+contractors in response to this IFB as follows:
+M.1.1.1 A small business enterprise certified by theDSLBD will receiveathree percent(3%)
+reduction in the bid price.
+M.1.1.2 A resident-owned business certified by DSLBD willreceive a five percent (5%) reduction in
+the bid price.
+M.1.1.3 A longtime resident business certified by DSLBD will receivea ten percent (10%) reduction
+in the bid price.
+M.1.1.4 A local business enterprise certified by DSLBD will receive a two percent (2%) reduction in
+the bid price.
+M.1.1.5 A local business enterprise with its principal offices located in an enterprise zone certified
+by DSLBD will receive a two percent (2%) reduction in the bid price.
+M.1.1.6 A disadvantaged business enterprise certified by DSLBD will receive a two percent (2%)
+reduction in the bid price.
+M.1.1.7 A veteran-owned business certified by DSLBD will receive a two percent (2%) reduction in
+the bid price.
+M.1.1.8 A local manufacturing business enterprise certified by DSLBD will receive a two percent
+(2%) reduction in the bid price.
+M.1.2 Maximum Preference Awarded
+Notwithstanding theavailabilityofthe preceding preferences, the maximum total preference to
+which a certified business enterprise is entitled is twelve per cent (12%). There will be no
+preference awarded for subcontracting by the prime contractor with certified business
+enterprises.
+53
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+M.1.3 Preferencesfor Certified Joint Ventures
+Ajointventurecertified byDSLBDforthissolicitationwillreceivepreferencesas aprime
+contractor as determined by DSLBD.
+M.1.4 Verification of Bidder’s Certification as a Certified Business Enterprise
+M.1.4.1 Anybidderseekingtoreceivepreferencesonthissolicitationmustbecertifiedatthetimeof
+submission of its bid. The CO will verify the bidder’s certification with DSLBD, and the
+bidder should not submit with its bid any documentation regarding its certification as a
+certified business enterprise.
+M.1.4.2 Anybidderseeking certification inorder toreceivepreferences under this solicitationshould
+contact the:
+Department of SmallandLocalBusinessDevelopment
+ATTN: CBE Certification Program
+441 Fourth Street, NW, Suite 850N
+Washington DC 20001
+M.1.4.3 All bidders are encouraged to contact DSLBD at (202) 727-3900 if additional information is
+required on certification procedures and requirements.
+M.2 EVALUATION OF OPTION YEARS
+The District will evaluate bids for award purposes by evaluating the total price for all options as
+well as the base year. Evaluation of options shall not obligate the District to exercise them. The
+total District’s requirements may change during the option years. Quantities to be awarded will
+be determined at the time each option is exercised.
+54
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+ExhibitJ.11 – Liquidated DamagesDefinitions & PricingAppendix
+1. Purpose
+This Appendix sets forth the definitions, formulas, and sample calculations associated with the
+assessment of Liquidated Damages (LDs)underSectionH of the Agreement for Snow Equipment and
+Operators.
+2. Defined Terms
+HourlyRate–Thecombinedhourlyrate foreach unit ofequipment andoperator, as established
+intheContractor’spricing schedule.
+3.LiquidatedDamagesFormulas
+Failure Event Formula Description
+If a truck or operator
+breaks down and is not
+FailuretoReplace Equipment(with replaced within one
+Operator) Within One (1) Hour of LD=(HourlyRate) hour, DPW will charge
+Notice of x 2 x (Hours Late) two(2) timestheHourly
+Breakdown/Nonperformance Rate for every hour (or
+part of an hour) that the
+replacementislate.
+If DPW/DDOT
+determines that a truck
+or operator is unsafe or
+not in proper working
+condition,theContractor
+Failure to Replace
+LD=(HourlyRate) hasonehourtoprovidea
+Equipment/OperatorDeemed
+x 2 x (Hours Late) replacement. If not,
+Unsafe or Unsatisfactory
+DPW will charge two
+times the hourly rate for
+every hour (or part of an
+hour) beyond the one-
+hourreplacement period.
+If a truck or operator
+arrives more than 20
+minutes late to the
+Late Arrival toAssigned Site (More LD=(HourlyRate)
+assignedlocation,DPW
+than 20 Minutes Late) x 1
+will deduct the
+equivalent of one full
+hourof pay for that unit.
+55
+
+DOC791128, Snow and IceRemoval Services (National Highway System)
+4.SampleCalculations
+Assume:
+Hourly Rate = $200 (combined equipment + operator)
+LD
+Scenario FailureType FormulaApplied Calculation
+Amount
+200(hourlyrate)x
+Equipment breaks down; Failure to $200 x 2 x 4 =
+2 (LD) x 4 (# of $1600
+replacementarrives4hourslate Replace $1600
+hourslate)
+Equipment notinasatisfactory 200(hourly rate) x
+FailuretoReport $200 x 2 x 4 =
+mechanical or safe working 2 (LD) x 4 (# of $1600
+(Unsafe) $1600
+condition hours late)
+No hourly rate paid
+after late 20
+Truckarrives 30minutes late Late Arrival $200 $200
+minutes for that
+hour
+5.Escalation Cap on Damages
+The totalliquidateddamagesassessedunder this Appendix shall notexceedten percent (10%) of
+the total contract value or twenty-five percent (25%) of the total invoice amount for the
+applicable snow event, whichever is less.
+6. Right to Obtain Substitute Services
+In addition to liquidated damages:
+1. Excess Costs – If the Contractor fails to perform, DPW may obtain substitute equipment and/or
+operators from alternate sources, and the Contractor shall be liable for any excess costs incurred
+above the contracted Hourly Rate.
+2. No Waiver – This right is in addition to,and not inlieuof,othercontractual,legal,orequitable
+remedies available to the District.
+56

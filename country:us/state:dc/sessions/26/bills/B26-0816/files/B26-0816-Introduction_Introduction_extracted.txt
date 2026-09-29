@@ -1,0 +1,123 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+September 23, 2026
+Ms. Nyasha Howard
+Secretary, Council of the District of Columbia
+1350 Pennsylvania Avenue, NW
+Washington, DC 20024
+Dear Secretary Howard:
+Today, I am introducing the Board of Library Trustees Technical Amendment Act of 2026. This legislation
+makes several necessary technical revisions to the statute that established the District of Columbia Library
+(DCPL) and its governing Board of Library Trustees (BOLT). DCPL requested these changes to align the statute
+with BOLT’s bylaws and DCPL’s administrative processes. The requested revisions ensure DCPL can continue
+to operate efficiently by replacing outdated language, ensuring leadership continuity, clarifying the agency’s
+reporting responsibilities, and making explicit several previously implicit characteristics of BOLT’s authority
+to regulate revenue-generating activity.
+This legislation makes several technical, administrative, and clarifying amendments to the governing statute.
+First, it changes outdated terms to reflect current practice. This legislation replaces the outdated term for
+the head of the Board (“president”) with “president or chair.” It also replaces the outdated term for the
+Executive Director of DCPL (“librarian of the public library”) with updated language used elsewhere in the
+statute (“Chief Librarian or Executive Director”).
+Second, the bill ensures leadership continuity by allowing the Board to elect its chair every two years instead
+of every year. DCPL has been following this schedule since January 2021, and the Library has benefited from
+the steady leadership this practice allows.
+Third, this legislation clarifies that the agency’s annual performance oversight responses can constitute the
+oversight report required by the statute. For many years, the Council has allowed the Library to treat its
+responses to performance oversight questions as the “annual report . . . on the operation of the public library”
+required by D.C. Code § 39–105(a)(9). This practice allows the Library to focus on its substantive
+responsibilities rather than generating duplicative reports.
+Finally, this bill aligns the provision of the statute governing revenue-generating activity with the Board’s
+bylaws and current practice. Statutory changes are necessary to ensure the Board can continue to oversee
+the Library’s collection of revenue from third parties, including those that hold events on Library property.
+Specifically, this legislation clarifies that: (1) the Board can act through a designee to issue permits for third-
+★★★
+MATTFRUMINWARD3.COM | (202) 724-8062
+
+party revenue-generating activity; (2) the Board has the authority to establish a fee schedule; (3) the Board
+may waive fees due to undue hardship; and (4) the Library’s own revenue-generating activity is exempt from
+BOLT’s fee schedule.
+I look forward to continuing to work with DCPL and the Board to ensure DCPL remains a model library system
+committed to programmatic excellence and lifelong learning. Should you have any questions about this
+legislation, please contact Legislative Assistant Emelie Shany at eshany@dccouncil.gov.
+Sincerely,
+Councilmember Matthew Frumin, Ward 3
+Chair, Committee on Human Services
+★★★
+MATTFRUMINWARD3.COM | (202) 724-8062
+
+1
+2
+3 Councilmember Matthew Frumin
+4
+5
+6
+7
+8 A BILL
+9
+10 _________
+11
+12
+13 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+14
+15 __________________
+16
+17
+18 To amend An Act To establish and provide for the maintenance of a free public library and reading
+19 room in the District of Columbia to align with the organizational and procedural revisions
+20 made to the District of Columbia Public Library Board of Library Trustees Bylaws
+21 approved on May 27, 2026, and to make other appropriate technical and conforming
+22 revisions.
+23
+24 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+25 act may be cited as the “Board of Library Trustees Technical Amendment Act of 2026”.
+26 Sec. 2. An Act To establish and provide for the maintenance of a free public library and
+27 reading room in the District of Columbia, approved April 1, 1926 (44 Stat. 229; D.C. Official Code
+28 § 39-104 et seq.), is amended as follows:
+29 (a) Section 4 (D.C. Official Code § 39-104) is amended as follows:
+30 (1) Subsection (g) is amended to read as follows:
+31 “(g) Every 2 years, the Board shall elect 1 of its members to serve as its chair or president
+32 and may elect any other officer it requires.”.
+33 (2) Subsection (i) is amended by striking the phrase “librarian of the public library”
+34 and inserting the phrase “Chief Librarian or Executive Director” in its place.
+35 (b) Section 5(a) (D.C. Official Code § 39-105(a)) is amended as follows:
+1
+
+36 (1) Paragraph (9) is amended to read as follows:
+37 “(9) Make an annual oversight report to the Mayor and the Council on the operation
+38 of the public library for the preceding fiscal year; provided, that responses to written questions
+39 prepared by the Council committee with jurisdiction over the public library as part of an annual
+40 Council performance oversight process shall satisfy the requirements of this paragraph;”.
+41 (2) Paragraph (10) is amended by striking the phrase “librarian of the public library”
+42 wherever it appears and inserting the phrase “Chief Librarian or Executive Director of the public
+43 library” in its place.
+44 (3) Paragraph (14)(B) is amended to read as follows:
+45 “(B)(i) Revenue-generating activity may be conducted by private users only
+46 with a fee-based use permit granted by the Board or its designee, subject to such conditions as the
+47 Board or its designee may impose, and only upon payment of a fee pursuant to a fee schedule
+48 approved by the Board.
+49 (ii) The library may waive the fee required by this subparagraph if,
+50 in the Board or its designee’s sole discretion, doing so is in the public interest and payment of the
+51 fee would impose undue hardship on the private user.
+52 (iii) This subparagraph shall not apply to activities conducted
+53 pursuant to Paragraph (17) of this subsection.”.
+54 (c) Section 107a(a) (D.C. Official Code § 39–107a) is amended by striking the phrase
+55 “librarian of the public library” and inserting the phrase “Chief Librarian or Executive Director or
+56 his or her designees” in its place.
+57 Sec. 3. Fiscal impact statement.
+2
+
+58 The Council adopts the fiscal impact statement in the committee report as the fiscal impact
+59 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+60 October 16, 2006 (12 Stat. 2038; D.C. Official Code § 1-301.47a).
+61 Sec. 4. Effective date.
+62 This act shall take effect following approval by the Mayor (or in the event of veto by the
+63 Mayor, action by the Council overriding the veto) and a 30-day period of congressional review as
+64 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24,
+65 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+3

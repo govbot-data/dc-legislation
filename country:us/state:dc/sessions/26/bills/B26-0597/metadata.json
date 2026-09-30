@@ -102,6 +102,28 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:06Z"
       }
+    },
+    {
+      "description": "Notice of Roundtable filed in the Office of Secretary by Housing",
+      "date": "2026-09-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T11:23:54Z"
+      }
+    },
+    {
+      "description": "Roundtable on B26-0597",
+      "date": "2026-10-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T11:23:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -169,6 +191,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Notice of Roundtable filed in the Office of Secretary by Housing",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61285/Hearing_Notice/B26-0597-Hearing_Notice3.pdf?Id=246571",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -190,7 +223,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:06Z",
+    "logs_latest_update": "2026-09-30T11:23:54Z",
     "text_extraction_latest_update": "2026-07-21T21:29:30.162213Z"
   }
 }

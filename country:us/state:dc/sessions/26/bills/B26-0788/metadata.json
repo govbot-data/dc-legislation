@@ -48,6 +48,16 @@
       "_processing": {
         "log_file_created": "2026-09-24T10:11:12Z"
       }
+    },
+    {
+      "description": "Notice of Intent to Act on B26-0788 Published in the District of Columbia Register",
+      "date": "2026-09-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T11:23:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -94,7 +104,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-24T10:11:12Z",
+    "logs_latest_update": "2026-09-30T11:23:54Z",
     "text_extraction_latest_update": "2026-09-24T10:12:48.941022Z"
   }
 }

@@ -48,6 +48,16 @@
       "_processing": {
         "log_file_created": "2026-09-24T10:11:12Z"
       }
+    },
+    {
+      "description": "Notice of Intent to Act on B26-0792 Published in the District of Columbia Register",
+      "date": "2026-09-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-30T11:23:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -67,6 +77,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/62525/Introduction/B26-0792-Introduction.pdf?Id=245902",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62525/Meeting1/Engrossment/B26-0792-Engrossment1.pdf?Id=246327",
           "media_type": "application/pdf"
         }
       ],
@@ -94,7 +115,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-24T10:11:12Z",
+    "logs_latest_update": "2026-09-30T11:23:54Z",
     "text_extraction_latest_update": "2026-09-24T10:13:01.580594Z"
   }
 }

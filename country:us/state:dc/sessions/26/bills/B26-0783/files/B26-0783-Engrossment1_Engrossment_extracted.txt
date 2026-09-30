@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-783
+4
+5 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+6
+7 ____________________
+8
+9 To amend, on a temporary basis, Chapter 39 of Title 28 of the D.C. Official Code to deem certain
+10 federally regulated consumer price transparency practices in the telecommunications
+11 industry compliant with District price transparency requirements.
+12 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+13 act may be cited as the “Broadband Price Transparency Regulation Temporary Amendment Act
+14 of 2026”.
+15 Sec. 2. Chapter 39 of Title 28 of the District of Columbia Official Code is amended as
+16 follows:
+17 (a) The table of contents is amended by adding a new section designation to read as
+18 follows:
+19 “28-3904a. Special price information standard for broadband services complying with
+20 federal rules.”.
+21 (b) A new section 28-3904a is added to read as follows:
+22 “Sec. 28-3904a. Special price information standard for broadband services complying
+23 with federal rules.
+1
+
+ENGROSSED ORIGINAL
+24 “A merchant providing broadband internet access who complies with the broadband
+25 consumer label requirements of 47 C.F.R. § 8.1 as those requirements existed on January 1,
+26 2026, shall be deemed compliant with the requirements of § 28-3904(a)(12).”.
+27 Sec. 3. Applicability.
+28 This act shall apply as of the effective date of the Enhancing Consumer Protection
+29 Procedures Amendment Act of 2026, enacted on June 25, 2026 (D.C. Act 26-344; 73 DCR
+30 9162).
+31 Sec. 4. Fiscal impact statement.
+32 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+33 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+34 October 16, 2006 (120 Stat. 2038; D.C. Official Code § l-301.47a).
+35 Sec. 5. Effective date.
+36 (a) This act shall take effect following approval by the Mayor (or in the event of veto by
+37 the Mayor, action by the Council to override the veto), a 30-day period of congressional review
+38 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+39 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+40 Columbia Register.
+41 (b) This act shall expire after 225 days of its having taken effect.
+2

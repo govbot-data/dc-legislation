@@ -1,0 +1,368 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 ______________________________
+2 Councilmember Robert C. White, Jr.
+3
+4
+5
+6 A BILL
+7 ___________
+8
+9 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+10 _________________
+11
+12 To amend The Condominium Act of 1976 to require condominium unit owners associations to
+13 conduct remaining life, repair, and replacement cost studies, to amend the Inclusionary
+14 Zoning Implementation Amendment Act of 2006 to require the Department of Housing
+15 and Community Development to subsidize unrealized equity increases in an
+16 Inclusionary Zoning ownership unit sale, to amend the Home Purchase Assistance Fund
+17 Act of 1978 to allow for asynchronous group education Home Purchase Assistance
+18 Program sessions and to allow qualified lenders to underwrite and assess qualification of
+19 Home Purchase Assistance Program loans, to amend the District of Columbia Housing
+20 Finance Agency Act to create a local residential mortgage foreclosure prevention
+21 program, establish the guidelines of the program and the criteria of a qualified applicant,
+22 establish a fund for the program, and fund the program through fees on closing and
+23 foreclosure filings.
+24 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA,
+25 That this act may be cited as the “Ownership and Wealth-building for our Neighbors (OWN)
+26 Omnibus Amendment Act of 2026”
+27 Sec. 2 The Condominium Act of 1976, effective March 29, 1977 (D.C. Law 1-89 D.C.
+28 Official Code § 42–1901 et seq.), is amended as follows:
+29 (a)Section 102 is amended as follows:
+30 (1) A new subparagraph (27A) is added to read as follows:
+31 “(27A) Reserve study” means a capital budget planning tool used to determine the
+32 estimated remaining useful life of, and estimated repair or replacement cost of common element
+33 components, including but not limited to common element structural components, or other
+34 components of the condominium, or other improvements for which the unit owners association is
+35 responsible for the repair and replacement, and an analysis of association funding capacity to
+
+36 maintain, repair, and replace such components and recommendations for funding, and all condo
+37 fee increases within the past 5 years or the lifetime of the building, whichever is lesser.
+38 (b) A new section 307a is added to read as follows:
+39 “(a) If the executive board oversees common elements with an aggregate replacement
+40 cost exceeding $10,000 and has had a reserve study conducted on or after January 1, 2023, then
+41 the executive board shall conduct an updated reserve study within 5 years after the date the
+42 reserve study was conducted, and at least every 5 years thereafter to assess the condition of and
+43 planning for repair and maintenance of the common elements and other components of the
+44 condominium for which the unit owners association is responsible.
+45 “(b) If the executive board oversees common elements with an aggregate replacement
+46 cost exceeding $10,000 and has not conducted a reserve study on or after January 1, 2023, then
+47 the executive board shall conduct a reserve study on or before January 1, 2028, and shall update
+48 the study at least every 5 years thereafter to assess the condition of and planning for repair and
+49 maintenance of the common elements and other components of the condominium for which the
+50 unit owners association is responsible.
+51 “(c) Each reserve study required under this section shall be prepared by or attested to by a
+52 person who either:
+53 “(1) Holds a current license from the Board of Professional Engineer, or Board of
+54 Architecture, Interior Design, and Landscape Architecture; or
+55 “(2) Is currently designated as a reserve specialist by the Community Association
+56 Institute or as a professional reserve analyst by the Association of Professional Reserve Analysts.
+57 “(d) As part of its periodic budget preparation process, the executive board shall review
+58 the reserve funding annually for adequacy and make any adjustments to the annual budget and
+
+59 annual assessment the executive board deems necessary to maintain reserves, as appropriate. The
+60 executive board may meet repair and replacement needs through replacement reserves,
+61 assessments, or borrowed funds.
+62 “(e) If a reserve study conducted in accordance with this section indicates a need to
+63 budget for reserves, the unit owners’ association budget shall include:
+64 “(1) As of the beginning of the fiscal year for which the budget is prepared, the
+65 current amount of accumulated cash reserves set aside to repair, replace, or restore the common
+66 element components, including common element structural components, and other components
+67 under association responsibility and the amount of the expected contribution to the reserve fund
+68 for that fiscal year;
+69 “(2) A statement describing the procedures used for estimation and accumulation
+70 of cash reserves pursuant to this section; and
+71 “(3)A statement of the amount of reserves recommended in the study and the
+72 amount of current cash for replacement reserves.
+73 “(f) The study shall be presented to the prospective buyer at time of sale”
+74 Sec. 3. Section 103 of the Inclusionary Zoning Implementation Amendment Act of 2006,
+75 effective March 14, 2007 (D.C. Law 16-275; D.C. Official Code § 6-1041.03), is amended as
+76 follows:
+77 (a) Subsection (c) is amended by striking “Except as provided in subsection (d) the” and
+78 inserting the word “The” in its place.
+79 (b) Subsection (d) is repealed.
+80 (c) A new subsection (e) is added to read as follows
+
+81 “(e)(1) Upon the second or subsequent sale of an inclusionary unit, whether directly to an
+82 eligible household or through a purchase by the Mayor, the seller shall receive an equity payment
+83 from the Mayor.
+84 “(2) The equity payment shall equal the purchase price paid by the seller
+85 multiplied by the amount by which the market appreciation percentage exceeds the regulated
+86 appreciation percentage. If the market appreciation percentage does not exceed the regulated
+87 appreciation percentage, no equity payment shall be due.
+88 “(3) In a direct sale to an eligible household, the household shall pay the regulated
+89 sales price and the Mayor shall deposit the equity payment with the settlement agent before
+90 closing. The equity payment shall be disbursed only if the sale closes.
+91 “(4) The equity payment shall not increase the price paid by the next eligible
+92 household, be financed by that household, or be included when calculating a future maximum
+93 purchase price. The affordability covenant shall remain in effect.
+94 “(5) The Mayor, pursuant to § 2-501 et seq., may issue rules to implement the
+95 provisions of this subsection.
+96 “(6) For purposes of this subsection:
+97 “(A) ‘Market appreciation percentage’ means the percentage increase from
+98 the appraised market value of the inclusionary unit when the seller purchased it to the appraised
+99 market value when the seller sells it. Each appraisal shall determine the market value of the unit
+100 without regard to the affordability covenant.
+101 “(B) ‘Regulated appreciation percentage’ means:
+
+102 “(i) If the maximum purchase price under subsection (c) of this
+103 section is calculated using the consumer price index, the percentage by which the consumer price
+104 index has increased since the seller purchased the unit; or
+105 “(ii) If the Mayor uses another formula under subsection (c) of this
+106 section, the percentage increase in the seller’s purchase price provided by that formula, excluding
+107 adjustments for eligible improvements.
+108 “(iii) The regulated appreciation percentage shall not be less than
+109 zero.
+110
+111 Sec. 4. The Home Purchase Assistance Fund Act of 1978, effective September 12, 1978
+112 (D.C. Law 2-103; D.C. Official Code § 42-2601 et seq.), is amended as follows:
+113 (a) Section 3a(f)(1) (D.C. Official Code § 42-2602.01(f)(1)) is amended by striking the
+114 phrase "this section" and inserting the phrase "this section, section 3a-1, and section 3a-2" in its
+115 place.
+116 (b) New sections 3a-1 and 3a-2 are added to read as follows:
+117 "Sec. 3a-1. Qualification for Program assistance.
+118 "(a) An applicant shall apply for Program assistance through a participating lender.
+119 "(b) A participating lender shall perform qualification concurrently with its underwriting
+120 of the first trust mortgage for the subject transaction, utilizing a uniform worksheet prescribed by
+121 the Mayor. The participating lender shall submit the completed worksheet and all supporting
+122 documentation directly to the Mayor.
+123 "(c) The Mayor shall make the final determination of applicant eligibility. The Mayor
+124 shall directly verify each applicant's income eligibility and shall not delegate this verification.
+
+125 The Mayor’s review of an application file shall be strictly limited to assessing statutory and
+126 regulatory eligibility, underlying funding-source requirements, quality control, and the accuracy
+127 and completeness of the uniform worksheet. The Mayor shall not repeat or duplicate the
+128 participating lender's underwriting unless:
+129 "(1) There is a discrepancy in the submitted file;
+130 "(2) There is an indication of fraud or misrepresentation; or
+131 "(3) An applicable funding-source requirement is not addressed by the uniform
+132 worksheet.
+133 "(d) If a submitted file is deficient, the Mayor shall identify all deficiencies in a single
+134 written notice. The Mayor shall issue a final eligibility determination within 15 business days
+135 after receiving a complete file. The Mayor may extend this 15-day period by up to 10 additional
+136 business days for any circumstance described in subsection (e) of this section, provided that the
+137 Mayor issues prior written notice to the applicant and the participating lender detailing the
+138 specific reason for the extension.
+139 "(e) A denial of qualification by a participating lender shall be issued in writing, shall
+140 specify the reasons for the denial, and shall not terminate the applicant's eligibility to seek
+141 Program assistance elsewhere. Documentation verified by a participating lender shall remain
+142 valid and transferable for 120 days for use by another participating lender, unless a fact material
+143 to the applicant's eligibility has changed.
+144 "(f) A participating lender shall not charge an applicant any fee for performing
+145 qualification, submitting an application to the Program, or receiving Program assistance.
+146 "(g) Not less than once annually, the Mayor shall review a representative sample of
+147 qualification files from each participating lender. The Mayor shall evaluate each participating
+
+148 lender's qualification and denial rates for disparities based on any trait protected by the Human
+149 Rights Act of 1977, effective December 13, 1977 (D.C. Law 2-38; D.C. Official Code § 2-
+150 1401.01 et seq.). The Mayor may mandate corrective action or suspend or terminate a
+151 participating lender agreement accordingly.
+152 "(h) Annually, the Mayor shall publish and transmit a report to the Council detailing:
+153 "(1) The number of participating lenders and the number of those lenders that
+154 qualified at least one applicant;
+155 "(2) The number of applicants qualified, denied, and closed by each participating
+156 lender;
+157 "(3) The median and 90th percentile number of business days elapsed from receipt
+158 of a complete file to the issuance of a determination; and
+159 "(4) The number of files returned for deficiencies.
+160 "(i) The Mayor shall disaggregate the data required by this subsection by race, sex,
+161 income band, and ward, provided that the applicant has voluntarily furnished this demographic
+162 information and its disclosure would not identify an individual applicant.
+163 "(j) For the purposes of this section, the term:
+164 "(1) 'Participating lender' means a lender that maintains an executed participating
+165 lender agreement with the Mayor.
+166 "(2) 'Qualification' means the verification of assets, liabilities, credit history, and
+167 repayment capacity; the terms of the proposed first trust mortgage; the appraised value of the
+168 property to be purchased; and the amount of Program assistance for which the applicant appears
+169 eligible.
+170 "Sec. 3a-2. Homebuyer education and counseling.
+
+171 "(a) The Mayor shall make group homebuyer education available in a self-paced,
+172 asynchronous format at no charge to participants. Successful completion of this curriculum
+173 satisfies any group homebuyer education requirement established by the Program. This
+174 requirements shall not be applicable to individualized housing counseling that is required by 24
+175 C.F.R. § 92.254(a)(3).
+176 "(b) The asynchronous group homebuyer education platform shall:
+177 "(1) Operate compatibly on mobile devices;
+178 "(2) Automatically preserve and record a participant's progress;
+179 "(3) Comply with all applicable federal and District accessibility standards;
+180 "(c) The Mayor shall establish objective completion standards for asynchronous group
+181 homebuyer education that verify active participation and substantive comprehension of
+182 curriculum content. These standards shall allow participants to retake course assessments without
+183 penalty.
+184 "(d) The Mayor shall publish annually on its website and transmit to the Council a report
+185 specifying:
+186 "(1) The number of participants choosing each respective format of group
+187 homebuyer education;
+188 "(2) The median elapsed time from enrollment to completion and the overall
+189 noncompletion rate for each format;
+190 "(3) The median wait time, measured in days, from an applicant's initial request to
+191 the delivery of their first individualized housing counseling session; and
+192 "(4) The rate at which participants completing each format receive an eligibility
+193 determination and successfully close on a home purchase.".
+
+194 "(e) For the purposes of this section, the term:
+195 "(1) 'Asynchronous' means an on-demand instructional delivery method
+196 permitting a participant to initiate, pause, resume, and complete coursework at times of the
+197 participant's choosing, without mandatory attendance at scheduled sessions.
+198 "(2) 'Individualized housing counseling' means one-on-one professional guidance
+199 delivered by a qualified housing counselor, consisting of client intake, an evaluation of the
+200 participant's financial profile and the affordability of the prospective home purchase, preparation
+201 of a customized written action plan, and documented reasonable follow-up efforts.
+202 Sec. 5 The District of Columbia Housing Finance Agency Act, effective March 3, 1979
+203 (D.C. Law 2-135; D.C. Official Code 42-2703.01 et seq.). is amended by adding new sections
+204 307b, 307c, and 307d to read as follows:
+205 (a) “Sec. 307b. Residential Mortgage Foreclosure Prevention Program.
+206 “(a)(l) The Agency shall establish a Residential Mortgage Foreclosure Prevention
+207 Program ("program") that allows qualified homeowners to apply for and receive financial
+208 assistance for payment of past due residential mortgage payments, property taxes, property
+209 insurance debts, condominium fees, and homeowner association fees that have put the qualified
+210 homeowner at risk of foreclosure of their primary residence.
+211 “(2) The Agency shall make financial assistance available to qualified
+212 homeowners with a demonstrated ability to pay their housing costs going forward. The types of
+213 assistance shall be subject to Agency underwriting and have the following criteria:
+214 “(A) A low-interest loan that does not collect interest or require payments
+215 for at least the first 2 years for applicants with an income of 100% AMI or greater, based on
+
+216 household size in accordance with the Washington Metropolitan Statistical Area as set forth in
+217 the periodic calculation provided by the U.S. Department of Housing and Urban Development.
+218 “(B) A zero-interest loan that requires repayment at the time of sale or
+219 refinance of the subject property for qualified homeowners with an income less than 100% AMI
+220 based on household size in accordance with the Washington Metropolitan Statistical Area as set
+221 forth in the periodic calculation provided by the U.S. Department of Housing and Urban
+222 Development.
+223 “(3) The Agency shall establish a standardized application process, requirements,
+224 and underwriting criteria for qualified homeowners in need of the program.
+225 “(4) The Agency shall set an appropriate repayment timeline based on the
+226 qualified homeowner’s repayment feasibility and ensure that all associated housing costs will not
+227 exceed 50% of the applicant's income. The repayment timeline shall undergo an annual
+228 recertification.
+229 “(b) The Agency shall record a lien on the subject property in the amount of the financial
+230 assistance provided to the qualified homeowner. The lien shall be subordinate to all other existing
+231 loans on the subject property.
+232 “(c) The applicant shall be required to attend annual housing counseling with a HUD
+233 certified housing counseling service as defined in section 214 of the Housing and Urban
+234 Development Code [24 U.S.C. § 214.3].
+235 “(d) Other than instances of a refinance, no qualified homeowner may receive more than
+236 $40,000 in lifetime assistance.
+237 “(e) All repayments of loans administered by the program shall be remitted to the fund
+238 established in section 307d.
+
+239 “(f) For the purposes of this section, the term:
+240 “(1) “At risk of foreclosure” means:
+241 “(A) A mortgage lender has provided a homeowner with legal notice that
+242 the homeowner is in default on the terms of a residential mortgage on the home in which the
+243 homeowner lives for failure to pay; or
+244 “(B) A homeowner experiencing financial hardship that will not allow for
+245 the homeowner to make upcoming payments on a residential mortgage, property taxes, property
+246 insurance debts, condominium fees, and homeowner association fees.
+247 “(2) “Financial hardship” means a material reduction in income or material
+248 increase in living expenses such as job loss, reduction in income, or increased costs due to
+249 healthcare or the need to care for a family member, that has created or increased a risk of
+250 mortgage delinquency, mortgage default, foreclosure, or displacement for a homeowner.
+251 “(3) “Exhausted alternative financing” means:
+252 “(A) In the case of a residential mortgage, a District homeowner who has
+253 sought alternative means of loss mitigation, which is evidenced by:
+254 “(i) A referral to the Agency from a HUD certified foreclosure
+255 prevention housing counseling service as defined in section 214 of the Housing and Urban
+256 Development Code [24 U.S.C. § 214.3].
+257 “(ii) A Loss Mitigation Denial Notice or Denial Letter from the
+258 applicant’s lender.
+259 “(iii) A Loss Mitigation Offer Letter or Approval Notice from a
+260 lender that the applicant would exceed 50% of the applicant's gross income.
+
+261 “(B) In the case of a non-mortgage default, a referral to the Agency a
+262 HUD certified foreclosure prevention housing counseling service as defined in section 214 of the
+263 Housing and Urban Development Code [24 U.S.C. § 214.3].
+264 “(3) “Qualified homeowner” means a District homeowner who is experiencing
+265 financial hardship, is at risk of foreclosure, has exhausted alternative financing, and makes less
+266 than 250% AMI based on household size in accordance with the Washington Metropolitan
+267 Statistical Area as set forth in the periodic calculation provided by the U.S. Department of
+268 Housing and Urban Development.
+269 "(4) "Subject property" means the home in which a homeowner who is at
+270 risk of foreclosure lives.
+271 Sec. 307c. Funding Foreclosure Prevention.
+272 “(a)(1)(A) For each residential mortgage loan originated within or outside of the District
+273 of Columbia and related to property located within the District of Columbia, excepting only
+274 reverse mortgage loans issued to seniors over the age of 62, the escrow agent or other settlement
+275 or closing agent shall collect and remit to the Agency a foreclosure prevention fee of $100 at the
+276 time of closing to be deposited in the fund established in section 307d. This fee may be financed
+277 in the loan and paid from the loan proceeds or from any borrower cash contribution at the time of
+278 closing.
+279 “(B) At or before the time that the foreclosure prevention fee is assessed under
+280 subparagraph (A) of this paragraph, the escrow agent or other settlement or closing agent shall
+281 provide the borrower with a notice of the foreclosure prevention fee and its purpose. The Agency
+282 shall create a notice form that an escrow agent or other settlement or closing agent may use to
+283 satisfy this notice requirement.
+
+284 “(2) For each residential real property for which a notice of default has been issued, the
+285 beneficiary issuing the notice of default shall remit a default fee of $250 to the Agency to the
+286 fund established in section 307d. The $250 payment shall be required per property and not per
+287 notice of default. The beneficiary shall not, directly or indirectly, charge the borrower for this fee
+288 at any time during the foreclosure process.
+289 “(3) The Agency may make policies and procedures related to the implementation,
+290 collection, remittance, and management of the fees and may enter into individualized agreements
+291 with third parties governing the efficient remittance of the fees.
+292 “(4) The obligation to remit fees required pursuant to this section shall survive any error,
+293 omission, or failure by a settlement agent, escrow agent, or other third party acting on behalf of a
+294 lender, beneficiary, or mortgage servicer.
+295 “(5) A borrower shall not be held liable for the failure of another person or entity to
+296 collect or remit amounts required pursuant to this section.
+297 “(6) For the purposes of this section, "residential real property" includes residential real
+298 property with up to four dwelling units, whether or not the property or any part thereof is owner
+299 occupied.
+300 Sec. 307d. Residential Mortgage Foreclosure Prevention Program Fund.
+301 “(a)(1) There is established as a non-lapsing Residential Mortgage Foreclosure
+302 Prevention Program Fund (“Fund”), which the Agency shall administer in accordance with this
+303 section. The Fund shall consist of:
+304 “(A) Fees collected pursuant to section 307c;
+305 “(B) Appropriations made by the Council;
+
+306 “(C) Grants, gifts, donations, and bequests accepted by the Agency for the
+307 purposes of the Fund; and
+308 “(D) Interest earned on monies deposited into the fund.
+309 “(2) Monies deposited into the fund, and interest earned thereon, shall not revert to the
+310 unrestricted fund balance of the District of Columbia General Fund at the end of a fiscal year, or
+311 at any other time, but shall be continually available to the Agency without fiscal year limitation,
+312 subject to authorization by Congress.
+313 “(3) The Agency shall use monies in the fund for the purposes of carrying out the
+314 Foreclosure Prevention Program established pursuant to section 307b, including:
+315 “(A) Disbursing low-interest loans that does not collect interest or require
+316 payments for the first 2 years for applicants with an income of 100% AMI or greater, based on
+317 household size in accordance with the Washington Metropolitan Statistical Area as set forth in
+318 the periodic calculation provided by the U.S. Department of Housing and Urban Development.
+319 “(B) Disbursing zero-interest loans that requires repayment at the time of sale or
+320 refinance of the subject property for qualified homeowners with an income less than 100% AMI
+321 based on household size in accordance with the Washington Metropolitan Statistical Area as set
+322 forth in the periodic calculation provided by the U.S. Department of Housing and Urban
+323 Development; and
+324 “(C) Funding administrative expenses associated with implementation and
+325 operation of the program.
+326 “(4) The Chief Financial Officer shall invest monies in the fund in accordance
+327 with § 47-351.02, and all interest earned from such investments shall be credited to the
+328 fund.
+
+329 “(5) The Agency may issue policies, procedures, guidance, and forms necessary
+330 to administer the fund and may enter into agreements necessary for the collection,
+331 remittance, administration, and disbursement of monies deposited into the fund.
+332 “(6) The Agency shall include in its annual report information concerning
+333 “(A) Revenues deposited into the fund;
+334 “(B) Expenditures from the fund;
+335 “(C) The number of households served through the program; and
+336 “(D) Program outcomes and performance metrics established by the
+337 Agency.
+338 Sec. 6. Fiscal impact statement.
+339 The Council adopts the fiscal impact statement in the committee report as the fiscal
+340 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+341 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+342 Sec. 7. Effective date.
+343 This act shall take effect following approval by the Mayor (or, in the event of veto by the
+344 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+345 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+346 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).

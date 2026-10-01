@@ -38,6 +38,28 @@
       }
     },
     {
+      "description": "Notice of Roundtable filed in the Office of Secretary by Committee of the Whole",
+      "date": "2025-05-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-01T11:52:35Z"
+      }
+    },
+    {
+      "description": "Roundtable on PR26-0204",
+      "date": "2025-05-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-01T11:52:35Z"
+      }
+    },
+    {
       "description": "Referred to Committee of the Whole",
       "date": "2025-06-03T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -108,7 +130,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Notice of Roundtable filed in the Office of Secretary by Committee of the Whole",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57731/Hearing_Notice/PR26-0204-Hearing_Notice1.pdf?Id=246626",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -128,7 +162,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:07Z",
+    "logs_latest_update": "2026-10-01T11:52:35Z",
     "text_extraction_latest_update": "2026-07-21T20:55:38.108365Z"
   }
 }

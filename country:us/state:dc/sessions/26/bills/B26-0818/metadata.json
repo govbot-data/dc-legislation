@@ -28,6 +28,18 @@
       }
     },
     {
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Public Works and Operations",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-01T11:52:35Z"
+      }
+    },
+    {
       "description": "Referred to Committee on Public Works and Operations",
       "date": "2026-10-06T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -37,6 +49,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-30T11:23:54Z"
+      }
+    },
+    {
+      "description": "Public Hearing on B26-0818",
+      "date": "2026-10-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-01T11:52:35Z"
       }
     }
   ],
@@ -64,7 +86,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Public Works and Operations",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62588/Hearing_Notice/B26-0818-Hearing_Notice1.pdf?Id=246579",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -84,7 +118,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-30T11:23:54Z",
+    "logs_latest_update": "2026-10-01T11:52:35Z",
     "text_extraction_latest_update": "2026-09-30T11:25:36.100618Z"
   }
 }

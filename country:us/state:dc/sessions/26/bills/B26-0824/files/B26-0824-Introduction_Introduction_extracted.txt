@@ -1,0 +1,65 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+1 ______________________
+2 Councilmember Matthew Frumin
+3
+4 A BILL
+5
+6 _______
+7
+8 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+9
+10 ______________________
+11
+12 To amend, on an emergency basis due to congressional review, the Homeless Services Reform
+13 Act of 2005 to clarify the authorization to share certain data within the Department of
+14 Human Services and between the Department of Human Services and other District
+15 agencies to facilitate the determination of eligibility for federal and District health and
+16 human service programs; and to amend the Data-Sharing and Information Coordination
+17 Amendment Act of 2010 to clarify the definition of the term “agency” and the intent of the
+18 grant of data system authority.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the “Health and Human Service Programs and Benefits Eligibility and Delivery
+22 Data-Sharing Clarifications Congressional Review Emergency Amendment Act of 2026”.
+23 Sec. 2. The Homeless Services Reform Act of 2005, effective October 22, 2005 (D.C. Law
+24 16-35; D.C. Official Code § 4-751.01 et seq.), is amended as follows:
+25 (a) Section 9(a)(7) (D.C. Official Code § 4-754.11(a)(7)) is amended by striking the phrase
+26 “consistent with the confidentiality requirements of District and federal law;” and inserting the
+27 phrase “consistent with the confidentiality requirements of District and federal law, subject to the
+28 authorized uses and mandatory disclosures of such records and information in accordance with
+29 Title I of the Data-Sharing and Information Coordination Amendment Act of 2010, effective
+30 December 4, 2010 (D.C. Law 18-273; D.C. Official Code § 7-241 et seq.);” in its place.
+31 (b) Section 12(12) (D.C. Official Code § 4-754.21(12)) is amended by striking the phrase
+32 “consistent with the confidentiality requirements of District and federal law;” and inserting the
+33 phrase “consistent with the confidentiality requirements of District and federal law, subject to the
+1
+
+34 authorized uses and mandatory disclosures of such records and information in accordance with
+35 Title I of the Data-Sharing and Information Coordination Amendment Act of 2010, effective
+36 December 4, 2010 (D.C. Law 18-273; D.C. Official Code § 7-241 et seq.);” in its place.
+37 Sec. 3. The Data-Sharing and Information Coordination Amendment Act of 2010, effective
+38 December 4, 2010 (D.C. Law 18-273; D.C. Official Code § 7-241 et seq.), is amended as follows:
+39 (a) Section 101(1) (D.C. Official Code § 7-241(1)) is amended by striking the phrase “or
+40 instrumentality of the District of Columbia government” and inserting the phrase “authority, or
+41 instrumentality of the District of Columbia government, or any subdivision of such agency,
+42 department, unit, authority, or instrumentality” in its place.
+43 (b) The lead-in language of section 102(a) (D.C. Official Code § 7-242(a)) is amended by
+44 striking the phrase “In accordance with section 103 and without” and insert the word “Without” in
+45 its place.
+46 Sec. 4. Fiscal impact statement.
+47 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+48 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+49 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+50 Sec. 5. Effective date.
+51 This act shall take effect following approval by the Mayor (or in the event of veto by the
+52 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+53 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+54 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+55 D.C. Official Code § 1-204.12(a)).
+2

@@ -1,0 +1,348 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+1
+2
+3 _____________________________
+4 Councilmember Wendell Felder
+5
+6
+7
+8
+9 A BILL
+10
+11 _________________________
+12
+13 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+14 _________________________
+15
+16
+17
+18 To amend Chapter 46 of Title 47 of the District of Columbia Official Code to provide a limited
+19 real property tax abatement for the real property located at 4020 Minnesota Avenue, N.E.,
+20 Washington, D.C. 20019, known for tax and assessment purposes as Lot 811 in Square
+21 5052, conditioned upon the owner making qualifying capital improvements to the
+22 property in an amount at least equal to the value of the tax abatement received,
+23 maintaining the affordability of the residential units, complying with District law, and
+24 satisfying reporting and certification requirements; and to authorize the Mayor to
+25 suspend, terminate, or recapture the tax abatement for failure to satisfy the requirements
+26 of this act.
+27
+28 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+29 act may be cited as the “Park 7 Affordable Housing Preservation Tax Abatement Amendment Act
+30 of 2026”.
+31 Sec. 2. Chapter 46 of Title 47 of the District of Columbia Official Code is amended as
+32 follows:
+33 (a) The table of contents is amended by adding a new section designation to read as
+34 follows:
+35 “47-4685. Park 7 affordable housing preservation tax abatement.”.
+36 (b) A new section 47-4685 is added to read as follows:
+1
+
+37 “Sec. 47-4685. Park 7 affordable housing preservation tax abatement.
+38 “(a) For purposes of this section, the term:
+39 “(1) “Capital Improvement” means a physical improvement to the
+40 Property that:
+41 “(A) Materially extends the useful life of the Property or a major
+42 building component or system;
+43 “(B) Improves the health, safety, security, accessibility, energy
+44 efficiency, or habitability of the Property;
+45 “(C) Replaces or substantially rehabilitates a major building
+46 component or system; or
+47 “(D) Otherwise constitutes an eligible capital improvement
+48 approved by the Mayor.
+49 “(2) “District financial assistance” means a grant, loan, tax credit, tax
+50 abatement, or other financial assistance provided by the District government for the
+51 rehabilitation or operation of the Property; provided, that the term shall not include the tax
+52 abatement authorized by this section.
+53 “(3) “Owner” means the Park 7 Residential Limited Partnership, its
+54 successor in interest, or another entity that acquires the Property and assumes the obligations
+55 imposed by this section.
+56 “(4) “Property” means the real property, including any improvements
+57 thereon, located at 4020 Minnesota Avenue, N.E., Washington, D.C. 20019, known for tax and
+58 assessment purposes as Lot 811 in Square 5052 (SSL 5052-0811), or as the land may
+2
+
+59 subsequently be subdivided into record lots, assessment and taxation lots, condominium lots, air-
+60 rights lots, or any combination thereof.
+61 “(5) “Qualifying Capital Expenditure” means an expenditure actually paid
+62 by the Owner from non-District funds for a Capital Improvement included in a capital
+63 improvement plan approved pursuant to subsection (c) of this section.
+64 “(B) The term “Qualifying Capital Expenditure” shall not include:
+65 “(i) Routine maintenance or ordinary operating expenses;
+66 “(ii) Management fees;
+67 “(iii) Debt service;
+68 “(iv) Distributions to owners or investors;
+69 “(v) Penalties or interest;
+70 “(vi) Legal, accounting, or other professional expenses not
+71 directly attributable to a Capital Improvement; or
+72 “(vii) The portion of an expenditure paid or reimbursed
+73 with District financial assistance.
+74 “(6) “Tax year” means a real property tax year of the District.
+75 “(b)(1) Subject to subsections (c) through (j) of this section, for the 7 consecutive tax
+76 years beginning on October 1, 2027, the Property shall be allowed an annual real property tax
+77 abatement equal to the lesser of:
+78 “(A) Two hundred thirty thousand dollars;
+79 “(B) The amount of real property taxes assessed and imposed on the
+80 Property pursuant to Chapter 8 of this title for the applicable tax year, after application of any
+81 other real property tax exemption, abatement, credit, or reduction applicable to the Property; or
+3
+
+82 “(C) The amount of Qualifying Capital Expenditures certified by the
+83 Mayor as eligible to support the abatement for the applicable tax year.
+84 “(2) The aggregate amount of the real property tax abatement provided pursuant
+85 to this section shall not exceed $1,610,000.
+86 “(3) An unused portion of the annual limitation provided in paragraph (1)(A) of
+87 this subsection shall not be carried forward to increase the maximum abatement available in a
+88 subsequent tax year.
+89 “(4) An abatement shall not be allowed for a tax year unless the Mayor certifies
+90 the Property as eligible for the abatement pursuant to subsection (e) of this section.
+91 “(5) A suspension or disallowance of an abatement for any tax year shall not
+92 extend the 7-tax-year period established by paragraph (1) of this subsection.
+93 “(c)(1) As a condition of receiving an abatement pursuant to this section, the Owner shall
+94 make Qualifying Capital Expenditures in an amount not less than $1 for each $1 of real property
+95 tax abated pursuant to this section.
+96 “(2) Before the Property may receive the first abatement pursuant to this section,
+97 the Owner shall submit to the Mayor a capital improvement plan that includes:
+98 “(A) A comprehensive assessment of the Property's capital needs;
+99 “(B) A detailed scope of work;
+100 “(C) An itemized rehabilitation budget;
+101 “(D) A schedule for completing the proposed Capital Improvements;
+102 “(E) The projected useful life of each major Capital Improvement;
+103 “(F) All anticipated sources and uses of funds for the rehabilitation;
+4
+
+104 “(G) The amount of funding anticipated from owner equity, reserves,
+105 loans, grants, tax credits, District financial assistance, federal assistance, or other sources;
+106 “(H) A description of how the proposed Capital Improvements will benefit
+107 existing residents; and
+108 “(I) Any other information the Mayor determines necessary to evaluate the
+109 proposed Capital Improvements.
+110 “(3) The Mayor shall approve the capital improvement plan before certifying the
+111 Property as eligible for an abatement.
+112 “(4) The Owner shall obtain the Mayor's approval before making a material
+113 modification to the approved capital improvement plan if the Owner intends to count
+114 expenditures associated with the modification as Qualifying Capital Expenditures.
+115 “(5) Capital Improvements may include:
+116 “(A) Heating, ventilation, and air-conditioning systems;
+117 “(B) Plumbing and water systems;
+118 “(C) Electrical systems;
+119 “(D) Elevators;
+120 “(E) Roofs and building-envelope systems;
+121 “(F) Water-intrusion, moisture, and mold remediation;
+122 “(G) Residential-unit rehabilitation;
+123 “(H) Common-area improvements;
+124 “(I) Security and building-access systems;
+125 “(J) Fire and life-safety systems;
+126 “(K) Accessibility improvements;
+5
+
+127 “(L) Energy-efficiency and water-conservation improvements;
+128 “(M) Pest-prevention improvements;
+129 “(N) Structural repairs; and
+130 “(O) Other Capital Improvements approved by the Mayor.
+131 “(d)(1) As a condition of receiving an abatement pursuant to this section, the Owner shall,
+132 throughout the abatement period:
+133 “(A) Maintain all affordability restrictions applicable to the Property under
+134 any affordability covenant, regulatory agreement, financing agreement, federal Low-Income
+135 Housing Tax Credit requirement, Housing Production Trust Fund requirement, or other binding
+136 District or federal requirement;
+137 “(B) Not reduce the number of affordable residential units at the Property,
+138 except as temporarily necessary to perform rehabilitation work;
+139 “(C) Remain in substantial compliance with applicable housing, building,
+140 fire, property-maintenance, and life-safety laws and regulations; and
+141 “(D) Comply with the reporting and certification requirements of this
+142 section.
+143 “(2) No resident shall be permanently displaced solely as a result of a Capital
+144 Improvement for which an expenditure is counted as a Qualifying Capital Expenditure.
+145 “(3) If temporary relocation of a resident is necessary to complete a Capital
+146 Improvement, the Owner shall, consistent with applicable District and federal law:
+147 “(A) Provide reasonable advance notice;
+148 “(B) Pay required relocation expenses;
+6
+
+149 “(C) Provide suitable temporary accommodations when required by law;
+150 and
+151 “(D) Provide the resident a right to return to the resident's unit or a
+152 comparable unit at the Property upon completion of the work.
+153 “(4) The Owner shall not use a Qualifying Capital Expenditure as the basis for a
+154 rent surcharge, capital-improvement charge, or other separate charge to a tenant to recover the
+155 portion of the Capital Improvement credited toward the matching requirement established by
+156 subsection (c)(1) of this section.
+157 “(e)(1) For each tax year for which an abatement is sought, the Owner shall provide the
+158 Mayor with information sufficient for the Mayor to determine whether the Property satisfies the
+159 requirements of this section.
+160 “(2) The information required by paragraph (1) of this subsection shall include:
+161 “(A) The amount of Qualifying Capital Expenditures made during the
+162 applicable reporting period;
+163 “(B) Documentation demonstrating that the expenditures were made in
+164 accordance with the approved capital improvement plan;
+165 “(C) Documentation demonstrating the source of funds used to pay each
+166 expenditure claimed as a Qualifying Capital Expenditure;
+167 “(D) The cumulative amount of Qualifying Capital Expenditures made
+168 pursuant to this section;
+169 “(E) The cumulative amount of real property tax abated pursuant to this
+170 section;
+7
+
+171 “(F) Documentation demonstrating compliance with the affordability
+172 requirements of subsection (d) of this section;
+173 “(G) Information regarding any material housing, building, fire, property-
+174 maintenance, or life-safety violations at the Property;
+175 “(H) The amount of the real property tax abatement requested for the
+176 applicable tax year; and
+177 “(I) Any other information the Mayor determines necessary.
+178 “(3) Documentation supporting an expenditure claimed as a Qualifying Capital
+179 Expenditure shall include, as applicable:
+180 “(A) Paid invoices;
+181 “(B) Proof of payment;
+182 “(C) Executed construction contracts or purchase orders;
+183 “(D) Permits and inspection records;
+184 “(E) Documentation of the source of funds;
+185 “(F) Photographs or other evidence of completed work; and
+186 “(G) An independent certification by a certified public accountant or other
+187 qualified third party, if required by the Mayor.
+188 “(4) By December 31 of each tax year during the abatement period, the Mayor
+189 shall determine the amount of the abatement for which the Property is eligible and shall certify
+190 that amount to the Office of Tax and Revenue.
+191 “(5) The Mayor's certification shall include:
+192 “(A) The Owner's taxpayer identification number;
+8
+
+193 “(B) A description of the Property by street address and square and lot
+194 number;
+195 “(C) A statement as to whether the Owner has satisfied the requirements of
+196 this section;
+197 “(D) The amount of the abatement for which the Property is eligible for
+198 the applicable tax year; and
+199 “(E) Any other information the Office of Tax and Revenue considers
+200 necessary or appropriate.
+201 “(6) If the Mayor determines at any time that the Property has become ineligible
+202 for an abatement, the Mayor shall notify the Office of Tax and Revenue of the ineligibility and
+203 the date on which the Property became ineligible.
+204 “(f)(1) Following certification by the Mayor pursuant to subsection (e) of this section,
+205 the Office of Tax and Revenue shall process the abatement for the applicable tax year.
+206 “(2) The Chief Financial Officer may audit information or documentation relating
+207 to the amount of an abatement or the application of an abatement to the Property.
+208 “(g)(1) The Mayor shall suspend eligibility for an abatement if the Mayor determines that
+209 the Owner:
+210 “(A) Has failed to satisfy the dollar-for-dollar expenditure requirement
+211 established by subsection (c)(1) of this section;
+212 “(B) Has materially deviated from the approved capital improvement plan
+213 without approval;
+214 “(C) Has materially violated an applicable affordability requirement;
+215 “(D) Has failed to provide required reports or documentation;
+9
+
+216 “(E) Has submitted materially false or misleading information;
+217 “(F) Is in material violation of an applicable housing, building, fire,
+218 property-maintenance, or life-safety law or regulation and has failed to timely correct the
+219 violation; or
+220 “(G) Is otherwise in material violation of this section.
+221 “(2) Except in a case involving fraud, intentional misrepresentation, an imminent
+222 threat to health or safety, or a violation that cannot reasonably be cured, the Mayor shall provide
+223 the Owner written notice of the violation and at least 60 days to cure the violation before
+224 suspending eligibility.
+225 “(3) No abatement shall accrue during a period in which the Property is ineligible.
+226 “(h)(1) If the Owner receives an abatement that exceeds the amount for which the
+227 Property was eligible under this section, the Mayor shall notify the Office of Tax and Revenue of
+228 the amount improperly abated.
+229 “(2) Upon receiving notice pursuant to paragraph (1) of this subsection, the Office
+230 of Tax and Revenue shall restore to the tax roll the amount of real property tax improperly
+231 abated, together with applicable interest calculated from the date the tax otherwise would have
+232 been due.
+233 “(3) If the Mayor determines that an abatement was obtained through fraud,
+234 intentional misrepresentation, falsification of expenditures or records, or diversion of funds
+235 represented as Qualifying Capital Expenditures to a nonqualifying purpose, the Mayor shall
+236 notify the Office of Tax and Revenue, which shall recapture the full amount of the abatement
+237 improperly received, together with applicable interest.
+10
+
+238 “(4) If the Owner materially violates an affordability requirement imposed by
+239 subsection (d) of this section during the abatement period, the Mayor may determine that some
+240 or all abatements received during the period of noncompliance are subject to recapture.
+241 “(5) An amount recaptured pursuant to this subsection shall:
+242 “(A) Constitute real property tax owed to the District;
+243 “(B) Be collectible in the same manner as delinquent real property tax; and
+244 “(C) Constitute a lien against the Property to the same extent as other
+245 delinquent real property tax.
+246 “(6) The remedies provided by this subsection are cumulative and shall not
+247 preclude the District from exercising any other remedy available under law.
+248 “(i)(1) The Owner shall provide the Mayor and the Chief Financial Officer written notice
+249 at least 60 days before a sale of the Property or transfer of a controlling interest in the Owner.
+250 “(2) A sale or transfer shall not terminate the abatement if:
+251 “(A) The successor owner assumes in writing all obligations imposed by
+252 this section;
+253 “(B) The successor owner assumes the obligations of the approved capital
+254 improvement plan;
+255 “(C) All affordability restrictions applicable to the Property remain in
+256 effect;
+257 “(D) The successor owner is in compliance with the requirements of this
+258 section; and
+259 “(E) The Mayor certifies continuation of the abatement to the Office of
+260 Tax and Revenue.
+11
+
+261 “(3) A sale or transfer shall not restart or extend the 7-tax-year abatement period
+262 established by subsection (b)(1) of this section or increase the aggregate limitation established by
+263 subsection (b)(2) of this section.
+264 “(j)(1) On or before April 1 of each year following a tax year in which the Property
+265 receives an abatement, the Owner shall submit to the Mayor and the Council a report describing:
+266 “(A) The amount of real property tax abated during the preceding tax year;
+267 “(B) The amount of Qualifying Capital Expenditures made;
+268 “(C) The Capital Improvements completed or underway;
+269 “(D) Progress toward completion of the approved capital improvement
+270 plan;
+271 “(E) The number of affordable residential units at the Property;
+272 “(F) The occupancy rate of the Property;
+273 “(G) The number of units temporarily unavailable because of
+274 rehabilitation;
+275 “(H) The amount and source of non-District funds invested in the
+276 rehabilitation;
+277 “(I) The amount and source of District financial assistance and federal
+278 financial assistance used for the rehabilitation; and
+279 “(J) Any material changes to the rehabilitation budget or schedule.
+280 “(2) The Mayor shall make the report required by paragraph (1) of this subsection
+281 publicly available, except for information protected from disclosure by District or federal law.
+12
+
+282 “(k)(1) Nothing in this section shall prohibit the Owner from combining the tax
+283 abatement provided by this section with other financing or financial assistance necessary to
+284 complete an approved Capital Improvement.
+285 “(2) Notwithstanding paragraph (1) of this subsection, the Owner shall not count
+286 toward the dollar-for-dollar expenditure requirement established by subsection (c)(1) of this
+287 section the portion of an expenditure paid or reimbursed with District financial assistance.
+288 “(3) The Owner shall disclose to the Mayor all District financial assistance used
+289 or proposed to be used for rehabilitation of the Property.
+290 “(4) An expenditure, or portion thereof, shall not be counted more than once
+291 toward the dollar-for-dollar expenditure requirement.
+292 “(l) Nothing in this section shall be construed to limit the Owner's right to appeal or
+293 contest the real property tax assessment of the Property.
+294 “(m) The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure
+295 Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), may issue
+296 rules necessary to implement this section.”.
+297 Sec. 3. Applicability.
+298 (a) This act shall apply upon the date of inclusion of its fiscal effect in an approved
+299 budget and financial plan.
+300 (b) The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in
+301 an approved budget and financial plan to the Budget Director of the Council.
+302 (c)(1) The Budget Director shall cause the notice of the certification to be published in
+303 the District of Columbia Register.
+13
+
+304 (2) The date of publication of the notice of the certification shall not affect the
+305 applicability of section 2.
+306 Sec. 4. Fiscal impact statement.
+307 The Council adopts the fiscal impact statement in the committee report as the fiscal
+308 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+309 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+310 Sec. 5. Effective date.
+311 This act shall take effect following approval by the Mayor (or in the event of veto by the
+312 Mayor, action by the Council to override the veto), and a 30-day period of congressional review
+313 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+314 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+14

@@ -1,0 +1,331 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+THE JOHN A. WILSON BUILDING
+1350 PENNSLYVANIA AVENUE, NW, SUITE 406
+WASHINGTON, DC 20004
+202.724.8068
+WENDELL FELDER Chairperson
+Ward 7 Councilmember Subcommittee on Local Business
+Development
+Statement of Introduction
+Business Improvement District Modernization Amendment Act of 2026
+September 29, 2026
+Nyasha Howard, Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, N.W.
+Washington, DC 20004
+Dear Secretary Howard,
+Today, I am introducing the “Business Improvement District Modernization Act of 2026”. This
+legislation updates and strengthens the framework governing the District’s Business
+Improvement Districts (BIDs). BIDs serve as critical drivers of neighborhood vitality,
+commercial attraction, and public realm management. This legislation introduces several key
+updates that strengthen BIDs ability to serve their neighborhoods, support long-term investment,
+and build public confidence through greater transparency and community participation:
+Our BIDs have evolved significantly since the original framework was established three decades
+ago. This bill reimagines the ecosystem in which BIDS operates by providing BIDs with
+flexibility and stability to plan, respond to changing neighborhood needs, and invest in thriving
+commercial corridors. It also makes their work more visible to the residents and businesses they
+serve by providing clear, accessible information about how BIDs support local businesses,
+strengthen our economy, and improve the quality of life in our communities.
+To advance these goals, the Business Improvement District Modernization Amendment Act of
+2026 introduces several key updates:
+• Extends Renewal Terms: Extends successive BID renewal terms from 5 years to 10
+years after an initial extension. This gives established BIDs long-term operational
+stability, so as to not be burdened with administrative requirements;
+• Standardizes Rate Adjustments: Standardizes the authority of a BID to adjust its rates
+once annually by a percentage not to exceed 5 percent. This standard replaces the many
+individual caps which are currently in place, and are removed by this legislation;
+
+• Creates a Public Performance Dashboard: Requires the Department of Small and
+Local Business Development (DSLBD) to establish an interactive public performance
+dashboard. This tool will track core performance categories—including public safety,
+cleanliness, business vitality, and small business support.
+• Expanded Residential Property Collection: Refines how certain Business
+Improvement Districts (BIDs) can collect revenue from residential properties they did not
+before and includes reduced rates for properties with affordable housing.
+• Broaden Participation in Board Governance: Requires board representation from a
+resident and a Certified Business Enterprise. This expansion would bring additional
+community and small business perspective into BID decisions.
+It is, all told, a more transparent, standardized, and modern framework for how BIDs work
+across the District. By creating a more transparent, standardized, and modern framework, this
+legislation ensures our commercial corridors remain competitive, inclusive, and well-maintained.
+I look forward to continuing conversations with my colleagues on the Council, the BID Council,
+and community stakeholders to advance these necessary reforms.
+Sincerely,
+Wendell Felder
+Councilmember, Ward 7
+2
+
+1
+2 ____________________
+3 Councilmember Wendell Felder
+4
+5
+6 A BILL
+7
+8 _______________
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12 ________________________
+13
+14 To amend the Business Improvement Districts Act of 1996 by standardizing the authority to
+15 adjust Business Improvement District taxes, extending renewal terms, mandating the
+16 establishment and maintenance of an interactive public performance dashboard by the
+17 Department of Small and Local Business Development to permit cross-district
+18 comparison, and clarifying other administrative and reporting requirements.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the “Business Improvement District Modernization Amendment Act of
+22 2026”.
+23 Sec. 2. The Business Improvement Districts Act of 1996, effective May 29, 1996 (D.C.
+24 Law 11-134; D.C. Official Code § 2-1215.01 et seq.), is amended as follows:
+25 (a) Section 3(17A) (D.C. Official Code § 2-1215.02(17A) is amended to read as follows:
+26 “(17A) “Net rentable square feet” means the actual square footage of a building
+27 that may be leased or rented to tenants reported to, or on record with, the Office of Tax and
+28 Revenue. Where the Office of Tax and Revenue does not maintain or provide records sufficient
+29 to determine net rentable square footage of a property at 90% of the gross building area, a BID
+30 may calculate the net rentable square footage using a generally accepted real estate appraisal or
+31 valuation practice, including records from a recognized mortgage lender, licensed appraiser, or
+32 other commercially reasonable source as determined by the Office of Tax and Revenue.”.
+33 (b) Section 8(a) (D.C. Official Code § 2-1215.07(a)) is amended to read as follows:
+3
+
+34 “(a) The powers of each BID corporation shall be vested in a Board of Directors (“Board”).
+35 Board members shall include owners, or principals, agents, partners, managers, trustees,
+36 stockholders, officers, or directors of owners, a resident who resides within the geographic
+37 boundaries of the BID, and at least one representative of a certified business enterprise, as
+38 defined in section 2302(1D) of the Small and Certified Business Enterprise Development and
+39 Assistance Act of 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 2-
+40 218.02(1D)), that operates within the geographic boundaries of the BID.
+41 (c) Section 9(b)(4) (D.C. Official Code § 2-1215.08(b)(4)) is amended to read as follows:
+42 “(4) Notwithstanding any other provision of this subchapter or a BID plan, a BID
+43 may increase its BID taxes once annually, in accordance with subsection (b), by a percentage not
+44 to exceed 5 percent. BID taxes may be amended no more than once annually, and increased rates
+45 may only be collected if the BID is in compliance with the reporting requirements established by
+46 section 14 for the most recent fiscal year.”.
+47 (d) Section 9c (D.C. Official Code § 2-1215.09c) is amended as follows:
+48 (1) The section heading is amended by striking the phrase “for newly enacted
+49 BIDs”.
+50 (2) Subsection (a) is amended as follows
+51 (A) The lead in language is amended to read as follows:
+52 “(a) An established BID may only expand categories of taxable real property if:”
+53 (B) Paragraph (1) is amended by striking the phrase “join the BID” and
+54 inserting the phrase “join the BID, or the Board of Directors of a condominium association
+55 governing a real property within the geographic boundaries the BID petition to join the BID” in
+56 its place.
+57 (C) Subparagraph(3)(C) is amended by striking the phrase “District of
+4
+
+58 Columbia;” and inserting the phrase “District of Columbia; provided, that a property subdivided
+59 into separate condominium units shall constitute a single real property for purposes of this
+60 subparagraph;” in its place.
+61 (3) Subsection (c)(1) is amended by striking the phrase “Recorder of Deeds” and
+62 inserting the phrase “Recorder of Deeds; provided, that any property subdivided into separate
+63 condominium units shall constitute a single property for the purpose of determining the number
+64 of taxable properties pursuant to subparagraphs (a)(3)(B) and (C) of this section; provided
+65 further, that the condominium units shall constitute separate properties for purposes of assessing
+66 and levying any BID charges” in its place.
+67 (4) A new subsection (c-1) is added to read as follows:
+68 “(c-1) Notwithstanding subsections (a)(3)(D), (a)(4), and (b) of this section, a BID may
+69 impose BID taxes on Class 1A or Class 1B property as follows:
+70 “(1) A BID that has the authority to impose BID taxes on Class 1A or Class 1B
+71 property under title II prior to the effective date of the Business Improvement District
+72 Modernization Amendment Act of 2026 shall have the authority to impose the tax rate then in
+73 effect for nonexempt taxable Class 1A and Class 1B properties within the BID. Such rates may
+74 be increased in accordance with section 9(b)(4).
+75 “(2) A BID that does not impose BID taxes on Class 1A or Class
+76 1B property as of the effective date of the Business Improvement District Modernization
+77 Amendment Act of 2026 is authorized to impose BID taxes at a rate of $120 per unit annually or
+78 such other rate as may be established pursuant to this Chapter for nonexempt Class 1A and Class
+79 1B properties; provided, that for a residential unit restricted to residents based upon income
+80 pursuant to a federal or District affordable housing program, the BID tax due on the unit shall be
+81 computed by applying the percentage of area median income that an eligible household must
+5
+
+82 meet to participate in the affordable housing program for the unit to the amount of the BID tax
+83 that would otherwise be due. Such rates may be increased in accordance with section 9(b)(4).”.
+84 (e) Section 14 (D.C. Official Code § 2–1215.13) is amended as follows:
+85 (1) Subsection (a) is amended by striking the phrase “the Mayor” and inserting
+86 the phrase “the Department of Small and Local Business Development” in its place.
+87 (2) Subsection (b)(3) is amended to read as follows:
+88 “(3) A performance report showing the results of the BID’s operations in
+89 comparison to the goals and objectives established in its approved BID plan. The performance
+90 report shall include:
+91 “(A) For each applicable performance measure:
+92 “(i) The prior-year result, if available;
+93 “(ii) The performance target for the reporting year;
+94 “(iii) The actual result for the reporting year;
+95 “(iv) The year-over-year change, if applicable; and
+96 “(v) An explanation of any material variance between the
+97 performance target and actual result.
+98 “(B) Performance measures within the following categories, to the extent
+99 applicable to the activities and programs undertaken by the BID:
+100 “(i) Cleanliness and public realm, which may include measures
+101 concerning cleanliness, maintenance, beautification, streetscape conditions, public-space
+102 improvements, or service response;
+103 “(ii) Public safety and hospitality, which may include measures
+104 concerning ambassador or hospitality services, public-safety activities, referrals, assistance, or
+105 other activities intended to improve the experience of persons within the BID;
+6
+
+106 “(iii) Business and economic vitality, which may include measures
+107 concerning business retention and attraction, business openings and closures, commercial
+108 occupancy, economic activity, pedestrian or visitor activity, events, activations, or investment;
+109 “(iv) Small and local business support and economic opportunity,
+110 which may include measures concerning assistance to District-based businesses and certified
+111 business enterprises, local procurement, workforce development, District resident employment,
+112 internships, apprenticeships, or other economic opportunities;
+113 “(v) Community and Stakeholder Engagement, which may include
+114 measures concerning stakeholder participation, community meetings, surveys, complaints and
+115 resolutions, engagement with Advisory Neighborhood Commissions or community
+116 organizations, or stakeholder satisfaction; and
+117 “(vi) Governance and Financial Stewardship, which may include
+118 measures concerning BID tax revenue, expenditures, budget performance, administrative costs,
+119 procurement, contracting, or other indicators of financial stewardship.
+120 “(C) Each BID shall select performance measures within the applicable
+121 core performance categories that:
+122 “(i) Are reasonably related to the programs, services, goals, and
+123 objectives contained in the BID’s approved BID plan;
+124 “(ii) Are reasonably measurable using data available to the BID;
+125 and
+126 “(iii) Provide meaningful information concerning the BID’s
+127 activities or results.
+128 “(D) For each performance measure selected pursuant to subparagraph
+129 (B), the BID shall report, to the extent applicable and reasonably available:
+7
+
+130 “(i) The prior-year result;
+131 “(ii) The performance target for the reporting year;
+132 “(iii) The actual result for the reporting year;
+133 “(iv) The year-over-year change; and
+134 “(v) An explanation of any material variance between the
+135 performance target and actual result.
+136 “(E) To the extent practicable, a BID shall identify whether a performance
+137 measure represents:
+138 “(i) An output reflecting the services or activities provided by the
+139 BID;
+140 “(ii) An outcome reasonably associated with a BID program or
+141 activity; or
+142 “(iii) A district condition or contextual indicator that may be
+143 affected by factors outside the BID’s control.
+144 “(F) Nothing in this paragraph shall:
+145 “(i) Require a BID to undertake a program or activity for the
+146 purpose of satisfying a performance category;
+147 “(ii) Require a BID to report a performance measure unrelated to
+148 its activities, programs, services, or approved BID plan; or
+149 “(iii) Authorize the Department to prescribe the programs,
+150 services, goals, or priorities of a BID.”.
+151 (3) New subsections (f), (g), and (h) are added to read as follows:
+8
+
+152 “(f)(1) The Mayor, acting through the Department of Small and Local Business
+153 Development, shall establish by rule a standardized framework for BID performance reporting
+154 consistent with subsection (b)(3) of this section.
+155 “(2) The framework shall:
+156 “(A) Establish the core performance categories set forth in subsection
+157 (b)(3);
+158 “(B) Establish standardized definitions and methodologies for commonly
+159 reported performance measures where standardization is practicable and would facilitate
+160 meaningful year-over-year or cross-BID analysis;
+161 “(C) Provide guidance and examples of performance measures that BIDs
+162 may select within each core performance category;
+163 “(D) Permit each BID to select performance measures appropriate to its
+164 BID plan, programs, services, geographic area, size, and available data;
+165 “(E) Permit BIDs to establish additional performance measures reflecting
+166 local goals and priorities;
+167 “(F) Provide for reasonable differences in reporting based upon BID size,
+168 budget, programs, and availability of reliable data;
+169 “(G) Minimize duplicative reporting and permit substantially equivalent
+170 information already collected or reported by a BID to satisfy a reporting requirement; and
+171 “(H) Facilitate meaningful year-over-year and cross-BID analysis where
+172 the underlying measures and methodologies are sufficiently comparable.
+173 “(3) The Department shall not require a BID to adopt a particular performance
+174 measure solely for the purpose of facilitating comparison among BIDs where the measure is not
+175 reasonably related to the BID’s programs, services, or approved BID plan.
+9
+
+176 “(g)(1) The Department shall maintain a publicly accessible BID performance dashboard
+177 or other searchable electronic reporting system containing, at a minimum:
+178 “(A) Each BID’s annual performance measures and results;
+179 “(B) Year-over-year performance for measures for which comparable
+180 prior-year data are available;
+181 “(C) BID tax revenue and total annual expenditures;
+182 “(D) Expenditures by major program area;
+183 “(E) The BID’s current approved BID plan; and
+184 “(F) The BID’s annual reports required by this section.
+185 “(2) The dashboard shall allow the public to view information for each BID
+186 individually and by core performance category. The Department may provide comparisons
+187 among BIDs only where the underlying performance measures, definitions, methodologies, and
+188 reporting periods are sufficiently comparable to permit a meaningful comparison.
+189 “(3) The Department shall not rank BIDs based solely upon differences in
+190 performance measures where differences in BID size, budget, geographic area, service
+191 population, program responsibilities, or other material circumstances make such comparisons
+192 misleading.
+193 “(h)(1) The Department shall review each BID’s annual performance report for
+194 completeness and compliance with this section.
+195 “(2) If the Department determines that a BID has failed to provide
+196 information required by this section, the Department shall notify the BID in writing of the
+197 deficiency and provide the BID not less than 30 days to correct the deficiency.
+198 “(3) The Department shall submit to the Council annually a summary of
+199 BID compliance with the reporting requirements of this section, including any BID that has
+10
+
+200 failed to cure a reporting deficiency after receiving notice pursuant to paragraph (2) of this
+201 subsection.
+202 “(4) Nothing in this subsection shall authorize the Department to substitute
+203 its policy priorities for the goals and objectives contained in a BID’s duly approved BID plan.”.
+204 (f) Section 19 (D.C. Official Code § 2-1215.18) is amended as follows:
+205 (1) Subsection (a)(1) is amended to read as follows:
+206 “(a)(1) Each BID shall have an initial term that shall end on the last day of the 5th full
+207 fiscal year of the District during which the BID has been registered pursuant to section 7(h).
+208 After a BID’s initial term, the BID may be extended for one 5-year term and, thereafter, for
+209 successive 10-year terms, if:
+210 “(A) The BID notifies the Mayor at least 180 days before the end of the
+211 BID’s term that it desires to extend its status as a registered BID for a subsequent term;
+212 “(B) The BID submits a plan for the next term of BID operations to the
+213 Mayor; and
+214 “(C) The Mayor holds a public hearing in accordance with this subsection
+215 and subsequently issues a notice of BID re-registration.”.
+216 (2) Subsection (b)(2) is amended as follows:
+217 (A) Strike the phrase “each 5-year period” and insert the phrase “each
+218 term” in its place.
+219 (B) Strike the phrase “5-year term” and insert the phrase “5- or 10-year
+220 term” in its place.
+221 (g) Section 201(c)(2) (D.C. Official Code § 2-1215.51(c)(2)) is amended by striking the
+222 phrase “A 5% annual increase in the BID taxes over the current tax year rates specified in
+223 subsection (a) of this section is hereby authorized and imposed subject to the requirements of
+11
+
+224 section 9(b).”.
+225 (h) Section 203(c) (D.C. Official Code § 2-1215.53(c)) is amended as follows:
+226 (1) Paragraph (2) is amended by striking the phrase “5-year term” and inserting
+227 the word “term” in its place.
+228 (2) Paragraph 3 is repealed.
+229 (i) Section 205(c)(2) D.C. Official Code § 2-1215.55(c)(2)) is repealed.
+230 (j) Section 206(c) (D.C. Official Code § 2-1215.56(c)) is amended by striking the phrase
+231 “properties; provided, that any change in the BID taxes from the current tax year rates shall be
+232 made subject to the requirements of section 9 and inserting the word “properties” in its place.
+233 (k) Section 207(c)(2) (D.C. Official Code § 2-1215.57(c)(2)) is repealed.
+234 (l) Section 208(c)(3) (D.C. Official Code §2-1215.58(c)(3)) is repealed.
+235 (m) Section 210(c)(3) (D.C. Official Code § 2-1215.60(c)(3)) is repealed.
+236 (n) Section 211(c)(3) D.C. Official Code § 2-1215.61(c)(3)) is repealed.
+237 (o) Section 212(c)(3) (D.C. Official Code § 2-1215.62(c)(3)) is repealed.
+238 (p) Section 213(c)(4) (D.C. Official Code § 2-1215.63(c)(4)) is repealed.
+239 Sec. 3. Fiscal Impact Statement.
+240 The Council adopts the fiscal impact statement in the committee report as the fiscal
+241 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+242 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+243 Sec. 4. Effective Date.
+244 This act shall take effect following approval by the Mayor (or in the event of veto by the
+245 Mayor, action by the Council to override the veto), and a 30-day period of congressional review
+246 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+247 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+12

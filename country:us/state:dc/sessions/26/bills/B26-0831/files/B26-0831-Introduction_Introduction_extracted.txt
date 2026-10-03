@@ -1,0 +1,191 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1 ______________________________
+2 Councilmember Robert C. White, Jr.
+3
+4
+5
+6 A BILL
+7 ___________
+8
+9 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+10 _________________
+11
+12 To amend the Advisory Neighborhood Councils Act of 1975 to provide an opportunity for the
+13 Office of Advisory Neighborhood Commissions to evaluate any proposal to establish
+14 single-member districts to ensure the neighborhood cohesiveness and viability of such
+15 districts, and for the OANC to submit a report to the Council on its findings and
+16 recommendations, to require the Council to consider the report of the OANC when
+17 making adjustments in the boundaries of the Advisory Neighborhood Commission
+18 single-member districts and ANC areas, to provide for the sufficiency of a certification
+19 by the Department of Corrections that a Commissioner who is a resident of the Central
+20 Detention Facility or the Correctional Treatment Facility has been transferred or is
+21 otherwise no longer a resident of the facility in order to declare the seat vacant, to
+22 provide that the Board of Elections may accept a funeral home death notice or obituary,
+23 or an obituary published in a newspaper of general circulation or any other proof of
+24 death that the Board deems sufficient in order to declare the seat vacant, to clarify that if
+25 a single-member district contains the CDF and CTF, the Board of Elections shall make
+26 in-person voting available to qualified registered electors who are not in the care and
+27 custody of DOC, that the Department of Corrections shall make voting available to
+28 registered qualified electors in its care and custody in consultation with the Board of
+29 Elections, that the Board of Elections shall transmit the results of the voting to the
+30 OANC and the affected ANC, and that ballot counting for the voting shall be facilitated
+31 by at least two representatives of the Board of Elections, to correct an erroneous citation
+32 in Section 13 regarding reference to the ability of an ANC to object to a license for the
+33 sale or on-premises consumption of alcohol, to repeal a provision regarding the
+34 discretionary requirement for a Commission to final a fiscal year annual report with the
+35 Council and the Mayor, to add a provision that quarterly allotments will be withheld
+36 from any Commission without an approved annual fiscal year spending plan by
+37 November 30th of each year until such time as an annual budget is approved and filed
+38 with the OANC, to clarify that no Commission may solicit donations unless specifically
+39 authorized, to provide that a copy of each Commission’s bylaws and all amendments
+40 thereto shall not be effective until transmittal to the Council and the OANC and posting
+41 on the OANC website, to provide that the Commission vice-chairperson shall schedule a
+42 special meeting to remove an officer after a proper request for removal by the
+43 Commission is made if the Chairperson does not schedule a meeting within 30 days of
+44 the request, to clarify that the OANC shall provide advice regarding Commission
+45 expenditures and responses to inquiries from Commissions on the legality of proposed
+46 actual expenditures, to require that any release of ANC allotment funding which will
+1
+
+47 result in a Commission’s bank account or bank accounts exceeding a combined balance
+48 of $50,000 will be transferred to the Advisory Neighborhood Commissions Technical
+49 Support and Assistance Fund to be used in support of ANCs, to provide that a
+50 Commission can expend funds received through the annual allocation on independent
+51 contractors, contracts for services, memoranda of understanding with District
+52 government agencies and telecommunications service requests through the Request
+53 Telecommunications Services, to require that the contact number of a telephone must be
+54 publicly available when Commission funds are used to pay for the cost or use of the
+55 telephone, and to provide that a Commission may through an interoffice transfer
+56 managed by the OANC transfer a portion of their annual allotment to a District agency
+57 that provides food, shelter, or healthcare; and to amend the Redistricting Procedure Act
+58 of 1981 to provide that the Office of Advisory Neighborhood Commissions shall appoint
+59 one or more staff members to serve as a technical advisor to each ward task force on
+60 ANCs.
+61
+62
+63 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+64 act may be cited as the “Advisory Neighborhood Commissions Functions Modernization
+65 Amendment Act of 2026”.
+66 Sec. 2. The Advisory Neighborhood Councils Act of 1975, effective October 10, 1975
+67 (D.C. Law 1-21; D.C. Official Code § 1-309.01 et seq.), is amended as follows:
+68 (a) Section 4 (D.C. Official Code § 1-309.03) is amended as follows:
+69 (1) Subsection (a) is amended as follows:
+70 (2)(A) The existing text is designated as paragraph (1).
+71 (3) New paragraphs (2) and (3) are added to read as follows:
+72 “(2) Prior to its final proposal to establish single-member districts as provided in
+73 paragraph (a)(1), the Council shall provide an opportunity for the Office of Advisory
+74 Neighborhood Commissions to evaluate any such draft proposal to ensure the neighborhood
+75 cohesiveness and viability of such single-member districts, and for the OANC to submit a report
+76 to the Council on its findings and recommendations. The report shall be given great
+77 consideration by the Council in the establishment of such single-member districts.
+2
+
+78 (3) Paragraph (b) is amended by striking the phrase “Council shall,” and inserting
+79 the phrase “Council shall, after considering the report of the OANC provided in paragraph
+80 (a)(2),” in its place.
+81 (b) Section 8 (D.C. Official Code § 1-309.06) is amended as follows:
+82 (1) Section 8(d)(6)(E)(ii) (D.C. Official Code § 1-309.06(d)(6)(E)(ii)) is amended
+83 as
+84 follows:
+85 (2) Strike the phrase “the affected Advisory Neighborhood Commission, in
+86 consultation with the OANC,” and insert the phrase “the Board of Elections” in its place.
+87 (3) Strike the phrase “in consultation with the affected Advisory Neighborhood
+88 Commission and the OANC” and insert the phrase “in consultation with the Board of Elections”
+89 in its place.
+90 (4) Strike the phrase “for counting and transmission of the results to the
+91 OANC and the affected Advisory Neighborhood Commission” and insert the phrase “for
+92 counting. The Board of Elections shall transmit the results to the OANC and the affected
+93 Advisory Neighborhood Commission. Ballot counting shall be facilitated by at least two
+94 representatives of the Board of Elections.” in its place.
+95 (c) Section 8(e) (D.C. Official Code § 1-309.06(e)) is amended as follows:
+96 (1) The existing text is designated as paragraph (1).
+97 (2) A new paragraph (2) is added to read as follows:
+98 “(2) When a Commissioner is a resident of the Central Detention Facility or
+3
+
+99 the Correctional Treatment Facility, a certification by the Department of Corrections that the
+100 Commissioner has been transferred or is otherwise no longer a resident of the facility shall be
+101 sufficient for the Board of Elections to declare the seat vacant.”.
+102 (3) A new paragraph (e-1) is added to read as follows:
+103 “(e-1) When a Commissioner dies in office, the Board of Elections
+104 may accept a funeral home death notice or obituary, an obituary published in a newspaper of
+105 general circulation, or any other proof of death the Board deems sufficient, and shall declare the
+106 seat vacant.”.
+107 (c) Section 13 (D.C. Official Code § 1-309.10) is amended as follows:
+108 (1) Section 13(c) is amended as follows:
+109 (A) Paragraph (2)(B) is amended by striking the phrase “§ 25-115(c) and
+110 (e)” and inserting the phrase “Chapter 6 of Title 25 of the D.C. Official Code” in its place.
+111 (2) Subsection (j) is repealed.
+112 (3) Subsection (l) is amended by striking the word
+113 “funds” and inserting the word “donations” in its place.
+114 (4) Subsection (n) is amended by striking the phrase “Commission area.” and
+115 inserting the phrase “Commission area. Quarterly allotments will be withheld from any
+116 Commission without an approved annual fiscal year spending plan by November 30th of each
+117 year until such time as an annual budget is approved and filed with the OANC.” in its place.
+118 (d) Section 14 (D.C. Official Code § 1-309.11) is amended as follows:
+119 (1) Section 14(d)(3) (D.C. Official Code § 1-309.11(d)(3)) is amended as
+120 follows:
+121 (A) Strike the phrase “An up-to-date” and insert the word “A” in its
+4
+
+122 place.
+123 (B) Strike the phrase “within 30 days of any amendment to the bylaws”
+124 and insert the phrase “within 30 days of adoption by the Commission. Any such bylaws, and all
+125 amendments thereto, shall be effective only after transmittal to the Council and the OANC
+126 pursuant to this paragraph and posting on the OANC’s website.”.
+127 (2) Section 14(e)(2)(B) (D.C. Official Code § 1-309.11(e)(2)(B)) is amended as
+128 follows:
+129 (A) The existing text in paragraph (B) is designated as paragraph (B)(1).
+130 (B) A new paragraph (B)(2) is added to read as follows:
+131 “(2) If, within 30 days after the request, the Chairperson has not
+132 scheduled the meeting, the vice-chairperson shall schedule the meeting.”.
+133 (e) Section 15(d)(2)(B) (D.C. Official Code § 1-309.12(d)(2)(B)) is amended by striking
+134 the phrase “Monitoring of” and inserting the phrase “Providing advice regarding” in its place.
+135 (f)Section 16 (D.C. Official Code § 1-309.13) is amended as follows:
+136 (1) A new paragraph (a-1) is added to read as follows:
+137 “(a-1) Any release of ANC allotment funding which will result in a Commission’s
+138 bank account or bank accounts exceeding a combined balance of $50,000 will be transferred to
+139 the Advisory Neighborhood Commissions Technical Support and Assistance Fund to be used in
+140 support of Advisory Neighborhood Commissions.”.
+141 (2) Subsection(l)(1)is amended by striking the phrase “staff salaries,” and inserting
+142 the phrase “staff salaries, independent contractors, contracts for services, memoranda of
+143 understanding with District government agencies, telecommunications service requests through
+5
+
+144 the Request Telecommunications Services system for products and services available in the
+145 system,” in its place.
+146 (3) Subsection (r) is amended as follows:
+147 (A) The existing text is designated as paragraph (1).
+148 (B) A new paragraph (2) is added to read as follows:
+149 “(2) When Commission funds are used to pay for the cost or use of a
+150 telephone, the contact number of that telephone must be publicly available.”.
+151 (4) A new subsection (r-1) is added to read as follows:
+152 “(r-1) A Commission may, through an interoffice transfer managed by the
+153 OANC, transfer a portion of their annual allotment to a District agency that provides food,
+154 shelter, or healthcare assistance. Fund transfers are subject to the availability of funds and may
+155 not exceed the ANC’s annual allotment.”.
+156 Sec. 3. Section 2(a) of the Redistricting Procedure Act of 1981, effective March 16, 1982
+157 (D.C. Law 4-87; D.C. Official Code § 1-1041.01(a)), is amended as follows:
+158 (a) The existing text in paragraph (a) is designated as paragraph (a)(1).
+159 (b) A new paragraph (a)(2) is added to read as follows:
+160 “(2) The Office of Advisory Neighborhood Commissions shall appoint one or
+161 more staff members to serve as a technical advisor to each ward task force.”.
+162 Sec. 4. Fiscal impact statement.
+163 The Council adopts the fiscal impact statement in the committee report as the fiscal
+164 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+165 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+166 Sec. 5. Effective date.
+6
+
+167 This act shall take effect following approval by the Mayor (or, in the event of veto by the
+168 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+169 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+170 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+7

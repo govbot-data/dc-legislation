@@ -84,6 +84,16 @@
       }
     },
     {
+      "description": "Notice of Public Hearing Published in the District of Columbia Register",
+      "date": "2026-07-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T10:53:13Z"
+      }
+    },
+    {
       "description": "Revised Notice of Public Hearing filed in the Office of Secretary by Transportation and the Environment",
       "date": "2026-08-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -93,6 +103,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-08-19T05:44:15Z"
+      }
+    },
+    {
+      "description": "Notice of Public Hearing Published in the District of Columbia Register",
+      "date": "2026-08-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T10:53:13Z"
       }
     },
     {
@@ -173,7 +193,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-19T05:44:15Z",
+    "logs_latest_update": "2026-10-03T10:53:13Z",
     "text_extraction_latest_update": "2026-08-19T05:45:33.238589Z"
   }
 }

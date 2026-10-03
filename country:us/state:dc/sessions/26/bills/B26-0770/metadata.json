@@ -51,14 +51,24 @@
     },
     {
       "description": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
-      "date": "2026-09-09T04:00:00+00:00",
+      "date": "2026-09-08T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "filing"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-10T09:45:58Z"
+        "log_file_created": "2026-10-03T10:53:13Z"
+      }
+    },
+    {
+      "description": "Notice of Public Hearing Published in the District of Columbia Register",
+      "date": "2026-09-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-03T10:53:13Z"
       }
     },
     {
@@ -128,7 +138,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-10T09:45:58Z",
+    "logs_latest_update": "2026-10-03T10:53:13Z",
     "text_extraction_latest_update": "2026-09-10T09:47:21.961340Z"
   }
 }

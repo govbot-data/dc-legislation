@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+2
+3
+4 Councilmember Matthew Frumin
+5
+6
+7
+8 A BILL
+9
+10 _________
+11
+12
+13 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+14
+15 __________________
+16
+17
+18 To amend, on a temporary basis, the Procurement Practices Reform Act of 2010 to require the
+19 Office of Contracting and Procurement to process requests for the equitable
+20 adjustment of homeless services contracts within 45 days.
+21
+22 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+23 Act may be cited as the “Homeless Services Contract Adjustment Temporary Amendment Act of
+24 2026”.
+25 Sec. 2. The Procurement Practices Reform Act of 2010, effective April 8, 2011 (D.C. Law
+26 18-371; D.C. Official Code § 2-351.01 et seq.), is amended by adding a new section 1105a to read
+27 as follows:
+28 “Sec. 1105a. Equitable adjustments of homeless services contracts.
+29 “(a)(1) Within 45 calendar days of receiving a complete request for the equitable
+30 adjustment of a contract to provide homeless services under section 3 of the Homeless Services
+31 Reform Act, effective October 22, 2005 (D.C. Law 16-35; D.C. Official Code § 4-754.01), on the
+32 basis of the revision of a wage determination issued by the U.S. Department of Labor under 41
+33 U.S.C. § 351, OCP shall determine whether the requesting contractor is entitled to an equitable
+34 adjustment.
+1
+
+35 “(2) A request for an equitable adjustment under this subsection is “complete” when
+36 the requesting contractor has submitted all information and documents necessary for OCP to assess
+37 the request to OCP.
+38 “(b) Within 7 business days of the submission to OCP of all information and documents
+39 necessary to complete an equitable adjustment request under subsection (a), OCP shall inform the
+40 requesting contractor in writing that it considers the request complete.”.
+41 Sec. 3. Fiscal impact statement.
+42 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+43 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+44 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+45 Sec. 4. Effective date.
+46 (a) This act shall take effect following approval by the Mayor (or in the event of veto by
+47 the Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+48 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+49 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+50 (b) This act shall expire after 225 days of its having taken effect.
+2

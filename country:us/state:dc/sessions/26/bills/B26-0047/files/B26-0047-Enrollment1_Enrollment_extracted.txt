@@ -1,0 +1,251 @@
+Title: 
+Official Title: 
+Source: versions - Enrollment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENROLLED ORIGINAL
+AN ACT
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+To amend the District of Columbia Funeral Services Regulatory Act of 1984 to modify and add
+definitions related to the practice of funeral directing and embalming, to change the
+requirements for a funeral director’s license, to create an embalmer’s license, to modify
+the requirements for a funeral directing or embalming apprenticeship, to revise
+supervision requirements for embalming and funeral director apprentices, and to
+incorporate the practice of embalming into the provisions governing fraud and grounds
+for denial, suspension, or revocation of a license; and to amend section 47-2853.06 of the
+District of Columbia Official Code to update the composition of the Board of Funeral
+Directors.
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+act may be cited as the “Funeral Services Modernization Amendment Act of 2026”.
+Sec. 2. The District of Columbia Funeral Services Regulatory Act of 1984, effective
+May 22, 1984 (D.C. Law 5-84; D.C. Official Code § 3-401 et seq.), is amended as follows:
+(a) Section 2 (D.C. Official Code § 3-401) is amended by striking the phrase “apprentice
+funeral directors,” and inserting the phrase “embalmers, apprenticeships,” in its place.
+(b) Section 3 (D.C. Official Code § 3-402) is amended as follows:
+(1) Paragraph (2) is repealed.
+(2) Paragraph (3) is amended by striking the phrase “for the District of Columbia”
+and inserting the phrase “established by D.C. Official Code § 47-2853.06(f)” in its place.
+(3) A new paragraph (7A) is added to read as follows:
+“(7A) “Embalmer” means a person licensed in the District to perform the practice
+of embalming.”.
+(4) Paragraph (9) is amended to read as follows:
+“(9) “Funeral director” means a person licensed by the District to perform the
+practice of funeral directing.”.
+(5) Paragraph (14) is amended to read as follows:
+1
+
+ENROLLED ORIGINAL
+“(14) “License” means an authority from the District which entitles the holder to
+practice in the District as a funeral director or an embalmer, or an authority from the District
+which entitles the holder to own and operate a funeral services establishment.”.
+(6) A new paragraph (17A) is added to read as follows:
+“(17A) “Practice of embalming” means engaging in the disposal of human
+remains by chemically treating the human remains by arterial injection and cavity treatment or,
+when necessary, hypodermic tissue injection to reduce the presence and growth of
+microorganisms to temporarily delay organic decomposition.”.
+(7) Paragraph (18) is amended to read as follows:
+“(18) “Practice of funeral directing” means the for-profit profession of directing
+or supervising funerals, preparing human dead for burial by means other than through the
+practice of embalming, including by burial, cremation, and alkaline hydrolysis, or making
+arrangements for funeral services or the financing of funeral services.”.
+(c) Section 5(a) (D.C. Official Code § 3-404(a)) is amended by striking the phrase
+“practice of funeral directing” and inserting the phrase “practices of funeral directing and
+embalming” in its place.
+(d) Section 6 (D.C. Official Code § 3-405) is amended as follows:
+(1) Subsection (a) is amended as follows:
+(A) Paragraphs (2), (3), and (4) are amended to read as follows:
+“(2) Has completed a funeral director apprenticeship;
+“(3) Is a graduate of a school of mortuary science or funeral service accredited by
+the American Board of Funeral Service Education or an accrediting agency approved by the U.S.
+Department of Education or have completed an associate’s degree or its equivalent, which
+consists of at least 60 credit hours of coursework, of which at least 30 hours shall be from a
+funeral directing program approved by the Board;
+“(4) Has passed the Arts section of the National Board Examination administered
+by the International Conference of Funeral Service Examining Boards;”.
+(B) Paragraph (6) is amended by striking the semicolon and inserting the
+phrase “; and” in its place.
+(C) Paragraph (7) is repealed.
+(2) Subsection (d) is repealed.
+(3) New subsections (d-1) and (d-2) are added to read as follows:
+“(d-1) Embalmer’s license. – An applicant for licensure as an embalmer shall furnish
+proof satisfactory to the Mayor that he or she:
+“(1) Is at least 18 years of age;
+“(2) Has completed an embalming apprenticeship;
+“(3) Is a graduate of a school of mortuary science or funeral service accredited by
+the American Board of Funeral Service Education or an accrediting agency approved by the U.S.
+Department of Education or have completed an embalming program approved by the Board;
+2
+
+ENROLLED ORIGINAL
+“(4) Has passed the Sciences section of the National Board Examination
+administered by the International Conference of Funeral Service Examining Boards;
+“(5) Is fully acquainted with District and federal laws relating to the practice of
+embalming;
+“(6) Has paid all required fees; and
+“(7) Has met any additional requirements set by the Mayor.
+“(d-2) Notwithstanding subsection (d-1) of this section, a person licensed as a funeral
+director prior to the effective date of this subsection shall automatically receive an embalmer’s
+license.”.
+(4) Subsection (e)(5) is amended by striking the phrase “, apprentice funeral
+directors,” and inserting the phrase “, embalmers, certified apprentices,” in its place.
+(5) Subsection (g) is amended as follows:
+(A) Paragraph (2) is amended by striking the phrase “and apprentice
+funeral director’s license” and inserting the phrase “, embalmer’s license, or certificate of
+apprenticeship” in its place.
+(B) Paragraph (7) is amended by striking the phrase “an apprentice funeral
+director’s license,” and inserting the phrase “an embalmer’s license, a certificate of
+apprenticeship,” in its place.
+(6) Subsection (i) is amended to read as follows:
+“(i)(1) The Board may issue a license to:
+“(A) Practice as a funeral director in the District to an applicant who is
+licensed by another state by waiver of the examination and apprenticeship requirements of
+subsection (a) of this section; or
+“(B) Practice as an embalmer in the District to an applicant who is
+licensed by another state by waiver of the examination and apprenticeship requirements of
+subsection (d-1) of this section.
+“(2) An applicant for a license to practice as a funeral director or embalmer in the
+District shall furnish proof to the Board that he or she:
+“(A) Is currently in good standing as a funeral director or embalmer in a
+state or territory of the United States with requirements for licensure that are substantially similar
+to those in effect in the District;
+“(B) Is at least 18 years of age;
+“(C) Has paid all required fees; and
+“(D) Is fully acquainted with District and federal laws relating to the
+license sought.”.
+(e) Section 7(a) (D.C. Official Code § 3-406(a)) is amended to read as follows:
+“(a) A license to practice in the District as either a funeral director or embalmer, or to
+operate a funeral services establishment, shall be issued to each applicant who meets all of the
+requirements for licensure.”.
+(f) Section 8 (D.C. Official Code § 3-407) is amended to read as follows:
+3
+
+ENROLLED ORIGINAL
+“Sec. 8. Apprenticeships.
+“(a)(1) A person seeking to qualify:
+“(A) As a funeral director, shall serve as an apprentice under the direct
+supervision of a funeral director licensed in the District; or
+“(B) As an embalmer, shall serve as an apprentice under the direct
+supervision of an embalmer licensed in the District.
+“(2) Notwithstanding paragraph (1) of this subsection, an apprentice who is
+required to serve a 2-year minimum apprenticeship may serve up to one year of the
+apprenticeship outside of the District, if the period of the apprenticeship served outside of the
+District is served under the supervision of an individual who has passed the National Board
+Exam administered by the International Conference of Funeral Service Examining Boards.
+“(b) To qualify for an apprenticeship, the applicant shall furnish proof that he or she:
+“(1) Is at least 18 years of age; and
+“(2) Holds a high school diploma or its equivalent, or higher.
+“(c) An apprenticeship for funeral directing or embalming shall consist of at least 2,000
+hours of training to be completed in 2 years; except, that an apprenticeship may be extended, for
+good cause, to no more than 4 years .
+“(d) A funeral directing apprentice shall receive training in all aspects of the practice of
+funeral directing, including assisting with at least 25 funerals and 25 arrangement conferences,
+visitations, and the financing of funeral services.
+“(e) An embalming apprentice shall receive training in all aspects of the practice of
+embalming, including assisting in at least 25 embalmings, treatment, restorative art, safety and
+sanitation, and organ, tissue, or anatomical donations.
+“(f)(1) The apprentice and the licensee supervising the apprentice shall submit a written
+report to the Board at the end of every 1,000 hours of training that specifies the period of time in
+which the 1,000 hours has been completed and verifies that the apprentice has actually served in
+the required capacity during the preceding period. The report shall be submitted no more than 30
+days following the completion of the 1,000 hours.
+“(2) An apprentice shall not receive credit for any new training hours until the
+previous 1,000-hour report has been submitted and approved.
+“(g) An apprentice whose employment under the supervision of a funeral director or
+embalmer is terminated shall, within 30 days of being employed to work under the supervision of
+another funeral director or embalmer, notify the Mayor of the change of employment and the
+name, address, and license number of the funeral director or embalmer under whose supervision
+the apprentice is continuing his or her apprenticeship.
+“(h) A funeral director or embalmer shall, upon employing an apprentice or terminating
+the employment of an apprentice, notify the Mayor in writing. The notification shall contain the
+name and address of the apprentice, and the date on which the apprentice was employed or
+terminated.
+4
+
+ENROLLED ORIGINAL
+“(i) The Mayor shall issue rules to implement the provisions of this section, including the
+establishment of fees for apprenticeship applications, pursuant to section 22a.”.
+(g) Section 9(a) (D.C. Official Code § 3-408(a)) is amended as follows:
+(1) The lead-in language of subsection (a) is amended to read as follows:
+“(a) The Mayor may refuse to approve or issue a renewal of a license, or may order
+restrictions, impose a fine, impose conditions on the practices of funeral directing or embalming,
+or suspend or revoke the license of any applicant or licensee if the Mayor finds that the applicant
+or licensee has:”.
+(2) Paragraph (8) is amended to read as follows:
+“(8) Engaged in misrepresentation or fraud in the conduct of the business of a
+funeral services establishment as a funeral director, embalmer, or apprentice;”.
+(h) Section 12 (D.C. Official Code § 3-411) is amended as follows:
+(1) Subsection (a) is amended to read as follows;
+“(a) No person shall engage in the practice of funeral directing or embalming in the
+District of Columbia without being licensed in accordance with this act.”.
+(2) Subsection (b) is amended to read as follows:
+“(b) No funeral services establishment licensee shall engage in, or permit any employee
+or agent to engage in, the practices of funeral directing or embalming unless the person
+performing these duties is a funeral director or embalmer licensed pursuant to this act or an
+apprentice approved pursuant to this act and under the direct or immediate supervision of a
+licensed funeral director or embalmer as required by this act. The direct or immediate
+supervision requirement shall not extend to employees whose duties are limited to the business
+management activities of the establishment.”.
+(3) Subsection (e) is amended to read as follows:
+“(e) No person licensed as a funeral director or embalmer, approved for an
+apprenticeship, or licensed to operate a funeral services establishment shall allow any other
+person to use or practice under his or her license.”.
+(i) Section 15 (D.C. Official Code § 3-414) is amended to read as follows:
+“Sec. 15. Services requiring direct supervision by an embalmer.
+“The handling, preparation, or embalming of human remains shall at all times be done by
+a licensed embalmer, or in the case of an embalming apprentice, under the direct supervision of a
+licensed embalmer.”.
+(j) Section 17(a) (D.C. Official Code § 3-416(a)) is amended to read as follows:
+“(a) Any person holding a funeral director’s license or an embalmer’s license, or any
+person approved for an apprenticeship, shall, within 5 days after any change of business or
+residence address, notify the Mayor in writing of the change.”.
+(k) Section 20 (D.C. Official Code § 3-419) is amended by striking the phrase “or
+apprentice funeral directing” and inserting the phrase “the unlawful practice of embalming, the
+unlawful practice of apprentice funeral directing or embalming” in its place.
+(l) Section 22b (D.C. Official Code § 3-421) is amended to read as follows:
+5
+
+ENROLLED ORIGINAL
+“Sec. 22b. Services requiring immediate supervision.
+“(a) A funeral directing apprentice shall not perform the following services unless he or
+she is under the immediate supervision of a licensed funeral director:
+“(1) The handling or preparing human remains for identification, viewing,
+transportation, funeral services, or disposition;
+“(2) Conducting or directing a funeral; or
+“(3) Advising consumers making arrangements for the care and disposition of
+human remains, including arrangements made prior to the death of a person.
+“(b) An embalming apprentice shall not perform the following services unless he or she is
+under the immediate supervision of a licensed embalmer:
+“(1) Embalming human remains, including the preservation, disinfection,
+sanitization, or treatment of human remains for the purpose of delaying decomposition;
+“(2) Performing any procedure involving arterial injection, cavity treatment,
+tissue preservation, restorative treatment, or other preparation of human remains that constitutes
+embalming; or
+“(3) The removal or transport of human remains when such removal or transport
+is performed for the purpose of embalming or in connection with embalming services.”.
+Sec. 3. Section 47-2853.06(f) of the District of Columbia Official Code is amended by
+striking the phrase “5 members of whom 4 shall be funeral directors licensed in the District and
+one shall be a consumer member and inserting the phrase “7 members of whom 4 shall be
+funeral directors licensed in the District, 2 shall be consumer members, and one shall be a
+member with expertise in cremation or alkaline hydrolysis” in its place.
+Sec. 4. Fiscal impact statement.
+The Council adopts the fiscal impact statement in the committee report as the fiscal
+impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+Sec. 5. Effective date.
+This act shall take effect following approval by the Mayor (or in the event of veto by the
+Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+6
+
+ENROLLED ORIGINAL
+as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+24, 1973 (87 Stat. 813; D.C. Official Code § 1 206.02(c)(1)).
+___________________________________
+Chairman
+Council of the District of Columbia
+_________________________________
+Mayor
+District of Columbia
+7

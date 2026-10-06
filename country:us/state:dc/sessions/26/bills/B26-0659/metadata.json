@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Committee Mark-up of B26-0659 by the Committee of the Whole",
+      "date": "2024-05-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-06T12:14:23Z"
+      }
+    },
+    {
       "description": "B26-0659 Introduced by Chairman Mendelson at Office of the Secretary",
       "date": "2026-04-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -679,6 +689,10 @@
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61626/Committee_Report/B26-0659-Committee_Report13.pdf?Id=243871",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61626/Committee_Report/B26-0659-Committee_Report14.pdf?Id=247101",
+          "media_type": "application/pdf"
         }
       ],
       "date": "",
@@ -706,7 +720,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-22T10:13:39Z",
+    "logs_latest_update": "2026-10-06T12:14:23Z",
     "text_extraction_latest_update": "2026-09-22T10:20:16.161784Z"
   }
 }

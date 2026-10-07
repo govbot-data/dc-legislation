@@ -70,6 +70,16 @@
       "_processing": {
         "log_file_created": "2026-09-28T11:35:43Z"
       }
+    },
+    {
+      "description": "Resolution R26-0508, Effective from Sep 22, 2026 Published in DC Register Vol 73 and Page 012775",
+      "date": "2026-10-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T12:03:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -89,6 +99,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/62516/Introduction/PR26-0789-Introduction.pdf?Id=245840",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62516/Meeting1/Enrollment/PR26-0789-Enrollment1.pdf?Id=246417",
           "media_type": "application/pdf"
         }
       ],
@@ -116,7 +137,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-28T11:35:43Z",
+    "logs_latest_update": "2026-10-07T12:03:44Z",
     "text_extraction_latest_update": "2026-09-28T11:37:06.933190Z"
   }
 }

@@ -102,6 +102,18 @@
       "_processing": {
         "log_file_created": "2026-09-24T10:11:12Z"
       }
+    },
+    {
+      "description": "Amendment (Henderson)",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T12:03:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -121,6 +133,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57924/Introduction/B26-0285-Introduction.pdf?Id=214502",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57924/Meeting1/Engrossment/B26-0285-Engrossment1.pdf?Id=247186",
           "media_type": "application/pdf"
         }
       ],
@@ -150,6 +173,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment (Henderson)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57924/Meeting2/Amendment/B26-0285-Amendment1.pdf?Id=247175",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57924/Committee_Report/B26-0285-Committee_Report1.pdf?Id=246659",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -171,7 +216,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-29T11:34:59Z",
+    "logs_latest_update": "2026-10-07T12:03:44Z",
     "text_extraction_latest_update": "2026-09-29T11:37:03.559654Z"
   }
 }

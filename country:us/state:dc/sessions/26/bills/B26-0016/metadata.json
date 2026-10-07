@@ -70,6 +70,54 @@
       "_processing": {
         "log_file_created": "2026-09-23T10:14:01Z"
       }
+    },
+    {
+      "description": "Amendment in the Nature of a Substitute (Nadeau)",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T12:03:44Z"
+      }
+    },
+    {
+      "description": "Amendment (RWhite)",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T12:03:44Z"
+      }
+    },
+    {
+      "description": "Amendment (Silverman)",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T12:03:44Z"
+      }
+    },
+    {
+      "description": "Final Reading",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T12:03:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -94,9 +142,53 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/56842/Meeting1/Engrossment/B26-0016-Engrossment1.pdf?Id=246320",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Amendment in the Nature of a Substitute (Nadeau)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/56842/Meeting2/Amendment/B26-0016-Amendment1.pdf?Id=247249",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (RWhite)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/56842/Meeting2/Amendment/B26-0016-Amendment2.pdf?Id=247251",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Silverman)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/56842/Meeting2/Amendment/B26-0016-Amendment3.pdf?Id=247248",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Committee Markup",
       "links": [
@@ -128,7 +220,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-23T10:14:01Z",
+    "logs_latest_update": "2026-10-07T12:03:44Z",
     "text_extraction_latest_update": "2026-09-23T10:15:42.233996Z"
   }
 }

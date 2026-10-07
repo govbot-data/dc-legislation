@@ -38,6 +38,28 @@
       "_processing": {
         "log_file_created": "2026-10-03T10:53:13Z"
       }
+    },
+    {
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Judiciary and Public Safety",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T12:03:44Z"
+      }
+    },
+    {
+      "description": "Public Hearing on B26-0835",
+      "date": "2026-10-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T12:03:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -72,7 +94,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Judiciary and Public Safety",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62622/Hearing_Notice/B26-0835-Hearing_Notice1.pdf?Id=247239",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -92,7 +126,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-03T10:53:13Z",
+    "logs_latest_update": "2026-10-07T12:03:44Z",
     "text_extraction_latest_update": "2026-10-03T10:55:32.884680Z"
   }
 }

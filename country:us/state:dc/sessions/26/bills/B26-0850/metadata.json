@@ -36,6 +36,30 @@
       "_processing": {
         "log_file_created": "2026-10-06T12:14:23Z"
       }
+    },
+    {
+      "description": "Amendment (RWhite)",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T12:03:44Z"
+      }
+    },
+    {
+      "description": "Amendment (Frumin)",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-07T12:03:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -62,7 +86,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment (Frumin)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62649/Meeting1/Amendment/B26-0850-Amendment1.pdf?Id=247250",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -82,7 +118,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-06T12:14:23Z",
+    "logs_latest_update": "2026-10-07T12:03:44Z",
     "text_extraction_latest_update": "2026-10-06T12:17:48.674641Z"
   }
 }

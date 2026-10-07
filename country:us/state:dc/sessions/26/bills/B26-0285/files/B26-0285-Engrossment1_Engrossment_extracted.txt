@@ -1,0 +1,98 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-285
+4
+5 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+6
+7
+8
+9 To amend Title 12-G of the District of Columbia Municipal Regulations to revise dates requiring
+10 the provision of heat and of air conditioning by owners and operators of rental housing
+11 who provide air conditioning as a service and to set minimum and maximum year-round
+12 internal temperature requirements for rental housing where heating and air conditioning
+13 are under the control of the tenant.
+14
+15 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+16 act may be cited as the “Climatizing Our Overheated Living Spaces Regulation Amendment Act
+17 of 2026”.
+18 Sec. 2. Chapter 6 of Subtitle G of Title 12 of the District of Columbia Municipal
+19 Regulations is amended as follows:
+20 (a) Subsection 602.3 (12G DCMR § 602.3) is amended to read as follows:
+21 “602.3. Heat Supply. Every owner and operator of any building who rents, leases or lets
+22 one or more dwelling units, or rooming units, dormitory or guestrooms on terms, either
+23 expressed or implied, to furnish heat to the occupants thereof shall supply sufficient heat during a
+24 period starting no later than October 15 and ending no earlier than April 15 to maintain a
+25 temperature of not less than 68ºF (20ºC) in all habitable rooms, bathrooms and toilet rooms;
+26 except that, when the outdoor temperature is below the winter outdoor design temperature for the
+1
+
+ENGROSSED ORIGINAL
+27 District, maintenance of the minimum room temperature shall not be required provided that the
+28 heating system is operating at its full capacity. The winter outdoor design temperature for the
+29 District of Columbia as set by the current District of Columbia Residential Code, Chapter 3
+30 Design Criteria.”.
+31 (b) Section 608 (12G DCMR § 608) is amended to read as follows:
+32 “608 Residential Air Conditioning and Heating Supply
+33 “608.1 Air Conditioning. Every owner or operator of a housing business or dormitory,
+34 who provides air conditioning as a service either through individual air conditioning units or a
+35 central air conditioning system, shall maintain each such air conditioning unit or system in a safe
+36 and good working condition so that it is capable of providing, during a period starting no later
+37 than May 1 and ending no earlier than October 1, an inside temperature, in the rooms it is
+38 intended to serve, equal to the greater of: (a) 78 ºF (26 ºC); or (b) at least 15 ºF (9 ºC) less than
+39 the outside temperature.
+40 “608.2 Heat Supply. Every owner or operator of a building who rents, leases, or lets one
+41 or more dwelling units, rooming units, dormitory rooms, or guestrooms, shall provide heating
+42 services pursuant to Section 602 of this chapter. Any owner or operator who does not provide air
+43 conditioning as a service shall furnish heating services through a period starting no later than
+44 October 15 and ending no earlier than April 15.
+45 “608.3 Tenant control of internal temperature. A owner or operator of building who
+46 provides air conditioning as a service and heating to a tenant and where air conditioning and
+2
+
+ENGROSSED ORIGINAL
+47 heating is under the control of the tenant shall maintain the central heating systems and central
+48 air conditioning system or individual air conditioning units in safe and good working condition
+49 and capable of maintaining, throughout the year, a room temperature of no less than 68°F (20°C)
+50 and, when air conditioning is operating, no more than the greater of (a) 78ºF (26ºC); or, (b) at
+51 least 15 ºF (9ºC) less than the outside temperature.
+52 “608.4. Two-pipe system turnover. In a building with a two-pipe system, air conditioning
+53 and heat provision may be transitioned at the discretion of a building owner or manager,
+54 provided that air conditioning is available to tenants no later than May 1, and heat is available to
+55 no later than October 15.
+56 “608.5. Inspection of air conditioning equipment by qualified persons. The owner of a
+57 structure containing two or more units served by central or shared air conditioning equipment, or
+58 wall-mounted air conditioning units (not including window air conditioning units), shall cause
+59 the air conditioning equipment to be inspected by a qualified person annually. A copy of current
+60 inspection and service reports shall be available for public inspection on site in the office of the
+61 building operator.
+62 Exception: If the building operator does not have an on-site office, the reports shall be
+63 made available for inspection:
+64 1. By posting the reports in an on-site location accessible to all building residents; or
+65 2. By mailing or delivering a copy of the reports to each unit; or
+3
+
+ENGROSSED ORIGINAL
+66 3. By mailing or delivering a notice to each unit identifying a location within the District
+67 of Columbia where the reports are available for public inspection during normal business
+68 hours.”.
+69 Sec. 3. Applicability.
+70 This act shall apply as of May 1, 2027.
+71 Sec. 4. Fiscal impact statement.
+72 The Council adopts the fiscal impact statement in the committee report as the fiscal
+73 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+74 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+75 Sec. 5. Effective date.
+76 This act shall take effect following approval by the Mayor (or in the event of veto by the
+77 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+78 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+79 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+4

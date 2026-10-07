@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - Enrollment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENROLLED ORIGINAL
+A RESOLUTION
+26-512
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+September 22, 2026
+To declare the existence of an emergency with respect to the need to amend Title 47 of the
+District of Columbia Official Code to clarify the applicability of the motor vehicle rental
+sales tax rate.
+RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+resolution may be cited as the “Peer-to-Peer Car Sharing Rental Vehicle Sales Tax Clarification
+Emergency Declaration Resolution of 2026”.
+Sec. 2. (a) Under current law, the Office of Tax and Revenue collects the rental vehicle
+sales tax of 9.25% on peer-to-peer car sharing services transactions when the owner has more
+than 5 vehicles. That is the case as a result of amendments to Title 47 of the District of Columbia
+Official Code made by the Internet Sales Tax Amendment Act of 2018, effective March 22, 2019
+(D.C. Law 22-258; 66 DCR 1362), that require all marketplace facilitators to collect and pay
+District sales tax on transactions that occur on their platforms. However, the code provisions
+imposing the rental vehicle sales tax rate do not explicitly mention peer-to-peer car sharing
+services, creating confusion among the public. To provide clarity, the Fiscal Year 2027 Budget
+Support Act of 2026, enacted on August 14, 2026 (D.C. Act 26-418; 73 DCR 11735) (“Fiscal
+Year 2027 Budget Support Act”), included a technical amendment in subtitle 7-B adding
+language to D.C. Official Code §§ 47-2002(a) and 47-2202(a) making it clear that the 9.25%
+(and, as of October 1, 2026, 11%) rental vehicle sales tax applies “to the sale or charges from
+any transactions for the sharing of a vehicle or utility trailer made through a marketplace as
+defined in § 47-2001(g-4), including a peer-to-peer sharing program” and that this tax applies
+“regardless of whether the rental vehicle or utility trailer is owned by a rental operator as defined
+in § 50-1505.01(6) or part of a rental fleet as defined in § 50-1505.01(5).”
+(b) According to the Office of Tax and Revenue, the language in the Fiscal Year 2027
+Budget Support Act would apply the rental vehicle sales tax rate to all peer-to-peer car-sharing
+service transactions, regardless of whether the owner has fewer than 5 vehicles. This would
+create a disparity between peer-to-peer car-sharing service transactions and traditional rental
+vehicle services, which are taxed only at the rental vehicle sales tax rate if the owner has 5 or
+more rental vehicles. That disparity will negatively affect peer-to-peer car-sharing services in the
+District.
+1
+
+ENROLLED ORIGINAL
+(c) The Fiscal Year 2027 Budget Support Act has not yet completed congressional
+review; however, provisions of the Fiscal Year 2027 Budget Support Emergency Act of 2026,
+effective August 13, 2026 (D.C. Act 26-416; 73 DCR 11509), that are identical to those in the
+Fiscal Year 2027 Budget Support Act, are already effective and will apply as of October 1, 2026.
+As such, it is necessary to move an emergency amendment to both Title 47 of the District of
+Columbia Official Code and to the Fiscal Year 2027 Budget Support Act to revert to the prior
+language so that the new motor vehicle rental sales tax rate of 11% only applies to peer-to-peer
+car sharing transactions when the owner of the vehicle has 5 or more vehicles available for
+sharing in the District.
+Sec. 3. The Council of the District of Columbia determines that the circumstances
+enumerated in section 2 constitute emergency circumstances making it necessary that the Peer-
+to-Peer Car Sharing Rental Vehicle Sales Tax Clarification Emergency Amendment Act of 2026
+be adopted after a single reading.
+Sec. 4. This resolution shall take effect immediately.
+2

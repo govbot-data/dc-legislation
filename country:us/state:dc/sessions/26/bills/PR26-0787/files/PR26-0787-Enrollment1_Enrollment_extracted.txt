@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Enrollment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENROLLED ORIGINAL
+A RESOLUTION
+26-517
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+September 22, 2026
+To declare the existence of an emergency with respect to the need to amend Chapter 39 of Title
+28 of the District of Columbia Official Code to deem certain federally-regulated
+consumer price transparency practices in the telecommunications industry compliant with
+District price transparency requirements.
+RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+resolution may be cited as the “Broadband Price Transparency Regulation Emergency
+Declaration Resolution of 2026”.
+Sec. 2. (a) The Enhancing Consumer Protection Procedures Amendment Act of 2026,
+enacted on June 25, 2026 (D.C. Act 26-344; 73 DCR 9162) (“ECPPA”), is pending
+congressional review. When it becomes law, it will make various changes to the District’s laws
+protecting consumers against unfair and deceptive practices. Most notably for purposes of the
+emergency legislation, section 4(f) of the ECPPA would create a new provision at D.C. Official
+Code § 28-3204(a)(12) outlawing “[a]dvertising, displaying, or offering a price for a good or
+service that does not include all mandatory fees or charges other than… [t]axes or fees imposed
+by a government on the transaction[.]”
+(b) After the ECPPA was enacted and funded, representatives of Verizon and other
+broadband telecommunication service and equipment merchants (collectively, the “telecom
+merchants”) raised concerns that certain advertising practices that their industry has adopted
+pursuant to Federal Communications Commission (“FCC”) regulations may violate the new
+ECPPA provision cited above.
+(c) Specifically, the telecom merchants typically include a single base price in
+advertisements, and FCC regulations allow for that base price to omit certain jurisdiction-
+specific charges that the government arguably does not impose directly on “the transaction” but
+that the telecom merchants use to recoup government-imposed costs. For example, under 24
+DCMR § 3302, telecom merchants pay the District fees calculated based on the linear feet of
+underground conduits and similar public infrastructure that the telecom merchants’ equipment
+occupies, and the telecom merchants pass this cost through to consumers as an estimated pro rata
+line item. This is a mandatory charge to the consumer that is arguably not imposed “by a
+government on the transaction” but the telecom merchants still omit it from the base price in
+their nationwide advertising pursuant to FCC rules.
+1
+
+ENROLLED ORIGINAL
+(d) The telecom merchants nonetheless contend that District consumers are protected
+from deceptive pricing because the FCC requires the telecom merchants to prepare a
+comprehensive, federally required, jurisdiction-specific price breakdown, known as the
+“nutrition label,” which includes all such charges and to present that breakdown to consumers at
+the point of sale.
+(e) The telecom merchants further contend that even if District regulators eventually
+conclude that the nutrition label—taken as a whole and in conjunction with the advertised base
+price—may be interpreted to satisfy the ECPPA’s obligation not to omit pricing information, the
+telecom merchants will still be vulnerable to potentially costly private litigation with no
+significant public benefit, due to the cause of action provision at D.C. Official Code § 28-
+3905(k), which the ECPPA would amend and redesignate as D.C. Official Code § 28-3905(m).
+(f) To resolve confusion as to whether telecom merchants’ compliance with the nutrition
+label requirements is satisfactory under the ECPPA or whether telecom merchants must alter
+their nationwide advertising practices to satisfy District law and avoid litigation, a narrow
+legislative intervention before the ECPPA takes effect is warranted.
+(g) The ECPPA will become law soon. Although section 6 of the ECPPA initially made
+the ECPPA’s applicability subject to appropriation, the ECPPA is funded in the Fiscal Year 2027
+budget. Section 7264(b) of the Fiscal Year 2027 Budget Support Emergency Act of 2026,
+effective August 13, 2026 (D.C. Act 26-416; 73 DCR 11509) (“FY27 Emergency BSA”), repeals
+the ECPPA’s subject-to-appropriation section. Section 9001 of the FY27 Emergency BSA
+provides that this change to the ECPPA’s applicability will become applicable on October 1,
+2026, meaning that the ECPPA will assume the force of law immediately when it completes
+congressional review after October 1, 2026. As noted on the Legislative Information
+Management System page for the ECPPA, the projected law date is currently November 14,
+2026, but this is based on congressional calendar plans that remain subject to change.
+Sec. 3. The Council of the District of Columbia determines that the circumstances
+enumerated in section 2 constitute emergency circumstances making it necessary that the
+Broadband Price Transparency Regulation Emergency Amendment Act of 2026 be adopted after
+a single reading.
+Sec. 4. This resolution shall take effect immediately.
+2

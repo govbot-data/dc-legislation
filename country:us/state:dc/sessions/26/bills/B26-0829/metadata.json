@@ -52,6 +52,18 @@
       }
     },
     {
+      "description": "Revised Notice of Public Hearing filed in the Office of Secretary by Housing",
+      "date": "2026-10-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-08T12:25:08Z"
+      }
+    },
+    {
       "description": "Public Hearing on B26-0829",
       "date": "2026-10-26T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -97,6 +109,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Revised Notice of Public Hearing filed in the Office of Secretary by Housing",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62616/Hearing_Notice/B26-0829-Hearing_Notice2.pdf?Id=247318",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -118,7 +141,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-03T10:53:13Z",
+    "logs_latest_update": "2026-10-08T12:25:08Z",
     "text_extraction_latest_update": "2026-10-03T10:55:24.352701Z"
   }
 }

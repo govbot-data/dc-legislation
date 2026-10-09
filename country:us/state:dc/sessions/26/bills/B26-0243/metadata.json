@@ -134,6 +134,18 @@
       "_processing": {
         "log_file_created": "2026-09-29T11:34:59Z"
       }
+    },
+    {
+      "description": "First Reading",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-09T12:23:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -197,6 +209,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57701/Committee_Report/B26-0243-Committee_Report1.pdf?Id=246684",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -218,7 +241,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-29T11:34:59Z",
+    "logs_latest_update": "2026-10-09T12:23:13Z",
     "text_extraction_latest_update": "2026-09-29T11:37:03.570461Z"
   }
 }

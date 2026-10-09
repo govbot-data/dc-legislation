@@ -60,6 +60,18 @@
       "_processing": {
         "log_file_created": "2026-10-07T12:03:44Z"
       }
+    },
+    {
+      "description": "Final Reading",
+      "date": "2026-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-09T12:23:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -87,6 +99,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "Amendment (RWhite)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62649/Meeting1/Amendment/B26-0850-Amendment2.pdf?Id=247357",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Amendment (Frumin)",
       "links": [
@@ -118,7 +141,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-07T12:03:44Z",
+    "logs_latest_update": "2026-10-09T12:23:13Z",
     "text_extraction_latest_update": "2026-10-07T12:06:01.090373Z"
   }
 }

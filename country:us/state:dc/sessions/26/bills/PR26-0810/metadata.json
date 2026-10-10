@@ -16,6 +16,28 @@
   ],
   "actions": [
     {
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole, Committee of the Whole, Subcommittee on Local Business Development",
+      "date": "2026-09-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-10T11:36:36Z"
+      }
+    },
+    {
+      "description": "Notice of Public Hearing Published in the District of Columbia Register",
+      "date": "2026-09-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-10T11:36:36Z"
+      }
+    },
+    {
       "description": "PR26-0810 Introduced by Chairman Mendelson at Office of the Secretary",
       "date": "2026-09-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -25,6 +47,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-29T11:34:59Z"
+      }
+    },
+    {
+      "description": "Public Hearing on PR26-0810",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-10T11:36:36Z"
       }
     },
     {
@@ -74,7 +106,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole, Committee of the Whole, Subcommittee on Local Business Development",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62580/Hearing_Notice/PR26-0810-Hearing_Notice1.pdf?Id=247387",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -94,7 +138,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-07T12:03:44Z",
+    "logs_latest_update": "2026-10-10T11:36:36Z",
     "text_extraction_latest_update": "2026-10-07T12:05:15.598886Z"
   }
 }

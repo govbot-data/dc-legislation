@@ -124,6 +124,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:09Z"
       }
+    },
+    {
+      "description": "Committee Mark-up of B26-0071 by the Youth Affairs Committee",
+      "date": "2026-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-14T10:29:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -197,7 +207,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:09Z",
+    "logs_latest_update": "2026-10-14T10:29:33Z",
     "text_extraction_latest_update": "2026-07-21T19:44:59.368014Z"
   }
 }

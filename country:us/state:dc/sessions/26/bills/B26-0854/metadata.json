@@ -52,6 +52,16 @@
       }
     },
     {
+      "description": "Notice of Intent to Act on B26-0854 Published in the District of Columbia Register",
+      "date": "2026-10-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-14T10:29:33Z"
+      }
+    },
+    {
       "description": "Public Hearing on B26-0854",
       "date": "2026-11-05T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -118,7 +128,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-07T12:03:44Z",
+    "logs_latest_update": "2026-10-14T10:29:33Z",
     "text_extraction_latest_update": "2026-10-07T12:05:32.164832Z"
   }
 }

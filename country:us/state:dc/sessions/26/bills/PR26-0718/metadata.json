@@ -72,13 +72,23 @@
       }
     },
     {
-      "description": "Roundtable on PR26-0718",
+      "description": "Roundtable on PR26-0718 View Roundtable Record",
       "date": "2026-10-05T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-29T11:34:59Z"
+        "log_file_created": "2026-10-14T10:29:33Z"
+      }
+    },
+    {
+      "description": "Committee Mark-up of PR26-0718 by the Public Works and Operations Committee",
+      "date": "2026-10-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-14T10:29:33Z"
       }
     }
   ],
@@ -117,6 +127,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Roundtable on PR26-0718 View Roundtable Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61894/Hearing_Record/PR26-0718-Hearing_Record1.pdf?Id=247485",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -138,7 +159,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-03T10:53:13Z",
+    "logs_latest_update": "2026-10-14T10:29:33Z",
     "text_extraction_latest_update": "2026-10-03T10:54:46.596527Z"
   }
 }

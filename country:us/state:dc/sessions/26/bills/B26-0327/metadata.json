@@ -161,16 +161,27 @@
       }
     },
     {
-      "description": "Transmitted to Congress, Projected Law Date is Dec 02, 2026",
+      "description": "Transmitted to Congress",
       "date": "2026-08-31T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
-        "became-law",
         "receipt"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-03T09:38:14Z"
+        "log_file_created": "2026-10-15T10:05:35Z"
+      }
+    },
+    {
+      "description": "Law Number L26-0190 Effective from Oct 14, 2026",
+      "date": "2026-10-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-15T10:05:35Z"
       }
     }
   ],
@@ -277,7 +288,9 @@
       "note": ""
     }
   ],
-  "extras": {},
+  "extras": {
+    "lawNumber": "L26-0190"
+  },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/district:dc/government",
     "name": "District of Columbia",
@@ -285,7 +298,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-19T09:38:00Z",
+    "logs_latest_update": "2026-10-15T10:05:35Z",
     "text_extraction_latest_update": "2026-09-19T09:39:28.334769Z"
   }
 }

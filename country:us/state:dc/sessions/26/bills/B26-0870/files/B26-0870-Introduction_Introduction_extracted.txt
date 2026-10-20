@@ -1,0 +1,214 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+October 16, 2026
+Nyasha Howard, Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, NW
+Washington, D.C. 20004
+Dear Secretary Howard:
+Today, I am introducing the “DC Government Employee Home Purchase Support Amendment
+Act of 2026”, along with Councilmembers Zachary Parker, Janeese Lewis George, and Wendell
+Felder. Please find enclosed a signed copy of the legislation.
+The District’s Employer-Assisted Housing Program (“EAHP”), administered by the Department of
+Housing and Community Development (“DHCD”), serves as an important recruitment and
+retention tool for employees across the District government by making first-time
+homeownership possible. It also has the potential to increase the number of District residents
+who work for the District government, as housing costs all too often lead District government
+employees to leave the District or discourage potential talent from joining. Under EAHP, District
+government employees, who are first-time homebuyers, can receive matching down payment
+funds of up to $5,000 and a deferred loan of $20,000. EAHP also provides additional assistance
+to eligible first responders and educators by providing matching down payment funds of up to
+$15,000 and a deferred, recoverable grant of $10,000.
+District government employees looking to take advantage of EAHP must follow many of the same
+steps as those applying for the Home Purchase Assistance Program (“HPAP”), which begins by
+reaching out to a DHCD-funded community-based organization to begin housing counseling and
+their application. Whereas the Council has taken recent steps to improve the administrability and
+transparency of HPAP, the same is desperately needed with EAHP. EAHP is unique in that it does
+not see as much demand as HPAP, which results in excess funds and incentivizes the Executive
+to use these excess funds to replenish HPAP. While this action may appear innocuous, it has
+affected District government employees already under contract for their first home and leaves
+an important recruitment and retention tool for District government employees otherwise
+unavailable during the fiscal year. EAHP’s poor administration and transparency should be
+improved to incentivize more participation and provide a meaningful path to homeownership.
+1
+
+To improve EAHP and ensure that funds are available and quickly dispersed, this legislation would
+change the $20,000 deferred loan available to program participants to a $20,000 grant beginning
+on October 1, 2027. Changing the $20,000 deferred loan to a $20,000 grant would make the
+process straightforward, less time-consuming, and more attractive to District government
+employees. Additionally, this bill would require DHCD to maintain and publish a handbook and
+online portal to facilitate administration, immediately notify applicants of certain events,
+coordinate with public safety and education client agencies on providing an annual information
+session to interested employees, and submit an annual report to the Mayor and Council with
+data to evaluate EAHP’s efficacy.
+Please feel free to reach out to me or my Legislative Director, Antonio Nunes, at
+anunes@dccouncil.gov, with any questions or for additional information.
+Sincerely,
+Councilmember Charles Allen, Ward 6
+Chair, Committee on Transportation & the Environment
+2
+
+1 ___________________________ ______________________________
+2 Councilmember Zachary Parker Councilmember Charles Allen
+3
+4
+5 ___________________________ ______________________________
+6 Councilmember Wendell Felder Councilmember Janeese Lewis George
+7
+8
+9
+10
+11 A BILL
+12
+13 ______________
+14
+15
+16 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+17
+18 _____________________
+19
+20
+21 To amend the Government Employer-Assisted Housing Amendment Act of 1999 to modernize
+22 and improve the administration and accessibility of the District’s Employer-Assisted
+23 Housing Program for District government employees by changing the $20,000 deferred
+24 loan available to program participants to a $20,000 grant beginning October 1, 2027,
+25 requiring the Department of Housing and Community Development to maintain and
+26 publish a handbook and online portal to facilitate administration of the program, creating
+27 standard program timelines, coordinating with client agencies on providing an annual
+28 informational session, and providing the Mayor and Council with an annual report.
+29
+30 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+31 act may be cited as the “DC Government Employee Home Purchase Support Amendment Act of
+32 2026”.
+33 Sec. 2. The Government Employer-Assisted Housing Amendment Act of 1999, effective
+34 May 9, 2000 (D.C. Law 13-96; D.C. Official Code § 42-2501 et seq.), is amended as follows:
+35 (a) Section 2(4A)(A) (D.C. Official Code § 42-2501(4A)(A)) is amended by striking the
+36 phrase “or a paraprofessional” and inserting the phrase “a paraprofessional, or the equivalent
+37 position” in its place.
+1
+
+38 (b) Section 3(4) (D.C. Official Code § 42-2502(4)) is amended by striking the phrase “A
+39 grant” and inserting the phrase “An additional grant” in its place.
+40 (c) Section 4(c) (D.C. Official Code § 42-2503(c)) is amended by striking the phrase
+41 “police officer, firefighter, emergency medical technician, or educator” and inserting the phrase
+42 “first-responder or educator” in its place.
+43 (d) Section 5 (D.C. Official Code § 42-2504) is amended as follows:
+44 (1) Paragraph (a)(1) is amended by striking the phrase “employee or educator” and
+45 inserting the word “Participant” in its place.
+46 (2) Paragraph (c) is amended by striking the phrase “The Mayor” and inserting the
+47 phrase “The Mayor and each independent District government agency” in its place.
+48 (e) Section 6 (D.C. Official Code § 42-2505) is amended to read as follows:
+49 “Sec. 6. Additional assistance; deferred payment loan or grant.”.
+50 “(a)(1) For applications submitted before October 1, 2027, in addition to the assistance
+51 provided in section 5(b) or (b-1) and section 6a, the Department shall make available to each
+52 Participant a deferred loan of up to $20,000 to provide financial assistance for the purchase of a
+53 housing unit. The deferred payment loan shall be available only if the housing unit shall be the
+54 principal residence of the Participant.
+55 “(2) Payment of the principal may be deferred until the property is sold, transferred,
+56 or ceases to be the principal residence of the Participant.
+57 “(3) Deferred payment loans may be secured by a second deed of trust on the
+58 subject property.
+2
+
+59 “(4) The deferred payment loan may be used in conjunction with the Home
+60 Purchase Assistance Program established by the Home Purchase Assistance Fund Act of 1978,
+61 effective September 12, 1978 (D.C. Law 2-103; D.C. Official Code § 42-2601 et seq.).
+62 “(5) The Department may charge interest on the loan if the housing unit is sold
+63 within 5 years.
+64 “(b)(1) For applications submitted on or after October 1, 2027, in addition to the assistance
+65 provided in section 5(b) or (b-1) and section 6a, the Department shall make available to each
+66 Participant a non-taxable grant of up to $20,000 to provide financial assistance toward the purchase
+67 of a housing unit. The grant shall be available only if the housing unit shall be the principal
+68 residence of the Participant.
+69 “(2) The grant shall convert into a loan to be repaid by the Participant if, within 5
+70 years after the date of settlement on the purchase of the housing unit, the housing unit is sold,
+71 transferred, or ceases to be the principal residence of the Participant.
+72 “(3) The grant may be used in conjunction with the Home Purchase Assistance Program
+73 established by the Home Purchase Assistance Fund Act of 1978, effective September 12, 1978
+74 (D.C. Law 2-103; D.C. Official Code § 42-2601 et seq.).”.
+75 (f) Section 7 (DC Official Code § 42–2506) is amended as follows:
+76 (1) The lead-in language of subsection (a) is amended by striking the phrase “a
+77 District of Columbia police officer, firefighter, emergency medical technician” and inserting “a
+78 first-responder” in its place.
+79 (g) A new section 9 is added to read as follows:
+80 “Sec. 9. Program administration; reporting requirements.
+3
+
+81 “(a)(1) The Department shall develop, maintain, publish, and annually revise a Program
+82 handbook to be publicly available on its website and disseminated to prospective applicants,
+83 applicants, and community-based organizations or other entities contracted by the Department to
+84 facilitate the Program’s administration.
+85 “(2) The Program handbook required by paragraph (1) of this subsection shall
+86 include:
+87 “(A) An explanation of all Program elements and requirements;
+88 “(B) An explanation of each step in the Program, from application to
+89 closure, targeted toward applicants, realtors, and lenders;
+90 “(C) A listing of each community-based organization and underwriting
+91 organization in the Program with points of contact within the community-based organization and
+92 underwriting organization for Program administration;
+93 “(D) Contact information for relevant Department staff;
+94 “(E) All required forms, including the current application form; and
+95 “(F) A thorough explanation of other first-time homebuyer programs that
+96 may be combined with the Program and the ways in which they interact.
+97 “(b) The Department shall maintain and publish an online portal, accessible to applicants,
+98 applicants’ lenders and real estate agents, and all community-based organizations or other entities
+99 contracted by the Department to facilitate the Program’s administration, to:
+100 “(1) Facilitate the uploading of required Program documents;
+101 “(2) Permit applicants to check the status of their applications; and
+4
+
+102 “(3) Allow communication between an applicant, an applicant’s lender and real
+103 estate agent, the Department, and staff at community-based organizations or other entities
+104 contracted by the Department to facilitate the Program’s administration.
+105 “(c) The Department shall immediately notify all applicants with an active notice of
+106 eligibility of:
+107 “(1) Depletion of Program funds prior to the end of the fiscal year in which an
+108 applicant receives a notice of eligibility; or
+109 “(2) Any changes to Program requirements.
+110 “(d) The Department, in coordination with the Metropolitan Police Department, Fire and
+111 Emergency Medical Services Department, Department of Corrections, Office of Unified
+112 Communications, District of Columbia Public Schools, and the District of Columbia Public
+113 Charter School Board, shall provide quarterly informational sessions to interested first-responders
+114 and educators about the Program.
+115 “(e) The Department shall submit a report to the Mayor and Council on April 1 of each
+116 year with the following information:
+117 “(1) A breakdown of the total number of applicants who received Program funding
+118 in the prior fiscal year by:
+119 “(A) Agency in which the applicant is employed and length of time
+120 employed by the agency and the District government;
+121 “(B) Ward in which the applicant purchased a housing unit;
+122 “(C) Type of housing unit;
+123 “(D) Purchase price of the housing unit;
+124 “(E) Race of the applicant;
+5
+
+125 “(F) Age of the applicant; and
+126 “(G) Sex or gender of the applicant;
+127 “(2) The total number of past recipients who repaid the deferred payment loan
+128 provided in section 6 in the prior fiscal year, the length of time since the loan’s origination, and
+129 whether it was repaid through a sale or refinance of the housing unit;
+130 “(3) The total number of first-responders and educators who had their grant
+131 provided in section 6a converted to a loan in the prior fiscal year;
+132 “(4) The total number and value of outstanding deferred payment loans by year of
+133 origination;
+134 “(5) The total number of first responders who made a service commitment to the
+135 District and how many are still employed by the agency or the District government; and
+136 “(6) The total number of applicants who did not receive funding from the Program
+137 in the past fiscal year.”.
+138 Sec. 3. Fiscal impact statement.
+139 The Council adopts the fiscal impact statement in the committee report as the fiscal impact
+140 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+141 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+142 Sec. 4. Effective date.
+143 This act shall take effect following approval by the Mayor (or in the event of veto by the
+144 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+145 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24,
+146 1973 (87 Stat. 788; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+147 Columbia Register.
+6

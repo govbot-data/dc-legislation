@@ -1,0 +1,180 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+October 15, 2026
+Nyasha Howard
+Secretary
+Council of the District of Columbia
+1350 Pennsylvania Avenue, NW
+Washington, DC 20024
+Dear Secretary Howard:
+Today, I am introducing the Dementia Readiness and Awareness in Continuing Education Amendment
+Act of 2026, along with Councilmembers Anita Bonds, Charles Allen, Trayon White, Sr., Brianne K.
+Nadeau, Janeese Lewis George, Wendell Felder, and Zachary Parker. This legislation would create a one-
+time, one-hour continuing education requirement on the diagnosis, treatment, or care of individuals with
+Alzheimer’s disease and related dementias (ADRD) for medical professionals who treat adults in a
+clinical setting.
+Research shows that early and accurate diagnosis of dementia and Alzheimer’s leads to significantly
+better outcomes and more supportive and effective care. According to the U.S. Census Bureau, more than
+90,000 District residents, roughly 14 percent, are 65 years of age or older.1 The District’s older adult
+population is expected to grow substantially in the coming years, making it essential for healthcare
+providers to be appropriately trained to address the unique needs of our seniors.
+Although there are an estimated 7.4 million Americans living with some form of ADRD, there is a
+significant gap in detection, treatment, and care, with only about half of cases being diagnosed.23 Notably,
+studies show that Black and Hispanic older adults experience much higher rates of Alzheimer’s than other
+groups but are much more likely to be underdiagnosed or diagnosed at late stages.45 According to the
+Centers for Disease Control, in 2024, Alzheimer’s was the sixth leading cause of death in America, which
+further underscores the need for ADRD education and support.6 To address this, Delaware, Illinois,
+Massachusetts, and Rhode Island have mandated that certain licensed medical professionals take ADRD-
+related courses as part of their continuing medical education requirements.7 This bill would provide a
+similar requirement within the District.
+★★★
+MATTFRUMINWARD3.COM | (202) 724-8062
+
+This requirement is intended to provide instruction that will highlight early detection, advances in
+research, innovative treatments, and progressing standards of care. The science of Alzheimer’s is
+constantly developing, and ADRD detection tools and treatments have evolved significantly in the past
+decade. As noted in Alzheimer’s and Dementia, a journal produced by the Alzheimer’s Association, there
+are currently 192 active clinical trials assessing 158 drugs in this space.8 Some newer studies and
+treatments target plaques in the brain, target tau tangles, brain cell inflammation caused by ADRD, and
+the connection between brain health and heart disease; many of these treatments require early intervention
+to secure promising results.9 As new research and treatment options emerge, it is vital that we require up-
+to-date training for medical professionals to ensure that proper healthcare supports are in place to serve
+our senior populations across the District, particularly those most vulnerable to this disease.
+Should you have any questions about this legislation, please contact Trisha Kondabala at
+tkondabala@dccouncil.gov.
+Sincerely,
+Councilmember Matthew Frumin, Ward 3
+Chair, Committee on Human Services
+1 U.S. Census Bureau Quickfacts: District of Columbia (2025), https://www.census.gov/quickfacts/fact/table/DC/
+PST045225.
+2 Alzheimer’s Association, 2026 Alzheimer’s Disease Facts and Figures, 22 Alzheimer’s & Dementia (2026),
+https://www.alz.org/getmedia/ef8f48f9-ad36-48ea-87f9-b74034635c1e/alzheimers-facts-and-figures.pdf.
+3 Tiffany B. Kindratt et al., Alzheimer’s Disease and Related Dementias Diagnosis in the United States Among US-
+born and Foreign-born White, Black, Hispanic, and Asian Older Adults, 12 Journal of Racial and Ethnic Health
+Disparities 1847–1855 (2024), https://pmc.ncbi.nlm.nih.gov/articles/PMC11511784/.
+4 National Institute on Aging, Data shows racial disparities in Alzheimer’s disease diagnosis between Black and
+white research study participants, National Institutes of Health (2021), https://www.nia.nih.gov/news
+/data-shows-racial-disparities-alzheimers-disease-diagnosis-between-black-and-white-research.
+5 Christian Lachner et al., Dementia Risk Factors are Undiagnosed and/or Uncontrolled in a Latino and Black
+Aging Cohort, 20 Alzheimer’s & Dementia (2025), https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/
+★★★
+MATTFRUMINWARD3.COM | (202) 724-8062
+
+alz.092985
+6 Alzheimer’s Association, 2026 Alzheimer’s Disease Facts and Figures, 22 Alzheimer’s & Dementia (2026),
+https://www.alz.org/getmedia/ef8f48f9-ad36-48ea-87f9-b74034635c1e/alzheimers-facts-and-figures.pdf.
+7 Federation of State Medical Boards, Continuing Medical Education Board-by-Board Overview (2026),
+https://www.fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf/.
+8 Jeffrey L. Cummings et al., Alzheimer’s Disease Drug Development Pipeline: 2026, 12 Alzheimer’s & Dementia
+(2026), https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70251.
+9 Alzheimer’s Treatments: What’s on the Horizon? Mayo Clinic (2025), https://www.mayoclinic.org/diseases-
+conditions/alzheimers-disease/in-depth/alzheimers-treatments/art-20047780.
+★★★
+MATTFRUMINWARD3.COM | (202) 724-8062
+
+1 _____________________________
+2 Councilmember Anita Bonds Councilmember Matthew Frumin
+3
+4
+5
+6
+7
+8 Councilmember Charles Allen Councilmember Trayon White, Sr.
+9
+10
+11
+12
+13
+14 Councilmember Brianne K. Nadeau Councilmember Janeese Lewis George
+15
+16
+17
+18
+19
+20 Councilmember Wendell Felder Councilmember Zachary Parker
+21
+22
+23
+24
+25 A BILL
+26
+27 _________________________
+28
+29
+30 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+31
+32 _________________________
+33
+34
+35 To amend the District of Columbia Health Occupations Revision Act of 1985 to require a one-
+36 time, one-hour course on the diagnosis, treatment, or care of individuals with
+37 Alzheimer’s disease and related dementias as part of the continuing medical education
+38 requirement for certain medical professionals who treat adult patients in a clinical setting.
+39
+1
+
+40 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+41 act may be cited as the “Dementia Readiness and Awareness in Continuing Education
+42 Amendment Act of 2026”.
+43 Sec. 2. Section 510(b) of the District of Columbia Health Occupations Revision Act of
+44 1985, effective March 25, 1986 (D.C. Law 6-99; D.C. Official Code § 3-1205.10(b)) is amended
+45 as follows:
+46 (a) Paragraph 4(B)(v) is amended by striking the phrase “; and” and inserting a
+47 semicolon in its place.
+48 (b) Paragraph 5(B)(vii) is amended by striking the period and inserting “; and” in
+49 its place.
+50 (c) A new paragraph (6) is added to read as follows:
+51 “(6)(A) Require that any individual licensed, registered, or certified to
+52 practice in the following health occupations who provides health care services to, and has direct
+53 patient interactions with adult patients shall complete, as a one-time requirement, at least one
+54 hour of continuing education credit on the diagnosis, treatment, or care of individuals with
+55 Alzheimer's disease and related dementias:
+56 (i) The practice of medicine;
+57 (ii) The practice of physician assistants;
+58 (iii) The practice of advanced practice registered nursing;
+59 (iv) The practice of registered nursing; and
+60 (v) The practice of practical nursing.
+61 “(B) An individual who holds an active license, registration, or
+62 certification as of the effective date of this act shall complete the requirement described in
+2
+
+63 subparagraph (A) of this paragraph by the end of the first renewal period beginning after the
+64 effective date of this act.
+65 “(C) An individual who receives an initial license, registration, or
+66 certification after the effective date of this act shall complete the requirement described in
+67 subparagraph (A) of this paragraph by the end of the first renewal period following initial
+68 licensure, registration, or certification.
+69 “(D) The requirement established in subparagraph (A) of this
+70 paragraph may be satisfied by completion of any training that is approved by the boards
+71 governing the listed medical practices as meeting the continuing education standards applicable
+72 to the individual's health occupation or offered or endorsed by a nationally recognized
+73 organization with expertise in Alzheimer's disease and dementia care.
+74 “(E) An individual may count the continuing education credit
+75 completed under subparagraph (A) of this paragraph toward the total continuing education hours
+76 required for renewal of the individual's license, registration, or certification.
+77 “(F) The requirement established by subparagraph (A) of this
+78 paragraph shall not apply to:
+79 “(i) Any licensed health professional who does not see
+80 adult patients in a clinical setting in the District; or
+81 "(ii) Any licensed health professional who has completed
+82 training that meets the requirements under the Dementia Training for Direct Care Workers
+83 Support Amendment Act, approved March 16, 2021 (D.C. Law 23-201; D.C. Official Code §7-
+84 744.02).”.
+85 Sec. 3. Fiscal impact statement.
+3
+
+86 The Council adopts the fiscal impact statement in the committee report as the fiscal
+87 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+88 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+89 Sec. 4. Effective date.
+90 This act shall take effect following approval by the Mayor (or in the event of veto by the
+91 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+92 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+93 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+4

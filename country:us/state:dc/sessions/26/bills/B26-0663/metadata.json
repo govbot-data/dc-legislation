@@ -97,6 +97,29 @@
       "_processing": {
         "log_file_created": "2026-10-06T12:14:23Z"
       }
+    },
+    {
+      "description": "Signed by the Mayor and Enacted with Act Number A26-0425",
+      "date": "2026-10-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-20T10:18:16Z"
+      }
+    },
+    {
+      "description": "Returned from Mayor",
+      "date": "2026-10-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-20T10:18:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -156,6 +179,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed by the Mayor and Enacted with Act Number A26-0425",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61647/Signed_Act/B26-0663-Signed_Act.pdf?Id=248139",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -177,7 +211,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-06T12:14:23Z",
+    "logs_latest_update": "2026-10-20T10:18:16Z",
     "text_extraction_latest_update": "2026-10-06T12:16:26.549570Z"
   }
 }

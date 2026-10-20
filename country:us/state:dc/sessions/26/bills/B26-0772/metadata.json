@@ -80,6 +80,16 @@
       "_processing": {
         "log_file_created": "2026-09-02T09:29:43Z"
       }
+    },
+    {
+      "description": "Committee Mark-up of B26-0772 by the Committee of the Whole",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-20T10:18:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -138,7 +148,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-03T10:53:13Z",
+    "logs_latest_update": "2026-10-20T10:18:16Z",
     "text_extraction_latest_update": "2026-10-03T10:54:46.599768Z"
   }
 }

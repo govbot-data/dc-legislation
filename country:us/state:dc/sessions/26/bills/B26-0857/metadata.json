@@ -50,6 +50,16 @@
       "_processing": {
         "log_file_created": "2026-10-15T10:05:35Z"
       }
+    },
+    {
+      "description": "Notice of Intent to Act on B26-0857 Published in the District of Columbia Register",
+      "date": "2026-10-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-20T10:18:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -107,7 +117,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-15T10:05:35Z",
+    "logs_latest_update": "2026-10-20T10:18:16Z",
     "text_extraction_latest_update": "2026-10-15T10:07:01.931462Z"
   }
 }

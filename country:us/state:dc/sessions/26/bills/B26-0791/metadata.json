@@ -85,6 +85,29 @@
       "_processing": {
         "log_file_created": "2026-10-06T12:14:23Z"
       }
+    },
+    {
+      "description": "Signed by the Mayor and Enacted with Act Number A26-0437, Expires on Jan 18, 2027",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-21T10:22:50Z"
+      }
+    },
+    {
+      "description": "Returned from Mayor",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-21T10:22:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -122,7 +145,41 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Agendized; not considered at the request of  Amendment (Henderson)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62523/Meeting1/Amendment/B26-0791-Amendment3.pdf?Id=247247",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Nadeau)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62523/Meeting1/Amendment/B26-0791-Amendment2.pdf?Id=247271",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed by the Mayor and Enacted with Act Number A26-0437, Expires on Jan 18, 2027",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62523/Signed_Act/B26-0791-Signed_Act.pdf?Id=248199",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -142,7 +199,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-06T12:14:23Z",
+    "logs_latest_update": "2026-10-21T10:22:50Z",
     "text_extraction_latest_update": "2026-10-06T12:16:06.430416Z"
   }
 }

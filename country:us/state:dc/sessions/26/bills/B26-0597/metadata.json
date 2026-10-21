@@ -156,6 +156,16 @@
       "_processing": {
         "log_file_created": "2026-10-03T10:53:13Z"
       }
+    },
+    {
+      "description": "Committee Mark-up of B26-0597 by the Housing Committee",
+      "date": "2026-11-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-21T10:22:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -259,7 +269,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-03T10:53:13Z",
+    "logs_latest_update": "2026-10-21T10:22:50Z",
     "text_extraction_latest_update": "2026-10-03T10:54:41.672615Z"
   }
 }

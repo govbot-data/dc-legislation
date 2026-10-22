@@ -1,0 +1,124 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-243
+4
+5 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+6
+7 _________________________
+8
+9
+10 To require that the Department of Energy and Environment, in consultation with the Public
+11 Service Commission, the Office of the People’s Counsel, utilities, and agency designees,
+12 create a process through which it automatically identifies eligible District residents,
+13 supplemented by data provided by relevant health agencies, for enrollment into utility
+14 affordability programs or other DOEE-administered income-qualified programs, and to
+15 require the relevant entities to enroll eligible residents.
+16
+17 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+18 act may be cited as the “Automatic Enrollment for Utility Affordability Programs Act of 2026”.
+19 Sec. 2. Household identification and automatic enrollment process.
+20 (a)(1) Within one year after the applicability date of this act, the Department of Energy
+21 and Environment, in consultation with the Public Service Commission, the Office of People’s
+22 Counsel, utilities, and agency designees, shall implement a process for automatic identification
+23 of eligible households for participation in District utility affordability programs or other DOEE-
+24 administered, income-qualified programs. DOEE shall use the information obtained in response
+25 to its request pursuant to subsection (b) of this section to identify eligible households to be
+26 enrolled using this process, subject to paragraph (2) and (3) of this subsection.
+27 (2) DOEE may prioritize automatic identification of eligible households based on
+28 household income levels or other criteria demonstrating a need for assistance if a District utility
+1
+
+ENGROSSED ORIGINAL
+29 affordability program or other DOEE-administered, income-qualified program is not able to
+30 support automatic enrollment of all eligible households due to funding constraints or other
+31 limitations.
+32 (3) DOEE may choose the District utility affordability programs or other DOEE-
+33 administered, income-qualified programs for which the agency identifies eligible households to
+34 be enrolled. DOEE shall not be required to include the Low-Income Home Energy Assistance
+35 Program or the Weatherization Assistance Program in the automatic identification process. Once
+36 DOEE or its designee identifies a household for automatic enrollment, DOEE or its designee
+37 may enroll eligible households or facilitate enrollment in additional programs as relevant.
+38 (4) The process developed pursuant to paragraph (1) of this subsection shall
+39 include a data-sharing protocol that ensures that DOEE or its designee will not share individuals’
+40 personal identifying information, including the individual’s name, account number, service
+41 address, and phone number, for purposes other than administering this section or for the purposes
+42 of verification, research, evaluation, and analysis.
+43 (b)(1) Consistent with 7. C.F.R. § 272.1(c)(1) and notwithstanding any other District law,
+44 upon request by DOEE for the purposes described in subsections (a) and (d) of this section, the
+45 Mayor shall provide, or cause to be provided, the enrollment data listed below to DOEE:
+46 (A) For the Department of Human Services (“DHS”), enrollment data
+47 from households participating in any program administered by DHS for which the eligibility is
+2
+
+ENGROSSED ORIGINAL
+48 based on household income, including the District’s Temporary Assistance for Needy Families
+49 Program and the Supplemental Nutrition Assistance Program;
+50 (B) For the Department of Health (“DC Health”), enrollment data from
+51 households participating in any program administered by DC Health, for which the eligibility is
+52 based on household income, including the Special Supplemental Nutrition Program for Women,
+53 Infants, and Children; and
+54 (C) For the Department of Health Care Finance (“DHCF”), enrollment
+55 data for households participating in any program administered by DHCF, for which the eligibility
+56 is based on household income, including Medicaid.
+57 (2) Notwithstanding any other District law, the electric company, the natural gas
+58 company, and the District of Columbia Water and Sewer Authority shall, at DOEE’s request,
+59 provide the agency with customer-specific data requested by DOEE for the purposes of and as
+60 provided for by this section.
+61 (3) The electric company, natural gas company, and District of Columbia Water
+62 and Sewer Authority shall work with DOEE to facilitate and implement the technological
+63 capabilities or upgrades needed to carry out the automatic identification process provided for by
+64 this section, including allowing for the secure transmission of data requested by DOEE through
+65 an interface with DOEE’s information technology infrastructure.
+66 (c) Before providing the information listed in subsection (b)(1) of this section in response
+67 to DOEE’s request, the applicable agency shall, in compliance with applicable confidentiality
+3
+
+ENGROSSED ORIGINAL
+68 requirements, obtain affirmative consent from a household member for the information to be
+69 shared with DOEE for the purposes described in subsections (a) and (d) of this section.
+70 (d)(1) Within 60 days after receiving the list of account numbers of potentially eligible
+71 households from DOEE as described in this section, the electric company, natural gas company,
+72 and District of Columbia Water and Sewer Authority shall confirm eligibility and enroll eligible
+73 households into, respectively, the Residential Aid Discount, Residential Essential Services, and
+74 Customer Assistance Program.
+75 (2) No later than 60 days after enrolling an eligible household pursuant to this
+76 subsection, the relevant utility shall inform the household:
+77 (A) That the household has been enrolled in a program, including the
+78 name of the specific program, based on the eligibility of a member of the household due to their
+79 enrollment in a qualifying public benefit program;
+80 (B) The anticipated date by which the household will begin receiving
+81 benefits or credits through the program in which the household was enrolled; and
+82 (C) Of the procedure to withdraw from automatic enrollment at any time
+83 by contacting the entity responsible for enrollment.
+84 Sec. 3. Applicability.
+85 (a) This act shall apply upon the date of inclusion of its fiscal effect in an approved
+86 budget and financial plan.
+4
+
+ENGROSSED ORIGINAL
+87 (b) The Chief Financial Officer shall certify the date of inclusion of the fiscal effect in an
+88 approved budget and financial plan and provide notice to the Budget Director of the Council of
+89 the certifications.
+90 (c)(1) The Budget Director shall cause the notices of the certification to be published in
+91 the District of Columbia Register.
+92 (2) The dates of publication of the notices of certification shall not affect the
+93 applicability of this act.
+94 Sec. 4. Fiscal impact statement.
+95 The Council adopts the fiscal impact statement in the committee report as the fiscal
+96 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+97 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+98 Sec. 5. Effective date.
+99 This act shall take effect after approval by the Mayor (or in the event of veto by the
+100 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+101 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+102 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+5

@@ -102,6 +102,16 @@
       "_processing": {
         "log_file_created": "2026-08-19T05:44:15Z"
       }
+    },
+    {
+      "description": "Committee Mark-up of B26-0448 by the Health Committee",
+      "date": "2026-11-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-22T10:16:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -160,7 +170,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-03T10:53:13Z",
+    "logs_latest_update": "2026-10-22T10:16:42Z",
     "text_extraction_latest_update": "2026-10-03T10:55:05.832681Z"
   }
 }

@@ -90,6 +90,18 @@
       "_processing": {
         "log_file_created": "2026-10-20T10:18:16Z"
       }
+    },
+    {
+      "description": "First Reading, CC",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-22T10:16:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -148,7 +160,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-20T10:18:16Z",
+    "logs_latest_update": "2026-10-22T10:16:42Z",
     "text_extraction_latest_update": "2026-10-20T10:20:49.294192Z"
   }
 }

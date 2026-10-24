@@ -90,6 +90,30 @@
       "_processing": {
         "log_file_created": "2026-10-14T10:29:33Z"
       }
+    },
+    {
+      "description": "Final Reading, CC",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:53:38Z"
+      }
+    },
+    {
+      "description": "Approved with Resolution Number R26-0533",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:53:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -138,6 +162,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61895/Committee_Report/PR26-0717-Committee_Report1.pdf?Id=247812",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -159,7 +194,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-14T10:29:33Z",
+    "logs_latest_update": "2026-10-24T09:53:38Z",
     "text_extraction_latest_update": "2026-10-14T10:31:29.910715Z"
   }
 }

@@ -51,14 +51,24 @@
     },
     {
       "description": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole, Subcommittee on Local Business Development",
-      "date": "2026-10-21T04:00:00+00:00",
+      "date": "2026-10-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "filing"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-10-22T10:16:42Z"
+        "log_file_created": "2026-10-24T09:53:38Z"
+      }
+    },
+    {
+      "description": "Notice of Public Hearing Published in the District of Columbia Register",
+      "date": "2026-10-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:53:38Z"
       }
     },
     {
@@ -128,7 +138,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-22T10:16:42Z",
+    "logs_latest_update": "2026-10-24T09:53:38Z",
     "text_extraction_latest_update": "2026-10-22T10:18:11.933627Z"
   }
 }

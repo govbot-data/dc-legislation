@@ -138,6 +138,16 @@
       }
     },
     {
+      "description": "Notice of Roundtable Published in the District of Columbia Register",
+      "date": "2026-10-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:53:38Z"
+      }
+    },
+    {
       "description": "Roundtable on B26-0597",
       "date": "2026-10-13T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -269,7 +279,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-21T10:22:50Z",
+    "logs_latest_update": "2026-10-24T09:53:38Z",
     "text_extraction_latest_update": "2026-10-21T10:24:15.800784Z"
   }
 }

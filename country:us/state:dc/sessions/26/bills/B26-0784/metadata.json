@@ -61,6 +61,28 @@
       "_processing": {
         "log_file_created": "2026-10-07T12:03:44Z"
       }
+    },
+    {
+      "description": "Returned from Mayor",
+      "date": "2026-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:53:38Z"
+      }
+    },
+    {
+      "description": "Enacted without Mayor's Signature with Act Number A26-0449, Expires on Jan 20, 2027",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-24T09:53:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -85,9 +107,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62512/Meeting1/Enrollment/B26-0784-Enrollment1.pdf?Id=247434",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Enacted without Mayor's Signature with Act Number A26-0449, Expires on Jan 20, 2027",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62512/Signed_Act/B26-0784-Signed_Act.pdf?Id=248283",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -107,7 +152,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-07T12:03:44Z",
+    "logs_latest_update": "2026-10-24T09:53:38Z",
     "text_extraction_latest_update": "2026-10-07T12:05:44.723393Z"
   }
 }

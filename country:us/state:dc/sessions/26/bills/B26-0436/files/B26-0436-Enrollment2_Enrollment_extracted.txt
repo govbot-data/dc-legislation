@@ -1,0 +1,268 @@
+Title: 
+Official Title: 
+Source: versions - Enrollment
+Media Type: application/pdf
+
+================================================================================
+
+ENROLLED ORIGINAL
+AN ACT
+_______________
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+_______________
+To amend the District of Columbia Election Code of 1955 to require the Board of Elections to
+reject initiatives which address more than one subject matter, extend the amount of time
+for the Attorney General for the District of Columbia and the General Counsel of the
+Council of the District of Columbia to provide an advisory opinion on whether a
+proposed measure is a proper subject for an initiative from 15 days to 30 days after
+receipt from the Board of Elections, require the Office of the Chief Financial Officer to
+provide a fiscal impact statement for a proposed initiative measure within 15 days after
+receipt from the Board of Elections and require the Board of Elections to post the fiscal
+impact statement on its website for a period of 3 years, require the Board of Elections to
+post on its website the full legislative text and the proposer’s verified statement of
+contributions filed with the Director of Campaign Finance, require the Board of Elections
+to accept and post on its website public comments on the measure, require the Board of
+Elections to hold a public meeting to issue a determination accepting or refusing a
+proposed initiative measure, require the Board of Elections to prepare a fiscal impact
+summary of an accepted proposed initiative measure, require the petition sheet to include
+the text of the official summary, short title, and fiscal impact summary in at least 11-point
+font, require the petition sheet to include the name of the proposer and indicate where the
+verified statement of contributions can be found, require the fiscal impact summary be
+included on the ballot, and for other purposes; and to amend section 4a of the General
+Legislative Procedures Act of 1975 to make conforming amendments.
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+act may be cited as the “Fairness and Accountability in Initiative Reform Amendment Act of
+2026”.
+Sec. 2. Section 16 of the District of Columbia Election Code of 1955, effective June 7,
+1979 (D.C. Law 3-1; D.C. Official Code § 1-1001.16), is amended as follows:
+(a) Subsection (b) is amended as follows:
+(1) Paragraph (1) is amended as follows:
+1
+
+ENROLLED ORIGINAL
+(A) Subparagraph (C) is amended by striking the phrase “; or” and
+inserting a semicolon in its place.
+(B) Subparagraph (D) is amended by striking the period and inserting the
+phrase “; or” in its place.
+(C) A new subparagraph (E) is added to read as follows:
+“(E) If a proposed initiative measure, the measure addresses more than one
+subject. For the purposes of this subparagraph, a measure addresses more than one subject if the
+measure contains provisions that are sufficiently separable such that the provisions, when
+separated, can be reasonably considered on their own merits by a voter without reference to the
+measure’s other provisions.”.
+(2) Paragraph (1A) is amended as follows:
+(A) Subparagraph (A) is amended by striking the period and inserting the
+phrase “. The Board shall post an advisory opinion it receives pursuant to this paragraph on its
+website for at least 3 years following receipt of the advisory opinion.” in its place.
+(B) Subparagraph (B)(i) is amended by striking the number “15” and
+inserting the number “30” in its place.
+(C) A new subparagraph (C) is added to read as follows:
+“(C) If the measure is a proposed initiative measure, within one business
+day after the proposed measure is received by the Board, the Board shall request a fiscal impact
+statement from the Office of the Chief Financial Officer, which shall issue a fiscal impact
+statement that conforms to the requirements of section 4a of the General Legislative Procedures
+Act of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a),
+within 15 business days after receipt of the request from the Board. The Board shall post the
+fiscal impact statement on its website for a period of at least 3 years.”.
+(3) A new paragraph (1B) is added to read as follows:
+“(1B) Within 5 business days after the proposed measure is received by the
+Board, the Board shall:
+“(A) Post on its website the full text of the proposed measure;
+“(B) Accept public comments on the measure, including comments
+submitted electronically, and publish comments within one day after receipt on its website,
+which the Board shall maintain on the website for a period of at least 3 years; and
+“(C) Post on its website the verified statement of contributions that the
+proposer filed with the Director of Campaign Finance.”.
+(4) Paragraph (2) is amended by striking the phrase “accept a measure” and
+inserting the phrase “accept a referendum measure” in its place.
+(5) Paragraph (3) is amended to read as follows:
+“(3)(A) If the Board refuses to accept a proposed referendum measure submitted
+to it, the person or persons submitting such measure may apply, within 10 days after the Board’s
+refusal to accept such measure, to the Superior Court of the District of Columbia for a writ in the
+nature of mandamus to compel the Board to accept such measure.
+2
+
+ENROLLED ORIGINAL
+“(B) If the Superior Court of the District of Columbia determines that the
+issue presented by the measure is a proper subject of a referendum under the terms of title IV of
+the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 785; D.C.
+Official Code § 1-204.01 et seq.), and that the measure is legal in form, does not authorize
+discrimination as prescribed in paragraph (1)(C) of this subsection, and would not negate or limit
+an act of the Council of the District of Columbia as prescribed in paragraph (1)(D) of this
+subsection, it shall issue an order requiring the Board to accept the measure. Should the Superior
+Court of the District of Columbia hold in favor of the proposer, it may award court costs and
+reasonable attorneys’ fees to the proposer.
+“(C) The Superior Court shall expedite consideration of the matter.”.
+(6) A new paragraph (3A) is added to read as follows:
+“(3A)(A) If the measure is an initiative measure, the Board shall convene a public
+meeting to vote on a written determination accepting or refusing the measure. The meeting shall
+be held at least 30 days but no more than 60 days after the proposed measure is received. Notice
+of the meeting and full text of the proposed measure shall be published in the District of
+Columbia Register at least 15 days in advance of the meeting.
+“(B) The Board’s determination shall indicate the grounds for its
+acceptance or refusal, and shall take into consideration the advisory opinions of the Attorney
+General and the General Counsel to the Council. If no grounds for refusal exist, the Board shall
+accept the initiative measure.
+“(C) Within one day after the public meeting at which the Board voted on
+its determination, the Board shall transmit its determination to the proposer and post the
+determination on the Board’s website. The determination shall be published in the District of
+Columbia Register within 30 days after the public meeting at which the Board voted on the
+determination.
+“(D)(i) If the Board accepts a proposed initiative measure, a registered
+qualified elector of the District of Columbia who objects to the Board’s acceptance of the
+measure may apply, any time following posting of the written determination on the Board’s
+website but not more than 30 calendar days after the date the Board publishes its determination
+in the District of Columbia Register, to the Superior Court of the District of Columbia for a writ
+in the nature of mandamus to compel the Board to refuse to accept such measure.
+“(ii) If the Board refuses to accept a proposed initiative measure,
+the person or persons submitting such measure may apply, at any time following posting of the
+written determination on the Board’s website but not more than 30 calendar days after the date
+the Board publishes its determination in the District of Columbia Register, to the Superior Court
+of the District of Columbia for a writ in the nature of mandamus to compel the Board to accept
+such measure.
+“(iii) The Superior Court of the District of Columbia shall
+determine whether the issue presented by the proposed initiative is a proper subject of initiative
+under the terms of title IV of the District of Columbia Home Rule Act, approved December 24,
+3
+
+ENROLLED ORIGINAL
+1973 (87 Stat. 785; D.C. Official Code § 1-204.01 et seq.), the measure is legal in form,
+authorizes discrimination as prescribed in paragraph (1)(C) of this subsection, would negate or
+limit an act of the Council of the District of Columbia, as prescribed in paragraph (1)(D) of this
+subsection, and addresses more than one subject as prescribed in paragraph (1)(E) of this
+subsection, and issue an appropriate order affirming or reversing the Board’s determination and
+directing the Board to accept or refuse the measure. Should the Superior Court of the District of
+Columbia issue an order directing the Board to accept the measure, it may award court costs and
+reasonable attorneys’ fees to the proposer.”.
+(b) Subsection (c) is amended as follows:
+(1) The lead-in language is amended to read as follows:
+“(c) Within 20 calendar days after the date on which the Board accepts a referendum
+measure, or within 30 calendar days after the date on which the Board accepts an initiative
+measure, the Board shall:”
+(2) Paragraph (4) is amended to read as follows:
+“(4) If the measure is an initiative measure, prepare a fiscal impact summary
+based on the fiscal impact statement of the Chief Financial Officer. If funds are not sufficient, the
+fiscal impact summary shall read in substantially the following form:
+“The District will need to appropriate funds in its annual budget to implement this
+measure. The estimated amount of additional funding needed to implement this measure is
+$[AMOUNT] in the first fiscal year and $[AMOUNT] over the four-year financial plan.”.
+(c) Subsection (d) is amended to read as follows:
+“(d)(1) After preparing an initiative or referendum measure, the Board shall call a public
+meeting to adopt the summary statement, short title, legislative form, and, if the measure is a
+proposed initiative measure, the fiscal impact summary of the measure prepared pursuant to
+subsection (c) of this section. Notice of the meeting shall be published in the District of
+Columbia Register in advance of the meeting, and for initiative measures, the meeting shall be
+convened not more than 30 days after accepting the initiative.
+“(2) Within 3 business days after adoption, the Board shall:
+“(A) Provide the proposer of the measure by electronic mail with the
+adopted summary statement, short title, legislative form, and, if the measure is an initiative
+measure, the fiscal impact summary;
+“(B) Submit the summary statement, short title, legislative form, and, if
+the measure is an initiative measure, the fiscal impact statement and fiscal impact summary, to:
+“(i) The District of Columbia Register for publication; and
+“(ii) At least one newspaper of general circulation in the District;
+and
+“(C) Publish the summary statement, short title, legislative form, and, if
+the measure is an initiative measure, the fiscal impact statement and fiscal impact summary, on
+the Board’s website.”.
+(d) Subsection (e) is amended to read as follows:
+4
+
+ENROLLED ORIGINAL
+“(e)(1)(A) If any registered qualified elector of the District of Columbia objects to the
+summary statement, short title, legislative form, or fiscal impact summary of the initiative
+measure formulated by the Board pursuant to subsections (c) and (d) of this section, that person
+may seek review in the Superior Court of the District of Columbia within 30 calendar days from
+the date the Board publishes the summary statement, short title, legislative form, and fiscal
+impact summary in the District of Columbia Register stating objections and requesting
+appropriate changes. The Superior Court of the District of Columbia shall expedite consideration
+of the matter.
+“(B) If any registered qualified elector of the District of Columbia objects
+to the summary statement, short title, or legislative form of the referendum measure formulated
+by the Board pursuant to subsection (c) of this section, that person may seek review in the
+Superior Court of the District of Columbia within 10 calendar days from the date the Board
+publishes the summary statement, short title, and legislative form on the Board’s website
+pursuant to subsection (d)(2)(C) of this section stating objections and requesting appropriate
+changes. The Superior Court of the District of Columbia shall expedite consideration of this
+matter.
+“(2) Should no review in the Superior Court of the District of Columbia be sought
+as provided in paragraph (1) of this subsection, the proposed summary statement, short title,
+legislative form, and fiscal impact summary shall be deemed to be accepted.
+“(3) Should the Superior Court of the District of Columbia hold in favor of the
+proposer, it may award court costs and reasonable attorney’s fees to the proposer.”.
+(e) Subsection (f) is amended as follows:
+(1) Paragraph (1) is amended by striking the phrase “and legislative form” and
+inserting the phrase “legislative form, and fiscal impact summary” in its place.
+(2) Paragraph (3) is amended by striking the phrase “and full legislative text” and
+inserting the phrase “full legislative text, and fiscal impact summary” in its place.
+(f) Subsection (g) is amended as follows:
+(1) The lead-in language is amended by striking the phrase “and legislative form”
+and inserting the phrase “legislative form, and fiscal impact summary” in its place.
+(2) Paragraph (2) is amended to read as follows:
+“(2) A statement that indicates the signatory has read the summary of the
+measure, requests that the Board hold an election on the initiative or referendum measure, and
+states the measure’s serial number and short title;”
+(3) Paragraph (3) is amended to read as follows:
+“(3) The text of the official summary and short title, and, if the measure is a
+proposed initiative, the fiscal impact summary of the measure printed in at least 11-point font on
+the front of the petition sheet;”.
+(4) New paragraphs (4) and (5) are added to read as follows:
+“(4) A notice that the official summary may not capture the full effect of a
+measure and an indication of where the full legislative text can be accessed; and
+5
+
+ENROLLED ORIGINAL
+“(5) The name of the proposer and an indication of where the proposer’s verified
+statement of contributions can be accessed.”.
+(g) Subsection (k)(1)(D) is amended by striking the phrase “of this section; or”
+and inserting the phrase “of this section, or the statements are incomplete; or” in its place.
+(h) Subsection (l) is amended by striking the phrase “proper statements” and inserting the
+phrase “proper and complete statements” in its place.
+(i) Subsection (o)(1) is amended as follows:
+(1) Strike the word “calendar” and insert the word “business” in its place.
+(2) Strike the phrase “10 days, including Saturdays, Sundays, and holidays,
+beginning on the 3rd day” and insert the phrase “10 business days, beginning by the 5th day” in
+its place.
+(j) Subsection (q)(1) is amended to read as follows:
+“(q)(1) Upon qualification of an initiative measure, the Board shall place on the ballot the
+serial number of the initiative and its short title, official summary statement, and fiscal impact
+summary in substantially the following form:
+“INITIATIVE MEASURE No.
+“(SHORT TITLE)
+“(SUMMARY STATEMENT)
+“(FISCAL IMPACT SUMMARY)
+“FOR Initiative Measure No.
+“AGAINST Initiative Measure No.”.
+(k) A new subsection (t) is added to read as follows:
+“(t) Except as otherwise provided in this section, the Board shall post all notices required
+to be published in the District of Columbia Register pursuant to this section on its website
+contemporaneously with their publication in the District of Columbia Register.”.
+Sec. 3. Section 4a of the General Legislative Procedures Act of 1975, approved October
+16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a), is amended as follows:
+(a) A new subsection (a-1) is added to read as follows:
+“(a-1) Initiatives. — Consistent with section 16 of the District of Columbia Election Code
+of 1955, effective June 7, 1979 (D.C. Law 3-1; D.C. Official Code § 1-1001.16), a proposed
+initiative measure shall be accompanied by a fiscal impact statement, which shall reflect the
+contents described in subsection (a)(2) of this section for each of the first four fiscal years in
+which the initiative is in effect.”.
+(b) Subsection (b) is amended by striking the phrase “Permanent and emergency acts”
+and inserting the phrase “Permanent acts, including initiatives, and emergency acts” in its place.
+Sec. 4. Fiscal impact statement.
+The Council adopts the fiscal impact statement in the committee report as the fiscal
+6
+
+ENROLLED ORIGINAL
+impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+Sec. 5. Effective date.
+This act shall take effect following approval by the Mayor (or in the event of veto by
+the Mayor, action by the Council to override the veto) and a 30-day period of Congressional
+review as provided in section 602(c)(l) of the District of Columbia Home Rule Act, approved
+December 24, 1973 (87 Stat. 813; D.C. Official Code §1-206.02(c)(l)).
+___________________________________
+Chairman
+Council of the District of Columbia
+_________________________________
+Mayor
+District of Columbia
+7

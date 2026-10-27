@@ -1,0 +1,35 @@
+Title: 
+Official Title: 
+Source: versions - Enrollment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENROLLED ORIGINAL
+A RESOLUTION
+26-522
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+October 6, 2026
+To declare the existence of an emergency with respect to the need to approve the expenditures
+for Multiyear Contract No. PO-GF-2026-C-0019 by and between the University of the
+District of Columbia and Ellucian Company LLC in the amount of $10,157,746.00 for
+the strategic transition of the University’s Enterprise Resource Planning infrastructure to
+a Software as a Service environment.
+RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+resolution may be cited as the “University of the District of Columbia Multiyear Contract No.
+PO-GF-2026-C-0019 with Ellucian Company LLC Contract Emergency Declaration Resolution
+of 2026”.
+Sec. 2.
+Emergency approval of Multiyear Contract No. PO-GF-2026-C-0019 is necessary to allow the
+University of the District of Columbia (“University”) to take advantage of certain financial
+incentives and key support resources included in the agreement that would support the initial
+transition to the Ellucian Software as a Service model. A delay affects the timing and availability
+of those benefits and approval on an emergency basis allows the University to potentially take
+advantage of those financial incentives and support resources included in the agreement.
+Sec. 3. The Council of the District of Columbia determines that the circumstances
+enumerated in section 2 constitute emergency circumstances making it necessary that the
+University of the District of Columbia Multiyear Contract No. PO-GF-2026-C-0019 Ellucian
+Company LLC Contract Emergency Act of 2026 be adopted after a single reading.
+Sec. 4. This resolution shall take effect immediately.
+1

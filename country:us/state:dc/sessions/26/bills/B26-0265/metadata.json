@@ -70,16 +70,6 @@
       }
     },
     {
-      "description": "Committee Mark-up of B26-0265 by the Executive Administration and Labor Committee",
-      "date": "2025-06-23T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T06:21:59Z"
-      }
-    },
-    {
       "description": "Committee Mark-up of B26-0265 by the Committee of the Whole",
       "date": "2025-07-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -619,6 +609,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57846/Signed_Act/B26-0265-Signed_Act.pdf?Id=220089",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57846/Committee_Report/B26-0265-Committee_Report1.pdf?Id=231161",
           "media_type": "application/pdf"
         }
       ],

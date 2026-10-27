@@ -194,6 +194,16 @@
       "_processing": {
         "log_file_created": "2026-10-17T08:58:11Z"
       }
+    },
+    {
+      "description": "Act A26-0420 Published in DC Register Vol 73 and Page 013450",
+      "date": "2026-10-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-27T10:49:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -288,6 +298,17 @@
       "classification": ""
     },
     {
+      "note": "Signed by the Mayor and Enacted with Act Number A26-0420",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57702/Signed_Act/B26-0244-Signed_Act.pdf?Id=248131",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Committee Markup",
       "links": [
         {
@@ -318,7 +339,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-17T08:58:11Z",
+    "logs_latest_update": "2026-10-27T10:49:36Z",
     "text_extraction_latest_update": "2026-10-17T08:59:32.778093Z"
   }
 }

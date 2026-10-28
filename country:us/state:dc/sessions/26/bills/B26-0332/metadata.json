@@ -84,6 +84,16 @@
       }
     },
     {
+      "description": "Notice of Public Hearing Published in the District of Columbia Register",
+      "date": "2025-10-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-28T11:29:25Z"
+      }
+    },
+    {
       "description": "Public Hearing Meeting - B26-0332 was not considered",
       "date": "2025-10-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -116,13 +126,13 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0332",
+      "description": "Public Hearing on B26-0332 View Public Hearing Record",
       "date": "2026-02-24T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:08Z"
+        "log_file_created": "2026-10-28T11:29:25Z"
       }
     }
   ],
@@ -176,6 +186,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Public Hearing on B26-0332 View Public Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/58171/Hearing_Record/B26-0332-Hearing_Record3.pdf?Id=243930",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -197,7 +218,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:08Z",
+    "logs_latest_update": "2026-10-28T11:29:25Z",
     "text_extraction_latest_update": "2026-07-21T21:09:51.907898Z"
   }
 }

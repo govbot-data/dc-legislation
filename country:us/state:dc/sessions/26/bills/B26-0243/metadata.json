@@ -116,13 +116,13 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0243",
+      "description": "Public Hearing on B26-0243 View Public Hearing Record",
       "date": "2026-03-26T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:07Z"
+        "log_file_created": "2026-10-29T11:56:34Z"
       }
     },
     {
@@ -157,6 +157,19 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-10-22T10:16:42Z"
+      }
+    },
+    {
+      "description": "Transmitted to Mayor, Response Due on Nov 12, 2026",
+      "date": "2026-10-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-29T11:56:34Z"
       }
     }
   ],
@@ -193,6 +206,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57701/Meeting2/Enrollment/B26-0243-Enrollment1.pdf?Id=248999",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -223,10 +247,10 @@
       "classification": ""
     },
     {
-      "note": "Public Hearing",
+      "note": "Public Hearing on B26-0243 View Public Hearing Record",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57701/Hearing_Record/B26-0243-Hearing_Record1.pdf?Id=245458",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57701/Hearing_Record/B26-0243-Hearing_Record3.pdf?Id=248897",
           "media_type": "application/pdf"
         }
       ],
@@ -264,7 +288,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-22T10:16:42Z",
+    "logs_latest_update": "2026-10-29T11:56:34Z",
     "text_extraction_latest_update": "2026-10-22T10:18:14.576311Z"
   }
 }

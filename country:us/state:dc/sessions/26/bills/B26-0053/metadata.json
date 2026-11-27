@@ -188,11 +188,11 @@
       "organization_id": null
     },
     {
-      "name": "Mendelson, Phil",
+      "name": "Parker, Zachary",
       "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Mendelson, Phil\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parker, Zachary\"}",
       "organization_id": null
     }
   ],
@@ -230,6 +230,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/56922/Signed_Act/B26-0053-Signed_Act.pdf?Id=218452",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -249,17 +260,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/56922/Meeting2/Amendment/B26-0053-Amendment1.pdf?Id=216291",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0128",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/56922/Signed_Act/B26-0053-Signed_Act.pdf?Id=218452",
           "media_type": "application/pdf"
         }
       ],

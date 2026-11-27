@@ -174,7 +174,7 @@
       }
     },
     {
-      "description": "Law L26-0065, Effective from Dec 31, 2025 Published in DC Register Vol 73 and Page 000598, Expires on Aug 13, 2026",
+      "description": "Law L26-0065, Effective from Dec 31, 2025 Published in DC Register Vol 73 and Page 000598",
       "date": "2026-01-23T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -230,6 +230,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57283/Signed_Act/B26-0160-Signed_Act.pdf?Id=226794",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -249,17 +260,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57283/Hearing_Record/B26-0160-Hearing_Record1.pdf?Id=223664",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0182",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57283/Signed_Act/B26-0160-Signed_Act.pdf?Id=226794",
           "media_type": "application/pdf"
         }
       ],

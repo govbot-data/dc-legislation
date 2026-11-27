@@ -56,10 +56,7 @@
       "classification": [
         "filing"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-10-29T11:56:34Z"
-      }
+      "related_entities": []
     },
     {
       "description": "Public Hearing on B26-0420",
@@ -128,7 +125,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-29T11:56:34Z",
+    "logs_latest_update": "2026-11-27T20:47:00Z",
     "text_extraction_latest_update": "2026-10-29T11:58:01.373557Z"
   }
 }

@@ -94,7 +94,7 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0429",
+      "description": "Public Hearing on B26-0429 View Public Hearing Record",
       "date": "2025-11-20T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -216,6 +216,30 @@
       "primary": true,
       "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Nadeau, Brianne K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mendelson, Phil",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mendelson, Phil\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -252,6 +276,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60504/Signed_Act/B26-0429-Signed_Act.pdf?Id=233551",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -278,10 +313,21 @@
       "classification": ""
     },
     {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0265",
+      "note": "Public Hearing on B26-0429 View Public Hearing Record",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/60504/Signed_Act/B26-0429-Signed_Act.pdf?Id=233551",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60504/Hearing_Record/B26-0429-Hearing_Record2.pdf?Id=248957",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60504/Committee_Report/B26-0429-Committee_Report1.pdf?Id=229905",
           "media_type": "application/pdf"
         }
       ],

@@ -196,16 +196,13 @@
       }
     },
     {
-      "description": "Law Number L26-0146 Effective from Jul 18, 2026",
-      "date": "2026-07-18T04:00:00+00:00",
+      "description": "Law L26-0146, Effective from Jul 18, 2026 Published in DC Register Vol 73 and Page 011054",
+      "date": "2026-08-07T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "became-law"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T06:21:59Z"
-      }
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -252,6 +249,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60375/Signed_Act/B26-0371-Signed_Act.pdf?Id=239521",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -270,7 +278,7 @@
       "note": "Public Hearing on B26-0371 View Public Hearing Record",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/60375/Hearing_Record/B26-0371-Hearing_Record2.pdf?Id=237734",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60375/Hearing_Record/B26-0371-Hearing_Record1.pdf?Id=248898",
           "media_type": "application/pdf"
         }
       ],
@@ -289,10 +297,10 @@
       "classification": ""
     },
     {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0324",
+      "note": "Committee Markup",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/60375/Signed_Act/B26-0371-Signed_Act.pdf?Id=239521",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60375/Committee_Report/B26-0371-Committee_Report1.pdf?Id=233404",
           "media_type": "application/pdf"
         }
       ],

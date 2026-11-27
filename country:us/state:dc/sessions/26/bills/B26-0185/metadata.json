@@ -126,7 +126,7 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0185",
+      "description": "Public Hearing on B26-0185 View Public Hearing Record",
       "date": "2025-05-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -143,6 +143,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
       "organization_id": null
     }
   ],
@@ -179,6 +187,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Public Hearing on B26-0185 View Public Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57411/Hearing_Record/B26-0185-Hearing_Record5.pdf?Id=249558",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -200,7 +219,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:07Z",
+    "logs_latest_update": "2026-11-27T20:47:01Z",
     "text_extraction_latest_update": "2026-07-21T21:04:00.118328Z"
   }
 }

@@ -151,16 +151,13 @@
       }
     },
     {
-      "description": "Law Number L26-0188 Effective from Oct 02, 2026",
-      "date": "2026-10-02T04:00:00+00:00",
+      "description": "Law L26-0188, Effective from Oct 02, 2026 Published in DC Register Vol 73 and Page 013119",
+      "date": "2026-10-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "became-law"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-10-06T12:14:23Z"
-      }
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -170,6 +167,38 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allen, Charles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen, Charles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frumin, Matthew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frumin, Matthew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White, Robert C. Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
       "organization_id": null
     }
   ],
@@ -207,11 +236,9 @@
       ],
       "date": "",
       "classification": ""
-    }
-  ],
-  "documents": [
+    },
     {
-      "note": "Enacted without Mayor's Signature with Act Number A26-0368",
+      "note": "Signed Act",
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60880/Signed_Act/B26-0526-Signed_Act.pdf?Id=242241",
@@ -220,7 +247,9 @@
       ],
       "date": "",
       "classification": ""
-    },
+    }
+  ],
+  "documents": [
     {
       "note": "Committee Markup",
       "links": [

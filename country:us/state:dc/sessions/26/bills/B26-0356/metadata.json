@@ -163,16 +163,13 @@
       }
     },
     {
-      "description": "Law Number L26-0170 Effective from Aug 20, 2026",
-      "date": "2026-08-20T04:00:00+00:00",
+      "description": "Law L26-0170, Effective from Aug 20, 2026 Published in DC Register Vol 73 and Page 009381",
+      "date": "2026-07-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "became-law"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-26T05:47:57Z"
-      }
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -182,6 +179,54 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Henderson, Christina\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frumin, Matthew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frumin, Matthew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White, Robert C. Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lewis George, Janeese",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nadeau, Brianne K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pinto, Brooke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Parker, Zachary",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parker, Zachary\"}",
       "organization_id": null
     }
   ],
@@ -219,6 +264,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/58425/Signed_Act/B26-0356-Signed_Act.pdf?Id=243237",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -227,17 +283,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/58425/Hearing_Notice/B26-0356-Hearing_Notice1.pdf?Id=226919",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Enacted without Mayor's Signature with Act Number A26-0359",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/58425/Signed_Act/B26-0356-Signed_Act.pdf?Id=243237",
           "media_type": "application/pdf"
         }
       ],

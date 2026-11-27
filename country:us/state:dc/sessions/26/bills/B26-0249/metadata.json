@@ -195,16 +195,13 @@
       }
     },
     {
-      "description": "Law Number L26-0158 Effective from Aug 14, 2026",
-      "date": "2026-08-14T04:00:00+00:00",
+      "description": "Law L26-0158, Effective from Aug 14, 2026 Published in DC Register Vol 73 and Page 012054",
+      "date": "2026-08-28T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "became-law"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-19T05:44:15Z"
-      }
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -251,6 +248,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57759/Signed_Act/B26-0249-Signed_Act.pdf?Id=241821",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -270,17 +278,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57759/Hearing_Notice/B26-0249-Hearing_Notice2.pdf?Id=225828",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Enacted without Mayor's Signature with Act Number A26-0345",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57759/Signed_Act/B26-0249-Signed_Act.pdf?Id=241821",
           "media_type": "application/pdf"
         }
       ],

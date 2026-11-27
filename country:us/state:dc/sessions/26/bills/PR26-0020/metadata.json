@@ -104,7 +104,7 @@
       }
     },
     {
-      "description": "Notice of Roundtable filed in the Office of Secretary by Committee of the Whole",
+      "description": "Revised Notice of Roundtable filed in the Office of Secretary by Committee of the Whole",
       "date": "2025-09-08T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -223,10 +223,6 @@
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/56846/Hearing_Notice/PR26-0020-Hearing_Notice1.pdf?Id=206745",
           "media_type": "application/pdf"
-        },
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/56846/Hearing_Notice/PR26-0020-Hearing_Notice3.pdf?Id=220119",
-          "media_type": "application/pdf"
         }
       ],
       "date": "",
@@ -240,7 +236,22 @@
           "media_type": "application/pdf"
         },
         {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/56846/Hearing_Notice/PR26-0020-Hearing_Notice3.pdf?Id=220119",
+          "media_type": "application/pdf"
+        },
+        {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/56846/Hearing_Notice/PR26-0020-Hearing_Notice4.pdf?Id=225019",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/56846/Committee_Report/PR26-0020-Committee_Report1.pdf?Id=244688",
           "media_type": "application/pdf"
         }
       ],

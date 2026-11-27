@@ -141,6 +141,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61048/Signed_Act/B26-0559-Signed_Act.pdf?Id=231062",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -149,17 +160,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61048/Meeting1/Amendment/B26-0559-Amendment1.pdf?Id=230788",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0246, Expires on Apr 22, 2026",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/61048/Signed_Act/B26-0559-Signed_Act.pdf?Id=231062",
           "media_type": "application/pdf"
         }
       ],

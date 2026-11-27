@@ -140,6 +140,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/58185/Signed_Act/B26-0333-Signed_Act.pdf?Id=219864",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -148,17 +159,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/58185/Meeting1/Amendment/B26-0333-Amendment1.pdf?Id=218167",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Enacted without Mayor's Signature with Act Number A26-0145, Expires on Dec 03, 2025",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/58185/Signed_Act/B26-0333-Signed_Act.pdf?Id=219864",
           "media_type": "application/pdf"
         }
       ],

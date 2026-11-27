@@ -50,7 +50,7 @@
       }
     },
     {
-      "description": "Notice of Public Hearing filed in the Office of Secretary",
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
       "date": "2025-03-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -72,7 +72,7 @@
       }
     },
     {
-      "description": "Public Hearing on PR26-0071",
+      "description": "Public Hearing on PR26-0071 View Public Hearing Record",
       "date": "2025-04-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -142,10 +142,32 @@
   ],
   "documents": [
     {
-      "note": "Notice of Public Hearing filed in the Office of Secretary",
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57157/Hearing_Notice/PR26-0071-Hearing_Notice1.pdf?Id=208172",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Public Hearing on PR26-0071 View Public Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57157/Hearing_Record/PR26-0071-Hearing_Record1.pdf?Id=244994",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57157/Committee_Report/PR26-0071-Committee_Report1.pdf?Id=245007",
           "media_type": "application/pdf"
         }
       ],

@@ -50,7 +50,7 @@
       }
     },
     {
-      "description": "Notice of Public Hearing filed in the Office of Secretary",
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
       "date": "2025-02-24T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -204,6 +204,38 @@
       "primary": true,
       "person_id": "~{\"name\": \"Henderson, Christina\"}",
       "organization_id": null
+    },
+    {
+      "name": "Nadeau, Brianne K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lewis George, Janeese",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frumin, Matthew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frumin, Matthew\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -240,11 +272,22 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/56938/Signed_Act/B26-0062-Signed_Act.pdf?Id=217818",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Notice of Public Hearing filed in the Office of Secretary",
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/56938/Hearing_Notice/B26-0062-Hearing_Notice1.pdf?Id=206728",
@@ -259,17 +302,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/56938/Hearing_Record/B26-0062-Hearing_Record1.pdf?Id=210114",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0112",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/56938/Signed_Act/B26-0062-Signed_Act.pdf?Id=217818",
           "media_type": "application/pdf"
         }
       ],

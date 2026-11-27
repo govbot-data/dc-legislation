@@ -72,7 +72,7 @@
       }
     },
     {
-      "description": "Notice of Public Hearing filed in the Office of Secretary by Executive Administration and Labor",
+      "description": "Revised Notice of Public Hearing filed in the Office of Secretary by Executive Administration and Labor",
       "date": "2025-04-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -228,16 +228,13 @@
       }
     },
     {
-      "description": "Law Number L26-0143 Effective from Jul 18, 2026",
-      "date": "2026-07-18T04:00:00+00:00",
+      "description": "Law L26-0143, Effective from Jul 18, 2026 Published in DC Register Vol 73 and Page 011051",
+      "date": "2026-08-07T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "became-law"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T06:21:59Z"
-      }
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -284,6 +281,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57225/Signed_Act/B26-0136-Signed_Act.pdf?Id=239579",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -292,10 +300,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57225/Hearing_Notice/B26-0136-Hearing_Notice1.pdf?Id=210339",
-          "media_type": "application/pdf"
-        },
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57225/Hearing_Notice/B26-0136-Hearing_Notice6.pdf?Id=210678",
           "media_type": "application/pdf"
         }
       ],
@@ -306,6 +310,10 @@
       "note": "Revised Notice of Public Hearing filed in the Office of Secretary by Executive Administration and Labor",
       "links": [
         {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57225/Hearing_Notice/B26-0136-Hearing_Notice6.pdf?Id=210678",
+          "media_type": "application/pdf"
+        },
+        {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57225/Hearing_Notice/B26-0136-Hearing_Notice8.pdf?Id=211046",
           "media_type": "application/pdf"
         }
@@ -314,10 +322,10 @@
       "classification": ""
     },
     {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0321",
+      "note": "Committee Markup",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57225/Signed_Act/B26-0136-Signed_Act.pdf?Id=239579",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57225/Committee_Report/B26-0136-Committee_Report1.pdf?Id=234925",
           "media_type": "application/pdf"
         }
       ],
@@ -346,7 +354,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-22T06:21:59Z",
+    "logs_latest_update": "2026-11-27T20:47:02Z",
     "text_extraction_latest_update": "2026-07-22T06:23:29.863244Z"
   }
 }

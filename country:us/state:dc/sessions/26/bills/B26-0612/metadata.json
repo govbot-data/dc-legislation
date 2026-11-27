@@ -114,6 +114,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Mendelson, Phil\"}",
       "organization_id": null
+    },
+    {
+      "name": "Parker, Zachary",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parker, Zachary\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allen, Charles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen, Charles\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -139,6 +155,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61340/Signed_Act/B26-0612-Signed_Act.pdf?Id=235511",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -147,17 +174,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61340/Meeting1/Amendment/B26-0612-Amendment1.pdf?Id=233843",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0288, Expires on Jun 28, 2026",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/61340/Signed_Act/B26-0612-Signed_Act.pdf?Id=235511",
           "media_type": "application/pdf"
         }
       ],

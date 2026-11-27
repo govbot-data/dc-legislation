@@ -116,7 +116,7 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0090",
+      "description": "Public Hearing on B26-0090 View Public Hearing Record",
       "date": "2026-09-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -194,6 +194,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Public Hearing on B26-0090 View Public Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57043/Hearing_Record/B26-0090-Hearing_Record2.pdf?Id=248959",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -215,7 +226,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-07T12:03:44Z",
+    "logs_latest_update": "2026-11-27T20:46:59Z",
     "text_extraction_latest_update": "2026-10-07T12:05:32.159226Z"
   }
 }

@@ -80,6 +80,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"White, Trayon Sr.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Lewis George, Janeese",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

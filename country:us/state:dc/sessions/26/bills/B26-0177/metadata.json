@@ -94,7 +94,7 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0177",
+      "description": "Public Hearing on B26-0177 View Public Hearing Record",
       "date": "2025-11-20T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -252,6 +252,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57403/Signed_Act/B26-0177-Signed_Act.pdf?Id=233552",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -278,10 +289,21 @@
       "classification": ""
     },
     {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0262",
+      "note": "Public Hearing on B26-0177 View Public Hearing Record",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57403/Signed_Act/B26-0177-Signed_Act.pdf?Id=233552",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57403/Hearing_Record/B26-0177-Hearing_Record2.pdf?Id=248901",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57403/Committee_Report/B26-0177-Committee_Report1.PDF?Id=229938",
           "media_type": "application/pdf"
         }
       ],

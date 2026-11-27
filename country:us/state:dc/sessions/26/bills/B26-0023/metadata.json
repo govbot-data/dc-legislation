@@ -198,11 +198,9 @@
       ],
       "date": "",
       "classification": ""
-    }
-  ],
-  "documents": [
+    },
     {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0043",
+      "note": "Signed Act",
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/56851/Signed_Act/B26-0023-Signed_Act.pdf?Id=210294",
@@ -211,7 +209,9 @@
       ],
       "date": "",
       "classification": ""
-    },
+    }
+  ],
+  "documents": [
     {
       "note": "Committee Markup",
       "links": [

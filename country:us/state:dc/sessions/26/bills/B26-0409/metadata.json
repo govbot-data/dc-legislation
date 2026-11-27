@@ -194,6 +194,30 @@
       "primary": true,
       "person_id": "~{\"name\": \"Parker, Zachary\"}",
       "organization_id": null
+    },
+    {
+      "name": "Pinto, Brooke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allen, Charles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen, Charles\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -230,6 +254,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60469/Signed_Act/B26-0409-Signed_Act.pdf?Id=236897",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -256,10 +291,10 @@
       "classification": ""
     },
     {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0312",
+      "note": "Committee Markup",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/60469/Signed_Act/B26-0409-Signed_Act.pdf?Id=236897",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60469/Committee_Report/B26-0409-Committee_Report1.pdf?Id=231446",
           "media_type": "application/pdf"
         }
       ],

@@ -60,11 +60,11 @@
       "organization_id": null
     },
     {
-      "name": "Parker, Zachary",
+      "name": "White, Robert C. Jr.",
       "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Parker, Zachary\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
       "organization_id": null
     }
   ],

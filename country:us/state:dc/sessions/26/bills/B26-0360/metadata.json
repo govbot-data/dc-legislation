@@ -124,6 +124,28 @@
       "_processing": {
         "log_file_created": "2026-10-22T10:16:42Z"
       }
+    },
+    {
+      "description": "Postponed to 11/17/2026",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:47:00Z"
+      }
+    },
+    {
+      "description": "Final Reading, CC",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:47:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -134,6 +156,46 @@
       "primary": true,
       "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
       "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White, Robert C. Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allen, Charles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen, Charles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frumin, Matthew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frumin, Matthew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pinto, Brooke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -143,6 +205,21 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60337/Introduction/B26-0360-Introduction.pdf?Id=223270",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60337/Meeting1/Engrossment/B26-0360-Engrossment1.pdf?Id=250188",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60337/Meeting2/Engrossment/B26-0360-Engrossment1.pdf?Id=250202",
           "media_type": "application/pdf"
         }
       ],
@@ -172,6 +249,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60337/Committee_Report/B26-0360-Committee_Report1.pdf?Id=250028",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -193,7 +281,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-22T10:16:42Z",
+    "logs_latest_update": "2026-11-27T20:47:00Z",
     "text_extraction_latest_update": "2026-10-22T10:18:06.752458Z"
   }
 }

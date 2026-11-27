@@ -94,7 +94,7 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0495",
+      "description": "Public Hearing on B26-0495 View Public Hearing Record",
       "date": "2026-03-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -104,13 +104,69 @@
       }
     },
     {
-      "description": "Committee Mark-up of B26-0495 by the Housing Committee",
-      "date": "2026-11-04T05:00:00+00:00",
+      "description": "Notice of Mark-up filed in the Office of Secretary",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:46:59Z"
+      }
+    },
+    {
+      "description": "Notice of Mark-up Cancellation filed in the Office of Secretary",
+      "date": "2026-11-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:46:59Z"
+      }
+    },
+    {
+      "description": "Re-Referred to Committee of the Whole",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:46:59Z"
+      }
+    },
+    {
+      "description": "Re-Referral published.",
+      "date": "2026-11-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-10-21T10:22:50Z"
+        "log_file_created": "2026-11-27T20:46:59Z"
+      }
+    },
+    {
+      "description": "Committee Mark-up of B26-0495 by the Committee of the Whole",
+      "date": "2026-11-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:46:59Z"
+      }
+    },
+    {
+      "description": "Not considered at COW",
+      "date": "2026-11-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:46:59Z"
       }
     }
   ],
@@ -162,10 +218,21 @@
       "classification": ""
     },
     {
-      "note": "Public Hearing",
+      "note": "Public Hearing on B26-0495 View Public Hearing Record",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/60786/Hearing_Record/B26-0495-Hearing_Record1.pdf?Id=237407",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60786/Hearing_Record/B26-0495-Hearing_Record2.pdf?Id=248899",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Notice of Mark-up filed in the Office of Secretary",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/Committee Meetings/1461/Meeting_Notice/Meeting_Notice_1.pdf?Id=248231",
           "media_type": "application/pdf"
         }
       ],
@@ -192,7 +259,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-21T10:22:50Z",
+    "logs_latest_update": "2026-11-27T20:46:59Z",
     "text_extraction_latest_update": "2026-10-21T10:24:15.914930Z"
   }
 }

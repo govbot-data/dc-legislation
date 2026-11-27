@@ -197,6 +197,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60809/Signed_Act/B26-0502-Signed_Act.pdf?Id=230786",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -205,17 +216,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60809/Meeting1/Amendment/B26-0502-Amendment2.pdf?Id=228520",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Enacted without Mayor's Signature with Act Number A26-0243",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/60809/Signed_Act/B26-0502-Signed_Act.pdf?Id=230786",
           "media_type": "application/pdf"
         }
       ],

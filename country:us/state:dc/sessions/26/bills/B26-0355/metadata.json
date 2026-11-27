@@ -48,10 +48,12 @@
       }
     },
     {
-      "description": "Not Considered",
+      "description": "Not Considered; Emergency Declaration Failed",
       "date": "2025-10-07T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
+      "classification": [
+        "failure"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:07Z"

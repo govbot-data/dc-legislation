@@ -50,7 +50,7 @@
       }
     },
     {
-      "description": "Notice of Roundtable filed in the Office of Secretary",
+      "description": "Notice of Roundtable filed in the Office of Secretary by Committee of the Whole",
       "date": "2025-05-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -164,10 +164,14 @@
   ],
   "documents": [
     {
-      "note": "Notice of Roundtable filed in the Office of Secretary",
+      "note": "Notice of Roundtable filed in the Office of Secretary by Committee of the Whole",
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57719/Hearing_Notice/PR26-0200-Hearing_Notice1.pdf?Id=212036",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57719/Hearing_Notice/PR26-0200-Hearing_Notice2.pdf?Id=220125",
           "media_type": "application/pdf"
         }
       ],
@@ -175,10 +179,10 @@
       "classification": ""
     },
     {
-      "note": "Notice of Roundtable filed in the Office of Secretary by Committee of the Whole",
+      "note": "Committee Markup",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57719/Hearing_Notice/PR26-0200-Hearing_Notice2.pdf?Id=220125",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57719/Committee_Report/PR26-0200-Committee_Report1.pdf?Id=246656",
           "media_type": "application/pdf"
         }
       ],

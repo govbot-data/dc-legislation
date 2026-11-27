@@ -50,7 +50,7 @@
       }
     },
     {
-      "description": "Notice of Public Hearing filed in the Office of Secretary",
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Health",
       "date": "2025-02-24T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -194,6 +194,46 @@
       "primary": true,
       "person_id": "~{\"name\": \"Henderson, Christina\"}",
       "organization_id": null
+    },
+    {
+      "name": "Frumin, Matthew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frumin, Matthew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White, Robert C. Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allen, Charles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen, Charles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nadeau, Brianne K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Parker, Zachary",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parker, Zachary\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -230,25 +270,25 @@
       ],
       "date": "",
       "classification": ""
-    }
-  ],
-  "documents": [
+    },
     {
-      "note": "Notice of Public Hearing filed in the Office of Secretary",
+      "note": "Signed Act",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57066/Hearing_Notice/B26-0109-Hearing_Notice1.pdf?Id=206648",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57066/Signed_Act/B26-0109-Signed_Act.pdf?Id=216747",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
       "classification": ""
-    },
+    }
+  ],
+  "documents": [
     {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0095",
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Health",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57066/Signed_Act/B26-0109-Signed_Act.pdf?Id=216747",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57066/Hearing_Notice/B26-0109-Hearing_Notice1.pdf?Id=206648",
           "media_type": "application/pdf"
         }
       ],

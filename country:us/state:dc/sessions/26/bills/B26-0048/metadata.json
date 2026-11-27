@@ -50,7 +50,7 @@
       }
     },
     {
-      "description": "Notice of Public Hearing filed in the Office of Secretary",
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
       "date": "2025-02-14T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -256,11 +256,22 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/56917/Signed_Act/B26-0048-Signed_Act.pdf?Id=217817",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Notice of Public Hearing filed in the Office of Secretary",
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole",
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/56917/Hearing_Notice/B26-0048-Hearing_Notice1.pdf?Id=206369",
@@ -286,17 +297,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/56917/Meeting3/Amendment/B26-0048-Amendment1.pdf?Id=216290",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0111",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/56917/Signed_Act/B26-0048-Signed_Act.pdf?Id=217817",
           "media_type": "application/pdf"
         }
       ],

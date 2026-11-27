@@ -162,6 +162,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Frumin, Matthew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frumin, Matthew\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -198,11 +206,9 @@
       ],
       "date": "",
       "classification": ""
-    }
-  ],
-  "documents": [
+    },
     {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0064",
+      "note": "Signed Act",
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/56839/Signed_Act/B26-0013-Signed_Act.pdf?Id=210579",
@@ -211,7 +217,9 @@
       ],
       "date": "",
       "classification": ""
-    },
+    }
+  ],
+  "documents": [
     {
       "note": "Committee Markup",
       "links": [

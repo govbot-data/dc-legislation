@@ -50,7 +50,7 @@
       }
     },
     {
-      "description": "Notice of Public Hearing filed in the Office of Secretary by Public Works and Operations",
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole, Public Works and Operations",
       "date": "2025-09-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -244,16 +244,13 @@
       }
     },
     {
-      "description": "Law Number L26-0181 Effective from Sep 25, 2026",
-      "date": "2026-09-25T04:00:00+00:00",
+      "description": "Law L26-0181, Effective from Sep 25, 2026 Published in DC Register Vol 73 and Page 013113",
+      "date": "2026-10-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "became-law"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-09-30T11:23:54Z"
-      }
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -300,11 +297,22 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57560/Signed_Act/B26-0224-Signed_Act.pdf?Id=244188",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Notice of Public Hearing filed in the Office of Secretary by Public Works and Operations",
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Committee of the Whole, Public Works and Operations",
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57560/Hearing_Notice/B26-0224-Hearing_Notice1.pdf?Id=223682",
@@ -367,17 +375,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57560/Meeting2/Amendment/B26-0224-Amendment2.pdf?Id=243331",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0410",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57560/Signed_Act/B26-0224-Signed_Act.pdf?Id=244188",
           "media_type": "application/pdf"
         }
       ],

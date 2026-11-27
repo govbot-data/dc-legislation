@@ -94,7 +94,7 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0592",
+      "description": "Public Hearing on B26-0592 View Public Hearing Record",
       "date": "2026-07-06T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -121,6 +121,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Parker, Zachary\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frumin, Matthew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frumin, Matthew\"}",
       "organization_id": null
     }
   ],
@@ -160,6 +168,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Public Hearing on B26-0592 View Public Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61165/Hearing_Record/B26-0592-Hearing_Record2.pdf?Id=249122",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -181,7 +200,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:07Z",
+    "logs_latest_update": "2026-11-27T20:46:59Z",
     "text_extraction_latest_update": "2026-07-21T20:29:19.652052Z"
   }
 }

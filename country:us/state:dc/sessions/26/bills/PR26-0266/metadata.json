@@ -62,7 +62,7 @@
       }
     },
     {
-      "description": "Notice of Roundtable filed in the Office of Secretary",
+      "description": "Notice of Roundtable filed in the Office of Secretary by Public Works and Operations",
       "date": "2025-09-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -96,7 +96,7 @@
       }
     },
     {
-      "description": "Roundtable on PR26-0266",
+      "description": "Roundtable on PR26-0266 View Roundtable Record",
       "date": "2025-09-26T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -192,14 +192,7 @@
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/58115/Hearing_Notice/PR26-0266-Hearing_Notice1.pdf?Id=220455",
           "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Notice of Roundtable filed in the Office of Secretary",
-      "links": [
+        },
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/58115/Hearing_Notice/PR26-0266-Hearing_Notice2.pdf?Id=221390",
           "media_type": "application/pdf"
@@ -213,6 +206,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/58115/Hearing_Cancellation_Notice/PR26-0266-Hearing_Cancellation_Notice1.pdf?Id=221326",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Roundtable on PR26-0266 View Roundtable Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/58115/Hearing_Record/PR26-0266-Hearing_Record2.pdf?Id=243965",
           "media_type": "application/pdf"
         }
       ],

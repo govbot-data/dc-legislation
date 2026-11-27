@@ -220,6 +220,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57226/Signed_Act/B26-0135-Signed_Act.pdf?Id=234656",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -246,10 +257,10 @@
       "classification": ""
     },
     {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0276",
+      "note": "Committee Markup",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57226/Signed_Act/B26-0135-Signed_Act.pdf?Id=234656",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57226/Committee_Report/B26-0135-Committee_Report1.pdf?Id=230810",
           "media_type": "application/pdf"
         }
       ],

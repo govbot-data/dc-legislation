@@ -218,19 +218,35 @@
       "organization_id": null
     },
     {
-      "name": "Mendelson, Phil",
+      "name": "Parker, Zachary",
       "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Mendelson, Phil\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parker, Zachary\"}",
       "organization_id": null
     },
     {
-      "name": "Mendelson, Phil",
+      "name": "Henderson, Christina",
       "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Mendelson, Phil\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"Henderson, Christina\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lewis George, Janeese",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White, Robert C. Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
       "organization_id": null
     }
   ],
@@ -263,6 +279,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57392/Meeting3/Enrollment/B26-0176-Enrollment2.pdf?Id=227354",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57392/Signed_Act/B26-0176-Signed_Act.pdf?Id=227820",
           "media_type": "application/pdf"
         }
       ],
@@ -305,10 +332,10 @@
       "classification": ""
     },
     {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0204",
+      "note": "Committee Markup",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57392/Signed_Act/B26-0176-Signed_Act.pdf?Id=227820",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57392/Committee_Report/B26-0176-Committee_Report1.pdf?Id=230847",
           "media_type": "application/pdf"
         }
       ],

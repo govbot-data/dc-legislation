@@ -119,16 +119,13 @@
       }
     },
     {
-      "description": "Law Number L26-0175 Effective from Aug 20, 2026",
-      "date": "2026-08-20T04:00:00+00:00",
+      "description": "Law L26-0175, Effective from Aug 20, 2026 Published in DC Register Vol 73 and Page 012069, Expires on Apr 02, 2027",
+      "date": "2026-08-28T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "became-law"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-26T05:47:57Z"
-      }
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -170,6 +167,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61786/Meeting2/Enrollment/B26-0678-Enrollment1.pdf?Id=239970",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61786/Signed_Act/B26-0678-Signed_Act.pdf?Id=242240",
           "media_type": "application/pdf"
         }
       ],

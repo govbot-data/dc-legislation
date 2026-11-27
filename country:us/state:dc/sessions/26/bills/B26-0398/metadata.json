@@ -207,11 +207,11 @@
       "organization_id": null
     },
     {
-      "name": "Parker, Zachary",
+      "name": "White, Trayon Sr.",
       "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Parker, Zachary\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Trayon Sr.\"}",
       "organization_id": null
     }
   ],
@@ -244,6 +244,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60458/Meeting2/Enrollment/B26-0398-Enrollment1.pdf?Id=236163",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60458/Signed_Act/B26-0398-Signed_Act.pdf?Id=236894",
           "media_type": "application/pdf"
         }
       ],
@@ -286,10 +297,10 @@
       "classification": ""
     },
     {
-      "note": "Enacted without Mayor's Signature with Act Number A26-0308",
+      "note": "Committee Markup",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/60458/Signed_Act/B26-0398-Signed_Act.pdf?Id=236894",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60458/Committee_Report/B26-0398-Committee_Report1.pdf?Id=231516",
           "media_type": "application/pdf"
         }
       ],

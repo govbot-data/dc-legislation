@@ -196,6 +196,19 @@
       }
     },
     {
+      "description": "Transmitted to Congress, Projected Law Date is Dec 11, 2026",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:46:59Z"
+      }
+    },
+    {
       "description": "Act A26-0420 Published in DC Register Vol 73 and Page 013450",
       "date": "2026-10-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -213,6 +226,46 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Allen, Charles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frumin, Matthew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frumin, Matthew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White, Robert C. Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pinto, Brooke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henderson, Christina",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Henderson, Christina\"}",
       "organization_id": null
     }
   ],
@@ -245,6 +298,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57702/Meeting2/Enrollment/B26-0244-Enrollment2.pdf?Id=246338",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57702/Signed_Act/B26-0244-Signed_Act.pdf?Id=248131",
           "media_type": "application/pdf"
         }
       ],
@@ -298,17 +362,6 @@
       "classification": ""
     },
     {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0420",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57702/Signed_Act/B26-0244-Signed_Act.pdf?Id=248131",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "Committee Markup",
       "links": [
         {
@@ -339,7 +392,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-27T10:49:36Z",
+    "logs_latest_update": "2026-11-27T20:46:59Z",
     "text_extraction_latest_update": "2026-10-27T10:52:21.067776Z"
   }
 }

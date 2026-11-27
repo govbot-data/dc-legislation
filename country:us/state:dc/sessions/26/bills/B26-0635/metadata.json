@@ -120,16 +120,13 @@
       }
     },
     {
-      "description": "Law Number L26-0154 Effective from Aug 01, 2026, Expires on Mar 14, 2027",
-      "date": "2026-08-01T04:00:00+00:00",
+      "description": "Law L26-0154, Effective from Aug 01, 2026 Published in DC Register Vol 73 and Page 011317, Expires on Mar 14, 2027",
+      "date": "2026-08-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "became-law"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-05T06:19:15Z"
-      }
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -171,6 +168,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61509/Meeting2/Enrollment/B26-0635-Enrollment1.pdf?Id=238247",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61509/Signed_Act/B26-0635-Signed_Act.pdf?Id=239569",
           "media_type": "application/pdf"
         }
       ],

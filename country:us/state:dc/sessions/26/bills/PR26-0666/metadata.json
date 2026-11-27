@@ -84,7 +84,7 @@
       }
     },
     {
-      "description": "Public Hearing Meeting - PR26-0666 was not considered",
+      "description": "Public Hearing on PR26-0666 View Public Hearing Record",
       "date": "2026-05-19T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -124,6 +124,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61692/Hearing_Notice/PR26-0666-Hearing_Notice1.pdf?Id=237024",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Public Hearing on PR26-0666 View Public Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61692/Hearing_Record/PR26-0666-Hearing_Record1.pdf?Id=244946",
           "media_type": "application/pdf"
         }
       ],

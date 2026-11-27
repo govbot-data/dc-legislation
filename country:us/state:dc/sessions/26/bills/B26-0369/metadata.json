@@ -122,6 +122,42 @@
       "_processing": {
         "log_file_created": "2026-10-21T10:22:50Z"
       }
+    },
+    {
+      "description": "Amendment in the Nature of a Substitute (Nadeau)",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:46:59Z"
+      }
+    },
+    {
+      "description": "Amendment (Parker)",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:46:59Z"
+      }
+    },
+    {
+      "description": "First Reading",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:46:59Z"
+      }
     }
   ],
   "sponsorships": [
@@ -146,6 +182,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60372/Meeting2/Engrossment/B26-0369-Engrossment3.pdf?Id=250347",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -165,6 +212,28 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60372/Hearing_Record/B26-0369-Hearing_Record1.pdf?Id=243867",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment in the Nature of a Substitute (Nadeau)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60372/Meeting2/Amendment/B26-0369-Amendment1.pdf?Id=249946",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Parker)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60372/Meeting2/Amendment/B26-0369-Amendment2.pdf?Id=250228",
           "media_type": "application/pdf"
         }
       ],
@@ -202,7 +271,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-21T10:22:50Z",
+    "logs_latest_update": "2026-11-27T20:46:59Z",
     "text_extraction_latest_update": "2026-10-21T10:24:16.162310Z"
   }
 }

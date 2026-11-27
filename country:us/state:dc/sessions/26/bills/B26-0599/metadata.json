@@ -80,6 +80,28 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:08Z"
       }
+    },
+    {
+      "description": "Committee Mark-up of B26-0599 by the Judiciary and Public Safety Committee",
+      "date": "2026-11-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:47:01Z"
+      }
+    },
+    {
+      "description": "First Reading, CC",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:47:01Z"
+      }
     }
   ],
   "sponsorships": [
@@ -90,6 +112,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Pinto, Brooke\"}",
       "organization_id": null
+    },
+    {
+      "name": "Lewis George, Janeese",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -99,6 +137,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61287/Introduction/B26-0599-Introduction.pdf?Id=232745",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61287/Meeting1/Engrossment/B26-0599-Engrossment1.pdf?Id=250351",
           "media_type": "application/pdf"
         }
       ],
@@ -128,6 +177,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61287/Committee_Report/B26-0599-Committee_Report1.pdf?Id=249500",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -149,7 +209,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:08Z",
+    "logs_latest_update": "2026-11-27T20:47:01Z",
     "text_extraction_latest_update": "2026-07-21T21:31:33.460331Z"
   }
 }

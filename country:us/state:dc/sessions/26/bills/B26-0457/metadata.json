@@ -139,6 +139,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Mendelson, Phil\"}",
       "organization_id": null
+    },
+    {
+      "name": "McDuffie, Kenyan R.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McDuffie, Kenyan R. \"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -159,6 +167,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60658/Meeting1/Enrollment/B26-0457-Enrollment4.pdf?Id=227221",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60658/Signed_Act/B26-0457-Signed_Act.pdf?Id=227992",
           "media_type": "application/pdf"
         }
       ],
@@ -194,17 +213,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60658/Meeting1/Amendment/B26-0457-Amendment3.pdf?Id=226547",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Enacted without Mayor's Signature with Act Number A26-0214, Expires on Mar 03, 2026",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/60658/Signed_Act/B26-0457-Signed_Act.pdf?Id=227992",
           "media_type": "application/pdf"
         }
       ],

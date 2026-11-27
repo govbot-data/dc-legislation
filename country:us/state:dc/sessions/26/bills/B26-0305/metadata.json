@@ -188,6 +188,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/58059/Signed_Act/B26-0305-Signed_Act.pdf?Id=225580",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -196,17 +207,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/58059/Meeting1/Amendment/B26-0305-Amendment2.pdf?Id=216520",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0161",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/58059/Signed_Act/B26-0305-Signed_Act.pdf?Id=225580",
           "media_type": "application/pdf"
         }
       ],

@@ -94,7 +94,7 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0477",
+      "description": "Public Hearing on B26-0477 View Public Hearing Record",
       "date": "2026-03-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -111,6 +111,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lewis George, Janeese",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allen, Charles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen, Charles\"}",
       "organization_id": null
     }
   ],
@@ -145,6 +161,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60752/Hearing_Notice/B26-0477-Hearing_Notice2.pdf?Id=234779",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Public Hearing on B26-0477 View Public Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60752/Hearing_Record/B26-0477-Hearing_Record2.pdf?Id=248984",
           "media_type": "application/pdf"
         }
       ],

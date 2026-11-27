@@ -124,11 +124,11 @@
       "organization_id": null
     },
     {
-      "name": "Nadeau, Brianne K.",
+      "name": "Parker, Zachary",
       "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parker, Zachary\"}",
       "organization_id": null
     }
   ],
@@ -139,6 +139,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61238/Introduction/B26-0594-Introduction.pdf?Id=232192",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61238/Meeting1/Engrossment/B26-0594-Engrossment1.pdf?Id=248928",
           "media_type": "application/pdf"
         }
       ],
@@ -200,7 +211,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-24T09:53:38Z",
+    "logs_latest_update": "2026-11-27T20:46:58Z",
     "text_extraction_latest_update": "2026-10-24T09:55:08.967318Z"
   }
 }

@@ -92,11 +92,11 @@
       }
     },
     {
-      "description": "Final Reading, CC",
+      "description": "First Reading, CC",
       "date": "2026-10-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
-        "reading-3"
+        "reading-1"
       ],
       "related_entities": [],
       "_processing": {

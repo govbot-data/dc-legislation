@@ -206,6 +206,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Mendelson, Phil",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mendelson, Phil\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -242,6 +250,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57339/Signed_Act/B26-0174-Signed_Act.pdf?Id=241820",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -261,17 +280,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57339/Hearing_Notice/B26-0174-Hearing_Notice3.pdf?Id=225051",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0344",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57339/Signed_Act/B26-0174-Signed_Act.pdf?Id=241820",
           "media_type": "application/pdf"
         }
       ],

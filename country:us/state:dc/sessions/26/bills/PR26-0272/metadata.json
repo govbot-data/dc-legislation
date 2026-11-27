@@ -96,7 +96,7 @@
       }
     },
     {
-      "description": "Roundtable on PR26-0272",
+      "description": "Roundtable on PR26-0272 View Roundtable Record",
       "date": "2025-09-26T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -206,6 +206,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/58122/Hearing_Cancellation_Notice/PR26-0272-Hearing_Cancellation_Notice1.pdf?Id=221327",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Roundtable on PR26-0272 View Roundtable Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/58122/Hearing_Record/PR26-0272-Hearing_Record2.pdf?Id=243966",
           "media_type": "application/pdf"
         }
       ],

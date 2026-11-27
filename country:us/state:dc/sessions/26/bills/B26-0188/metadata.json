@@ -50,7 +50,7 @@
       }
     },
     {
-      "description": "Notice of Public Hearing filed in the Office of Secretary",
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Judiciary and Public Safety",
       "date": "2025-04-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -62,7 +62,7 @@
       }
     },
     {
-      "description": "Notice of Public Hearing filed in the Office of Secretary",
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Judiciary and Public Safety",
       "date": "2025-04-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -122,6 +122,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Pinto, Brooke\"}",
       "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -140,7 +148,7 @@
   ],
   "documents": [
     {
-      "note": "Notice of Public Hearing filed in the Office of Secretary",
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Judiciary and Public Safety",
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57414/Hearing_Notice/B26-0188-Hearing_Notice1.pdf?Id=209438",

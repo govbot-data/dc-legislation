@@ -50,7 +50,7 @@
       }
     },
     {
-      "description": "Notice of Public Hearing filed in the Office of Secretary",
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Business and Economic Development",
       "date": "2025-02-26T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -230,25 +230,25 @@
       ],
       "date": "",
       "classification": ""
-    }
-  ],
-  "documents": [
+    },
     {
-      "note": "Notice of Public Hearing filed in the Office of Secretary",
+      "note": "Signed Act",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/56889/Hearing_Notice/B26-0032-Hearing_Notice1.pdf?Id=206909",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/56889/Signed_Act/B26-0032-Signed_Act.pdf?Id=227783",
           "media_type": "application/pdf"
         }
       ],
       "date": "",
       "classification": ""
-    },
+    }
+  ],
+  "documents": [
     {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0201",
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Business and Economic Development",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/56889/Signed_Act/B26-0032-Signed_Act.pdf?Id=227783",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/56889/Hearing_Notice/B26-0032-Hearing_Notice1.pdf?Id=206909",
           "media_type": "application/pdf"
         }
       ],

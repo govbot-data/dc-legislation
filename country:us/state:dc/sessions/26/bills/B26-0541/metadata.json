@@ -106,7 +106,7 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0541",
+      "description": "Public Hearing on B26-0541 View Public Hearing Record",
       "date": "2026-01-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -123,6 +123,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pinto, Brooke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White, Trayon Sr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Trayon Sr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frumin, Matthew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frumin, Matthew\"}",
       "organization_id": null
     }
   ],
@@ -157,6 +181,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60993/Hearing_Notice/B26-0541-Hearing_Notice2.pdf?Id=230536",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Public Hearing on B26-0541 View Public Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60993/Hearing_Record/B26-0541-Hearing_Record2.pdf?Id=248939",
           "media_type": "application/pdf"
         }
       ],

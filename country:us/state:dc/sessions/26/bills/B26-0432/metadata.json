@@ -82,7 +82,7 @@
       }
     },
     {
-      "description": "Committee Mark-up of B26-0432 by the Committee of the Whole",
+      "description": "Committee Mark-up of B26-0432 by the Committee of the Whole - Not Considered",
       "date": "2026-03-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -184,16 +184,13 @@
       }
     },
     {
-      "description": "Law Number L26-0148 Effective from Jul 18, 2026",
-      "date": "2026-07-18T04:00:00+00:00",
+      "description": "Law L26-0148, Effective from Jul 18, 2026 Published in DC Register Vol 73 and Page 011056",
+      "date": "2026-08-07T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "became-law"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-22T06:21:59Z"
-      }
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -240,6 +237,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60549/Signed_Act/B26-0432-Signed_Act.pdf?Id=239524",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -266,10 +274,10 @@
       "classification": ""
     },
     {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0326",
+      "note": "Committee Markup",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/60549/Signed_Act/B26-0432-Signed_Act.pdf?Id=239524",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60549/Committee_Report/B26-0432-Committee_Report2.pdf?Id=237637",
           "media_type": "application/pdf"
         }
       ],

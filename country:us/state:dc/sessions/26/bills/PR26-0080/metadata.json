@@ -62,7 +62,7 @@
       }
     },
     {
-      "description": "Roundtable on PR26-0080",
+      "description": "Roundtable Meeting - PR26-0080 was not considered",
       "date": "2025-05-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -94,7 +94,7 @@
       }
     },
     {
-      "description": "Roundtable on PR26-0080",
+      "description": "Roundtable Meeting - PR26-0080 was not considered",
       "date": "2025-09-19T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -208,6 +208,17 @@
         },
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57192/Hearing_Notice/PR26-0080-Hearing_Notice3.pdf?Id=223688",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57192/Committee_Report/PR26-0080-Committee_Report1.pdf?Id=244224",
           "media_type": "application/pdf"
         }
       ],

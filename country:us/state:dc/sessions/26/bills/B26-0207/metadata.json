@@ -193,9 +193,16 @@
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57476/Meeting3/Enrollment/B26-0207-Enrollment1.pdf?Id=237960",
           "media_type": "application/pdf"
-        },
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57476/Meeting3/Enrollment/B26-0207-Enrollment1.pdf?Id=213798",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57476/Signed_Act/B26-0207-Signed_Act.pdf?Id=215767",
           "media_type": "application/pdf"
         }
       ],

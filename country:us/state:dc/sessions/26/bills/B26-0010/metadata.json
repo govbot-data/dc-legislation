@@ -194,6 +194,30 @@
       "primary": true,
       "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
       "organization_id": null
+    },
+    {
+      "name": "White, Robert C. Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henderson, Christina",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Henderson, Christina\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -230,6 +254,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/56836/Signed_Act/B26-0010-Signed_Act.pdf?Id=227782",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -249,17 +284,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/56836/Hearing_Record/B26-0010-Hearing_Record1.pdf?Id=219313",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0200",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/56836/Signed_Act/B26-0010-Signed_Act.pdf?Id=227782",
           "media_type": "application/pdf"
         }
       ],

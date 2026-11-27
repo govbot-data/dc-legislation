@@ -104,7 +104,7 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0288",
+      "description": "Public Hearing on B26-0288 View Public Hearing Record",
       "date": "2025-07-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -504,6 +504,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Mendelson, Phil\"}",
       "organization_id": null
+    },
+    {
+      "name": "McDuffie, Kenyan R.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McDuffie, Kenyan R. \"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -540,6 +548,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57983/Signed_Act/B26-0288-Signed_Act.pdf?Id=224328",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -563,6 +582,10 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57983/Hearing_Record/B26-0288-Hearing_Record1.pdf?Id=218236",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57983/Hearing_Record/B26-0288-Hearing_Record2.pdf?Id=249010",
           "media_type": "application/pdf"
         }
       ],
@@ -779,19 +802,12 @@
       "classification": ""
     },
     {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0151",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57983/Signed_Act/B26-0288-Signed_Act.pdf?Id=224328",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "Committee Markup",
       "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57983/Committee_Report/B26-0288-Committee_Report1.pdf?Id=231294",
+          "media_type": "application/pdf"
+        },
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57983/Committee_Report/B26-0288-Committee_Report2.pdf?Id=218677",
           "media_type": "application/pdf"

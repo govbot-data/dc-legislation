@@ -186,16 +186,13 @@
       }
     },
     {
-      "description": "Law Number L26-0183 Effective from Sep 25, 2026",
-      "date": "2026-09-25T04:00:00+00:00",
+      "description": "Law L26-0183, Effective from Sep 25, 2026 Published in DC Register Vol 73 and Page 013115",
+      "date": "2026-10-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "became-law"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-09-30T11:23:54Z"
-      }
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -242,6 +239,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60784/Signed_Act/B26-0494-Signed_Act.pdf?Id=244193",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -272,17 +280,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60784/Meeting1/Amendment/B26-0494-Amendment1.pdf?Id=241958",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0412",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/60784/Signed_Act/B26-0494-Signed_Act.pdf?Id=244193",
           "media_type": "application/pdf"
         }
       ],

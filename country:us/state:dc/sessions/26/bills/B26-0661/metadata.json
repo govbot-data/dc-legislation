@@ -423,16 +423,13 @@
       }
     },
     {
-      "description": "Law Number L26-0189 Effective from Oct 02, 2026",
-      "date": "2026-10-02T04:00:00+00:00",
+      "description": "Law L26-0189, Effective from Oct 02, 2026 Published in DC Register Vol 73 and Page 013120",
+      "date": "2026-10-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "became-law"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-10-06T12:14:23Z"
-      }
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -474,6 +471,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting3/Enrollment/B26-0661-Enrollment17.pdf?Id=243990",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Signed_Act/B26-0661-Signed_Act.pdf?Id=244269",
           "media_type": "application/pdf"
         }
       ],
@@ -696,17 +704,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Meeting3/Amendment/B26-0661-Amendment16.pdf?Id=242344",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Enacted without Mayor's Signature with Act Number A26-0418",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/61627/Signed_Act/B26-0661-Signed_Act.pdf?Id=244269",
           "media_type": "application/pdf"
         }
       ],

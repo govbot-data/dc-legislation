@@ -238,6 +238,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57703/Signed_Act/B26-0245-Signed_Act.pdf?Id=248133",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -275,17 +286,6 @@
       "classification": ""
     },
     {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0421",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57703/Signed_Act/B26-0245-Signed_Act.pdf?Id=248133",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "Committee Markup",
       "links": [
         {
@@ -316,7 +316,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-27T10:49:36Z",
+    "logs_latest_update": "2026-11-27T20:46:59Z",
     "text_extraction_latest_update": "2026-10-27T10:52:42.867062Z"
   }
 }

@@ -104,6 +104,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Pinto, Brooke\"}",
       "organization_id": null
+    },
+    {
+      "name": "Allen, Charles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen, Charles\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -124,6 +132,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/58145/Meeting1/Enrollment/B26-0315-Enrollment1.pdf?Id=217489",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/58145/Signed_Act/B26-0315-Signed_Act.pdf?Id=218278",
           "media_type": "application/pdf"
         }
       ],

@@ -173,16 +173,13 @@
       }
     },
     {
-      "description": "Law Number L26-0182 Effective from Sep 25, 2026",
-      "date": "2026-09-25T04:00:00+00:00",
+      "description": "Law L26-0182, Effective from Sep 25, 2026 Published in DC Register Vol 73 and Page 013114",
+      "date": "2026-10-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
         "became-law"
       ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-09-30T11:23:54Z"
-      }
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -195,11 +192,27 @@
       "organization_id": null
     },
     {
-      "name": "Lewis George, Janeese",
+      "name": "Allen, Charles",
       "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen, Charles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frumin, Matthew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frumin, Matthew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nadeau, Brianne K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
       "organization_id": null
     }
   ],
@@ -237,6 +250,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60485/Signed_Act/B26-0422-Signed_Act.pdf?Id=244189",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -256,17 +280,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60485/Hearing_Record/B26-0422-Hearing_Record1.pdf?Id=240491",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Enacted without Mayor's Signature with Act Number A26-0411",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/60485/Signed_Act/B26-0422-Signed_Act.pdf?Id=244189",
           "media_type": "application/pdf"
         }
       ],

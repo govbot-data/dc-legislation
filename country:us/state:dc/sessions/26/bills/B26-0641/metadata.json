@@ -127,6 +127,39 @@
       "_processing": {
         "log_file_created": "2026-10-27T10:49:36Z"
       }
+    },
+    {
+      "description": "Signed by the Mayor and Enacted with Act Number A26-0472",
+      "date": "2026-11-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:47:02Z"
+      }
+    },
+    {
+      "description": "Returned from Mayor",
+      "date": "2026-11-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:47:02Z"
+      }
+    },
+    {
+      "description": "Act A26-0472 Published in DC Register Vol 73 and Page 014657",
+      "date": "2026-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:47:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -136,6 +169,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Parker, Zachary\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allen, Charles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen, Charles\"}",
       "organization_id": null
     }
   ],
@@ -168,6 +209,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61546/Meeting2/Enrollment/B26-0641-Enrollment1.pdf?Id=247573",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61546/Signed_Act/B26-0641-Signed_Act.pdf?Id=249864",
           "media_type": "application/pdf"
         }
       ],
@@ -229,7 +281,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-27T10:49:36Z",
+    "logs_latest_update": "2026-11-27T20:47:02Z",
     "text_extraction_latest_update": "2026-10-27T10:51:57.206815Z"
   }
 }

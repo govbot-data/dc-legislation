@@ -50,7 +50,7 @@
       }
     },
     {
-      "description": "Notice of Public Hearing filed in the Office of Secretary",
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Judiciary and Public Safety",
       "date": "2025-04-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -62,7 +62,7 @@
       }
     },
     {
-      "description": "Notice of Public Hearing filed in the Office of Secretary",
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Judiciary and Public Safety",
       "date": "2025-04-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -140,7 +140,7 @@
   ],
   "documents": [
     {
-      "note": "Notice of Public Hearing filed in the Office of Secretary",
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Judiciary and Public Safety",
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/56858/Hearing_Notice/B26-0027-Hearing_Notice1.pdf?Id=209432",

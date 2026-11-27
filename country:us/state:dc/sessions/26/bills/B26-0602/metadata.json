@@ -40,7 +40,7 @@
       }
     },
     {
-      "description": "Notice of Public Hearing filed in the Office of Secretary by Transportation and the Environment",
+      "description": "Revised Notice of Public Hearing filed in the Office of Secretary by Transportation and the Environment",
       "date": "2026-03-03T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -130,10 +130,14 @@
   ],
   "documents": [
     {
-      "note": "Notice of Public Hearing filed in the Office of Secretary by Transportation and the Environment",
+      "note": "Revised Notice of Public Hearing filed in the Office of Secretary by Transportation and the Environment",
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61310/Hearing_Notice/B26-0602-Hearing_Notice1.pdf?Id=233486",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61310/Hearing_Notice/B26-0602-Hearing_Notice2.pdf?Id=233899",
           "media_type": "application/pdf"
         }
       ],
@@ -141,10 +145,10 @@
       "classification": ""
     },
     {
-      "note": "Revised Notice of Public Hearing filed in the Office of Secretary by Transportation and the Environment",
+      "note": "Public Hearing",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/61310/Hearing_Notice/B26-0602-Hearing_Notice2.pdf?Id=233899",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61310/Hearing_Record/B26-0602-Hearing_Record1.pdf?Id=245456",
           "media_type": "application/pdf"
         }
       ],
@@ -171,7 +175,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:06Z",
+    "logs_latest_update": "2026-11-27T20:46:59Z",
     "text_extraction_latest_update": "2026-07-21T19:25:47.907556Z"
   }
 }

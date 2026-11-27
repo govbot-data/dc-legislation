@@ -150,6 +150,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Allen, Charles\"}",
       "organization_id": null
+    },
+    {
+      "name": "McDuffie, Kenyan R.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McDuffie, Kenyan R. \"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nadeau, Brianne K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -181,6 +197,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60843/Meeting2/Enrollment/B26-0517-Enrollment1.pdf?Id=230081",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60843/Signed_Act/B26-0517-Signed_Act.pdf?Id=230747",
           "media_type": "application/pdf"
         }
       ],

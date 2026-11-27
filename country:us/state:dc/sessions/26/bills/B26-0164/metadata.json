@@ -584,6 +584,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57311/Signed_Act/B26-0164-Signed_Act.pdf?Id=227055",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -614,6 +625,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57311/Meeting2/Amendment/B26-0164-Amendment2.pdf?Id=218162",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Agendized; not considered at the request of  Nadeau and LGeorge",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57311/Meeting2/Amendment/B26-0164-Amendment3.pdf?Id=243615",
           "media_type": "application/pdf"
         }
       ],
@@ -816,17 +838,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57311/Meeting6/Amendment/B26-0164-Amendment2.pdf?Id=225477",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0199",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57311/Signed_Act/B26-0164-Signed_Act.pdf?Id=227055",
           "media_type": "application/pdf"
         }
       ],

@@ -72,7 +72,7 @@
       }
     },
     {
-      "description": "Roundtable on PR26-0570",
+      "description": "Roundtable on PR26-0570 View Roundtable Record",
       "date": "2026-05-06T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -146,6 +146,28 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61423/Hearing_Notice/PR26-0570-Hearing_Notice1.pdf?Id=236184",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Roundtable on PR26-0570 View Roundtable Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61423/Hearing_Record/PR26-0570-Hearing_Record1.pdf?Id=244940",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61423/Committee_Report/PR26-0570-Committee_Report1.pdf?Id=245010",
           "media_type": "application/pdf"
         }
       ],

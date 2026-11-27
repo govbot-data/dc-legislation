@@ -82,11 +82,11 @@
       "organization_id": null
     },
     {
-      "name": "Mendelson, Phil",
+      "name": "Parker, Zachary",
       "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Mendelson, Phil\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parker, Zachary\"}",
       "organization_id": null
     }
   ],

@@ -252,6 +252,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57249/Signed_Act/B26-0147-Signed_Act.pdf?Id=230746",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -264,17 +275,6 @@
         },
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57249/Hearing_Notice/B26-0147-Hearing_Notice3.pdf?Id=209922",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0240",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/57249/Signed_Act/B26-0147-Signed_Act.pdf?Id=230746",
           "media_type": "application/pdf"
         }
       ],

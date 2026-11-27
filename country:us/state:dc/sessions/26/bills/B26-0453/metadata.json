@@ -103,6 +103,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
       "organization_id": null
+    },
+    {
+      "name": "McDuffie, Kenyan R.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McDuffie, Kenyan R. \"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -123,6 +131,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60649/Meeting1/Enrollment/B26-0453-Enrollment1.pdf?Id=227220",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60649/Signed_Act/B26-0453-Signed_Act.pdf?Id=227849",
           "media_type": "application/pdf"
         }
       ],

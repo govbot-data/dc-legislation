@@ -151,22 +151,20 @@
       }
     },
     {
+      "description": "Signed by the Mayor and Enacted with Act Number A26-0301",
+      "date": "2026-04-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law",
+        "executive-signature"
+      ],
+      "related_entities": []
+    },
+    {
       "description": "Returned from Mayor",
       "date": "2026-04-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"executive\"}",
       "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:07Z"
-      }
-    },
-    {
-      "description": "Enacted without Mayor's Signature with Act Number A26-0301",
-      "date": "2026-04-29T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"executive\"}",
-      "classification": [
-        "became-law"
-      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:07Z"
@@ -251,6 +249,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60493/Signed_Act/B26-0426-Signed_Act.pdf?Id=236831",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -277,10 +286,10 @@
       "classification": ""
     },
     {
-      "note": "Enacted without Mayor's Signature with Act Number A26-0301",
+      "note": "Committee Markup",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/60493/Signed_Act/B26-0426-Signed_Act.pdf?Id=236831",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60493/Committee_Report/B26-0426-Committee_Report1.pdf?Id=233477",
           "media_type": "application/pdf"
         }
       ],

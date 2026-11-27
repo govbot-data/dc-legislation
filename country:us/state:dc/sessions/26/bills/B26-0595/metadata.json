@@ -128,7 +128,7 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0595",
+      "description": "Public Hearing on B26-0595 View Public Hearing Record",
       "date": "2026-03-26T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -148,7 +148,7 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0595",
+      "description": "Public Hearing on B26-0595 View Public Hearing Record",
       "date": "2026-03-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -165,6 +165,46 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frumin, Matthew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frumin, Matthew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White, Trayon Sr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Trayon Sr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nadeau, Brianne K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Parker, Zachary",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parker, Zachary\"}",
       "organization_id": null
     }
   ],
@@ -228,10 +268,14 @@
       "classification": ""
     },
     {
-      "note": "Public Hearing",
+      "note": "Public Hearing on B26-0595 View Public Hearing Record",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/61255/Hearing_Record/B26-0595-Hearing_Record2.pdf?Id=237410",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61255/Hearing_Record/B26-0595-Hearing_Record4.pdf?Id=249017",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61255/Hearing_Record/B26-0595-Hearing_Record5.pdf?Id=249018",
           "media_type": "application/pdf"
         }
       ],

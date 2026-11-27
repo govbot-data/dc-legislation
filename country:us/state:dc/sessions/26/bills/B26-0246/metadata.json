@@ -62,7 +62,7 @@
       }
     },
     {
-      "description": "Notice of Public Hearing filed in the Office of Secretary by Transportation and the Environment",
+      "description": "Revised Notice of Public Hearing filed in the Office of Secretary by Transportation and the Environment",
       "date": "2025-09-11T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -145,7 +145,14 @@
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57704/Hearing_Notice/B26-0246-Hearing_Notice1.pdf?Id=220117",
           "media_type": "application/pdf"
-        },
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Revised Notice of Public Hearing filed in the Office of Secretary by Transportation and the Environment",
+      "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57704/Hearing_Notice/B26-0246-Hearing_Notice2.pdf?Id=220462",
           "media_type": "application/pdf"

@@ -136,11 +136,11 @@
       "organization_id": null
     },
     {
-      "name": "Lewis George, Janeese",
+      "name": "White, Robert C. Jr.",
       "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
       "organization_id": null
     }
   ],
@@ -190,6 +190,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57982/Hearing_Record/B26-0287-Hearing_Record3.pdf?Id=240347",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57982/Committee_Report/B26-0287-Committee_Report2.pdf?Id=240487",
           "media_type": "application/pdf"
         }
       ],

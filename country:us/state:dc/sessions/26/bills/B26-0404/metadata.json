@@ -196,11 +196,11 @@
       "organization_id": null
     },
     {
-      "name": "Parker, Zachary",
+      "name": "White, Trayon Sr.",
       "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Parker, Zachary\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Trayon Sr.\"}",
       "organization_id": null
     }
   ],
@@ -238,6 +238,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60464/Signed_Act/B26-0404-Signed_Act.pdf?Id=236899",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -264,10 +275,10 @@
       "classification": ""
     },
     {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0310",
+      "note": "Committee Markup",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/60464/Signed_Act/B26-0404-Signed_Act.pdf?Id=236899",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60464/Committee_Report/B26-0404-Committee_Report1.pdf?Id=231420",
           "media_type": "application/pdf"
         }
       ],

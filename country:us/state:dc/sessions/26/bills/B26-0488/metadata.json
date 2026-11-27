@@ -82,11 +82,11 @@
       "organization_id": null
     },
     {
-      "name": "Pinto, Brooke",
+      "name": "White, Robert C. Jr.",
       "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
       "organization_id": null
     }
   ],

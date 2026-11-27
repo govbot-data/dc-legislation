@@ -153,6 +153,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62523/Signed_Act/B26-0791-Signed_Act.pdf?Id=248199",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -172,17 +183,6 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/62523/Meeting1/Amendment/B26-0791-Amendment2.pdf?Id=247271",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "Signed by the Mayor and Enacted with Act Number A26-0437, Expires on Jan 18, 2027",
-      "links": [
-        {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/62523/Signed_Act/B26-0791-Signed_Act.pdf?Id=248199",
           "media_type": "application/pdf"
         }
       ],

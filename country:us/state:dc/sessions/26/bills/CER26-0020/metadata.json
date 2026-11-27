@@ -82,11 +82,11 @@
       "organization_id": null
     },
     {
-      "name": "Pinto, Brooke",
+      "name": "McDuffie, Kenyan R.",
       "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "primary": false,
+      "person_id": "~{\"name\": \"McDuffie, Kenyan R. \"}",
       "organization_id": null
     }
   ],

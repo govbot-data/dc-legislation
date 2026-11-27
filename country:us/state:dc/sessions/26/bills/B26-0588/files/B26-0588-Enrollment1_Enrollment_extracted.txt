@@ -1,0 +1,191 @@
+Title: 
+Official Title: 
+Source: versions - Enrollment
+Media Type: application/pdf
+
+================================================================================
+
+ENROLLED ORIGINAL
+AN ACT
+_________________________
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+_________________________
+To amend the Captive Insurance Company Act of 2004 to update requirements for formation,
+capital, certificate of authority applications, transacting business, taxes on premiums, and
+annual reports, and to establish requirements for inactive captive insurance companies; to
+amend the Risk Retention Act of 1993 to provide rulemaking authority; and to amend
+section 204 of the Freedom of Information Act of 1976 to make a conforming change.
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+act may be cited as the “Captive Insurance Company Amendment Act of 2026”.
+Sec. 2. The Captive Insurance Company Act of 2004, effective March 17, 2005 (D.C.
+Law 15-262; D.C. Official Code § 31-3931.01 et seq.), is amended as follows:
+(a) Title I is amended as follows:
+(1) Section 4(a-1) (D.C. Official Code § 31-3931.03(a-1)) is amended by striking
+the phrase “articles of incorporation” and inserting the phrase “articles of incorporation or
+organization” in its place.
+(2) Section 5(b) (D.C. Official Code § 31-3931.04(b)) is amended as follows:
+(A) Paragraph (6) is repealed.
+(B) Paragraph (8) is amended as follows:
+(i) The lead-in language is amended by striking the phrase “articles
+of incorporation” and inserting the phrase “articles of incorporation or organization” in its place.
+(ii) Subparagraph (A) is amended by striking the phrase “shall not
+own shares” and inserting the phrase “shall not own shares, units, or interests” in its place.
+(C) Paragraph (9) is amended by striking the phrase “protected cell captive
+insurer” and inserting the phrase “protected cell captive insurer that is approved to form one or
+more protected cells” in its place.
+(D) Paragraph (12) is amended by striking the phrase “abbreviation “IC””
+and inserting the phrase “abbreviation “IC” in its name” in its place.
+(3) Section 7 (D.C. Official Code § 31-3931.06) is amended as follows:
+1
+
+ENROLLED ORIGINAL
+(A) Subsection (b) is amended by striking the phrase “form of cash or an
+irrevocable letter of credit” and inserting the phrase “form of cash, cash equivalents, or an
+irrevocable letter of credit” in its place.
+(B) Subsection (d)(1) is amended to read as follows:
+“(1) Be issued by a bank that is a member of the United States Federal Reserve
+System, or its deposits are insured by the Federal Deposit Insurance Corporation, a credit union
+whose members’ deposits are insured by the National Credit Union Administration, or a bank
+chartered in a foreign jurisdiction approved by the Commissioner;”.
+(C) Subsection (k) is amended by striking the phrase “to make the a
+payment” and inserting the phrase “to make the payment” in its place.
+(4) Section 10 (D.C. Official Code § 31-3931.09) is amended as follows:
+(A) Subsection (a) is amended to read as follows:
+“(a) A captive insurer shall apply to the Commissioner for a certificate of authority. Each
+protected cell shall also apply for a certificate of authority.”.
+(B) New subsections (d-1) and (d-2) are added to read as follows:
+“(d-1)(1) The Commissioner may issue a certificate of authority for one or more
+protected cells of a protected cell captive insurer on an expedited basis. To be eligible for an
+expedited certificate of authority, the captive manager shall file a complete application for a
+protected cell. Upon issuance of the certificate of authority to the protected cell, the captive
+manager may, for each subsequent application by a protected cell for a certificate of authority,
+file:
+“(A) A captive insurance company application;
+“(B) A business plan;
+“(C) A 5-year financial proformas, including support for premiums and
+estimated losses;
+“(D) Draft corporate documents, if the application is for an incorporated
+protected cell; and
+“(E) Any additional information and documents that differ from the
+information and documents in the application for the initial protected cell.
+“(2) Upon a protected cell’s successful submission of the documents outlined in
+paragraph (1) of this subsection, the Commissioner shall issue a certificate of authority to the
+captive manager for that protective cell within 3 business days.
+“(d-2) Notwithstanding subsection (d-1) of this section, the Commissioner may establish
+through rulemaking an alternative process to issue an expedited certificate of authority to a
+protected cell of a protected cell captive insurer; provided, that the process is substantially
+similar to subsection (d-1) of this section.”.
+(C) Subsection (f) is amended as follows:
+(i) The existing text is designated as paragraph (1).
+(ii) A new paragraph (2) is added to read as follows:
+2
+
+ENROLLED ORIGINAL
+“(2) Notwithstanding paragraph (1) of this section, a pure captive insurer or a
+protected cell captive insurer, including its protected cells, except for protected cells of a risk
+retention group, may make a material or substantive change to its strategic business plan without
+the Commissioner’s prior written approval if the captive insurer’s board of directors and captive
+manager determine that the change does not violate any applicable law or regulation and does
+not increase the risk of insolvency. The captive insurer or its captive manager shall notify the
+Commissioner of any such change in writing within 30 days of the change. The Commissioner
+may disallow a change to a pure captive insurer’s strategic business plan if any proposed change
+violates an applicable law or regulation or threatens the solvency of the captive insurer or
+protected cell.”.
+(5) Section 12 (D.C. Official Code § 31-3931.11) is amended as follows:
+(A) Subsection (c)(3) is amended to read as follows:
+“(3) Make adequate arrangements with a bank chartered in the District, a bank
+that is a member of the United States Federal Reserve System or the deposits of which are
+insured by the Federal Deposit Insurance Corporation, a credit union whose members’ deposits
+are insured by the National Credit Union Administration, or a bank chartered in a foreign
+jurisdiction that is approved by the Commissioner;”
+(B) Subsection (d) is amended by striking the phrase “each year in the
+District” and inserting the phrase “each year” in its place.
+(6) A new section 12a is added to read as follows:
+“Sec. 12a. Inactive captive insurance companies.
+“(a) The Commissioner may place a captive insurer, except a risk retention group, on
+inactive status, if:
+“(1) The captive insurer has ceased transacting the business of insurance;
+“(2) There are no remaining liabilities associated with policies written or assumed
+by the captive insurer; and
+“(3) The captive insurer is compliant with all applicable District laws and
+regulations.
+“(b) An inactive captive insurer shall maintain unimpaired capital and surplus in a
+minimum amount of $5,000.
+“(c) Notwithstanding any other provision of this act, an inactive captive insurer shall not
+be subject to, or be liable for, the payment of any premium taxes or fees for any full year the
+captive insurance company is inactive.
+“(d) The Commissioner may, by rulemaking, exempt an inactive captive insurer from any
+filing or reporting requirements required by this act.
+“(e) An inactive captive insurer shall obtain written approval from the Commissioner
+prior to resuming the business of insurance to issue any insurance policies.”.
+(7) Section 13 (D.C. Official Code § 31-3931.12) is amended as follows:
+(A) The lead-in language of subsection (a) is amended by striking the
+phrase “March 2” and inserting the phrase “March 1” in its place.
+3
+
+ENROLLED ORIGINAL
+(B) The lead-in language of subsection (a-1) is amended by striking the
+phrase “March 2” and inserting the phrase “March 1” in its place.
+(C) Subsection (b)(1) is amended by striking the phrase “March 2” and
+inserting the phrase “March 1” in its place.
+(D) Subsection (i) is amended by striking the phrase “the a request” and
+inserting the phrase “the request” in its place.
+(8) Section 14 (D.C. Official Code § 31-3931.13) is amended as follows:
+(A) Subsection (a)(1) is amended by striking the phrase “March 2” and
+inserting the phrase “March 1” in its place.
+(B) Subsection (b)(2) is amended by striking the phrase “March 2” and
+inserting the phrase “March 1” in its place.
+(C) A new subsection (d) is added to read as follows:
+“(d) The annual report and any other information submitted pursuant to this section shall
+be confidential and exempt from the Freedom of Information Act of 1976, effective March 29,
+1977 (D.C. Law 1-96; D.C. Official Code § 2-531 et seq.), shall not be subject to subpoena or
+discovery in a private civil action, and shall not be divulged to any person except either as
+provided for in this subsection or with the written consent of the captive insurer or protected
+cell.”.
+(9) The lead-in language of section 23(a) (D.C. Official Code § 31-3931.22(a)) is
+amended to read as follows:
+“(a) Except as otherwise expressly provided in this act, no law relating to the insurance
+industry shall apply to captive insurers other than this act. The following laws shall apply to risk
+retention groups licensed as captive insurers:”.
+(b) Section 204 (D.C. Official Code § 31-3932.04) is amended by adding a new
+subsection (f-1) to read as follows:
+“(f-1) The Commissioner may require the SPFC to retain legal, financial, or examination
+services from outside the Department to review and make recommendations regarding the
+SPFC’s qualifications, and to submit those reports and recommendations to the Commissioner
+for review. The cost of those services shall be paid by the SPFC.”.
+Sec. 3. The Risk Retention Act of 1993, effective October 21, 1993 (D.C. Law 10-46;
+D.C. Official Code § 31-4101 et seq.), is amended by adding a new section 14 to read as follows:
+“Sec. 14. Rulemaking authority.
+“The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure Act,
+approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), may issue rules
+relating to captive insurers licensed as risk retention groups as necessary to implement the
+provisions of this act.”.
+Sec. 4. Section 204(a) of the Freedom of Information Act of 1976, effective March 29,
+1977 (D.C. Law 1-96; D.C. Official Code § 2-534(a)), is amended as follows:
+4
+
+ENROLLED ORIGINAL
+(a) Paragraph (24) is amended by striking the phrase “; and” and inserting a semicolon in
+its place.
+(b) Paragraph (25) is amended by striking the period and inserting the phrase “; and” in
+its place.
+(c) A new paragraph (26) is added to read as follows:
+“(26) Information exempt from disclosure under the Captive Insurance Company
+Act of 2004, effective March 17, 2005 (D.C. Law 15-262; D.C. Official Code § 31-3931.01 et
+seq.).”.
+Sec. 5. Fiscal impact statement.
+The Council adopts the fiscal impact statement in the committee report as the fiscal
+impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+Sec. 6. Effective date.
+This act shall take effect following approval by the Mayor (or in the event of veto by the
+Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+___________________________________
+Chairman
+Council of the District of Columbia
+_________________________________
+Mayor
+District of Columbia
+5

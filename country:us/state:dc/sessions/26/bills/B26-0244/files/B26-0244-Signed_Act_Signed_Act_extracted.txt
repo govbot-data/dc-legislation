@@ -1,0 +1,206 @@
+Title: 
+Official Title: 
+Source: versions - Signed Act
+Media Type: application/pdf
+
+================================================================================
+
+ENROLLED ORIGINAL
+AN ACT
+D.C. ACT 26-420
+INTHE COUNCIL OF THE DISTRICT OF COLUMBIA
+OCTOBER 16, 2026
+To amendTitleIIofthe DistrictofColumbiaComprehensive BicycleTransportation and Safety
+Actof1984 torequire that electricbicycles, electric mobility devices, andtraction
+batteriesmanufactured, distributed, sold, or offered for leaseorrentin the District meet
+certain safety standards; to amend the DistrictofColumbiaTrafficAct, 1925 to make
+conforming amendments; to amend theDepartment ofTransportation Establishment Act
+of2002 to authorize theDirectorofthe District DepartmentofTransportationto develop
+policies for the safeuseofelectricbicycles, motorized bicycles, andelectric mobility
+devices; and forotherpurposes.
+BE ITENACTED BYTHE COUNCIL OFTHE DISTRICTOF COLUMBIA, Thatthis
+act maybe cited asthe“Micromobility FireSafety Standards Amendment Actof2026”.
+Sec. 2. Title II oftheDistrict ofColumbia ComprehensiveBicycle Transportationand
+Safety Actof 1984, effective May 1, 2008 (D.C. Law 17-149; D.C. Official Code § 50-1611 et
+seq.), is amended by adding anew section203 to read as follows:
+“Sec, 203. Requirementsformanufacturer, distribution, sale, lease, rentofmicromobility
+andtractionbatteries.
+“(a) For the purposes ofthis section, theterm:
+“(1) “Certification”meanstheattestation by acertificationbody, indicated bya
+certificationmarkon the equipment, device, orproduct, that the equipment, device, orproduct
+has been evaluated, tested, and found to conform to the standards specified in section 3.
+“(2) “Certificationbody”means an independentthird-party organization
+providing certification for micromobility devices that:
+“(A) Isrecognizedbythe U.S. Department ofLabor’s Occupational Safety
+andHealth Administration (“OSHA”) as aNationally RecognizedTesting Laboratory; or
+“(B) Has received ISO/IEC 17065 accreditation from an independent
+accreditation body that is amemberofthe GlobalAccreditation Cooperation Incorporated, or
+any successororganization.
+“(3) “Certificationmark”means amarkofconformityownedby acertification
+body andregisteredwiththe U.S. Patent andTrademark Officethatis visible andaffixed to a
+productthathas received certification.
+
+ENROLLED ORIGINAL
+“(4) “Blectricbicycle” shall havethe samemeaning as provided insection 2(6A)
+ofthe District ofColumbiaTraflic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C.
+Official Code § 50-2201.02(6A)).
+“(5) “Electricmobility device” shall havethe same meaning as provided in
+section 2(6B)ofthe DistrictofColumbiaTraffic Act, 1925, approvedMarch 3, 1925 (43 Stat.
+1119; D.C. Official Code § 50-2201.02(6B)).
+“(6 “Micromobility device”means an electricbicycle or electric mobility device.
+“(7) “Nationally RecognizedTesting Laboratory” meansan organization that
+meetsthe qualifications provided in 29 C.RR. § 1910.7(b) and is recognized as aNationally
+RecognizedTesting Laboratory by the Occupational Safety and HealthAdministration.
+(8) “SED operating company” shall havethe same meaning as provided in
+section 2(14C)oftheDistrictofColumbiaTraffic Act, 1925, approvedMarch3, 1925 (43 Stat.
+1119; D.C, Official Code § 50-2201.02(14C)).
+“(9) “Tractionbattery” meansa rechargeablebatteryused to powerthe electric
+motors ofamicromobility device.
+“(b) All micromobility devices, and traction batteries for such devices, thatare
+manufactured, distributed, sold, oroffered forleaseorrent in the Districtshall meet the
+following safety standards:
+“(1) Electric bieycles shall be evaluated,tested, and certified to UL 2849 orEN
+15194 and bearthecertificationmark, except, thatfor 6 months following the effective dateof
+the Micromobility Fire Safety StandardsAmendmentAct of 2026, passedon2nd reading on
+September 22, 2026 (Enrolled version ofBill 26-244), an SFD operating company may satisfy
+therequirementsofthis paragraphby evaluating, testing, and certifying any electric bicycles
+offered forrental or lease to UL 2272;
+“(2) Electricmobility devices shall be evaluated, tested, and certified to UL2272
+and bear the certification mark; and
+“(3) Traction batteries for use in micromobility devices shall be evaluated, tested,
+“(c) Notwithstandingsubsection (b)ofthis section, amicromobility device or traction
+batteries may not displaya certification mark if:
+“(1)(A)The micromobility device or thetractionbattery is offered forrental or
+lease by an SFD operating company orby the Capital Bikeshareprogram; and
+“(B) The SED operating company orthe Capital Bikeshareprogram has
+provided documentation to DDOT establishingthatthe electric bicycle, electric mobility device,
+or traction battery meets the applicable safety standard as described in subsection(b)ofthis
+section; or
+“(2)The micromobility device is being offered for a secondhand sale.
+“(d) Evaluation,testing, and certification ofany standard listed in subsection (b) ofthis
+section shall beperformed by acertification body.”.
+
+ENROLLED ORIGINAL
+Sec. 3. Section 2 oftheDistrict ofColumbia Traffic Act, 1925, approvedMarch 3, 1925
+(43 Stat, 1119; D.C. Official Code § 50-2201.02), is amended as follows:
+(a) Paragraph (6A) is redesignated as paragraph(6B).
+(b)Anewparagraph (6A) is added toread as follow
+“(6A) Electric bicycle”means a vehicle with:
+“(A)A post-mounted seat or saddle;
+“(B) Two or3 wheels thatare incontact with the ground;
+*(C) Fully operativepedals forhumanpropulsion; and
+“(D) One or more electric motors to eitherassistthe rider whenpedaling
+or provide motive power to the wheels when the rider isnotpedaling.”.
+(©) Paragraph (6B)(A) is amended to read as follows:
+“@B)(A) “Electricmobility device” meansa mobility device with arechargeable
+electric drive trainthatpropelstherider, and whichmay beprovided with ahandle forgrasping
+while riding, regardless ofwhether thedevice is self-balancing oriftheridermay or may not be
+seated.”.
+(@) Paragraph (11) is amended to read as follows:
+“(11)(A) “Motorvehicle” means any vehicle propelledby internal combustion
+engines, electricity, or steam.
+*(B) The term “motor vehicle” shall not include motorized bicycles,
+traction engines, road rollers, vehiclespropelled only uponrails or tracks, electric mobility
+devices, personal mobility devices, and a battery-operatedwheelchairwhen operatedby a person
+with adisability.”,
+Sec 4, Section4(a)(1)(K)ofthe DepartmentofTransportation EstablishmentAct of2002,
+effective May 21, 2002 (D.C. Law 14-137; D.C. Official Code § 50-921.04(a)(1)((), is amended
+to read as follows:
+“(K) Develop policies and programsto encourage and provide forthe safe
+bieyeles:eleetsie bieyel ined bieyeles-and-electrie mobility-devi ‘i
+7 : y 7
+terms are definedin section 2 ofthe DistrictofColumbia TrafficAct of 1925, approved March 3,
+1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02), forrecreation, commercial use, and
+work-related travel, includingplanning, developing, operating, and regulating aBicycle Sharing
+program, and administering the Bicycle Sharing Fundestablished by section 9h to funda Bicycle
+Sharing program;”,
+See. 5. Subsection 3399.1ofTitle 24ofthe DistrictofColumbia Municipal Regulations
+(24 DCMR§ 3399.1) is amended by striking thephrase “Electricmobility devi—cAedevice
+weighing less than seventy-five (75) pounds that has an electric motor, is solely powered by the
+electric motororhumanpower, is designedtotransportonly one (1) person inastanding or
+seated position, wherethe rider is notenclosed, and isno greaterthan twenty-four(24) inches
+wide and fifty-five (55) inches long, but does not include a motorized bicycle, personal mobility
+3
+
+ENROLLED ORIGINAL
+device, motorcycle, ormoped.”and inserting thephrase“Electric mobility device— amobility
+devicewith a rechargeable electricdrivetrainthatpropelstherider, and whichmay beprovided
+with ahandle for graspingwhile riding, regardless ofwhether thedevice is self-balancing orif
+the ridermay ormay notbe seated.” in its place.
+Sec. 6, Subsection 9901.1of Title 18ofthe DistrictofColumbia Municipal Regulations
+(18 DCMR § 9901.1), is amended as follows:
+(a) Strike the phrase “Electric mobility device~a device weighing less than seventy-five
+(75)pounds that has an electric motor, is solely poweredby the electricmotor or humanpower,
+is designed to transportonly one (1)person ina standing orseated position, where therider is
+notenclosed, and is no greater than twenty-four (24) inches wide and fifty-five (55) inches long,
+butdoes notinclude a motorizedbicycle, personal mobility device, motoreycle, moped, or
+motor-driven cycle.” and insert thephrase “Electric mobility device~a mobility device with a
+rechargeableelectric drive train thatpropelsthe rider, and whichmay beprovided with a handle
+forgraspingwhile riding, regardlessof whetherthedevice is self- balancing oriftherider may
+or maynotbe seated” in its place.
+(b) Strike thephrase “MotorVehicle - any vehicle propelledby internal-combustion
+engine, electricity, orsteam, includingany non-operationalvehicle that is beingrestored or
+repaired. The term “motorvehicle” shall notinclude road rollers, farmtractors, vehicles,
+propelled only upon stationary rails ortracks, electricpersonal assistive mobility devices, and
+battery-operatedwheelchairs whenoperatedby ahandicapped personat speeds not exceeding 10
+miles per hour.” andinsert the phrase “MotorVehicle - any vehicle propelled by internal-
+combustion engines, electricity, or steam. The term “motorvehicle” shall not include motorized
+bicycles, tractionengines, road rollers, vehicles propelled only uponrails ortracks, electric
+mobility devices, personal mobility devices, or abattery- operated wheelchairwhen operatedby
+a person with adisability” in its place.
+7 Biseaki
+= spa >
+The Council adopts the fiscal impactstatement inthe committee reportas the fiscal
+impact statement requiredby section 4a oftheGeneral Legislative ProceduresAct of1975,
+approvedOctober 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.472)..
+
+ENROLLED ORIGINAL
+Sec. 8. Effective date.
+This act shall take effect afterapproval by the Mayor(or intheevent ofveto by the
+Mayor, action by the Council to override the veto) and a 30-day periodof congressional review
+as provided in section 602(c)(1)ofthe District ofColumbia Home RuleAct, approved December
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(¢)(1)).
+‘hairman_
+Council ofthe District ofColumbia
+District ofColumbia
+APPROVED
+OCTOBER 16, 2026
+
+COUNCIL OFTHE DISTRICTOF COLUMBIA
+WASHINGTON, DC, 20004
+DocketNo. B26-0244
+(DC]ITEMONCONSENTCALENDAR,
+[XTACTION FirstReading,CC
+(X]VOTEDATE uly 14,2026,
+{x}VOIGEVOTE ‘Approved
+RECORDEDVOTEONREQUEST
+ABSENT Bonds
+[ JROLLCALLVOTE—Result
+[GoutliNemb|or [aye[WayNV [As [Reel Gaireimere [Nw @| Gounchtribe] Aye [NAVIINY, [AB [Ree
+Chairman Mendelson] X Frumin Pinto
+‘ Alen x Henderson White
+Bonds x LowsGeorge T.whte
+Crawford x Nedeau
+Felder Petter
+1ifbicateVe iwy-PNoetVuotih R
+CERTIFICATIONRECORD
+Qere Ww
+SecretarytoteCoun Date
+DocketNo.826-0244
+[ 1ITEMONCONSENTCALENDAR
+[XTACTION FinalReading
+[x]VOTE DATE Septe2m2,b2e02r6
+[XVOICEvor ‘Approved
+RECVOOTREONDREEQUEDST
+ABSENT white
+[ ]ROLLCALLVOTEResult
+[ dune arhoer [Ave| [As [Rec [GAlineiMeribel[JAje Nay INV.[AB| Rea]Gouncn ember||| Ave [Nay [NVITABI|Ree
+CChalemanMendetson Henderson White x
+Allen LewisGeorge Siverman
+N adeau x
+Parker
+Ty
+Ree-Recused
+CERTIFICATION RECORD
+gq 2>-2b
+‘SecretarytotheCouncil Bate

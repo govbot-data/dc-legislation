@@ -1,0 +1,460 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-369
+4
+5 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+6
+7 ________________
+8
+9 To amend Title 25 of the District of Columbia Official Code to add definitions for the terms
+10 “abutting property”, “noise”, “sidewalk café”, and “summer garden”, to require a licensee
+11 to designate the location of a summer garden on its summer garden endorsement
+12 application, to amend the requirements for a group of persons and an association to have
+13 standing to protest a license, to confer standing to successor Advisory Neighborhood
+14 Commissions as a result of redistricting, to update the documents the Alcoholic Beverage
+15 and Cannabis Administration is to make available to include a copy of a noise complaint,
+16 to clarify that the Alcoholic Beverage and Cannabis Board may limit a licensee’s hours of
+17 operation and permitted hours for entertainment, sidewalk café, and summer garden
+18 endorsements, to add a new section regarding the requirements for the submission,
+19 assessment, compilation, and reporting of noise complaints and to clarify which
+20 complaints the Alcoholic Beverage and Cannabis Administration has jurisdiction to
+21 enforce, to amend the scope of a noise violation and codify how the Alcoholic Beverage
+22 and Cannabis Administration is to assess complaints for a noise violation, to require the
+23 Mayor to establish a nightlife noise balance plan, to update and remove expired
+24 provisions from the civil penalty rulemaking review process, to establish a separate fine
+25 schedule for noise violations, to allow the Alcoholic Beverage and Cannabis Board to
+26 suspend a liquor license and place restrictions on the hours of an endorsement for a 4th or
+27 subsequent noise violation within a 2-year period, and to establish requirements for
+28 licensed establishments that receive first noise violations; and to amend the Harmonious
+29 Living Amendment Act of 2024 to expand the term “activity area”, to update the content
+30 and timeline for the sound level reduction design guidelines and requirements
+31 rulemaking, to update when the owner of a residential property or dwelling unit located
+32 in an entertainment area or activity area shall make sound level disclosures, to authorize
+33 the Mayor to establish the soundproofing upgrades grant program, and to update the
+34 applicability of the act.
+35
+36 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+37 act may be cited as the “Nightlife Noise Balance Amendment Act of 2026”.
+38 Sec. 2. Title 25 of the District of Columbia Official Code is amended as follows:
+1
+
+ENGROSSED ORIGINAL
+39 (a) Section 25-101 is amended as follows:
+40 (1) A new paragraph (2B) is added to read as follows:
+41 “(2B) “Abutting property” means any property where the property line has a
+42 boundary or boundary point in common with the property line of the licensed establishment.”.
+43 (2) A new paragraph (33A) is added to read as follows:
+44 “(33A) “Noise” means sound:
+45 “(A) Produced by:
+46 “(i) A mechanical device, a machine, an apparatus, or an
+47 instrument for amplification of the human voice or music; or
+48 “(ii) A bell, horn, gong, whistle, drum, musical instrument, or other
+49 sound-making instrument or device; or
+50 “(B) That includes bass and similar sounds that are audible or generate
+51 vibrations or shaking even if not audible.”.
+52 (3) Paragraph (42) is amended to read as follows:
+53 “(42) “Residential district” means a district identified as residential by the zoning
+54 regulations and the official atlases of the Zoning Commission for the District of Columbia.”.
+55 (4) A new paragraph (47A) is added to read as follows:
+56 “(47A) “Sidewalk café” means the occupation of outdoor public space proximate
+57 to an establishment with an on-premises retailer’s license for the sale, service, and consumption
+2
+
+ENGROSSED ORIGINAL
+58 of alcoholic beverages pursuant to the issuance of a sidewalk café endorsement issued by
+59 ABCA.”.
+60 (5) A new paragraph (50B) is added to read as follows:
+61 “(50B) “Summer garden” means the occupation of outdoor private space at the
+62 ground level, a mid-level, or the rooftop level, proximate to an establishment with an on-
+63 premises retailer’s license for the sale, service, and consumption of alcoholic beverages pursuant
+64 to the issuance of a summer garden endorsement issued by ABCA.”.
+65 (b) Section 25-113.01(c)(1) is amended by striking the phrase “or private space.” and
+66 inserting the phrase “or private space. The licensee shall designate on its application for a
+67 summer garden endorsement whether the summer garden is to be located at the ground level, a
+68 mid-level, or the rooftop level.” in its place.
+69 (c) Section 25-421(a)(5) is amended to read as follows:
+70 “(5) An association meeting the requirements of § 25-601(a)(3); provided, that the
+71 civic association has, at least 30 days before the Board’s receipt of the application, registered
+72 with ABCA by providing a copy of its charter, and an e-mail or other electronic address in a
+73 form consistent with ABCA’s procedures.”.
+74 (d) Section 25-601 is amended to read as follows:
+75 “§ 25–601. Standing to file protest against a license.
+3
+
+ENGROSSED ORIGINAL
+76 “(a) The following persons may protest the issuance or renewal of a license, the approval
+77 of a substantial change in the nature of operation as determined by the Board under § 25-404, or
+78 the transfer of a license to a new location:
+79 “(1) An abutting property owner;
+80 “(2) A group of no fewer than 5 residents or property owners of the District who
+81 share common grounds for their protest and who each reside or own property within a 1,800-foot
+82 radius of the establishment;
+83 “(3) A civic, neighborhood, or citizens association incorporated as a domestic
+84 non-profit corporation under the laws of the District of Columbia (“association”) located
+85 within the affected area; provided, that the following conditions are met:
+86 “(A) The association has been certified by ABCA pursuant to subsection
+87 (a-1) of this section;
+88 “(B) A protest resolution, documented on a form to be specified by
+89 ABCA, concerning the license application and specifying the person who may represent the
+90 interests of the association on matters related to the resolution has been duly approved in
+91 accordance with the association’s articles of incorporation or bylaws at a duly called meeting,
+92 with notice of the meeting given to the voting body and the applicant at least 7 days before the
+93 date of the meeting;
+94 “(4) An affected ANC;
+4
+
+ENGROSSED ORIGINAL
+95 “(5) In the case of property owned by the District within a 600-foot radius of the
+96 establishment to be licensed, the Mayor;
+97 “(6) In the case of property owned by the United States within a 600-foot radius
+98 of the establishment to be licensed, the designated custodian of the property; or
+99 “(7) The Metropolitan Police Department District Commander in whose Police
+100 District the establishment resides, or such Commander’s designee.
+101 “(a-1)(1) In order to be eligible to protest under subsection (a)(3) of this section, an
+102 association’s standing shall be certified by ABCA upon submission of the protest resolution if it
+103 meets the requirements of this subsection. The association shall submit documents for
+104 certification in a form specified by ABCA and shall include the following:
+105 “(A) A map of the boundaries of the association;
+106 “(B) An estimate of the total population or number of households
+107 within the association’s boundaries, including those who are not members of the
+108 association, with an explanation of how the association prepared such estimate using
+109 Census or similar data no more than 15 years old;
+110 “(CB) A copy of the association’s articles of incorporation and or bylaws,
+111 which shall include provisions ensuring that membership in the association is open to all
+112 residents of the area defined in sub-paragraph (A) and may be obtained at any meeting of
+113 the association and that ABCA submissions are subject to a recorded vote of members
+114 present open to all residents of the area defined in sub-paragraph (A);
+5
+
+ENGROSSED ORIGINAL
+115 “(DC) The total number of association members in good standing, which
+116 shall constitute no less than 50 residents 30 percent of the estimated population or number of
+117 households in the boundaries submitted pursuant to (B) of this paragraph;
+118 “(ED) The date of the meeting where the protest resolution was approved
+119 and the numbers of ayes, nays, and abstentions of members present, certified by an appropriate
+120 officer of the association; and
+121 “(FE) Documentation from the Department of Licensing and Consumer
+122 Protection that the association is in good standing.
+123 “(2) On its own initiative, the Board may audit and suspend or revoke an
+124 association’s standing under this subsection.
+125 “(3) The Board shall publish, in a publicly accessible format, a list of all
+126 associations certified pursuant to this subsection.
+127 “(b) A person with a wholesaler’s license, manufacturer’s license, or retailer’s license
+128 may not protest the issuance or renewal of a license, the approval of a substantial change in the
+129 nature of operation, as determined by the Board under § 25-404, or the transfer of a license to a
+130 new location unless the person is an individual who resides in the neighborhood where the
+131 establishment is to be licensed and would otherwise have standing pursuant to subsection (a)(1)
+132 or (2) of this section.
+133 “(b-1) If the boundaries of an ANC are redrawn so that an applicant is located in the
+134 boundaries of a new ANC, then the new ANC, upon the filing of a written request for standing
+6
+
+ENGROSSED ORIGINAL
+135 with the Board, shall be entitled to standing as a party and participate as a protestant in any
+136 pending protest that is active on the date that the applicant’s existing or proposed location was
+137 officially located within the new ANC’s boundaries; unless, the protest is resolved before the
+138 filing of the ANC’s motion for standing.
+139 “(c) For the purposes of this section, an application for a sidewalk café, streatery, or
+140 summer garden endorsement or license shall be considered to be a substantial change in
+141 operation.”.
+142 (e) Section 25-601.01 is amended to read as follows:
+143 “§ 25–601.01. Certain documents to be made available.
+144 “An ANC or an association meeting the requirements of § 25-601(a)(3) may request the
+145 following records from ABCA if ABCA or the Board possesses such records pursuant to this
+146 title:
+147 “(1) A copy of a contract to which a licensee is a party;
+148 “(2) An incident log kept by a licensee;
+149 “(3) A copy of a noise violation; or
+150 “(4) A similar document.”.
+151 (f) Section 25-609(b) is amended to read as follows:
+152 “(b) In the event that an affected ANC submits a settlement agreement to the Board on a
+153 protested license application, the Board, upon its approval of the settlement agreement, shall
+154 dismiss any protest of a group of no fewer than 5 residents or property owners meeting the
+7
+
+ENGROSSED ORIGINAL
+155 requirements of § 25-601(a)(2). The Board shall not dismiss a protest filed by another affected
+156 ANC, an association meeting the requirements of § 25-601(a)(3), or an abutting property owner,
+157 upon the Board’s approval of an ANC’s settlement agreement submission.”.
+158 (g) Subchapter III of Chapter 7 is amended as follows:
+159 (1) The table of contents is amended as follows:
+160 (A) The section designation of section 25-724 is amended to read as
+161 follows:
+162 “§ 25–724. Board authorized to further modify hours of operation, sale, service,
+163 consumption, and delivery.
+164 (B) A new section designation is added to read as follows:
+165 “§ 25–724a. Complaints about noise from licensed establishments.”.
+166 (C) The section designation of section 25-725 is amended to read
+167 as follows:
+168 “25-725. Noise from licensed establishments.”.
+169 (2) Section 25-724 is amended to read as follows:
+170 “§ 25-724. Board authorized to further modify hours of operation, sale, service,
+171 consumption, and delivery.
+172 “At the time of initial application or renewal of any class of license, the Board may
+173 further limit the hours of operation, sale, service, consumption, and delivery, including, as
+8
+
+ENGROSSED ORIGINAL
+174 applicable, the hours for an entertainment, a sidewalk café, or a summer garden endorsement for
+175 a particular applicant, as follows:
+176 “(1) Based on the Board’s findings of fact, conclusions of law, and order
+177 following a protest hearing, or
+178 “(2) Under the terms of a settlement agreement.”.
+179 (3) A new section 25-724a is added to read as follows:
+180 “§ 25–724a. Complaints about noise from licensed establishments.
+181 “(a)(1) A resident may submit a complaint to ABCA regarding noise from an
+182 establishment with an on-premises retailer’s license.
+183 “(2) ABCA shall maintain availability to receive complaints online or by phone
+184 until at least one hour after the end time for the legal sale of alcoholic beverages as set forth in §
+185 25-723.
+186 “(3) No later than one year after the applicability date of § 202(d) of the
+187 Amplified Sound Mitigation Regulation Amendment Act of 2024, effective March 21, 2025
+188 (D.C. Law 25-313, 72 DCR 1095), ABCA shall restructure its complaint program required
+189 pursuant to paragraph (2) of this subsection to accommodate the submission of noise complaints
+190 through the District 311 system.
+191 “(b) ABCA shall have jurisdiction to enforce a noise complaint received pursuant to
+192 subsection (a) of this section that:
+193 (1) Is made by a resident of a residential district; or
+9
+
+ENGROSSED ORIGINAL
+194 (2) Alleges noise by a licensed establishment that is subject to a noise-related
+195 provision in a settlement agreement.
+196 “(c) ABCA shall assess a noise complaint received pursuant to subsection (a) of this
+197 section as follows:
+198 “(1) For a noise complaint that ABCA has jurisdiction to enforce pursuant to
+199 subsection (b) of this section, assess whether the noise is in violation of § 25-725 or the noise is
+200 in violation of a noise-related provision in a settlement agreement.
+201 “(2) For a noise complaint that ABCA lacks jurisdiction to enforce pursuant to
+202 subsection (b) of this section, work in collaboration with District agencies and the Noise Task
+203 Force, re-established pursuant to § 25–725(d)(2)(A), to assess whether the noise is in violation of
+204 District law.
+205 “(d) ABCA shall maintain the following information about noise complaints that it has
+206 jurisdiction to enforce pursuant to subsection (b) of this section:
+207 “(1) The date, time, and complaint number of the complaint;
+208 “(2) The name, address, zone, email, and phone number of the licensed
+209 establishment that is the subject of the complaint;
+210 “(3) The name, address, zone, email, and phone number of the resident who
+211 submitted the complaint, if available;
+212 “(4) The nature of the complaint;
+213 “(5) Whether ABCA substantiated the complaint;
+10
+
+ENGROSSED ORIGINAL
+214 “(6) If ABCA substantiated the complaint, whether the Board issued the licensed
+215 establishment a written warning or fine;
+216 “(7) If the licensed establishment was issued a written warning, the date that the
+217 Board issued the warning and the efforts that ABCA and the establishment made to mitigate the
+218 noise pursuant to § 25-830(1)(3)(A)(iii);
+219 “(8) If the licensed establishment was issued a fine: the date that the fine was
+220 issued, the amount of the fine, and the date that the establishment paid the fine; and
+221 “(9) Whether ABCA notified the licensed establishment and the resident, if the
+222 resident provided its contact information, about the information provided in paragraphs (1)
+223 through (8) of this subsection.
+224 “(e)(1) For noise complaints that ABCA has jurisdiction to enforce pursuant to subsection
+225 (b) of this section, ABCA shall notify a licensed establishment that is the subject of a noise
+226 complaint and a resident who has submitted a non-anonymous noise complaint.
+227 “(2) ABCA shall notify a licensed establishment as follows:
+228 “(A) Upon receipt of a noise complaint, notify the establishment and
+229 inform the manager on-duty that a complaint has been received, provide the complaint number,
+230 and describe the nature of the complaint; and
+231 “(B) Notify the establishment of the results of any investigation that may
+232 result in a show cause hearing within 90 days as required by § 25-832.
+11
+
+ENGROSSED ORIGINAL
+233 “(3) ABCA shall notify a resident who has submitted a non-anonymous noise
+234 complaint as follows:
+235 “(A) Provide a complaint number upon receipt of the complaint; and
+236 “(B) Provide the disposition of the complaint within 72 hours of
+237 completion of its investigation.
+238 “(f) The following may access information about a noise complaint that ABCA has
+239 jurisdiction to enforce pursuant to subsection (b) of this section, including the issuance of a
+240 written warning as provided in § 25-830(1)(3):
+241 “(1) A licensed establishment that has received a noise complaint;
+242 “(2) A resident who submitted a non-anonymous complaint; and
+243 “(3) An affected ANC.
+244 “(g) Within 60 days of the effective date of the Nightlife Noise Balance Amendment Act
+245 of 2025, passed on 2nd reading on X, 2026 (Enrolled version of Bill 25-0369), and each fiscal
+246 year thereafter, ABCA shall publish data on its website regarding the occurrence and
+247 enforcement of nightlife noise that is has jurisdiction to enforce pursuant to subsection (b) of this
+248 section. These data shall include the number of noise complaints disaggregated by the following:
+249 “(1) The number of anonymous and non-anonymous complaints;
+250 “(2) The ward of the establishment that was the subject of the complaint;
+251 “(3) The zone of the establishment that was the subject of the complaint;
+12
+
+ENGROSSED ORIGINAL
+252 “(4) For non-anonymous complaints, the ward of the resident who submitted the
+253 complaint;
+254 “(5) For non-anonymous complaints, the zone of the resident who submitted the
+255 complaint;
+256 “(6) The license held by the establishment that was the subject of the complaint;
+257 and
+258 “(7) Whether the complaint resulted in a noise violation.”.
+259 (4) Section 25-725 is amended to read as follows:
+260 “§ 25–725. Noise from licensed establishments.
+261 “(a) The licensee under an on-premises retailer’s license shall not produce any noise of
+262 such intensity that it may be heard in the noise-restricted area of a resident of a residential
+263 district.
+264 “(b) ABCA shall do the following to assess whether a licensed establishment is in
+265 violation of subsection (a) of this section:
+266 “(1) Conduct a preliminary assessment of the noise complaint, including
+267 determining the licensed establishment’s hours of operation, the zone that the resident and
+268 establishment are located in, and whether the establishment is subject to a noise-related provision
+269 in a settlement agreement; and
+270 “(2) If ABCA has jurisdiction to enforce the noise complaint, conduct a noise
+271 investigation to assess whether:
+13
+
+ENGROSSED ORIGINAL
+272 “(A) The establishment produced the noise that is the subject of the noise
+273 complaint;
+274 “(B) The noise is heard in the noise-restricted area; and
+275 “(C) The noise annoys or disturbs the peace, order, and quiet of a
+276 reasonable person.
+277 “(c)(1) No later than 6 months after the effective date of this section, the Mayor shall, in
+278 consultation with District agencies and stakeholders, establish a nightlife noise balance plan to
+279 address nightlife noise throughout the District through measures including utilization of ABCA
+280 to enforce nightlife noise, reestablishment of the Noise Taskforce pursuant to paragraph (2)(A)
+281 of this subsection, rewriting the District of Columbia Noise Control Act of 1977, effective March
+282 16, 1978 (D.C. Law 2-53; 20 DCMR passim), pursuant to paragraph (2)(B) of this subsection,
+283 and the utilization of sound readers pursuant to section 202(b) of The Amplified Sound
+284 Mitigation Regulation Amendment Act of 2024, effective March 21, 2025 (D.C. Law 25-313;
+285 D.C. Official Code § 10-1185.01(b)).
+286 “(2) The Mayor shall implement the nightlife noise balance plan as follows:
+287 “(A) Within 60 days after the establishment of the plan, re-establish the
+288 Noise Taskforce; and
+289 “(B) Within 18 months after the establishment of the plan, produce a
+290 proposed rewrite of the District of Columbia Noise Control Act of 1977, effective March 16,
+291 1978 (D.C. Law 2-53; 20 DCMR passim).”.
+14
+
+ENGROSSED ORIGINAL
+292 “(d) For the purposes of this section, the term, “Noise-restricted area” means:
+293 “(1) The building in which the resident who submitted the noise complaint
+294 resides, including a lobby[,] hallway, or other common area in the building; or
+295 “(2) If the property line of the residence of the resident who submitted the
+296 complaint is 50 feet or more from the property line of the establishment and the residence is a
+297 single-unit dwelling or other building without common areas, the property line of the residence.”.
+298 (h) Section 25-830 is amended as follows:
+299 (1) Subsection (a) is amended to read as follows:
+300 “(a) The Board may submit amendments to the schedule of civil penalties for violations
+301 of this title to the Council for a 90-day period of review, including Saturdays, Sundays, holidays,
+302 and periods of Council recess. If the Council does not approve or disapprove, in whole or in part,
+303 the proposed regulations by resolution within the 90-day period of review, the regulations shall
+304 be deemed approved. The schedule of civil penalties, which shall be consistent with this title,
+305 shall replace all civil penalties, except as expressly provided in this title.”.
+306 (2) Subsection (e) is amended to read as follows:
+307 “(e) Except for an egregious violation as may be later defined by Board rulemaking, a
+308 licensee shall not be found to be in violation of a first-time violation of §§ 25-725a(a) or 25-781,
+309 unless the licensee has been given a written warning, received a citation for the violation, or had
+310 an enforcement proceeding before the Board, during the 4 years preceding the violation.”.
+311 (3) A new subsection (l) is added to read as follows:
+15
+
+ENGROSSED ORIGINAL
+312 “(l)(1) The penalties for a violation of § 25-725(a) shall be no less than the following:
+313 “(A) For a 1st violation or a violation that occurs more than 2 years after
+314 the most recent noise violation, which for the purposes of this subsection shall be considered a
+315 1st violation, no less than $1,000;
+316 “(B) For a 2nd violation that occurs within a 2-year period, no less than
+317 $2,000;
+318 “(C) For a 3rd violation that occurs within a 3-year period, no less than
+319 $4,000;
+320 “(D) For a 4th violation that occurs within a 4-year period, no less than
+321 $6,000;
+322 “(E) For a 5th violation that occurs within a 4-year period, no less than
+323 $8,000; and
+324 “(F) For a 6th or subsequent violation within a 4-year period, no less than
+325 $10,000.
+326 “(2) For a 4th or subsequent violation of § 25-725(a) within a 2-year period, the
+327 Board may also suspend any alcoholic beverage license that the licensee holds at the premises
+328 for up to 10 consecutive days or place restrictions on, as applicable, the hours of the licensee’s
+329 entertainment endorsement, summer garden endorsement, or sidewalk café endorsement.
+330 “(3) Notwithstanding paragraph (1) of this subsection, a written warning shall be
+331 issued, in place of a fine, for a 1st violation of § 25-725(a), in which case that violation shall not
+16
+
+ENGROSSED ORIGINAL
+332 be considered a 1st violation for the purposes of paragraph (1) of this subsection. A written
+333 warning shall include a description of the violation.
+334 “(4) The licensed establishment that received a 1st violation provided in
+335 paragraph (1)(A) of this subsection shall do the following within 60 days of receipt of the
+336 violation:
+337 “(A) Attend the new licensee and general public orientation class provided
+338 in § 25–212, if it has not already attended such class; and
+339 “(B) Engage with ABCA to mitigate the noise that was the subject of the
+340 1st violation, including conducting sound level testing, consulting with an acoustical engineer to
+341 evaluate how loud sound can be played that is not in violation of subsection (a) of this section,
+342 hanging subwoofers, using a sound-limiting device to calibrate speakers to an appropriate level
+343 of sound, and assessing the establishment’s eligibility for a grant for soundproofing upgrades
+344 provided pursuant to The Harmonious Living Amendment Act of 2024 (D.C. Law 25-318, D.C.
+345 Official Code § 6-1455.03).
+346 “(5) ABCA shall notify a resident who has made a non-anonymous complaint that
+347 ABCA issued a written warning to the establishment that was the subject of the complaint.
+348 “(6) A violation of § 25-725(a) shall be a secondary tier violation under the
+349 schedule of civil fines established by the Board pursuant to subsections (a) and (b) of this
+350 section.”.
+17
+
+ENGROSSED ORIGINAL
+351 Sec. 3. The Harmonious Living Amendment Act of 2024 (D.C. Law 25-318, D.C.
+352 Official Code § 6-1455.03) is amended as follows:
+353 (a) Section 2(1) (D.C. Official Code § 6-1455.01(1)) is amended to read as follows:
+354 “(1) “Activity area” includes:
+355 “(A) Any parcel or lot within, or with exterior boundaries abutting, the
+356 following zones as defined in Title 11 of the District of Columbia Municipal Regulations:
+357 “(i) ARTS-1 through ARTS-4;
+358 “(ii) MU-4 through MU-29;
+359 “(iii) NC-6 through NC-16;
+360 “(iv) D-1 through D-8; and
+361 “(v) Any Production, Distribution, and Repair (PDR) zone;
+362 “(B) Any successor zone district with development standards comparable
+363 to those established in sub-paragraph (A), as determined by the Zoning Commission; and
+364 “(C) Any other zone districts or areas designated by the Mayor.”.
+365 (b) Section 3 (D.C. Official Code § 6-1455.02) is amended to read as follows:
+366 “Sec. 3. Sound level reduction design requirements rulemaking.
+367 “(a) No later than February 1, 2028, the Department of Buildings shall promulgate rules
+368 amending the Construction Codes to establish sound level reduction design requirements for any
+369 new residential property construction within an activity area or an entertainment area. Such
+370 requirements shall be based on the rating of building materials as set forth in the Classification
+18
+
+ENGROSSED ORIGINAL
+371 for Rating Sound Insulation (ASTM E413), the Standard Classification for Rating Outdoor-
+372 Indoor Sound Attenuation (ASTM E1332), or another similar or successor standard.”.
+373 (c) The lead-in language of section 4(a) (D.C. Official Code § 6-1455.03(a)) is amended
+374 to read as follows:
+375 “(a) Beginning on January 1, 2028, the owner of a residential property or dwelling unit
+376 located in an entertainment area or activity area shall disclose to any purchaser or tenant of the
+377 residential property or dwelling unit:”.
+378 (d) Section 5(a) (D.C. Official Code § 6-1455.04(a)) is amended by striking the phrase
+379 “No later than one year after the applicability date of this act, the Mayor shall” and inserting the
+380 phrase “The Mayor is authorized to” in its place.
+381 (e) Section 7(a) is amended to read as follows:
+382 “(a) Section 6 shall apply upon the date of inclusion of their fiscal effect in an approved
+383 budget and financial plan.”.
+384 Sec. 4. Fiscal impact statement.
+385 The Council adopts the fiscal impact statement in the committee report as the fiscal
+386 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+387 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+388 Sec. 5. Effective date.
+389 This act shall take effect following approval by the Mayor (or in the event of veto by the
+390 Mayor, action by the Council to override the veto), a 30-day period of congressional review as
+19
+
+ENGROSSED ORIGINAL
+391 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+392 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of
+393 Columbia Register.
+20

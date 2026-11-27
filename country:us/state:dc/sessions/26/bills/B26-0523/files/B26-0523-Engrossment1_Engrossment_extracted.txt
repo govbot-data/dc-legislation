@@ -1,0 +1,99 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3 26-523
+4
+5
+6 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+7
+8 __________________
+9
+10 To amend the Department of Health Care Finance Establishment Act of 2007 to require the
+11 Department of Health Care Finance to develop a single, centralized application process
+12 for providers seeking to be credentialed or recredentialed with a managed care
+13 organization, to set timeframes and notice requirements for the Department of Health
+14 Care Finance to respond to applications and notify managed care organizations, to require
+15 transferal of credentialing status if a provider changes employers, and to ensure a
+16 complete application is consistent with the standards set forth in Title I of the Health
+17 Insurers and Credentialing Intermediaries Uniform Credentialing Form Act of 2022.
+18
+19 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+20 act may be cited as the “Streamlining Medicaid Credentialing Amendment Act of 2026”.
+21 Sec. 2. The Department of Health Care Finance Establishment Act of 2007, effective
+22 February 27, 2008 (D.C. Law 17-109; D.C. Official Code § 7-771.01 et seq.), is amended as
+23 follows:
+24 (a) Section 2 (D.C. Official Code § 7-771.01) is amended by adding a new paragraph (9)
+25 to read as follows:
+26 “(9) “Provider” shall have the same meaning as provided in section 2(7) of the
+27 Prompt Pay Act of 2002, effective July 23, 2002 (D.C. Law 14-176; D.C. Official Code § 31-
+28 3131(7)).”.
+29 (b) A new section 8e is added to read as follows:
+1
+
+ENGROSSED ORIGINAL
+30 “Sec. 8e. Medicaid provider consolidated credentialing.
+31 “(a) By no later than January 1, 2028, the Mayor shall develop and establish a single,
+32 consolidated, and uniform application process for a provider seeking to be credentialed or
+33 recredentialed with a managed care organization (“MCO”) under the District’s Medicaid
+34 program.
+35 “(b) A provider whose credentials are approved by the Department shall be deemed
+36 credentialed with all MCOs, and an MCO may not require a provider to
+37 be separately credentialed by that MCO in order to receive reimbursement.
+38 “(c) Notwithstanding any other provision of this section, the Department may not require
+39 a provider to submit a recredential application solely because the provider’s:
+40 “(1) Federal tax identification number changes;
+41 “(2) Employer’s federal tax identification number changes; or
+42 “(3) Employer changes; provided, that their new employer is a participating
+43 provider on one of the District’s MCO provider panels.
+44 “(d)(1) The Department shall issue a credentialing or recredentialing determination to the
+45 provider within 30 days of receiving a complete application; except, that, if the Department
+46 requires additional time beyond the 30 days to render its decision, the Department shall notify
+47 the provider and provide an estimated date of determination.
+48 “(2) If the Department receives an incomplete application, the Department shall
+49 return the application to the provider at the address listed in the application within 10 days of
+2
+
+ENGROSSED ORIGINAL
+50 receiving the application and notify the provider on the information missing from their
+51 application.
+52 “(e) The Department shall provide the approved application to the MCOs concurrently
+53 with the Department’s issuance of credentials or recredentials to the provider.
+54 “(f) An MCO shall upload provider information on all applicable billing platforms,
+55 including any subcontractors and vendors, within 7 business days of receiving a provider’s
+56 approved credentials or recredentials from the Department.
+57 “(g) The Department shall work with the Department of Insurance, Securities, and
+58 Banking to ensure that the application form established by this section is consistent with the form
+59 established by Title I of the Health Insurers and Credentialing Intermediaries Uniform
+60 Credentialing Form Act of 2022, effective April 13, 2022 (D.C. Law 14-96; D.C. Official Code §
+61 31-3251 et seq.).
+62 Sec. 3. Fiscal impact statement.
+63 The Council adopts the fiscal impact statement in the committee report as the fiscal
+64 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+65 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+66 Sec. 4. Applicability
+67 (a) This act shall apply on the date of its fiscal effect in an approved budget and financial
+68 plan.
+3
+
+ENGROSSED ORIGINAL
+69 (b) The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in
+70 an approved budget and financial plan and provide notice to the Budget Director of the Council
+71 of the certification.
+72 (c)(1) The Budget Director shall cause the notice of the certification to be published in
+73 the District of Columbia Register.
+74 (2) The date of publication of the notice of the certification shall not affect the
+75 applicability of this act.
+76 Sec. 5. Effective date.
+77 This act shall take effect following approval by the Mayor (or in the event of veto by the
+78 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+79 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+80 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+4

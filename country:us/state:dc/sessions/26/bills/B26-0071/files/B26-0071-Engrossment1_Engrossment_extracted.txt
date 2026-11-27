@@ -1,0 +1,184 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+1 A BILL
+2
+3
+4 26-71
+5
+6 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+7
+8 ___________________________
+9
+10 To enact the Uniform Unregulated Child Custody Transfer Act, to regulate
+11 the transfer of the custody of a child by a parent, guardian, or custodian to someone
+12 beyond family members or other specified categories of individuals; to prohibit the use of
+13 advertising or solicitation to identify a prospective transferee of the child; to provide the
+14 Child and Family Services Agency and Attorney General for the District of Columbia with
+15 authority to investigate violations of the act; to provide criminal penalties for violating the
+16 act, prosecutable by the Attorney General; and for other purposes.
+17
+18 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+19 act may be cited as the “Uniform Unregulated Child Custody Transfer Act of 2025”.
+20 Sec. 2. Title 16 of the District of Columbia Official Code is amended as follows:
+21 (a) The table of contents is amended by adding at the end thereof the phrase "57. Uniform
+22 Unregulated Child Custody Transfer Act".
+23 (b) The following new Chapter 57 is added:
+24 "Chapter 57. Uniform Unregulated Child Custody Transfer Act
+25 "Part 1. General Provisions.
+26 “16-5701.01. Short title.
+27 “16-5701.02 Definitions.
+28 “16-5701.03 Limitation on applicability.
+1
+
+ENGROSSED ORIGINAL
+29 “Part 2. Prohibition of Unregulated Custody Transfer
+30 “16-5702.01. Definitions
+31 “16-5702.02. Applicability
+32 “16-5702.03. Prohibited custody transfer.
+33 “16-5702.04. Authority and responsibility of Child and Family Services Agency.
+34 “16-5702.05. Prohibited soliciting or advertising.
+35 “16-5702.06. Enforcement
+36 “Part 3. Miscellaneous Provisions.
+37 “16-5703.01. Uniformity of application and construction
+38 “16-5703.02. Relation to Electronic Signatures in Global and National Commerce Act.
+39 “16-5703.02 Transitional provision.
+40 “Part 1. General Provisions.
+41 “§ 16-5701.01. Short title.
+42 “This chapter may be cited as the Uniform Unregulated Child Custody Transfer Act.
+43 “§ 16-5701.02. Definitions.
+44 In this chapter:
+45 “(1) “Child means an unemancipated individual who is less than 18 years of age.
+46 “(2) “Child-placing agency” means the term as defined in Section 2(a) of An Act To
+47 regulate the placing of children in family homes, and for other purposes, approved April 22,
+2
+
+ENGROSSED ORIGINAL
+48 1944 (58 Stat. 193; D.C. Official Code § 4–1402(a). The term does not include a parent of the
+49 child.
+50 “(3) “Custody” means the exercise of physical care and supervision of a child.
+51 “(4) “District” means the District of Columbia.
+52 “(5) “Intercountry adoption” means an adoption or placement for adoption of a child who
+53 resides in a foreign country at the time of adoption or placement. The term includes an adoption
+54 finalized in the child’s country of residence or in a state.
+55 “(6) “Parent” means an individual recognized as a parent under District law.
+56 “(7) “Person” means an individual, estate, business or nonprofit entity, public
+57 corporation, government or governmental subdivision, agency, or instrumentality, or other legal
+58 entity.
+59 “(8) “Record” means information:
+60 “(A) Inscribed on a tangible medium; or
+61 “(B) Stored in an electronic or other medium and retrievable in perceivable form.
+62 “(9) “State” means a state of the United States, the District of Columbia, Puerto Rico, the
+63 United States Virgin Islands, or any other territory or possession subject to the jurisdiction of the
+64 United States. The term includes a federally recognized Indian tribe.
+65 “§ 16-5701.03 Limitation on applicability
+66 “This chapter does not apply to custody of an Indian child, as defined in Section 4(4) of
+3
+
+ENGROSSED ORIGINAL
+67 the Indian Child Welfare Act of 1978, 25 U.S.C. § 1903(4), to the extent custody is governed by
+68 the Indian Child Welfare Act of 1978, 25 U.S.C. § 1901 to 1963.
+69 “Part 2. Prohibition of Unregulated Custody Transfer.
+70 “§ 16-5702.01 Definitions.
+71 “In this part:
+72 “(1) “Custodian” means a custodian under other District law.
+73 “(2) “Guardian” means a person recognized as a guardian under District Law.
+74 “(3) “Intermediary” means a person that assists or facilitates a transfer of custody of a
+75 child, whether or not for compensation.
+76 “§ 16-5702.02. Applicability
+77 “This part does not apply to a transfer of custody of a child by a parent, guardian, or
+78 custodian of the child to:
+79 “(1) A parent of the child”
+80 “(2) A stepparent of the child;
+81 “(3) An adult who is related to the child by blood, marriage, or adoption”
+82 “(4) An adult who, at the time of the transfer, had a close relationship with the child or
+83 the parent, guardian, or custodian of the child for a substantial period, and whom the parent,
+84 custodian, or guardian reasonably believes, at the time of the transfer, to be a fit custodian of the
+85 child;
+4
+
+ENGROSSED ORIGINAL
+86 “(5) An Indian custodian, as defined in Section 4(6) of the Indian Child Welfare Act of
+87 1978, 25 U.S.C. § 1903(6), of the child.
+88 “§16-5702.03. Prohibited custody transfer.
+89 “(a) Except as provided in subsection b), a parent, guardian, or custodian of a child or an
+90 individual with whom a child had been placed for adoption may not transfer custody of the child
+91 to another person with the intent, at the time of the transfer, to abandon the rights and
+92 responsibilities concerning the child.
+93 “(b) A parent, guardian, or custodian of a child or an individual with whom a child has
+94 been placed for adoption may transfer custody of the child to another person with the intent, at
+95 the time of transfer, to abandon the rights and responsibilities concerning the child only through:
+96 “(1) Adoption or guardianship;
+97 “(2) Judicial award of custody;
+98 “(3) Placement by or through a child-placing agency; or
+99 “(4) the Newborn Safe Haven Amendment Act of 2010 (D.C. Law 18-158; D.C.
+100 Official Code § 4-1451.01 et seq.)
+101 “c) A person may not receive custody of a child, or act as an intermediary in a transfer of
+102 custody of a child, if the person knows or reasonably should know the transfer violates
+103 subsection (a). This prohibition does not apply if the person, as soon as practicable after the
+104 transfer, notifies the Child and Family Services Agency, the Metropolitan Police Department, or
+105 Attorney General of the District of Columbia of the transfer or takes appropriate action to
+5
+
+ENGROSSED ORIGINAL
+106 establish custody under subsection (b) of this section.
+107 “(d) Violation of this section is a misdemeanor, punishable by imprisonment for up to six
+108 months and a fine of up to $10,000.
+109 “(e) Violation of subsection (a) of this section is not established solely because a parent,
+110 guardian, or custodian that transfers custody of a child does not regain custody.
+111 “§ 16-5703.04. Authority and responsibility of Child and Family Services Agency.
+112 “(a) If the Child and Family Services Agency has a reasonable basis to believe that a
+113 person has transferred or will transfer custody of a child in violation of § 16-5702.03(a), the
+114 Child and Family Services Agency may conduct an unregulated transfer of child custody home
+115 visit and take appropriate action to protect the welfare of the child.
+116 “(b) If the Child and Family Services Agency conducts a home visit for a child adopted
+117 or placed through an intercountry adoption, the Agency shall:
+118 “(1) Prepare a report on the welfare and plan for permanent placement of the child; and
+119 “(2) Provide a copy to the United States Department of State,
+120 “ (c) This chapter does not prevent the Child and Family Services Agency from taking
+121 appropriate action under other District law.
+122 “§ 16-5702.05. Prohibited soliciting or advertising.
+123 “(a) A person may not solicit or advertise to:
+124 “(1) Identify a person to which to make a transfer of custody in violation of § 16-
+6
+
+ENGROSSED ORIGINAL
+125 5702.03(a);
+126 “(2) Identify a child for a transfer of custody in violation of § 16-5702.03(c).
+127 “(b) Violation of this section is a misdemeanor, punishable by imprisonment for up to six
+128 months and a fine of up to $10,000.
+129 “§ 16-5702.6 Enforcement.
+130 “The Attorney General of the District of Columbia may investigate a possible violation of
+131 this part and take legal action as provided by District law.
+132 “Part 3. Miscellaneous Provisions.
+133 “§ 16-5703.01. Uniformity of application and construction.
+134 “In applying and construing this uniform act, a court may consider the promotion of
+135 uniformity of the law among jurisdictions that enact it.
+136 “§ 16-5703.02. Relation to Electronic Signatures in Global and National Commerce Act.
+137 “This chapter modifies, limits, or supersedes the Electronic Signatures in Global and
+138 National Commerce Act, 15 U.S.C. § 7001 et seq., but does not modify, limit, or supersede 15
+139 U.S.C. § 7001(c)), or authorize electronic delivery of any of these notices described in 15 U.S.C.
+140 § 7003(b)).
+141 “ § 16-5703.03. Transitional provision.
+142 “Part 2 of this chapter applies to:
+143 “(1) A transfer of custody on or after the effective date of this chapter; and
+7
+
+ENGROSSED ORIGINAL
+144 “(2) Soliciting or advertising on or after the effective date of this chapter.”
+145 Section 3. Fiscal impact statement.
+146 The Council adopts the attached fiscal impact statement as the fiscal impact statement
+147 required by section 4a of the General Legislative Procedures Act of 1975, approved October 16,
+148 2006 (120 Stat. 2038; D.C. Official Code § 1-1301.47a).
+149 Sec. 302. Effective date.
+150 This act shall take effect following approval by the Mayor (or in the event of veto by the
+151 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+152 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+153 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+8

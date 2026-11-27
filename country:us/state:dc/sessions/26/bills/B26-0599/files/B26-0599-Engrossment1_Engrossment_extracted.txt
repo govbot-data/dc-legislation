@@ -1,0 +1,116 @@
+Title: 
+Official Title: 
+Source: versions - Engrossment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENGROSSED ORIGINAL
+A BILL
+26-599
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+_________________________
+1 To amend An Act To classify the officers and members of the fire department of the District of
+2 Columbia, and for other purposes to clarify the duties and responsibilities of the Medical
+3 Director; and to amend the Office of Unified Communications Establishment Act of 2004
+4 to add certification requirements for call takers and dispatchers within the Office of
+5 Unified Communications.
+6
+7 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+8 act may be cited as the “Emergency Medical Services Clarification Amendment Act of 2026”.
+9 Sec. 2. Section 3a of An Act To classify the officers and members of the fire department
+10 of the District of Columbia, and for other purposes, effective April 15, 2008 (D.C. Law 17-147;
+11 D.C. Official Code § 5-404.01), is amended as follows:
+12 (a) Subsection (d) is amended to read as follows:
+13 “(d) The Medical Director shall:
+14 “(1) Provide medical oversight, supervision, and final decision-making for all
+15 clinical aspects of pre-hospital emergency medical services provided by the Department and the
+16 Office of Unified Communications (“the Office”), including:
+1
+
+ENGROSSED ORIGINAL
+17 “(A) Written policies, procedures, and protocols, including dispatch
+18 protocols and response-plans, for communicating with members of the public and emergency
+19 medical services providers regarding pre-hospital medical care and other emergency services;
+20 “(B) Medical training;
+21 “(C) Reporting of performance metrics, including EMS dispatch
+22 performance metrics;
+23 “(D) Replacing, revising, or otherwise editing of the Office’s dispatch
+24 system; and
+25 “(E) Quality assurance of EMS dispatch and emergency medical services,
+26 including implementation and supervision of quality assurance programs and quality
+27 improvement programs;
+28 “(2) On an annual basis, publish and transmit to the Council Committee with
+29 jurisdiction over the Office, a summary of quality-assurance findings, categories of error, and
+30 programmatic corrective actions, without identifying any patient, caller, or employee;
+31 “(3) Supervise the administration of pre-hospital medical care;
+32 “(4) Work collaboratively with the Office Director and other personnel of the
+33 Office, Fire Chief, Assistant and Deputy Fire Chiefs, and other personnel in the Department; and
+34 “(5) Provide recommendations to the Mayor on the overall performance of the
+35 Office and the Department.”.
+36 (b) A new subsection (d-1) is added to read as follows:
+2
+
+ENGROSSED ORIGINAL
+37 “(d-1) For the purposes of subsection (d) of this section, the term:
+38 “(1) “Quality assurance program” means a process taken to ensure that standards
+39 and procedures are adhered to and that delivered products or services meet performance
+40 requirements.
+41 “(2) “Quality improvement program” means an organized system that assesses
+42 and evaluates the process to improve the quality of services provided.”.
+43 Sec. 3. The Office of Unified Communications Establishment Act of 2004, effective
+44 December 7, 2004 (D.C. Law 15-205; D.C. Official Code § 1-327.51 et seq.), is amended by
+45 adding a new section 3205e to read as follows:
+46 “Sec. 3205e. Emergency Medical, Police, and Fire Dispatch certification.
+47 “(a) The Office shall require that all Office call takers and dispatchers obtain Emergency
+48 Fire Dispatch certification, Emergency Medical Dispatch certification, and Emergency Police
+49 Dispatch certification within one year after being hired.
+50 “(b) The Office shall require that all call takers and dispatchers already employed in the
+51 Office obtain Emergency Fire Dispatch certification, Emergency Medical Dispatch certification,
+52 and Emergency Police Dispatch within one year after the applicability date of the Emergency
+53 Medical Services Clarification Amendment Act of 2026, approved by the Committee on the
+54 Judiciary and Public Safety on DATE, 2026 (Committee print of Bill 26-XXX).
+55 “(c) For the purposes of this section, the term:
+56 “(1) “Emergency Fire Dispatch certification” means a specialized public safety
+3
+
+ENGROSSED ORIGINAL
+57 designation, which shall be approved by the Chief of the Fire and Emergency Medical Services
+58 Department, that authorizes telecommunicators to perform analysis, prioritization, and
+59 processing of calls while maintaining radio contact with responders to ensure safe, efficient, and
+60 effective responses to requests for fire services, in accordance with local, state, or national
+61 standards.
+62 “(2) “Emergency Medical Dispatch certification” means a specialized public
+63 safety designation, which shall be approved by the Medical Director of the Fire and Emergency
+64 Medical Services Department, that authorizes telecommunicators to perform medical triage and
+65 provide life-saving pre-arrival instructions under the authority of the Medical Director, ensuring
+66 a standardized, scientifically-validated response to medical emergencies.
+67 “(3) “Emergency Police Dispatch certification” means a specialized public safety
+68 designation, which shall be approved by the Chief of the Metropolitan Police Department, that
+69 authorizes telecommunicators to perform analysis, prioritization, and processing of calls while
+70 maintaining radio contact with responders to ensure safe, efficient, and effective responses to
+71 requests for law enforcement services, in accordance with local, state, or national standards.”.
+72 Sec. 4. Applicability.
+73 (a) This act shall apply upon the date of inclusion of its fiscal effect in an approved
+74 budget and financial plan.
+4
+
+ENGROSSED ORIGINAL
+75 (b) The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in
+76 an approved budget and financial plan, and provide notice to the Budget Director of the Council
+77 of the certification.
+78 (c)(1) The Budget Director shall cause the notice of the certification to be published in
+79 the District of Columbia Register.
+80 (2) The date of publication of the notice of the certification shall not affect the
+81 applicability of this act.
+82 Sec. 5. Fiscal impact statement.
+83 The Council adopts the fiscal impact statement in the committee report as the fiscal
+84 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+85 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+86 Sec. 6. Effective date.
+87 This act shall take effect after approval by the Mayor (or in the event of veto by the
+88 Mayor, action by the Council to override the veto) and a 30-day period of congressional review
+89 as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December
+90 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).
+5

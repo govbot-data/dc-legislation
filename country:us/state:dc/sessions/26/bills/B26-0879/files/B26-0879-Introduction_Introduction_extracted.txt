@@ -1,0 +1,171 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+
+================================================================================
+
+1 ________________________
+2 Councilmember Charles Allen
+3
+4
+5 A BILL
+6
+7 ________
+8
+9 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+10 ________________
+11
+12
+13 To amend, on an emergency basis, Title II of the District of Columbia Comprehensive Bicycle
+14 Transportation and Safety Act of 1984 to require that electric bicycles, electric mobility
+15 devices, and traction batteries manufactured, distributed, sold, or offered for lease or rent
+16 in the District meet certain safety standards; to amend the District of Columbia Traffic Act,
+17 1925 to make conforming amendments; to amend the Department of Transportation
+18 Establishment Act of 2002 to authorize the Director of the District Department of
+19 Transportation to develop policies for the safe use of electric bicycles, motorized bicycles,
+20 and electric mobility devices; and for other purposes.
+21
+22 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+23 act may be cited as the “Micromobility Fire Safety Standards Emergency Amendment Act of
+24 2026”.
+25 Sec. 2. Title II of the District of Columbia Comprehensive Bicycle Transportation and
+26 Safety Act of 1984, effective May 1, 2008 (D.C. Law 17-149; D.C. Official Code § 50-1611 et
+27 seq.), is amended by adding a new section 203 to read as follows:
+28 “Sec. 203. Requirements for manufacturer, distribution, sale, lease, rent of micromobility
+29 and traction batteries.
+30 “(a) For the purposes of this section, the term:
+31 “(1) “Certification” means the attestation by a certification body, indicated by a
+32 certification mark on the equipment, device, or product, that the equipment, device, or product has
+33 been evaluated, tested, and found to conform to the standards specified in section 3.
+
+34 “(2) “Certification body” means an independent third-party organization providing
+35 certification for micromobility devices that:
+36 “(A) Is recognized by the U.S. Department of Labor’s Occupational Safety
+37 and Health Administration (“OSHA”) as a Nationally Recognized Testing Laboratory; or
+38 “(B) Has received ISO/IEC 17065 accreditation from an independent
+39 accreditation body that is a member of the Global Accreditation Cooperation Incorporated, or any
+40 successor organization.
+41 “(3) “Certification mark” means a mark of conformity owned by a certification
+42 body and registered with the U.S. Patent and Trademark Office that is visible and affixed to a
+43 product that has received certification.
+44 “(4) “Electric bicycle” shall have the same meaning as provided in section 2(6A)
+45 of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official
+46 Code § 50-2201.02(6A)).
+47 “(5) “Electric mobility device” shall have the same meaning as provided in section
+48 2(6B) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C.
+49 Official Code § 50-2201.02(6B)).
+50 “(6) “Micromobility device” means an electric bicycle or electric mobility device.
+51 “(7) “Nationally Recognized Testing Laboratory” means an organization that meets
+52 the qualifications provided in 29 C.F.R. § 1910.7(b) and is recognized as a Nationally Recognized
+53 Testing Laboratory by the Occupational Safety and Health Administration.
+
+54 “(8) “SFD operating company” shall have the same meaning as provided in section
+55 2(14C) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C.
+56 Official Code § 50-2201.02(14C)).
+57 “(9) “Traction battery” means a rechargeable battery used to power the electric
+58 motors of a micromobility device.
+59 “(b) All micromobility devices, and traction batteries for such devices, that are
+60 manufactured, distributed, sold, or offered for lease or rent in the District shall meet the following
+61 safety standards:
+62 “(1) Electric bicycles shall be evaluated, tested, and certified to UL 2849 or EN
+63 15194 and bear the certification mark, except, that for 6 months following the effective date of the
+64 Micromobility Fire Safety Standards Amendment Act of 2026, passed on 2nd reading on
+65 September 22, 2026 (Enrolled version of Bill 26-244), an SFD operating company may satisfy the
+66 requirements of this paragraph by evaluating, testing, and certifying any electric bicycles offered
+67 for rental or lease to UL 2272;
+68 “(2) Electric mobility devices shall be evaluated, tested, and certified to UL 2272
+69 and bear the certification mark; and
+70 “(3) Traction batteries for use in micromobility devices shall be evaluated, tested,
+71 and certified to UL 2271 or EN 50604 and bear the certification mark.
+72 “(c) Notwithstanding subsection (b) of this section, a micromobility device or traction
+73 batteries may not display a certification mark if:
+74 “(1)(A) The micromobility device or the traction battery is offered for rental or
+75 lease by an SFD operating company or by the Capital Bikeshare program; and
+
+76 “(B) The SFD operating company or the Capital Bikeshare program has
+77 provided documentation to DDOT establishing that the electric bicycle, electric mobility device,
+78 or traction battery meets the applicable safety standard as described in subsection (b) of this
+79 section; or
+80 “(2) The micromobility device is being offered for a secondhand sale.
+81 “(d) Evaluation, testing, and certification of any standard listed in subsection (b) of this
+82 section shall be performed by a certification body.”.
+83 Sec. 3. Section 2 of the District of Columbia Traffic Act, 1925, approved March 3, 1925
+84 (43 Stat. 1119; D.C. Official Code § 50-2201.02), is amended as follows:
+85 (a) Paragraph (6A) is redesignated as paragraph (6B).
+86 (b) A new paragraph (6A) is added to read as follows:
+87 “(6A) Electric bicycle” means a vehicle with:
+88 “(A) A post-mounted seat or saddle;
+89 “(B) Two or 3 wheels that are in contact with the ground;
+90 “(C) Fully operative pedals for human propulsion; and
+91 “(D) One or more electric motors to either assist the rider when pedaling or
+92 provide motive power to the wheels when the rider is not pedaling.”.
+93 (c) Paragraph (6B)(A) is amended to read as follows:
+94 “(6B)(A) “Electric mobility device” means a mobility device with a rechargeable
+95 electric drive train that propels the rider, and which may be provided with a handle for grasping
+96 while riding, regardless of whether the device is self-balancing or if the rider may or may not be
+97 seated.”.
+
+98 (d) Paragraph (11) is amended to read as follows:
+99 “(11)(A) “Motor vehicle” means any vehicle propelled by internal combustion
+100 engines, electricity, or steam.
+101 “(B) The term “motor vehicle” shall not include motorized bicycles, traction
+102 engines, road rollers, vehicles propelled only upon rails or tracks, electric mobility devices,
+103 personal mobility devices, and a battery-operated wheelchair when operated by a person with a
+104 disability.”.
+105 Sec 4. Section 4(a)(1)(K) of the Department of Transportation Establishment Act of 2002,
+106 effective May 21, 2002 (D.C. Law 14-137; D.C. Official Code § 50-921.04(a)(1)(k)), is amended
+107 to read as follows:
+108 “(K) Develop policies and programs to encourage and provide for the safe
+109 use of bicycles, electric bicycles, motorized bicycles, and electric mobility devices, as those terms
+110 are defined in section 2 of the District of Columbia Traffic Act of 1925, approved March 3, 1925
+111 (43 Stat. 1119; D.C. Official Code § 50-2201.02), for recreation, commercial use, and work-related
+112 travel, including planning, developing, operating, and regulating a Bicycle Sharing program, and
+113 administering the Bicycle Sharing Fund established by section 9h to fund a Bicycle Sharing
+114 program;”.
+115 Sec. 5. Subsection 3399.1 of Title 24 of the District of Columbia Municipal Regulations
+116 (24 DCMR § 3399.1) is amended by striking the phrase “Electric mobility device – A device
+117 weighing less than seventy-five (75) pounds that has an electric motor, is solely powered by the
+118 electric motor or human power, is designed to transport only one (1) person in a standing or seated
+119 position, where the rider is not enclosed, and is no greater than twenty-four (24) inches wide and
+
+120 fifty-five (55) inches long, but does not include a motorized bicycle, personal mobility device,
+121 motorcycle, or moped.” and inserting the phrase “Electric mobility device – a mobility device with
+122 a rechargeable electric drive train that propels the rider, and which may be provided with a handle
+123 for grasping while riding, regardless of whether the device is self-balancing or if the rider may or
+124 may not be seated.” in its place.
+125 Sec. 6. Subsection 9901.1 of Title 18 of the District of Columbia Municipal Regulations
+126 (18 DCMR § 9901.1), is amended as follows:
+127 (a) Strike the phrase “Electric mobility device – a device weighing less than seventy-five
+128 (75) pounds that has an electric motor, is solely powered by the electric motor or human power, is
+129 designed to transport only one (1) person in a standing or seated position, where the rider is not
+130 enclosed, and is no greater than twenty-four (24) inches wide and fifty-five (55) inches long, but
+131 does not include a motorized bicycle, personal mobility device, motorcycle, moped, or motor-
+132 driven cycle.” and insert the phrase “Electric mobility device – a mobility device with a
+133 rechargeable electric drive train that propels the rider, and which may be provided with a handle
+134 for grasping while riding, regardless of whether the device is self- balancing or if the rider may or
+135 may not be seated” in its place.
+136 (b) Strike the phrase “Motor Vehicle - any vehicle propelled by internal-combustion
+137 engine, electricity, or steam, including any non-operational vehicle that is being restored or
+138 repaired. The term “motor vehicle” shall not include road rollers, farm tractors, vehicles propelled
+139 only upon stationary rails or tracks, electric personal assistive mobility devices, and battery-
+140 operated wheelchairs when operated by a handicapped person at speeds not exceeding 10 miles
+141 per hour.” and insert the phrase “Motor Vehicle - any vehicle propelled by internal-combustion
+
+142 engines, electricity, or steam. The term “motor vehicle” shall not include motorized bicycles,
+143 traction engines, road rollers, vehicles propelled only upon rails or tracks, electric mobility devices,
+144 personal mobility devices, or a battery- operated wheelchair when operated by a person with a
+145 disability” in its place.
+146 Sec. 7. Fiscal impact statement.
+147 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+148 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+149 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+150 Sec. 8. Effective date.
+151 This act shall take effect following approval by the Mayor (or in the event of veto by the
+152 Mayor, action by the Council to override the veto) and shall remain in effect for no longer than 90
+153 days, as provided for emergency acts of the Council of the District of Columbia in section 412(a)
+154 of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788; D.C.
+155 Official Code § 1-204.12(a)).
+156 Sec. 9. Sunset.
+157 This act shall expire on the effective date of the Micromobility Fire Safety Standards
+158 Amendment Act of 2026 (A26-0420; 73 DCR 13450).

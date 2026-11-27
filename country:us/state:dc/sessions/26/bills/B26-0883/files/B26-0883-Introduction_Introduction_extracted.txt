@@ -1,0 +1,2479 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+November 16, 2026
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, D.C. 20004
+Dear Chairman Mendelson:
+Enclosed for consideration by the Council of the District of Columbia is the “Banking Code
+Modernization Amendment Act of 2026” (“Bill”). The purpose of the Bill is to repeal the Money
+Transmitters Act of 2000 and replace it with updated standards reflective of technological and
+industry changes while enhancing consumer protection safeguards. It will also amend the
+Securities Act of 2000 to create mandatory reporting requirements for suspected financial
+exploitation of vulnerable adults and update technical aspects of the student loan servicing laws
+and appraisal management laws.
+The updated money transmitters sections of the Bill are based on a Conference of State Bank
+Supervisors model act that has been adopted by several states, but this version was modified to
+include common licensing and regulatory standards that will add efficiencies and enhance
+consumer protection. The Bill also includes updated definitions applicable to money transmitters
+and clarifies the licensing process. Further, the Bill adds safety and soundness requirements
+including net worth, surety bond, and permissible investments. Additionally, the Bill enables
+multistate licensing and multistate supervision and clarifies that virtual currency is included in
+money transmission.
+I urge the Council to take prompt and favorable action on the Bill. If you have any questions,
+please have your staff contact Samuel Fuller, Associate Commissioner for Banking at the D.C.
+Department of Insurance, Securities and Banking at 202-442-7839.
+Sincerely,
+Muriel Bowser
+Enclosures
+
+#~.w?-
+1
+2 ChairmanPhil Mendelson
+3 at the request of the Mayor
+4
+5
+6 A BILL
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15 To amend the Securities Act of2000 to create mandatory reporting requirements for
+16 suspected financial exploitation of eligible vulnerable adults, to provide broker
+17 dealers and investment advisers with the authority to delay disbursing funds for
+18 up to 15 business days and immunity if the broker-dealer or investment adviser
+19 believes in good faith that disbursement would result in financial exploitation, and
+20 to require broker-dealers and investment advisers to comply with requests from
+21 government agencies in cases of suspected financial exploitation; to amend the
+22 Department of Insurance and Securities Regulation Establishment Act of 1996 to
+23 add definitions for student loan products including income share agreements and
+24 installment loans; to expand reporting requirements for student loan servicers; to
+25 add requirements for student loan servicers related to information and complaint
+26 response times; to clarify borrower rights to access their data and records; and to
+27 clarify rulemaking authority; to repeal the Money Transmitters Act of 2000 and
+28 replace it with updated standards reflective of technological and industry changes;
+29 to update definitions applicable to money transmitters; to clarify the licensing
+30 process for money transmitters; to add safety and soundness requirements,
+31 including net worth, surety bond, and permissible investments; to enable
+32 multistate licensing; to enable multistate supervision; and to clarify that virtual
+33 currency is included in money transmission when received for transmission; to
+34 amend the Appraisal Management Company Regulation Act of 2020 to define
+35 creditor and add clarifying provisions; and to add rulemaking authority.
+36
+37 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA,
+38 that this act may be cited as the "Banking Code Modernization Amendment Act of
+39 2026".
+
+40 TITLE I. FINANCIAL EXPLOITATION OF OLDER AND VULNERABLE
+41 ADULTS.
+42 Sec. 101. Short title.
+43 This act may be cited as the “Senior Safe Act of 2026”.
+44 Sec. 102. Definitions.
+45 (1) “Adult Protective Services” or “APS” means Adult Protective Services
+46 as overseen by the District of Columbia Department of Aging and Community Living or
+47 its successor.
+48 (2) “Depository financial institutions” means District of Columbia-
+49 chartered banks, state-chartered banks, federally chartered banks, District of Columbia-
+50 chartered credit unions, state-chartered credit unions, federally chartered credit unions,
+51 trust companies operating in the District, and any other financial institution, regardless of
+52 chartering authority, to a District of Columbia resident.
+53 (3) “Department” means the Department of Insurance, Securities &
+54 Banking.
+55 (4) “Eligible adult” means:
+56 (A) A person 65 years of age or older; or
+57 (B) An individual 18 years of age or older who:
+58 (i) Is highly vulnerable to abuse, neglect, self-neglect, or
+59 exploitation because of a physical or mental impairment, self-neglect, or incapacity; or
+60 (ii) Has recently been or is being abused, neglected, or
+61 exploited by another or meets the criteria for self-neglect.”.
+2
+
+62 (5) “Financial exploitation” means the illegal, unauthorized, or fraudulent
+63 use, or deprivation of use of the money, assets, or property of an elderly person or
+64 vulnerable adult with the intention of benefiting someone other than the elderly person or
+65 vulnerable adult.
+66 (6) “Person reasonably associated with the eligible adult" means:
+67 (A) An authorized contact provided by an eligible adult to a
+68 depository financial institution;
+69 (B) A fiduciary authorized to manage some or all of the financial
+70 affairs of an eligible adult;
+71 (C) A co-owner, additional authorized signatory or beneficiary, or
+72 other person authorized to transact business on the eligible adult’s account;
+73 (D) An attorney or financial professional known to represent or
+74 have represented with respect to, or to assist in the management of, the financial affairs of
+75 the eligible adult;
+76 (E) A parent, spouse, adult child, sibling or other known family
+77 member or close associate of an eligible adult; or
+78 (F) A person identified by the Department as associated with the
+79 eligible adult.
+80 Sec 103. Scope.
+81 All depository financial institutions that operate in the District of Columbia shall
+82 have the authority to exercise the actions related to financial exploitation under this Act.
+3
+
+83 Sec. 104. Refusal to engage in or execute a transaction, delay transaction, or
+84 refusal to disburse funds.
+85 (a) All depository financial institutions may refuse to engage in or execute a
+86 transaction, may delay a transaction, or may refuse to disburse funds if any employee or
+87 agent of the institution:
+88 (1) Believes in good faith that the transaction or disbursement may
+89 involve, facilitate, result in, or contribute to the financial exploitation of an eligible adult
+90 and believes in good faith that the person is an eligible adult; or
+91 (2) Makes or has actual knowledge that another person has made, a report
+92 to the Department or the APS hotline of the Department of Aging and Community
+93 Living, stating a good faith belief that the transaction or disbursement may involve,
+94 facilitate, result in, or contribute to the financial exploitation of an eligible adult.
+95 (b) A depository financial institution may continue to refuse to engage in or
+96 execute a transaction, delay a transaction, or refuse to disburse funds for a period no
+97 longer than 30 business days after the date upon which such transaction or disbursement
+98 was initially requested based on a good faith belief that the transaction or disbursement
+99 may involve, facilitate, result in, or contribute to the financial exploitation of an eligible
+100 adult unless otherwise ordered by a court of competent jurisdiction.
+101 (c) A depository financial institution may extend the expiration date of its initial
+102 refusal or delay by an additional 30 business days if:
+103 (1) A depository financial institution, APS, a law enforcement agency, or
+104 the Department makes a request for a court order to block or extend the refused
+105 disbursement or transaction, or
+4
+
+106 (2) APS, a law enforcement agency, or the Department requests that the
+107 depository financial institution extend for a specified number of business days the
+108 expiration date of its refusal to engage in or execute a transaction, delay of a transaction,
+109 or refusal to disburse funds.
+110 Sec. 105. Reporting.
+111 (a) Upon refusing to engage in or execute a transaction, delaying a transaction, or
+112 refusing to disburse funds, the depository financial institution shall report such refusal or
+113 delay within 10 business days to the Department and APS (collectively “the agencies”).
+114 (b) The depository financial institution may report any information or records
+115 relevant to a report or investigation to the agencies and to a court-appointed guardian ad
+116 litem for the eligible adult who is the subject of the investigation.
+117 Sec. 106. Assistance by persons reasonably associated.
+118 (a) The depository financial institution may provide information regarding the
+119 suspected financial exploitation to a person reasonably associated with the eligible adult
+120 sufficient to enable the person to consult with or assist the eligible adult in avoiding or
+121 remedying the suspected financial exploitation, or exercise any fiduciary powers it
+122 possesses to protect the eligible adult, unless the financial institution has reason to believe
+123 the person is knowingly engaged in or facilitating the financial exploitation of the eligible
+124 adult.
+125 Sec. 107. Immunity.
+126 (a) Absent gross negligence or willful misconduct, the depository financial
+127 institution and its staff shall be immune from administrative, civil, or criminal liability
+128 under District law for:
+5
+
+129 (1) Providing information or records to the agencies, to a court-appointed
+130 guardian ad litem, or a party reasonably associated with the eligible adult, or
+131 (2) Refusing to engage in or execute a transaction, delaying a transaction,
+132 or refusing to disburse funds pursuant to this subsection.
+133 (b) The authority of a depository financial institution to refuse to engage in or
+134 execute a transaction, to delay a transaction, or to refuse to disburse funds pursuant to this
+135 Act shall not be contingent upon whether the depository financial institution has reported
+136 suspected financial exploitation of an eligible adult.
+137 Sec. 108. Rulemaking authority.
+138 The Mayor may adopt rules and regulations to implement the provisions of this
+139 act.
+140 Sec. 109. The Securities Act of 2000, effective October 26, 2000 (D.C. Law 13-
+141 203; D.C. Official Code § 31-5601.01 et seq.), is amended as follows:
+142 (a) Section 101 (D.C. Official Code § 31-5601.01) is amended as follows:
+143 (1) A new paragraph (9A) is added to read as follows:
+144 “(9A) “Eligible adult” means:
+145 “(A) A person 65 years of age or older; or
+146 “(B) An individual 18 years of age or older who:
+147 “(i) Is highly vulnerable to abuse, neglect, self-neglect, or
+148 exploitation because of a physical or mental impairment, self-neglect, or incapacity; or
+149 “(ii) Has recently been or is being abused, neglected, or
+150 exploited by another or meets the criteria for self-neglect.”.
+151 (2) A new paragraph (12A) is added to read as follows:
+6
+
+152 “(12A) “Financial exploitation” means:
+153 “(A) The wrongful or unauthorized taking, withholding,
+154 appropriation, or use of money, assets or property of an eligible adult; or
+155 “(B) Any act or omission taken by a person, including through the
+156 use of a power of attorney, guardianship, or conservatorship of an eligible adult, to:
+157 “(i) Obtain control, through deception, intimidation, or
+158 undue influence, over the eligible adult’s money, assets, or property to deprive the
+159 eligible adult of the ownership, use, benefit, or possession of his or her money, assets or
+160 property; or
+161 “(ii) Convert money, assets, or property of the eligible adult
+162 to deprive such eligible adult of the ownership, use, benefit, or possession of his or her
+163 money, assets, or property.”.
+164 (3) A new paragraph (26A) is added as follows:
+165 “(26A) “Qualified individual” means any agent, broker-dealer, investment
+166 adviser representative, or person who serves in a supervisory, compliance, or legal
+167 capacity for a broker-dealer or investment adviser.”.
+168 (b) A new Title IX is added to read as follows:
+169 “TITLE IX. FINANCIAL EXPLOITATION.
+170 “Sec. 901. Governmental disclosures.
+171 “If a qualified individual reasonably believes that financial exploitation of an
+172 eligible adult may have occurred, may have been attempted, or is being attempted, the
+173 qualified individual shall promptly notify Adult Protective Services within the
+174 Department of Aging and Community Living at (202) 541-3950 and the Consumer
+7
+
+175 Services Division within the Department of Insurance, Securities and Banking at (202)
+176 727-8000.
+177 “Sec. 902. Immunity for governmental disclosures.
+178 “A qualified individual that in good faith and exercising reasonable care makes a
+179 disclosure of information pursuant to section 901 shall be immune from administrative or
+180 civil liability that might otherwise arise from such disclosure or for any failure to notify
+181 the customer of the disclosure.
+182 “Sec. 903. Third-party disclosures.
+183 “If a qualified individual reasonably believes that financial exploitation of an
+184 eligible adult may have occurred, may have been attempted, or is being attempted, a
+185 qualified individual may notify any third party previously designated by the eligible adult
+186 to the broker-dealer or investment adviser. Disclosure may not be made to any designated
+187 third party that is suspected of financial exploitation or other abuse of the eligible adult.
+188 “Sec. 904. Immunity for third party disclosures.
+189 “A qualified individual who, acting in good faith and exercising reasonable care,
+190 takes action under this act, shall be immune from any civil liability that might arise from
+191 such disclosure, provided that the qualified individual has otherwise complied with all
+192 provisions of this act.
+193 “Sec. 905. Delaying transactions or disbursements.
+194 “(a) For purposes of this section, the term:
+195 “(1) “Agencies” means the Department of Insurance, Securities and
+196 Banking and the Department of Aging and Community Living.
+8
+
+197 “(2) “Business day” means any day except Saturday, Sunday, or a legal
+198 holiday.”.
+199 “(b) A broker-dealer or investment adviser may delay a transaction in connection
+200 with, or a disbursement from, an account of an eligible adult or an account on which an
+201 eligible adult is a beneficiary if:
+202 “(1) The broker-dealer, investment adviser, or qualified individual
+203 reasonably believes, after initiating an internal review of the requested transaction or
+204 disbursement and the suspected financial exploitation, that the requested transaction or
+205 disbursement may result in financial exploitation of an eligible adult; and
+206 “(2) The broker-dealer or investment adviser:
+207 “(A) Promptly, but in no event more than 2 business days after the
+208 date on which the transaction or disbursement was first delayed, provides written
+209 notification of the delay and the reason for the delay to all parties authorized to transact
+210 business on the account, unless the broker-dealer or investment adviser reasonably
+211 believes that any such party has engaged in suspected or attempted financial exploitation
+212 of the eligible adult;
+213 “(B) Promptly, but in no event more than 2 business days after the
+214 date on which the transaction or disbursement was first delayed, notifies the Agencies;
+215 and
+216 “(C) Continues its internal review of the suspected or attempted
+217 financial exploitation of the eligible adult, as necessary, and reports the investigation’s
+218 results to the Agencies within 7 business days after the completion of the review.
+9
+
+219 “(c) Any delay of a transaction or disbursement as authorized by this section shall
+220 expire upon the earlier of:
+221 “(1) A determination by the broker-dealer or investment adviser that the
+222 transaction or disbursement will not result in financial exploitation of the eligible adult;
+223 or
+224 “(2) 15 business days after the date on which the broker-dealer or
+225 investment adviser first delayed the transaction or disbursement of the funds, unless one
+226 of the Agencies requests that the broker-dealer or investment adviser extend the delay, in
+227 which case the delay shall expire no more than 25 business days after the date on which
+228 the broker-dealer or investment adviser first delayed the transaction or disbursement of
+229 the funds, unless earlier terminated by the requesting agency or an order of a court of
+230 competent jurisdiction.
+231 “(d) A court of competent jurisdiction may enter an order extending the delay of
+232 the transaction or disbursement of funds or may order other protective relief based on the
+233 petition of the Commissioner, the Director of the Department of Aging and Community
+234 Living, the broker-dealer or investment adviser who initiated the delay under this section,
+235 or any other interested party.
+236 “Sec. 906. Immunity for delaying transactions or disbursements.
+237 “A broker-dealer or investment adviser acting in good faith and exercising
+238 reasonable care, takes action under this act, shall be immune from any civil liability that
+239 might arise from such disclosure, provided that the broker-dealer or investment adviser
+240 has otherwise complied with all provisions of this act.
+241 “Sec. 907. Records.
+10
+
+242 “(a) A broker-dealer or investment adviser shall provide access to or copies of
+243 records that are relevant to the suspected or attempted financial exploitation of an eligible
+244 adult to agencies charged with administering state adult protective services laws and to
+245 law enforcement, either as part of a referral to the agency or to law enforcement, or upon
+246 request of the agency or law enforcement pursuant to an investigation. The records may
+247 include historical records as well as records relating to the most recent transaction or
+248 transactions that may comprise financial exploitation of an eligible adult. All records
+249 made available to agencies under this section shall not be considered public information
+250 as defined in Title VII of this act.
+251 “(b) Nothing in this section shall limit or otherwise impede the authority of the
+252 Commissioner to access or examine the books and records of broker-dealers and
+253 investment advisers as otherwise provided by law.”.
+254 “Sec. 908. Rulemaking authority.
+255 “The Mayor may adopt rules and regulations to implement the provisions of this
+256 act.”.
+257 TITLE II. STUDENT LOAN SERVICERS.
+258 Sec. 201. Short title.
+259 This act may be cited as the “Student Loan Regulation Amendment Act of 2025”.
+260 Sec. 202. The Department of Insurance and Securities Regulation Establishment
+261 Act of 1996, effective May 21, 1997 (D.C. Law 11-268; D.C. Official Code § 31-101 et
+262 seq.), is amended as follows:
+263 (a) Section 2 (D.C. Official Code § 31-101) is amended as follows:
+11
+
+264 (1) Strike the phrase “student education loan or private education loan”
+265 wherever it appears and insert the phrase “student education loan” in its place.
+266 (2) The existing paragraph (1A) is renumbered as (1B).
+267 (2) A new paragraph (1A) is added to read as follows:
+268 “(1A1) “Annual percentage rate” or “APR” means the percentage rate
+269 calculated according to the Federal Reserve Board’s methodology as set forth in
+270 Regulation Z, 12 C.F.R. Part 1026.”.
+271 (3) Paragraph (1B) is amended by striking the phrase “Securities and
+272 Banking” wherever it appears and inserting the phrase “Banking” in its place.
+273 (4) New paragraphs (5A) through (5F) are added to read as follows:
+274 “(5A) “Education financing products” means all private student loans
+275 which are not traditional student loans, including income share agreements and
+276 installment contracts.
+277 “(5B) “Eligible student loan borrower” means a student loan borrower
+278 who is:
+279 “(i) A resident of the District of Columbia;
+280 “(ii) An employee of the government of the District of Columbia;
+281 or;
+282 “(iii) A current or former student of a higher education institution
+283 located in the District of Columbia.
+284 “(5C) “Income” means a borrower’s compensation from all sources,
+285 including salary, wages, bonuses, commissions, vacation pay, gratuities, and self-
+12
+
+286 employment earnings. Income does not include passive income including interest,
+287 dividends, or rental income.
+288 “(5D) “Income share” means the percentage or amount of a
+289 borrower’s income payable during the term of the income share agreement.
+290 “(5E) “Income share agreement” or “ISA” means an agreement between a student and a
+291 school or an income share provider under which the student agrees to pay a percentage or
+292 amount of the student’s future income for the payment term, in exchange for the school
+293 or income share provider advancing, covering, crediting, deferring, or funding the cost of
+294 some or all of the student’s postsecondary education and costs of attendance at a
+295 postsecondary institution, including but not limited to tuition, fees, books and supplies,
+296 room and board, transportation, and miscellaneous personal expenses.
+297 “(5E) “Income share” means the percentage or amount of a borrower’s
+298 income payable during the term of the income share agreement.”.
+299 “(5F) “Installment contract” means a private student loan from a
+300 postsecondary institution to a student in which the student agrees to repay the amount
+301 advanced, covered, credited, deferred, or funded in a fixed number of payments of a fixed
+302 amount, including an education installment contract and a retail installment contract.
+303 (5) New paragraphs (6A1) and (6A2) are added to read as follows:
+304 “(6A1) “Maximum payments” means the maximum number of payments a
+305 borrower is required to make under an income share agreement, if the borrower’s income
+306 meets or exceeds the minimum income threshold.
+13
+
+307 “(6A2) “Minimum income threshold,” “minimum threshold,” “payment
+308 floor” or “floor” mean the amount of income specified in an income share agreement
+309 below which a borrower is not required to make payments.”.
+310 (6) New paragraphs (6D1) and (6D2) are added to read as follows:
+311 “(6D1) “Payment cap,” “payment ceiling,” “ceiling” or “cap” means the
+312 maximum amount payable under an income share agreement, which may be expressed as
+313 an APR or an amount or a multiple of the amount advanced, covered, credited, deferred,
+314 or funded, excluding charges related to default.
+315 “(6D2) “Payment term” means the payment window or maximum period
+316 of repayment obligations under an income share agreement or other written agreement
+317 evidencing an education financing product.”.
+318 (7) A new paragraph (6H) is added to read as follows:
+319 “(6H) "Qualifying payment" means, with respect to income share
+320 agreements, a monthly payment that counts toward the maximum payments or the
+321 payment cap.”.
+322 (8) Paragraphs (7)-(9) are amended to read as follows:
+323 “(7) “Banking Bureau” means the office administering the District of
+324 Columbia Banking Code.
+325 “(8) “Student education loan" means a loan obtained for personal use to
+326 finance education or other school-related expenses. This term includes all traditional
+327 student loans and education financing products, such as an extension of credit used to
+328 finance or repay existing student financing or federal student loan debt and financial
+14
+
+329 obligations in which the repayment amount is equal to a predetermined percentage of a
+330 consumer’s future income.
+331 “(9) “"Student loan borrower" means a resident of the District of
+332 Columbia who has received or agreed to pay a student education loan to fund his or her
+333 postsecondary education. This term includes a person who has received or agreed to pay
+334 any student loan, including an income share agreement or installment contract.”.
+335 (9) A new paragraph (14) is added to read as follows:
+336 “(14) “Traditional student loan” means:
+337 “(A) A federal student loan; or
+338 “(B) A private student loan which uses promissory notes and loan
+339 agreements to evidence the loan and provide for the repayment of a principal balance
+340 with a fixed or variable interest rate.”.
+341 (b) Section 7a is amended as follows:
+342 (1) Paragraph (c)(2) is amended by striking the phrase “from a student
+343 loan borrower” and inserting the phrase “from an eligible student loan borrower” in its
+344 place.
+345 (2) Paragraph (c)(8) is amended by striking the phrase “consent of a
+346 student loan borrower” and inserting the phrase “consent of an eligible student loan
+347 borrower” in its place.
+348 (3) Paragraph (c)(9) is amended by striking the phrase “assist student loan
+349 borrowers” and inserting the phrase “assist eligible student loan borrowers” in its place.
+350 (c) Section 7b (D.C. Official Code § 106.02) is amended as follows:
+351 (1) Subsection (j)(1) is amended to read as follows:
+15
+
+352 “(j)(1) Beginning January 30, 2018, and by January 30th, each year
+353 thereafter, a licensee an entity providing student loans or education financing products in
+354 the District of Columbia, including entities exempt from obtaining a SLS license under
+355 subsection (b), shall file an annual report with the Commissioner, which shall include the
+356 number of loans and other education financing products covered under this chapter that
+357 were sold, assigned, or transferred in the preceding calendar year and any other
+358 information that the Commissioner reasonably requires concerning the business
+359 operations during the preceding calendar year.”.
+360 (2) A new subsection (l) is added to read as follows:
+361 “(l) Aggregate education financing servicing reports.
+362 “(1) Each licensee shall maintain a current, aggregate report of
+363 education financing products it services and shall produce it within 10 days of a request
+364 by the Commissioner.
+365 “(2) The aggregate education financing servicing report shall
+366 contain the following information for each education financing product serviced:
+367 “(A) Borrower name;
+368 “(B) Education financing product account number;
+369 “(C) Number of education financing products serviced for
+370 each borrower;
+371 “(D) Education financing product type, using the name the
+372 product is most commonly called, such as, for example, income share agreement or
+373 installment contract;
+16
+
+374 “(E) Date of execution of income share agreement,
+375 installment contract, or other written agreement evidencing an education financing
+376 product; and
+377 “(F) Payoff amount or, in the case of an income share
+378 agreement, a description of the early completion provision and calculated dollar amount
+379 that allows students to terminate the income share agreement.
+380 “(3) The aggregate education financing servicing report shall also
+381 contain the following information for each income share agreement serviced:
+382 “(A) Date amount advanced, covered, credited, deferred, or
+383 funded;
+384 “(B) Amount advanced, covered, credited, deferred, or
+385 funded;
+386 “(C) Borrower’s income;
+387 “(D) Income share;
+388 “(E) Annual percentage rate, calculated at the minimum
+389 annual income above which payments are required and at $10,000 income increments
+390 thereafter up to the annual income where the maximum number of monthly payments
+391 results in the maximum amount payable;
+392 “(F) Minimum threshold;
+393 “(G) Payment cap;
+394 “(H) Payment term;
+395 “(I) Maximum payments;
+396 “(J) Monthly payment amount; and
+17
+
+397 “(K) Number and total amount of qualifying payments
+398 made.
+399 “(4) The aggregate education financing servicing report shall also
+400 contain the following information for each installment contract serviced:
+401 “(A) Date amount advanced, covered, credited, deferred, or
+402 funded;
+403 “(B) Amount advanced, covered, credited, deferred, or
+404 funded;
+405 “(C) Annual percentage rate;
+406 “(D) Installment contract term, including date of
+407 commencement and date of termination;
+408 “(E) Date first installment payment is due;
+409 “(F) Installment payment amount; and
+410 “(G) Maximum number of required payments due,
+411 payments made, and payments remaining due until the installment contract is paid or
+412 satisfied.
+413 “(5) The aggregate education financing servicing report shall also
+414 contain the following information for each education financing product serviced which is
+415 not an income share agreement or installment contract:
+416 “(A) Date amount advanced, covered, credited, deferred, or
+417 funded;
+418 “(B) Amount advanced, covered, credited, deferred, or
+419 funded;
+18
+
+420 “(C) Annual percentage rate;
+421 “(D) Amount of each payment due;
+422 “(E) Maximum number of required payments; and
+423 “(F) Maximum payment term.”.
+424 (d) Section 7b-1 (D.C. Official Code § 31-106.02a) is amended as follows:
+425 (1) Subsection (a)(12)(B) is amended by striking “45” and inserting “30”
+426 in its place.
+427 (2) A new paragraph (13) is added to read as follows:
+428 “(13) Maintain an average call hold time of greater than 40 minutes.”.
+429 (e) Section 7b-2 (D.C. Official Code § 31-106.02b) is amended as follows:
+430 (1) Subsection (a) is amended as follows:
+431 (A) Paragraph (1) is amended by striking the phrase “written
+432 inquiry” and inserting the word “inquiry” in its place.
+433 (B) New subparagraphs (C) through (F) are added to read as
+434 follows:
+435 “(C) Provide a written payment history, a master promissory note,
+436 or other documentation to a borrower or cosigner upon request at no cost within 15
+437 business days of receiving the request.
+438 “(D) Disclose information related to the Department of
+439 Education’s procedure for asserting a defense to repayment claim, closed school
+440 discharge, or submitting an application for a total and permanent disability discharge if a
+441 servicer is aware that a student loan borrower attended a school the Department of
+442 Education has made findings on supporting a defense to repayment claim or closed
+19
+
+443 school discharge, or that a borrower may be eligible to have his or her loans forgiven
+444 under a total and permanent disability discharge program.
+445 “(E) Provide readily accessible methods for consumers to submit a
+446 request for assistance to the servicer, including by phone, email, and mail.
+447 “(F) Implement a process by which a borrower, representative of a
+448 student loan borrower, or cosigner can escalate any request for assistance. Such process
+449 shall allow a requester who has made a request for assistance on the phone and who
+450 receives a response during the call to obtain immediate review of the response by an
+451 employee of the servicer at a higher supervisory level.”.
+452 (2) New paragraphs (5) and (6) are added to read as follows:
+453 “(5)(A) Posts and processes student loan repayments in a timely manner
+454 pursuant to the servicers established payment processing policies that shall be disclosed
+455 to and readily accessible by borrowers and credit student loan payments in a timely
+456 manner in accordance with the following:
+457 “(i) A payment received on or before 11:59 P.M. Eastern
+458 Time (ET) on the date that payment is due, in the amount, manner, and location indicated
+459 by the person engaged in student loan servicing, shall be credited as effective on the date
+460 the payment was received by the person engaged in student loan servicing in the District.
+461 A person engaged in student loan servicing in in the District shall treat a payment
+462 received from the borrower on the borrower's due date as an “on-time” payment.
+463 “(ii) If a payment is made by check, credit the payment on
+464 the date the check was received by the student loan servicer regardless of the date of
+465 processing. A borrower's online account shall reflect payments made within 3 business
+20
+
+466 days of the date of payment unless payment is made by check and contains no
+467 information identifying to which account or loan the payment should be credited. In the
+468 event the student loan servicer receives a paper check with no information identifying to
+469 which account or loan the payment should be credited, the student loan servicer shall
+470 determine, within 10 business days, to which account and loan the payment should be
+471 credited. When the servicer determines to which account and loan the payment should be
+472 credited, the servicer shall credit the payment as of the date the payment was received by
+473 the servicer and update the borrower's online account within 1 business day.
+474 “(B) If a person engaged in servicing a student loan makes a
+475 material change in the mailing address, office, or procedures for handling borrower
+476 payments, and that change causes a material delay in the crediting of a borrower payment
+477 made during the 60-day period following the date on which that change took effect, the
+478 person engaged in servicing the student loan shall not impose on the borrower any
+479 negative consequences related to that material change, including negative credit
+480 reporting, lost eligibility for a borrower benefit, late fees, interest capitalization, or other
+481 financial injury.”
+482 “(6) A student loan servicer shall diligently oversee its service providers. Diligent
+483 oversight includes maintaining policies and procedures to oversee compliance by third-
+484 party service providers engaged in any aspect of student loan servicing. Student loan
+485 servicers are jointly and severally liable for the conduct of their service providers for any
+486 act or practice that violates this title.”.
+487 (f) Section 7b-3(b)(12)(B) (D.C. Official Code § 31-106.02c) is amended by
+488 striking the number “45” and inserting the number “30” in its place.
+21
+
+489 (g) Section 7b-4 (D.C. Official Code § 31-106.02d) is amended by adding new
+490 subsections (f) and (g) to read as follows:
+491 “(f)(1) A private education lender shall post and process student loan payments in
+492 a timely manner pursuant to the servicer’s established payment processing policies that
+493 shall be disclosed to and readily accessible by borrowers and credit student loan
+494 payments in a timely manner in accordance with the following:
+495 “(A) A payment received on or before 11:59 P.M. on the date that
+496 payment is due, in the amount, manner, and location indicated by the person engaged in
+497 student loan servicing, shall be credited as effective on the date the payment was received
+498 by the person engaged in student loan servicing in the District. A person engaged in
+499 student loan servicing in the District shall treat a payment received from the borrower on
+500 the borrower's due date as an “on-time” payment.
+501 “(B) If a payment is made by check, credit the payment on the date
+502 the check was received by the student loan servicer regardless of the date of processing.
+503 A borrower's online account shall reflect payments made within three business days of
+504 the date of payment unless payment is made by check and contains no information
+505 identifying to which account or loan the payment should be credited. In the event the
+506 student loan servicer receives a paper check with no information identifying to which
+507 account or loan the payment should be credited, the student loan servicer shall determine,
+508 within 10 business days, to which account and loan the payment should be credited.
+509 When the servicer determines to which account and loan the payment should be credited,
+510 the servicer shall credit the payment as of the date the payment was received by the
+511 servicer and update the borrower’s online account within one business day.
+22
+
+512 “(g) Diligently oversee its service providers.
+513 “(1) For the purposes of this paragraph, diligent oversight includes
+514 maintaining policies and procedures to oversee compliance by third-party service
+515 providers engaged in any aspect of student loan servicing. Student loan servicers are
+516 jointly and severally liable for the conduct of their service providers for any act or
+517 practice that violates this title.”.
+518 (h) Section 7b-4 (D.C. Official Code § 31-106.02d) is amended by adding new
+519 subsections (h) and (i) to read as follows:
+520 “(h) Whenever the Commissioner determines that a servicer has engaged
+521 in an act or practice constituting a violation of this chapter or any rule or order adopter
+522 pursuant to this chapter, the Commissioner may, after notice and hearing, in addition
+523 taking any other action authorized under this chapter, issue an order against the servicer
+524 imposing a civil penalty up to $2,500 for each violation. Each separate violation shall be
+525 subject to the civil penalty prescribed in this subsection.
+526 “(i) A student financing product provided or acquired by a servicer that is owned
+527 by a District resident shall be void and unenforceable if the Commissioner finds, after
+528 notice and a hearing, that a servicer has knowingly violated this chapter, at the time that
+529 the product was provided or acquired, by:
+530 “(1) Failing to comply with any registration or reporting
+531 requirement; or
+532 “(2) Furnishing inaccurate information to the Commissioner.”.
+533 (i) A new section 7b-6 is added to read as follows:
+534 “Sec. 7b-6. Release of student transcripts.
+23
+
+535 “(a) Each institution of higher education shall release an academic transcript
+536 directly to the employer or prospective employer of a student currently or formerly
+537 enrolled at such institution upon the request of the student within 10 business days of
+538 such request.
+539 “(b) No institution of higher education shall condition the release of an academic
+540 transcript to a student currently or formerly enrolled at such institution, or to an employer
+541 or prospective employer of the student, on the payment of an outstanding debt.”.
+542 (j) Section 7c is amended to read as follows:
+543 “Sec. 7c. Rules.
+544 “The Mayor, pursuant to Title I of the District of Columbia Administrative
+545 Procedure Act, approved October 21,1968 (82 Stat. 1204; D.C. Official Code $ 2-501 et
+546 seq.), shall issue rules to implement provisions of sections 7a, 7b, 7b-1, 7b-2, 7b-3, 7b-4,
+547 7b-5, 7b-6, and 7c.".
+548 Sec. 203. Section 7a(d) of the Department of Insurance and Securities Regulation
+549 Establishment Act of 1996, effective February 18, 2017 (D.C. Law 21-214; D.C. Official
+550 Code § 31-106.01(d)), is amended by striking the phrase “by March 1 of each year
+551 thereafter” and inserting the phrase “by June 30 of each year thereafter” in its place.
+552 TITLE III. MONEY TRANSMITTERS.
+553 Sec. 301. Short title.
+554 This act may be cited as the “Money Transmitter Modernization Act of 2026”.
+555 Sec. 302. Definitions.
+556 For purposes of this act, the term:
+24
+
+557 (1) “Acting in concert” means persons knowingly acting together with a common
+558 goal of jointly acquiring control of a licensee, whether or not pursuant to an express
+559 agreement.
+560 (2) “Administrative Procedure Act” means the District of Columbia
+561 Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official
+562 Code § 2-501 et seq.), as amended.
+563 (3) “Authorized delegate” means a person a licensee designates to engage in
+564 money transmission on behalf of the licensee.
+565 (4) “Average daily money transmission liability” means the amount of the
+566 licensee's outstanding money transmission obligations in the District of Columbia at the
+567 end of each day in a given period of time, added together, and divided by the total
+568 number of days in the given period of time. For purposes of calculating average daily
+569 money transmission liability under this act for any licensee required to do so, the given
+570 period of time shall be the quarters ending March 31, June 30, September 30, and
+571 December 31.
+572 (5) “Bank Secrecy Act” means the Bank Secrecy Act, approved October 26, 1970
+573 (84 Stat. 1114; 31 U.S.C. § 5311 et seq.) and its implementing regulations, as amended.
+574 (6) “Closed loop stored value” means stored value that is redeemable by the issuer
+575 only for goods or services provided by the issuer or its affiliate or franchisees of the
+576 issuer or its affiliate, except to the extent required by applicable law to be redeemable in
+577 cash for its cash value;
+578 (7) “Commissioner” means the Commissioner of the Department of Insurance,
+579 Securities, and Banking.
+25
+
+580 (8) “Control” means:
+581 (A) The power to vote, directly or indirectly, at least 25% of the
+582 outstanding voting shares or voting interests of a licensee or person in control of a
+583 licensee;
+584 (B) The power to elect or appoint a majority of key individuals or
+585 executive officers, managers, directors, trustees, or other persons exercising managerial
+586 authority of a person in control of a licensee; or
+587 (C) The power to exercise, directly or indirectly, a controlling influence
+588 over the management or policies of a licensee or person in control of a licensee.
+589 (D) Rebuttable presumption of control.
+590 (i) A person is presumed to exercise a controlling influence when
+591 the person holds the power to vote, directly or indirectly, at least 10 percent of the
+592 outstanding voting shares or voting interests of a licensee or person in control of a
+593 licensee.
+594 (ii) A person presumed to exercise a controlling influence as
+595 defined by this paragraph can rebut the presumption of control if the person is a passive
+596 investor.
+597 (E) For purposes of determining the percentage of a person controlled by
+598 any other person, the person's interest shall be aggregated with the interest of any other
+599 immediate family member, including the person's spouse, parents, children, siblings,
+600 mothers- and fathers-in law, sons- and daughters-in-law, brothers- and sisters-in-law, and
+601 any other person who shares such person's home.
+602 (9) “Department” means the Department of Insurance, Securities, and Banking.
+26
+
+603 (10) “Eligible rating” shall mean a credit rating of any of the three highest rating
+604 categories provided by an eligible rating service, whereby each category may include
+605 rating category modifiers such as “plus” or “minus” for S&P Global Ratings credit rating
+606 agency (“S&P”), or the equivalent for any other eligible rating service. Long-term credit
+607 ratings are deemed eligible if the rating is equal to A- or higher by S&P, or the equivalent
+608 from any other eligible rating service. Short-term credit ratings are deemed eligible if the
+609 rating is equal to or higher than A-2 or SP-2 by S&P, or the equivalent from any other
+610 eligible rating service. In the event that ratings differ among eligible rating services, the
+611 highest rating shall apply when determining whether a security bears an eligible rating.
+612 (11) “Eligible rating service” shall mean any Nationally Recognized Statistical
+613 Rating Organization as defined by the U.S. Securities and Exchange Commission, and
+614 any other organization designated by the Commissioner by rule.
+615 (12) “Federally insured depository financial institution” means a bank, credit
+616 union, savings and loan association, trust company, savings association, savings bank,
+617 industrial bank, or industrial loan company organized under the laws of the United States,
+618 the District of Columbia, or any state of the United States, when such bank, credit union,
+619 savings and loan association, trust company, savings association, savings bank, industrial
+620 bank, or industrial loan company has federally insured deposits.
+621 (13) “In the District of Columbia” means at a physical location within the District
+622 of Columbia for a transaction requested in person. For a transaction requested
+623 electronically or by phone, the provider of money transmission may determine if the
+624 person requesting the transaction is “in the District of Columbia” by relying on other
+625 information provided by the person regarding the location of the individual’s residential
+27
+
+626 address or a business entity’s principal place of business or other physical address
+627 location, and any records associated with the person that the provider of money
+628 transmission may have that indicate such location, including but not limited to an address
+629 associated with an account.
+630 (14) “In the United States” shall include, to the extent applicable, a person in any
+631 state, territory, or possession of the United States; the District of Columbia; the
+632 Commonwealth of Puerto Rico; or a U.S. military installation that is located in a foreign
+633 country.
+634 (15) “Individual” means a natural person.
+635 (16) “Key individual” means any individual ultimately responsible for
+636 establishing or directing policies and procedures of the licensee, such as an executive
+637 officer, manager, director, or trustee.
+638 (17) “Licensee” means a person licensed under this act.
+639 (18) “Material litigation” means litigation that, according to United States
+640 generally accepted accounting principles, is significant to a person's financial health and
+641 would be required to be disclosed in the person's annual audited financial statements,
+642 report to shareholders, or similar records.
+643 (19) “Money” means a medium of exchange that is authorized or adopted by the
+644 United States or a foreign government. The term includes a monetary unit of account
+645 established by an intergovernmental organization or by agreement between two or more
+646 governments.
+647 (20) “Monetary value” means a medium of exchange, whether or not redeemable
+648 in money.
+28
+
+649 (21) “Money transmission” means:
+650 (A) Selling or issuing payment instruments to a person located in the
+651 District of Columbia;
+652 (B) Selling or issuing stored value to a person located in the District of
+653 Columbia; or
+654 (C) Receiving money for transmission from a person located in the
+655 District of Columbia.
+656 (D) The term includes payroll processing services.
+657 (E) The term does not include the provision solely of online or
+658 telecommunications services or network access.
+659 (22) “MSB-accredited state” means a state agency that is accredited by the
+660 Conference of State Bank Supervisors and Money Transmitter Regulators Association for
+661 money transmission licensing and supervision.
+662 (23) “Multistate licensing process” means any agreement entered into by and
+663 among state regulators relating to coordinated processing of applications for money
+664 transmission licenses, applications for the acquisition of control of a licensee, control
+665 determinations, or notice and information requirements for a change of key individuals.
+666 (24) “NMLS” means the Nationwide Multistate Licensing System and Registry
+667 developed by the Conference of State Bank Supervisors and the American Association of
+668 Residential Mortgage Regulators and owned and operated by the State Regulatory
+669 Registry, LLC, or any successor or affiliated entity, for the licensing and registration of
+670 persons in financial services industries.
+671 (25) “Outstanding money transmission obligations” means:
+29
+
+672 (A) Any payment instrument or stored value issued or sold by the licensee
+673 to a person located in the United States or reported as sold by an authorized delegate of
+674 the licensee to a person that is located in the United States that has not yet been paid or
+675 refunded by or for the licensee, or escheated in accordance with applicable abandoned
+676 property laws; or
+677 (B) Any money received for transmission by the licensee or an authorized
+678 delegate in the United States from a person located in the United States that has not been
+679 received by the payee or refunded to the sender or escheated in accordance with
+680 applicable abandoned property laws.
+681 (C) For purposes of this act, “in the United States” shall include, to the
+682 extent applicable, a person in any state, territory, or possession of the United States; the
+683 District of Columbia; the Commonwealth of Puerto Rico; or a U.S. military installation
+684 that is located in a foreign country.
+685 (D) Outstanding money transmission obligations shall be established and
+686 extinguished in accordance with applicable District law.
+687 (26) “Passive investor” means a person that:
+688 (A) Does not have the power to elect a majority of key individuals or
+689 executive officers, managers, directors, trustees, or other persons exercising managerial
+690 authority of a person in control of a licensee;
+691 (B) Is not employed by and does not have any managerial duties of the
+692 licensee or person in control of a licensee;
+30
+
+693 (C) Does not have the power to exercise, directly or indirectly, a
+694 controlling influence over the management or policies of a licensee or person in control
+695 of a licensee; and
+696 (D) Either:
+697 (i) Attests to subparagraphs (A), (B), and (C) of this paragraph, in
+698 a form and in a medium prescribed by the Commissioner by rulemaking or other
+699 issuance; or
+700 (ii) Commits to the passivity characteristics of subparagraphs (A),
+701 (B), and (C) of this paragraph in a written document.
+702 (27) “Payment instrument” means a written or electronic check, draft, money
+703 order, traveler's check, or other written or electronic instrument for the transmission or
+704 payment of money or monetary value, whether or not negotiable.
+705 (A) The term does not include stored value or any instrument that:
+706 (i) Is redeemable by the issuer only for goods or services provided
+707 by the issuer or its affiliate or franchisees of the issuer or its affiliate, except to the extent
+708 required by applicable law to be redeemable in cash for its cash value; or
+709 (ii) Not sold to the public but issued and distributed as part of a
+710 loyalty, rewards, or promotional program.
+711 (28) “Payroll processing services” means receiving money for transmission
+712 pursuant to a contract with a person to deliver wages or salaries, make payment of payroll
+713 taxes to District of Columbia and federal agencies, make payments relating to employee
+714 benefit plans, or make distributions of other authorized deductions from wages or
+715 salaries. The term does not include an employer performing payroll processing services
+31
+
+716 on its own behalf or on behalf of its affiliate, or a professional employment organization
+717 subject to regulation under other applicable District of Columbia law.
+718 (29) “Person” means any individual, general partnership, limited partnership,
+719 limited liability company, corporation, trust, association, joint stock corporation, or other
+720 corporate entity identified by the Commissioner.
+721 (30) “Receiving money for transmission” or “money received for transmission”
+722 means receiving money or monetary value in the United States for transmission within or
+723 outside the United States by electronic or other means.
+724 (31) “Stored value” means monetary value representing a claim against the issuer
+725 evidenced by an electronic or digital record, and that is intended and accepted for use as a
+726 means of redemption for money or monetary value, or payment for goods or services.
+727 The term includes, but is not limited to, “prepaid access” as defined by 31 C.F.R. §
+728 1010.100, as amended. Notwithstanding the foregoing, the term “stored value” does not
+729 include a payment instrument or closed loop stored value, or stored value not sold to the
+730 public but issued and distributed as part of a loyalty, rewards, or promotional program.
+731 (32) “Tangible net worth” means the aggregate assets of a licensee excluding all
+732 intangible assets, less liabilities, as determined in accordance with United States
+733 generally accepted accounting principles.
+734 Sec. 303. Exemptions.
+735 (a) This act does not apply to:
+736 (1) An operator of a payment system to the extent that it provides
+737 processing, clearing, or settlement services, between or among persons exempted by this
+738 section or licensees, in connection with wire transfers, credit card transactions, debit card
+32
+
+739 transactions, stored-value transactions, automated clearing house transfers, or similar
+740 funds transfers;
+741 (2) A person appointed as an agent of a payee to collect and process a
+742 payment from a payor to the payee for goods or services, other than money transmission
+743 itself, provided to the payor by the payee, provided that:
+744 (A) There exists a written agreement between the payee and the
+745 agent directing the agent to collect and process payments from payors on the payee's
+746 behalf;
+747 (B) The payee holds the agent out to the public as accepting
+748 payments for goods or services on the payee's behalf; and
+749 (C) Payment for the goods and services is treated as received by
+750 the payee upon receipt by the agent so that the payor's obligation is extinguished and
+751 there is no risk of loss to the payor if the agent fails to remit the funds to the payee;
+752 (4) A person that acts as an intermediary by processing payments between
+753 an entity that has directly incurred an outstanding money transmission obligation to a
+754 sender, and the sender's designated recipient, provided that the entity:
+755 (A) Is properly licensed or exempt from licensing requirements
+756 under this act;
+757 (B) Provides a receipt, electronic record, or other written
+758 confirmation to the sender identifying the entity as the provider of money transmission in
+759 the transaction; and
+33
+
+760 (C) Bears sole responsibility to satisfy the outstanding money
+761 transmission obligation to the sender, including the obligation to make the sender whole
+762 in connection with any failure to transmit the funds to the sender's designated recipient;
+763 (5) The United States or a department, agency, or instrumentality thereof,
+764 or its agent, or money transmission by the United States Postal Service or by an agent of
+765 the United States Postal Service;
+766 (6) A state, county, city, or any other governmental agency or
+767 governmental subdivision or instrumentality of a state, or its agent;
+768 (7) A federally insured depository financial institution, bank holding company,
+769 office of an international banking corporation, foreign bank that establishes a federal
+770 branch pursuant to section 4 of the International Banking Act of 1978, approved
+771 September 17, 1978 (92 Stat. 610; 12 U.S.C. § 3102), as amended, a corporation
+772 organized pursuant to the Bank Service Corporation Act, approved October 23, 1962 (76
+773 Stat. 1132; 12 U.S.C. § 1861 et seq.), as amended, or corporation organized under the
+774 Edge Act, approved December 24, 1919 (41 Stat. 378; 12 U.S.C. § 611 et seq.), as
+775 amended.
+776 (8) Electronic funds transfer of governmental benefits for a federal, state,
+777 county, or governmental agency by a contractor on behalf of the United States or a
+778 department, agency, or instrumentality thereof, or on behalf of a state or governmental
+779 subdivision, agency, or instrumentality thereof;
+780 (9) A board of trade designated as a contract market under the federal Commodity
+781 Exchange Act, approved June 15, 1936; (49 Stat. 1491; 7 U.S.C. § 1 et seq.), as amended,
+34
+
+782 or a person that, in the ordinary course of business, provides clearance and settlement
+783 services for a board of trade to the extent of its operation as or for such a board;
+784 (10) A registered futures commission merchant under the federal
+785 commodities laws to the extent of its operation as such a merchant;
+786 (11) A person registered as a securities broker-dealer under federal, state,
+787 or District of Columbia securities laws to the extent of its operation as such a broker-
+788 dealer;
+789 (12) An individual employed by a licensee, authorized delegate, or any
+790 person exempted from the licensing requirements of this act when acting within the scope
+791 of employment and under the supervision of the licensee, authorized delegate, or
+792 exempted person as an employee and not as an independent contractor;
+793 (13) A person expressly appointed as a third-party service provider to or
+794 agent of an entity exempt under paragraph (7), solely to the extent that:
+795 (A) Such service provider or agent is engaging in money
+796 transmission on behalf of and pursuant to a written agreement with the exempt entity that
+797 sets forth the specific functions that the service provider or agent is to perform; and
+798 (B) The exempt entity assumes all risk of loss and all legal
+799 responsibility for satisfying the outstanding money transmission obligations owed to
+800 purchasers and holders of the outstanding money transmission obligations upon receipt of
+801 the purchaser's or holder’s money or monetary value by the service provider or agent; or
+802 (14) A person exempted by regulation or order if the Commissioner finds
+803 such exemption to be in the public interest and that the regulation of such person is not
+804 necessary for the purposes of this act.
+35
+
+805 (b) Authority to require demonstration of exemption.
+806 The Commissioner may, by rulemaking or other issuance, require that any person
+807 claiming to be exempt from licensing pursuant to this section provide information and
+808 documentation to the Commissioner demonstrating that it qualifies for any clamed
+809 exemption.
+810 Sec. 304. Implementation.
+811 (a) In order to carry out the purposes of this act, the Commissioner may, subject
+812 to the provisions of section 305(a) and (b):
+813 (1) Enter into agreements or relationships with other government officials
+814 or federal and state regulatory agencies and regulatory associations in order to improve
+815 efficiencies and reduce regulatory burden by standardizing methods or procedures, and
+816 sharing resources, records or related information obtained under this act;
+817 (2) Use, hire, contract, or employ analytical systems, methods, or software
+818 to examine or investigate any person subject to this act.
+819 (3) Accept, from other state or federal government agencies or officials,
+820 licensing, examination, or investigation reports made by such other state or federal
+821 government agencies or officials; and
+822 (4) Accept audit reports made by an independent certified public
+823 accountant or other qualified third-party auditor for an applicant or licensee and
+824 incorporate the audit report in any report of examination or investigation.
+825 (b) The Commissioner shall have the broad administrative authority to administer,
+826 interpret and enforce this act and to recover the cost of administering and enforcing this
+827 act by imposing and collecting proportionate and equitable fees and costs associated with
+36
+
+828 applications, examinations, investigations, and other actions required to achieve the
+829 purpose of this act.
+830 Sec. 305. Confidentiality.
+831 (a) Except as otherwise provided in subsection (b), all information or reports
+832 obtained by the Commissioner from an applicant, licensee, or authorized delegate, and all
+833 information contained in or related to an examination, investigation, operating report, or
+834 condition report prepared by, on behalf of, or for the use of the Commissioner, or
+835 financial statements, balance sheets, or authorized delegate information, are confidential
+836 and are not subject to disclosure under the Freedom of Information Act of 1976 (D.C.
+837 Law 1-96; D.C. Official Code § 2-531 et seq.), as amended.
+838 (b) The Commissioner may disclose information not otherwise subject to
+839 disclosure under subsection (a) to representatives of state or federal agencies who
+840 promise in a record that they will maintain the confidentiality of the information or where
+841 the Commissioner finds that the release is reasonably necessary for the protection and
+842 interest of the public in accordance with the Freedom of Information Act of 1976 (D.C.
+843 Law 1-96; D.C. Official Code § 2-531 et seq.), as amended.
+844 (c) This section does not prohibit the Commissioner from disclosing to the public
+845 a list of all licensees or the aggregated financial or transactional data concerning those
+846 licensees.
+847 (d) Information contained in the records of Department that is not confidential and
+848 may be made available to the public either on the Department's website, upon receipt by
+849 the Department of a written request, or in NMLS shall include:
+37
+
+850 (1) The name, business address, telephone number, and unique identifier
+851 of a licensee;
+852 (2) The business address of a licensee's registered agent for service;
+853 (3) The name, business address, and telephone number of all authorized
+854 delegates;
+855 (4) The terms of or a copy of any bond filed by a licensee, provided that
+856 confidential information, including, but not limited to, prices and fees for such bond is
+857 redacted;
+858 (5) Copies of any non-confidential final orders of the Department relating
+859 to any violation of this act or regulations implementing this act; and
+860 (6) Imposition of an administrative fine or penalty under this act.
+861 Sec. 306. Supervision.
+862 (a) The Commissioner may conduct an examination or investigation of a licensee
+863 or authorized delegate or otherwise take independent action authorized by this act or by a
+864 rule adopted or order issued under this act as reasonably necessary or appropriate to
+865 administer and enforce this act, regulations implementing this act, and other applicable
+866 law, including the Bank Secrecy Act, as amended. The Commissioner may:
+867 (1) Conduct an examination either on-site or off-site as the Commissioner
+868 may reasonably require;
+869 (2) Conduct an examination in conjunction with an examination conducted
+870 by representatives of other state agencies or agencies of another state or of the federal
+871 government;
+38
+
+872 (3) Accept the examination report of another state agency or an agency of
+873 another state or of the federal government, or a report prepared by an independent
+874 accounting firm, which upon being accepted is considered for all purposes as an official
+875 report of the Commissioner; and
+876 (4) Summon and examine under oath a key individual or employee of a
+877 licensee or authorized delegate and require the person to produce records regarding any
+878 matter related to the condition and business of the licensee or authorized delegate.
+879 (b) A licensee or authorized delegate shall provide, and the Commissioner shall
+880 have full and complete access to, all records the Commissioner may reasonably require to
+881 conduct a complete examination. The records shall be provided at the location and in the
+882 format specified by the Commissioner; provided, the Commissioner may utilize
+883 multistate record production standards and examination procedures when such standards
+884 will reasonably achieve the requirements of this section.
+885 (c) Unless otherwise directed by the Commissioner, a licensee shall pay all costs
+886 reasonably incurred in connection with an examination of the licensee or the licensee's
+887 authorized delegates.
+888 Sec. 307. Networked supervision.
+889 (a) To efficiently and effectively administer and enforce this act and to minimize
+890 regulatory burden, the Commissioner is authorized and encouraged to participate in
+891 multistate supervisory processes established between states and coordinated through the
+892 Conference of State Bank Supervisors, Money Transmitter Regulators Association, and
+893 affiliates and successors thereof for all licensees that hold licenses in this state and other
+894 states. As a participant in multistate supervision, the Commissioner shall:
+39
+
+895 (1) Cooperate, coordinate, and share information with other state and
+896 federal regulators in accordance with section 305 of this act;
+897 (2) Enter into written cooperation, coordination, or information-sharing
+898 contracts or agreements with organizations the membership of which is made up of state
+899 or federal governmental agencies; and
+900 (3) Cooperate, coordinate, and share information with organizations the
+901 membership of which is made up of state or federal governmental agencies, provided that
+902 the organizations agree in writing to maintain the confidentiality and security of the
+903 shared information in accordance with section 305 of this act.
+904 (b) The Commissioner may not waive, and nothing in this section constitutes a
+905 waiver of, the Commissioner's authority to conduct an examination or investigation or
+906 otherwise take independent action authorized by this act or a rule adopted under this act
+907 to enforce compliance with applicable state or federal law.
+908 (c) A joint examination or investigation, or acceptance of an examination or
+909 investigation report, does not waive an examination assessment provided for in this act.
+910 Sec. 308. Relationship to federal law.
+911 (a) In the event District of Columbia money transmission jurisdiction is
+912 conditioned on a federal law, any inconsistencies between a provision of this act and the
+913 federal law governing money transmission shall be governed by the applicable federal
+914 law to the extent of the inconsistency.
+915 (b) In the event of any inconsistencies between this act and a federal law that
+916 governs pursuant to subsection (a), the Commissioner may provide interpretive guidance
+917 that:
+40
+
+918 (1) Identifies the inconsistency; and
+919 (2) Identifies the appropriate means of compliance with federal law.
+920 Sec. 309. License required.
+921 (a) A person may not engage in the business of money transmission or advertise,
+922 solicit, or hold itself out as providing money transmission unless the person is licensed
+923 under this act;
+924 (b) Subsection (a) does not apply to:
+925 (1) A person that is an authorized delegate of a person licensed under this
+926 act acting within the scope of authority conferred by a written contract with the licensee;
+927 or
+928 (2) A person that is exempt pursuant to section 303 and does not engage in
+929 money transmission outside the scope of such exemption.
+930 (c) A license issued under section 313 is not transferable or assignable.
+931 Sec. 310. Consistent state licensing.
+932 (a) To establish consistent licensing between the District of Columbia and
+933 other states, the Commissioner may:
+934 (1) Implement all licensing provisions of this act in a manner that
+935 is consistent with other states that have adopted this act or multistate licensing processes;
+936 and
+937 (2) Participate in nationwide protocols for licensing cooperation
+938 and coordination among state regulators provided that such protocols are consistent with
+939 this act.
+41
+
+940 (b) In order to fulfill the purposes of this act, the Commissioner may
+941 establish relationships or contracts with NMLS or other entities designated by NMLS to
+942 enable the Commissioner to:
+943 (1) Collect and maintain records;
+944 (2) Coordinate multistate licensing processes and supervision
+945 processes;
+946 (3) Process fees; and
+947 (4) Facilitate communication between the District of Columbia and
+948 licensees or other persons subject to this act.
+949 (c) The Commissioner is authorized and encouraged to utilize NMLS for
+950 all aspects of licensing in accordance with this act, including license applications,
+951 applications for acquisitions of control, surety bonds, reporting, criminal history
+952 background checks, credit checks, fee processing, and examinations.
+953 (d) The Commissioner may utilize NMLS forms, processes, and
+954 functionalities in accordance with this act. In the event NMLS does not provide
+955 functionality, forms, or processes for a provision of this act, the Commissioner is
+956 authorized and encouraged to strive to implement the requirements in a manner that
+957 facilitates uniformity with respect to licensing, supervision, reporting, and regulation of
+958 licensees which are licensed in multiple jurisdictions.
+959 (e) For the purpose of participating in the Nationwide Multistate Licensing
+960 System & Registry, the Commissioner may waive or modify, in whole or in part, by rule,
+961 regulation or order, any or all of the requirements and to establish new requirements as
+42
+
+962 reasonably necessary to participate in the Nationwide Multistate Licensing System &
+963 Registry.
+964 Sec. 311. Application for license.
+965 (a) Applicants for a license shall apply in a form and in a medium as
+966 prescribed by the Commissioner. Each such form shall contain content as set forth by
+967 rule, regulation, instruction or procedure of the Commissioner and may be changed or
+968 updated by the Commissioner in accordance with applicable law in order to carry out the
+969 purposes of this act and maintain consistency with NMLS licensing standards and
+970 practices. The application shall state or contain, as applicable:
+971 (1) The legal name and residential and business addresses of the
+972 applicant and any fictitious or trade name used by the applicant in conducting its
+973 business;
+974 (2) A list of any criminal convictions of the applicant and any
+975 material litigation in which the applicant has been involved in the 10-year period next
+976 preceding the submission of the application;
+977 (3) A description of any money transmission previously provided
+978 by the applicant and the money transmission that the applicant seeks to provide in the
+979 District of Columbia;
+980 (4) A list of the applicant's proposed authorized delegates and the
+981 locations in the District of Columbia where the applicant and its authorized delegates
+982 propose to engage in money transmission;
+43
+
+983 (5) A list of other states in which the applicant is licensed to
+984 engage in money transmission and any license revocations, suspensions, or other
+985 disciplinary action taken against the applicant in another state;
+986 (6) Information concerning any bankruptcy or receivership
+987 proceedings affecting the licensee or a person in control of a licensee;
+988 (7) A sample form of contract for authorized delegates, if
+989 applicable;
+990 (8) A sample form of payment instrument or stored value, as
+991 applicable;
+992 (9) The name and address of any federally insured depository
+993 financial institution through which the applicant plans to conduct money transmission;
+994 and
+995 (10) Any other information the Commissioner or NMLS
+996 reasonably requires with respect to the applicant.
+997 (b) If an applicant is a corporation, limited liability company, partnership, or other
+998 legal entity, the applicant shall also provide:
+999 (1) The date of the applicant's incorporation or formation and state or
+1000 country of incorporation or formation;
+1001 (2) If applicable, a certificate of good standing from the state or country in
+1002 which the applicant is incorporated or formed;
+1003 (3) A brief description of the structure or organization of the applicant,
+1004 including any parents or subsidiaries of the applicant, and whether any parents or
+1005 subsidiaries are publicly traded;
+44
+
+1006 (4) The legal name, any fictitious or trade name, all business and
+1007 residential addresses, and the employment, as applicable, in the 10-year period next
+1008 preceding the submission of the application of each key individual and person in control
+1009 of the applicant;
+1010 (5) A list of any criminal convictions and material litigation in which a
+1011 person in control of the applicant that is not an individual has been involved in the 10-
+1012 year period preceding the submission of the application;
+1013 (6) A copy of audited financial statements of the applicant for the most
+1014 recent fiscal year and for the two-year period next preceding the submission of the
+1015 application or, if determined to be acceptable to the Commissioner, certified unaudited
+1016 financial statements for the most recent fiscal year or other period acceptable to the
+1017 Commissioner;
+1018 (7) A certified copy of unaudited financial statements of the applicant for
+1019 the most recent fiscal quarter;
+1020 (8) If the applicant is a publicly traded corporation, a copy of the most
+1021 recent report filed with the United States Securities and Exchange Commission under
+1022 section 13 of the Securities Exchange Act of 1934, approved June 6, 1934 (48 Stat. 894;
+1023 15 U.S.C. § 78m), as amended;
+1024 (9) If the applicant is a wholly owned subsidiary of:
+1025 (A) A corporation publicly traded in the United States, a copy of
+1026 audited financial statements for the parent corporation for the most recent fiscal year or a
+1027 copy of the parent corporation's most recent report filed under section 13 of the
+45
+
+1028 Securities Exchange Act of 1934, approved June 6, 1934 (48 Stat. 894; 15 U.S.C. § 78m),
+1029 as amended; or
+1030 (B) A corporation publicly traded outside the United States, a copy
+1031 of similar documentation filed with the regulator of the parent corporation's domicile
+1032 outside the United States;
+1033 (10) The name and address of the applicant's registered agent in the
+1034 District of Columbia; and
+1035 (11) Any other information the Commissioner reasonably requires with
+1036 respect to the applicant.
+1037 (c) A nonrefundable application fee of $3,000 shall accompany an application for
+1038 a license under this section. The application fee shall also constitute the license fee for the
+1039 applicant’s first year of activities if the license is granted.
+1040 (d) The Commissioner may waive one or more requirements of subsections (a)
+1041 and (b) or permit an applicant to submit other information in lieu of the required
+1042 information.
+1043 Sec. 312. Information requirements for certain individuals.
+1044 (a) Any individual in control of a licensee or applicant, any individual that seeks
+1045 to acquire control of a licensee, and each key individual shall furnish to the
+1046 Commissioner through NMLS the following items:
+1047 (1) The individual’s fingerprints for submission to the Federal Bureau of
+1048 Investigation and the Commissioner for purposes of a national criminal history
+1049 background check, unless the person currently resides outside of the United States and
+1050 has resided outside of the United States for the last ten years;
+46
+
+1051 (2) Personal history and experience in a form and in a medium prescribed
+1052 by the Commissioner, to obtain the following:
+1053 (A) An independent credit report from a consumer reporting
+1054 agency, unless the individual does not have a Social Security number, in which case, this
+1055 requirement shall be waived;
+1056 (B) Information related to any criminal convictions or pending c;
+1057 and
+1058 (C) Information related to any regulatory or administrative action
+1059 and any civil litigation involving claims of fraud, misrepresentation, conversion,
+1060 mismanagement of funds, breach of fiduciary duty, or breach of contract.
+1061 (b) If the individual has resided outside of the United States at any time in the last
+1062 ten years, the individual shall also provide an investigative background report prepared
+1063 by an independent search firm that meets the following requirements:
+1064 (1) At a minimum, the search firm shall:
+1065 (A) Demonstrate that it has sufficient knowledge, resources, and
+1066 employs accepted and reasonable methodologies to conduct the research of the
+1067 background report; and
+1068 (B) Not be affiliated with or have an interest with the individual it
+1069 is researching; and
+1070 (2) At a minimum, the investigative background report shall be written in
+1071 the English language and shall contain the following:
+1072 (A) If available in the individual's current jurisdiction of residency,
+1073 a comprehensive credit report, or any equivalent information obtained or generated by the
+47
+
+1074 independent search firm to accomplish such report, including a search of the court data in
+1075 the countries, provinces, states, cities, towns, and contiguous areas where the individual
+1076 resided and worked;
+1077 (B) Criminal records information for the past ten years, including,
+1078 but not limited to, felonies, misdemeanors, or similar convictions for violations of law in
+1079 the countries, provinces, states, cities, towns, and contiguous areas where the individual
+1080 resided and worked;
+1081 (C) Employment history;
+1082 (D) Media history, including an electronic search of national and
+1083 local publications, wire services, and business applications; and
+1084 (E) Financial services-related regulatory history, including money
+1085 transmission, securities, banking, insurance, and mortgage-related industries.
+1086 Sec. 313. Issuance of license.
+1087 (a) When an application for an original license under this act appears to include
+1088 all the items and addresses all of the matters that are required, the application is complete
+1089 and the Commissioner shall promptly notify the applicant in a record of the date on
+1090 which the application is determined to be complete, and:
+1091 (1) The Commissioner shall approve or deny the application within 60
+1092 days after the completion date; or
+1093 (2) If the application is not approved or denied within 60 days after the
+1094 completion date:
+1095 (A) The application is deemed approved; and
+48
+
+1096 (B) The license takes effect as of the first business day after
+1097 expiration of the 60-day period.
+1098 (C) The Commissioner may for good cause extend the application
+1099 period.
+1100 (b) A determination by the Commissioner that an application is complete and is
+1101 accepted for processing means only that the application, on its face, appears to include all
+1102 of the items, including the criminal background check response from the Federal Bureau
+1103 of Investigation, and address all of the matters that are required, and is not an assessment
+1104 of the substance of the application or of the sufficiency of the information provided.
+1105 (c) When an application is filed and considered complete under this section, the
+1106 Commissioner shall investigate the applicant's financial condition and responsibility,
+1107 financial and business experience, character, and general fitness. The Commissioner may
+1108 conduct an on-site investigation of the applicant, the reasonable cost of which the
+1109 applicant shall pay. The Commissioner shall issue a license to an applicant under this
+1110 section if the Commissioner finds that all of the following conditions have been fulfilled:
+1111 (1) The applicant has complied with sections 311 and 312; and
+1112 (2) The financial condition and responsibility, financial and business
+1113 experience, competence, character, and general fitness of the applicant; and the
+1114 competence, experience, character, and general fitness of the key individuals and persons
+1115 in control of the applicant indicate that it is in the interest of the public to permit the
+1116 applicant to engage in money transmission.
+1117 (d) If an applicant avails itself or is otherwise subject to a multistate licensing
+1118 process:
+49
+
+1119 (1) The Commissioner may accept the investigation results of a lead
+1120 investigative state for the purpose of subsection (c) if the lead investigative state has
+1121 sufficient staffing, expertise, and minimum standards comparable to the District of
+1122 Columbia’s standards; or
+1123 (2) If the District of Columbia is a lead investigative state, the
+1124 Commissioner is authorized and encouraged to investigate the applicant pursuant to
+1125 subsection (c) of this section and the timeframes established by agreement through the
+1126 multistate licensing process, provided however, that in no case shall such timeframe be
+1127 noncompliant with the application period in paragraph (a)(1) of this section.
+1128 (e) The Commissioner shall issue a formal written notice of the denial of a license
+1129 application within 60 days of the decision to deny the application. The Commissioner
+1130 shall set forth in the notice of denial the specific reasons for the denial of the application.
+1131 An applicant whose application is denied by the Commissioner under this subsection may
+1132 appeal within 30 days after receipt of the written notice of the denial pursuant to the
+1133 Administrative Procedure Act. At the request of the applicant, the Department shall set a
+1134 date for a hearing not later than 60 days after service of the response, unless a later date is
+1135 set with the consent of the denied applicant.
+1136 (f) The initial license term shall begin on the day the application is approved. The
+1137 license shall expire on December 31st of the year in which the license term began, unless
+1138 the initial license date is between November 1 and December 31, in which instance the
+1139 initial license term shall run through December 31 of the following year.
+1140 Sec. 314. Renewal of license.
+1141 (a) A license under this act shall be renewed annually.
+50
+
+1142 (1) An annual renewal fee of $3,000 shall be paid no more than 60 days
+1143 before the license expiration.
+1144 (2) The renewal term shall be for a period of 1 year and shall begin on
+1145 January 1 of each year after the initial license term and shall expire on December 31 of
+1146 the year the renewal term begins.
+1147 (b) A licensee shall submit a renewal report with the renewal fee, in a form and
+1148 medium prescribed by the Commissioner by rulemaking or other issuance. The renewal
+1149 report shall state or contain a description of each material change in information
+1150 submitted by the licensee in its original license application which has not been reported to
+1151 the Commissioner.
+1152 (c) The Commissioner for good cause may grant an extension of the renewal date.
+1153 (d) The Commissioner may utilize NMLS to process license renewals provided
+1154 that such functionality is consistent with this section.
+1155 Sec. 315. Maintenance of license.
+1156 (a) If a licensee does not continue to meet the qualifications or satisfy the
+1157 requirements that apply to an applicant for a new money transmission license, the
+1158 Commissioner may suspend or revoke the licensee's license in accordance with the
+1159 procedures established by this act or other applicable District of Columbia law for such
+1160 suspension or revocation.
+1161 (b) An applicant for a money transmission license shall demonstrate that it meets
+1162 or will meet, and a money transmission licensee shall at all times meet, the requirements
+1163 in sections 331, 332, and 333 of this act.
+51
+
+1164 Sec. 316. Acquisition of control.
+1165 (a) Any person, or group of persons acting in concert, seeking to acquire control
+1166 of a licensee shall obtain the written approval of the Commissioner prior to acquiring
+1167 control. An individual is not deemed to acquire control of a licensee and is not subject to
+1168 these acquisition of control provisions when that individual becomes a key individual in
+1169 the ordinary course of business.
+1170 (b) A person, or group of persons acting in concert, seeking to acquire control of a
+1171 licensee shall, in cooperation with the licensee:
+1172 (1) Submit an application in a form and medium prescribed by the
+1173 Commissioner; and
+1174 (2) Submit a nonrefundable fee of $500 with the request for approval.
+1175 (c) Upon request, the Commissioner may permit a licensee or the person, or group
+1176 of persons acting in concert, to submit some or all information required by the
+1177 Commissioner pursuant to paragraph (b)(1) of this section without using NMLS.
+1178 (d) The application required by paragraph (b)(1) of this section shall include
+1179 information required by section 312 for any new key individuals that have not previously
+1180 completed the requirements of section 312 for a licensee.
+1181 (e) When an application for acquisition of control under this section appears to
+1182 include all the items and address all of the matters that are required, the application shall
+1183 be considered complete and the Commissioner shall promptly notify the applicant in a
+1184 record of the date on which the application was determined to be complete and
+1185 (1) The Commissioner shall approve or deny the application within 60
+1186 days after the completion date; or
+52
+
+1187 (2) If the application is not approved or denied within 60 days after the
+1188 completion date:
+1189 (A) The application is approved; and
+1190 (B) The person, or group of persons acting in concert, are not
+1191 prohibited from acquiring control.
+1192 (3) The Commissioner may for good cause extend the application period.
+1193 (f) A determination by the Commissioner that an application is complete and is
+1194 accepted for processing means only that the application, on its face, appears to include all
+1195 of the items and address all of the matters that are required, and is not an assessment of
+1196 the substance of the application or of the sufficiency of the information provided.
+1197 (g) When an application is filed and considered complete under subsection (e) of
+1198 this section, the Commissioner shall investigate the financial condition and responsibility,
+1199 financial and business experience, character, and general fitness of the person, or group
+1200 of persons acting in concert, seeking to acquire control. The Commissioner shall approve
+1201 an acquisition of control pursuant to this section if the Commissioner finds that all of the
+1202 following conditions have been fulfilled:
+1203 (1) The requirements of subsections (b) and (d) of this section have been
+1204 met, as applicable; and
+1205 (2) The financial condition and responsibility, financial and business
+1206 experience, competence, character, and general fitness of the person, or group of persons
+1207 acting in concert, seeking to acquire control; and the competence, experience, character,
+1208 and general fitness of the key individuals and persons that would be in control of the
+53
+
+1209 licensee after the acquisition of control indicate that it is in the interest of the public to
+1210 permit the person, or group of persons acting in concert, to control the licensee.
+1211 (h) If an applicant avails itself or is otherwise subject to a multistate licensing
+1212 process:
+1213 (1) The Commissioner may accept the investigation results of a lead
+1214 investigative state for the purpose of subsection (g) of this section if the lead investigative
+1215 state has sufficient staffing, expertise, and minimum standards comparable to the District
+1216 of Columbia’s standards; or
+1217 (2) If the District of Columbia is a lead investigative state, the
+1218 Commissioner is authorized and encouraged to investigate the applicant pursuant to
+1219 subsection (g) of this section and the timeframes established by agreement through the
+1220 multistate licensing process.
+1221 (i) The Commissioner shall issue a formal written notice of the denial of an
+1222 application to acquire control within 30days of the decision to deny the application. The
+1223 Commissioner shall set forth in the notice of denial the specific reasons for the denial of
+1224 the application. An applicant whose application is denied by the Commissioner under this
+1225 subsection may appeal within thirty (30) days after receipt of the written notice of the
+1226 denial pursuant to the Administrative Procedure Act.
+1227 (j) The requirements of subsections (a) and (b) of this section do not apply to any
+1228 of the following:
+1229 (1) A person that acts as a proxy for the sole purpose of voting at a
+1230 designated meeting of the shareholders or holders of voting shares or voting interests of a
+1231 licensee or a person in control of a licensee;
+54
+
+1232 (2) A person that acquires control of a licensee by devise or descent;
+1233 (3) A person that acquires control of a licensee as a personal
+1234 representative, custodian, guardian, conservator, or trustee, or as an officer appointed by
+1235 a court of competent jurisdiction or by operation of law;
+1236 (4) A person that is exempt under section 303(g) of this act;
+1237 (5) A person that the Commissioner determines is not subject to
+1238 subsection (a) of this section based on the public interest;
+1239 (6) A public offering of securities of a licensee or a person in control of a
+1240 licensee; or
+1241 (7) An internal reorganization of a person in control of the licensee where
+1242 the ultimate person in control of the licensee remains the same.
+1243 (k) Persons in subsection (j)(2), (3), (4), (6), and (7) of this section, in cooperation
+1244 with the licensee shall notify the Commissioner within 15 days after the acquisition of
+1245 control.
+1246 (l) Streamlined Acquisition of Control
+1247 (1) The requirements of subsections (a) and (b) of this section do not apply
+1248 to a person that has complied with and received approval to engage in money
+1249 transmission under this act or was identified as a person in control in a prior application
+1250 filed with and approved by the Commissioner or by an MSB-accredited state pursuant to
+1251 a multistate licensing process, provided that:
+1252 (A) The person has not had a license revoked or suspended or
+1253 controlled a licensee that has had a license revoked or suspended while the person was in
+1254 control of the licensee in the previous 5 years;
+55
+
+1255 (B) If the person is a licensee, the person is well managed and has
+1256 received at least a satisfactory rating for compliance at its most recent examination by an
+1257 MSB-accredited state if such rating was given;
+1258 (C) The licensee to be acquired is projected to meet the
+1259 requirements of sections 331, 332, and 333 of this act after the acquisition of control is
+1260 completed, and if the person acquiring control is a licensee, that licensee is also projected
+1261 to meet the requirements of sections 331, 332, and 333 of this act after the acquisition of
+1262 control is completed;
+1263 (D) The licensee to be acquired will not implement any material
+1264 changes to its business plan as a result of the acquisition of control, and if the person
+1265 acquiring control is a licensee, that licensee also will not implement any material changes
+1266 to its business plan as a result of the acquisition of control; and
+1267 (E) The person provides notice of the acquisition in cooperation
+1268 with the licensee and attests to subparagraphs (A), (B), (C), and (D) of this subsection in
+1269 a form and in a medium prescribed by the Commissioner.
+1270 (2) If the notice is not disapproved within 30 days after the date on which
+1271 the notice was determined to be complete, the notice is deemed approved.
+1272 (m) Before filing an application for approval to acquire control of a licensee a
+1273 person may request in writing a determination from the Commissioner as to whether the
+1274 person would be considered a person in control of a licensee upon consummation of a
+1275 proposed transaction. If the Commissioner determines that the person would not be a
+1276 person in control of a licensee, the proposed person and transaction is not subject to the
+1277 requirements of subsections (a) and (b) of this section.
+56
+
+1278 (n) If a multistate licensing process includes a determination pursuant to
+1279 subsection (m) of this section and an applicant avails itself or is otherwise subject to the
+1280 multistate licensing process:
+1281 (1) The Commissioner may accept the control determination of a lead
+1282 investigative state with sufficient staffing, expertise, and minimum standards for the
+1283 purpose of subsection (m) of this section; or
+1284 (2) If state is a lead investigative state, the Commissioner may investigate
+1285 the applicant pursuant to subsection (m) of this section and the timeframes established by
+1286 agreement through the multistate licensing process.
+1287 Sec. 317. Notice and information requirements for a change of key individuals.
+1288 (a) A licensee adding or replacing any key individual shall:
+1289 (1) Provide notice in a manner prescribed by the Commissioner within 15
+1290 days after the effective date of the key individual's appointment; and
+1291 (2) Provide information as required by section 312 within 45 days of the
+1292 effective date.
+1293 (b) Within 90 days of the date on which the notice provided pursuant to
+1294 subsection (a) of this section was determined to be complete, the Commissioner may
+1295 issue a notice of disapproval of a key individual if the competence, experience, character,
+1296 or integrity of the individual would not be in the best interests of the public or the
+1297 customers of the licensee to permit the individual to be a key individual of such licensee.
+1298 (c) A notice of disapproval shall contain a statement of the basis for disapproval
+1299 and shall be sent to the licensee and the disapproved individual. A licensee may appeal a
+57
+
+1300 notice of disapproval pursuant to the Administrative Procedure Act within 30 days after
+1301 receipt of such notice of disapproval.
+1302 (d) If the notice provided pursuant to subsection (a) of this section is not
+1303 disapproved within 90 days after the date on which the notice was determined to be
+1304 complete, the key individual is deemed approved.
+1305 (e) If a multistate licensing process includes a key individual notice review and
+1306 disapproval process pursuant to this section and the licensee avails itself or is otherwise
+1307 subject to the multistate licensing process:
+1308 (1) The Commissioner may accept the determination of another state if the
+1309 investigating state has sufficient staffing, expertise, and minimum standards comparable
+1310 to the District of Columbia’s standards for the purpose of this section; or
+1311 (2) If the District of Columbia is a lead investigative state, the
+1312 Commissioner may investigate the applicant pursuant to subsection (b) of this section and
+1313 the timeframes established by agreement through the multistate licensing process.
+1314 Sec. 318. Call report or report of condition.
+1315 (a) Each licensee shall submit a call report or report of condition within 45 days
+1316 of the end of the calendar quarter, or within any extended time as the Commissioner may
+1317 prescribe.
+1318 (b) The call report or report of condition shall include:
+1319 (1) Financial information at the licensee level;
+1320 (2) Nationwide and state-specific money transmission transaction
+1321 information in every jurisdiction in the United States where the licensee is licensed to
+1322 engage in money transmission;
+58
+
+1323 (3) Permissible investments report;
+1324 (4) Transaction destination country reporting for money received for
+1325 transmission, if applicable; and
+1326 (5) Any other information the Commissioner reasonably requires with
+1327 respect to the licensee. The Commissioner may utilize NMLS for the submission of the
+1328 report required by this section and is authorized to change or update as necessary the
+1329 requirements of this section to carry out the purposes of this act and maintain consistency
+1330 with NMLS reporting.
+1331 (c) The information required by paragraph (b)(4) of this section shall only be
+1332 included in a call report or report of condition submitted within 45 days of the end of the
+1333 fourth calendar quarter.
+1334 Sec. 319. Audited financials.
+1335 (a) Each licensee shall, within 90 days after the end of each fiscal year, or within
+1336 any extended time as the Commissioner may prescribe, file with the Commissioner:
+1337 (1) An audited financial statement of the licensee for the fiscal year
+1338 prepared in accordance with United States generally accepted accounting principles; and
+1339 (2) Any other information as the Commissioner may reasonably require.
+1340 (b) The audited financial statements shall be prepared by an independent certified
+1341 public accountant or independent public accountant; and
+1342 (c) The audited financial statements shall include or be accompanied by a
+1343 certificate of opinion of the independent certified public accountant or independent public
+1344 accountant that is satisfactory in form and content to the Commissioner. If the certificate
+1345 or opinion is qualified, the Commissioner may order the licensee to take any action as the
+59
+
+1346 Commissioner may find necessary to enable the independent or certified public
+1347 accountant or independent public accountant to remove the qualification.
+1348 Sec. 320. Authorized delegate reporting.
+1349 (a) Each licensee shall submit a report of authorized delegates within 45 days of
+1350 the end of the calendar quarter. The Commissioner may utilize NMLS for the submission
+1351 of the report required by this subsection provided that such functionality is consistent
+1352 with the requirements of this section.
+1353 (b) The authorized delegate report shall include, at a minimum, each authorized
+1354 delegate’s:
+1355 (1) Company legal name;
+1356 (2) Taxpayer employer identification number;
+1357 (3) Principal provider identifier;
+1358 (4) Physical address;
+1359 (5) Mailing address;
+1360 (6) Any business conducted in other states;
+1361 (7) Any fictitious or trade name;
+1362 (8) Contact person name, phone number, and email;
+1363 (9) Start date as licensee’s authorized delegate;
+1364 (10) End date acting as licensee’s authorized delegate, if applicable; and
+1365 (11) Any other information the Commissioner reasonably requires with
+1366 respect to the authorized delegate.
+60
+
+1367 Sec. 321. Reports of certain events.
+1368 (a) A licensee shall file a report with the Commissioner within one business day
+1369 after the licensee has reason to know of the occurrence of any of the following events:
+1370 (1) The filing of a petition by or against the licensee under the United
+1371 States Bankruptcy Code, 11 U.S.C. §§ 101-110, as amended, for bankruptcy or
+1372 reorganization;
+1373 (2) The filing of a petition by or against the licensee for receivership, the
+1374 commencement of any other judicial or administrative proceeding for its dissolution or
+1375 reorganization, or the making of a general assignment for the benefit of its creditors; or
+1376 (3) The commencement of a proceeding to revoke or suspend its license in
+1377 a state or country in which the licensee engages in business or is licensed.
+1378 (b) A licensee shall file a report with the Commissioner within 3 business days
+1379 after the licensee has reason to know of the occurrence of any of the following events:
+1380 (1) A charge or conviction of the licensee or of a key individual or person
+1381 in control of the licensee for a felony; or
+1382 (2) A charge or conviction of an authorized delegate for a felony.
+1383 Sec. 322. Bank Secrecy Act reports.
+1384 A licensee and an authorized delegate shall file all reports required by federal
+1385 currency reporting, record keeping, and suspicious activity reporting requirements as set
+1386 forth in the Bank Secrecy Act and its implementing regulations, as amended, and other
+1387 federal and District of Columbia laws pertaining to money laundering. The timely filing
+1388 of a complete and accurate report required under this section with the appropriate federal
+1389 agency is deemed compliant with the requirements of this section.
+61
+
+1390 Sec. 323. Records.
+1391 (a) A licensee shall maintain the following records for determining its compliance
+1392 with this act for at least five years:
+1393 (1) A record of each outstanding money transmission obligation sold;
+1394 (2) A general ledger posted at least monthly containing all asset, liability,
+1395 capital, income, and expense accounts;
+1396 (3) Bank statements and bank reconciliation records;
+1397 (4) Records of outstanding money transmission obligations;
+1398 (5) Records of each outstanding money transmission obligation paid
+1399 within the five-year period;
+1400 (6) A list of the last known names and addresses of all of the licensee's
+1401 authorized delegates; and
+1402 (7) Any other records the Commissioner reasonably requires by rule.
+1403 (b) The items specified in subsection (a) of this section may be maintained in any
+1404 form of record.
+1405 (c) Records specified in subsection (a) of this section may be maintained outside
+1406 the District of Columbia if they are made accessible to the Commissioner on 7 business
+1407 days' notice that is sent in a record.
+1408 (d) All records maintained by the licensee as required in subsections (a), (b), and
+1409 (c) of this section are open to inspection by the Commissioner pursuant to section 306(a)
+1410 of this act.
+62
+
+1411 Sec. 324. Relationship between licensees and authorized delegates.
+1412 (a) For purposes of this section, “remit” means to make direct payments of money
+1413 to a licensee or its representative authorized to receive money or to deposit money in a
+1414 bank in an account specified by the licensee.
+1415 (b) Before a licensee is authorized to conduct business through an authorized
+1416 delegate or allows a person to act as the licensee's authorized delegate, the licensee shall:
+1417 (1) Adopt, and update as necessary, written policies and procedures
+1418 reasonably designed to ensure that the licensee's authorized delegates comply with
+1419 applicable state and federal law;
+1420 (2) Enter into a written contract that complies with subsection (d) of this
+1421 section; and
+1422 (3) Conduct a reasonable risk-based background investigation sufficient
+1423 for the licensee to determine whether the authorized delegate has complied and will likely
+1424 comply with applicable state and federal law.
+1425 (c) An authorized delegate shall operate in full compliance with this act.
+1426 (d) The written contract required by subsection (b) of this section shall be signed
+1427 by the licensee and the authorized delegate and, at a minimum, shall:
+1428 (1) Appoint the person signing the contract as the licensee's authorized
+1429 delegate with the authority to conduct money transmission on behalf of the licensee;
+1430 (2) Set forth the nature and scope of the relationship between the licensee
+1431 and the authorized delegate and the respective rights and responsibilities of the parties;
+1432 (3) Require the authorized delegate to agree to fully comply with all
+1433 applicable District of Columbia and federal laws, rules, and regulations pertaining to
+63
+
+1434 money transmission, including this act and regulations implementing this act, and
+1435 relevant provisions of the Bank Secrecy Act and its implementing regulations, as
+1436 amended;
+1437 (4) Require the authorized delegate to remit and handle money and
+1438 monetary value in accordance with the terms of the contract between the licensee and the
+1439 authorized delegate;
+1440 (5) Impose a trust on money and monetary value net of fees received for
+1441 money transmission for the benefit of the licensee;
+1442 (6) Require the authorized delegate to prepare and maintain records as
+1443 required by this act or regulations implementing this act, or as reasonably requested by
+1444 the Commissioner;
+1445 (7) Acknowledge that the authorized delegate consents to examination or
+1446 investigation by the Commissioner;
+1447 (8) State that the licensee is subject to regulation by the Commissioner and
+1448 that, as part of that regulation, the Commissioner may suspend or revoke an authorized
+1449 delegate designation or require the licensee to terminate an authorized delegate
+1450 designation; and
+1451 (9) Acknowledge receipt of the written policies and procedures required
+1452 under subsection (b)(1) of this section.
+1453 (e) If the licensee’s license is suspended, revoked, surrendered, or expired, the
+1454 licensee shall, within 5 business days, provide documentation to the Commissioner that
+1455 the licensee has notified all applicable authorized delegates of the licensee whose names
+1456 are in a record filed with the Commissioner of the suspension, revocation, surrender, or
+64
+
+1457 expiration of a license. Upon suspension, revocation, surrender, or expiration of a license,
+1458 applicable authorized delegates shall immediately cease to provide money transmission
+1459 as an authorized delegate of the licensee.
+1460 (f) An authorized delegate of a licensee holds in trust for the benefit of the
+1461 licensee all money net of fees received from money transmission. If any authorized
+1462 delegate commingles any funds received from money transmission with any other funds
+1463 or property owned or controlled by the authorized delegate, all commingled funds and
+1464 other property shall be considered held in trust in favor of the licensee in an amount equal
+1465 to the amount of money net of fees received from money transmission.
+1466 (g) An authorized delegate may not use a subdelegate to conduct money
+1467 transmission on behalf of a licensee.
+1468 Sec. 325. Unauthorized activities
+1469 A person shall not engage in the business of money transmission on behalf of a
+1470 person not licensed under this act or not exempt pursuant to section 303 of this act. A
+1471 person that engages in such activity provides money transmission to the same extent as if
+1472 the person were a licensee, and shall be jointly and severally liable with the unlicensed or
+1473 nonexempt person.
+1474 Sec. 326. Timely transmission.
+1475 (a) Every licensee shall forward all money received for transmission in
+1476 accordance with the terms of the agreement between the licensee and the sender, unless
+1477 the licensee has a reasonable belief or a reasonable basis to believe that the sender may be
+1478 a victim of fraud or that a crime or violation of law, rule, or regulation has occurred, is
+1479 occurring, or may occur.
+65
+
+1480 (b) If a licensee fails to forward money received for transmission in accordance
+1481 with this section, the licensee shall respond to inquiries by the sender with the reason for
+1482 the failure unless providing a response would violate District of Columbia or federal law,
+1483 rule, or regulation.
+1484 Sec. 327. Refunds
+1485 (a) This section does not apply to:
+1486 (1) Money received for transmission subject to the federal Requirements
+1487 for Remittance Transfers rules (12 C.F.R. Part 1005, Subpart B), as amended; or
+1488 (2) Money received for transmission pursuant to a written agreement
+1489 between the licensee and payee to process payments for goods or services provided by
+1490 the payee.
+1491 (b) Every licensee shall refund to the sender within 10 days of receipt of the
+1492 sender's written request for a refund of any and all money received for transmission
+1493 unless any of the following occurs:
+1494 (1) The money has been forwarded within 10 days of the date on which
+1495 the money was received for transmission;
+1496 (2) Instructions have been given committing an equivalent amount of
+1497 money to the person designated by the sender within 10 days of the date on which the
+1498 money was received for transmission;
+1499 (3) The agreement between the licensee and the sender instructs the
+1500 licensee to forward the money at a time that is beyond 10 days of the date on which the
+1501 money was received for transmission. If funds have not yet been forwarded in accordance
+66
+
+1502 with the terms of the agreement between the licensee and the sender, the licensee shall
+1503 issue a refund in accordance with the other provisions of this section;
+1504 (4) The refund is requested for a transaction that the licensee has not
+1505 completed based on a reasonable belief or a reasonable basis to believe that a crime or
+1506 violation of law, rule, or regulation has occurred, is occurring, or may occur; or
+1507 (5) The refund request does not enable the licensee to:
+1508 (A) Identify the sender's name and address or telephone number; or
+1509 (B) Identify the particular transaction to be refunded in the event
+1510 the sender has multiple transactions outstanding.
+1511 Sec. 328. Receipts.
+1512 (a) This section does not apply to:
+1513 (1) Money received for transmission subject to the federal Requirements
+1514 for Remittance Transfers rules (12 C.F.R. Part 1005, Subpart B), as amended;
+1515 (2) Money received for transmission that is not primarily for personal,
+1516 family or household purposes;
+1517 (3) Money received for transmission pursuant to a written agreement
+1518 between the licensee and payee to process payments for goods or services provided by
+1519 the payee; or
+1520 (4) Payroll processing services.
+1521 (b) For purposes of this section, "receipt" means a paper receipt, electronic record
+1522 or other written confirmation. For a transaction conducted in person, the receipt may be
+1523 provided electronically if the sender requests or agrees to receive an electronic receipt.
+67
+
+1524 For a transaction conducted electronically or by phone, a receipt may be provided
+1525 electronically. All electronic receipts shall be provided in a retainable form.
+1526 (c) Every licensee or its authorized delegate shall provide the sender a receipt for
+1527 money received for transmission.
+1528 (1) The receipt shall contain the following information, as applicable:
+1529 (A) The name of the sender;
+1530 (B) The name of the designated recipient;
+1531 (C) The date of the transaction;
+1532 (D) The unique transaction or identification number;
+1533 (E) The name of the licensee, NMLS Unique ID, the licensee's
+1534 business address, and the licensee’s customer service telephone number;
+1535 (F) The amount of the transaction in United States dollars;
+1536 (G) Any fee charged by the licensee to the sender for the
+1537 transaction; and
+1538 (F) Any taxes collected by the licensee from the sender for the
+1539 transaction.
+1540 (2) The receipt required by this section shall be in English and in the
+1541 language principally used by the licensee or authorized delegate to advertise, solicit, or
+1542 negotiate, either orally or in writing, for a transaction conducted in person, electronically
+1543 or by phone, if other than English.
+1544 Sec. 329. Notice
+1545 Every licensee or authorized delegate shall include on a receipt or disclose on the
+1546 licensee's website or mobile application the name and phone number of the Department
+68
+
+1547 and a statement that the licensee's customers can contact the Department with questions
+1548 or complaints about the licensee's money transmission services.
+1549 Sec. 330. Disclosures for payroll processing services.
+1550 (a) A licensee that provides payroll processing services shall:
+1551 (1) Issue reports to clients detailing client payroll obligations in advance
+1552 of the payroll funds being deducted from an account; and
+1553 (2) Make available worker paystubs or an equivalent statement to workers.
+1554 (b) Subsection (a) of this section does not apply to a licensee providing payroll
+1555 processing services where the licensee’s client designates the intended recipients to the
+1556 licensee and is responsible for providing the disclosures required by paragraph (2).
+1557 Sec. 331. Net worth.
+1558 (a) A licensee under this act shall maintain at all times a tangible net worth of the
+1559 greater of $100,000 or 3 percent of total assets for the first $100 million, 2 percent of
+1560 additional assets for $100 million to $1 billion, and 0.5 percent of additional assets for
+1561 over $1 billion.
+1562 (b) Tangible net worth shall be demonstrated at initial application by the
+1563 applicant’s most recent audited or unaudited financial statements pursuant to section
+1564 311(b)(6).
+1565 (c) Notwithstanding the foregoing provisions of this section, the Commissioner
+1566 shall have the authority, for good cause shown, to exempt, in part or in whole, from the
+1567 requirements of this section any applicant or licensee.
+69
+
+1568 Sec. 332. Surety bonds.
+1569 (a) An applicant for a money transmission license shall provide, and a licensee at
+1570 all times shall maintain, security consisting of a surety bond in a form satisfactory to the
+1571 Commissioner or, with the Commissioner's approval, a deposit instead of a bond in
+1572 accordance with this section.
+1573 (b) The amount of the required security shall be:
+1574 (1) The greater of $100,000 or an amount equal to one hundred percent of
+1575 the licensee's average daily money transmission liability in this state calculated for the
+1576 most recently completed three-month period, up to a maximum of $500,000; or
+1577 (2) In the event that the licensee's tangible net worth exceeds 10% of total
+1578 assets, the licensee shall maintain a surety bond of $100,000.
+1579 (c) A licensee that maintains a bond in the maximum amount provided for in
+1580 subsection (b)(1) or (b)(2) of this section, or as prescribed by regulation, as applicable,
+1581 shall not be required to calculate its average daily money transmission liability in this
+1582 state for purposes of this section.
+1583 (d) A licensee may exceed the maximum required bond amount pursuant to
+1584 subsection 334(a)(5) or as prescribed by regulation.
+1585 Sec. 333. Maintenance of permissible investments.
+1586 (a) A licensee shall maintain at all times permissible investments that have a
+1587 market value computed in accordance with United States generally accepted accounting
+1588 principles of not less than the aggregate amount of all of its outstanding money
+1589 transmission obligations.
+70
+
+1590 (b) Except for permissible investments enumerated in section 334(a), the
+1591 Commissioner, with respect to any licensee, may by rule or other issuance limit the extent
+1592 to which a specific investment maintained by a licensee within a class of permissible
+1593 investments may be considered a permissible investment, if the specific investment
+1594 represents undue risk to customers, not reflected in the market value of investments.
+1595 (c) Permissible investments, even if commingled with other assets of the licensee,
+1596 are held in trust for the benefit of the purchasers and holders of the licensee's outstanding
+1597 money transmission obligations in the event of insolvency, the filing of a petition by or
+1598 against the licensee under the United States Bankruptcy Code, 11 U.S.C. §§101-110, as
+1599 amended, for bankruptcy or reorganization, the filing of a petition by or against the
+1600 licensee for receivership, the commencement of any other judicial or administrative
+1601 proceeding for its dissolution or reorganization, or in the event of an action by a creditor
+1602 against the licensee who is not a beneficiary of this statutory trust. No permissible
+1603 investments impressed with a trust pursuant to this subsection shall be subject to
+1604 attachment, levy of execution, or sequestration by order of any court, except for a
+1605 beneficiary of this statutory trust.
+1606 (d) Upon the establishment of a statutory trust in accordance with subsection (c)
+1607 of this section, or when any funds are drawn on a letter of credit pursuant to section
+1608 334(a)(4), the Commissioner shall notify the applicable regulator of each state in which
+1609 the licensee is licensed to engage in money transmission, if any, of the establishment of
+1610 the trust or the funds drawn on the letter of credit, as applicable. Notice shall be deemed
+1611 satisfied if performed pursuant to a multistate agreement or through NMLS. Funds drawn
+1612 on a letter of credit, and any other permissible investments held in trust for the benefit of
+71
+
+1613 the purchasers and holders of the licensee's outstanding money transmission obligations,
+1614 are deemed held in trust for the benefit of such purchasers and holders on a pro rata and
+1615 equitable basis in accordance with statutes pursuant to which permissible investments are
+1616 required to be held in this state, and other states, as applicable. Any statutory trust
+1617 established hereunder shall be terminated upon extinguishment of all of the licensee's
+1618 outstanding money transmission obligations.
+1619 (e) The Commissioner by rule or by order may allow other types of investments
+1620 that the Commissioner determines are of sufficient liquidity and quality to be a
+1621 permissible investment. The Commissioner may participate in efforts with other state
+1622 regulators to determine that other types of investments are of sufficient liquidity and
+1623 quality to be a permissible investment.
+1624 Sec. 334. Types of permissible investments.
+1625 (a) The following investments are permissible under section 333:
+1626 (1) Cash (including demand deposits, savings deposits, and funds in such
+1627 accounts held for the benefit of the licensee's customers in a federally insured depository
+1628 financial institution) and cash equivalents including ACH items in transit to the licensee
+1629 and ACH items or international wires in transit to a payee, cash in transit via armored car,
+1630 cash in smart safes, cash in licensee-owned locations, debit card or credit card-funded
+1631 transmission receivables owed by any bank, or money market mutual funds rated "AAA"
+1632 by S&P, or the equivalent from any eligible rating service;
+1633 (2) Certificates of deposit or senior debt obligations of an insured
+1634 depository institution, as defined in section 3 of the Federal Deposit Insurance Act, 12
+72
+
+1635 U.S.C. § 1813, as amended, or as defined under the Federal Credit Union Act, 12 U.S.C.
+1636 §1781, as amended;
+1637 (3) An obligation of the United States or a commission, agency, or
+1638 instrumentality thereof; an obligation that is guaranteed fully as to principal and interest
+1639 by the United States; or an obligation of a state or a governmental subdivision, agency, or
+1640 instrumentality thereof;
+1641 (4) The full drawable amount of an irrevocable standby letter of credit for
+1642 which the stated beneficiary is the Commissioner that stipulates that the beneficiary need
+1643 only draw a sight draft under the letter of credit and present it to obtain funds up to the
+1644 letter of credit amount within 7 days of presentation of the items required by subsection
+1645 (a)(4)(C) of this section.
+1646 (A) The letter of credit shall:
+1647 (i) Be issued by a federally insured depository financial
+1648 institution, a foreign bank that is authorized under federal law to maintain a federal
+1649 agency or federal branch office in a state or states, or a foreign bank that is authorized
+1650 under state law to maintain a branch in a state that:
+1651 (I) Bears an eligible rating or whose parent
+1652 company bears an eligible rating; and
+1653 (II) Is regulated, supervised, and examined by
+1654 United States federal or state authorities having regulatory authority over banks, credit
+1655 unions, and trust companies;
+1656 (ii) Be irrevocable, unconditional and indicate that it is not
+1657 subject to any condition or qualifications outside of the letter of credit;
+73
+
+1658 (iii) Not contain reference to any other agreements,
+1659 documents or entities, or otherwise provide for any security interest in the licensee; and
+1660 (iv) Contain an issue date and expiration date, and
+1661 expressly provide for automatic extension, without a written amendment, for an
+1662 additional period of one year from the present or each future expiration date, unless the
+1663 issuer of the letter of credit notifies the Commissioner in writing by certified or registered
+1664 mail or courier mail or other receipted means, at least 60 days prior to any expiration
+1665 date, that the irrevocable letter of credit will not be extended.
+1666 (B) In the event of any notice of expiration or non-extension of a
+1667 letter of credit issued under subsection- (a)(4)(A)(iv) of this section, the licensee shall be
+1668 required to demonstrate to the satisfaction of the Commissioner, 15 days prior to
+1669 expiration, that the licensee maintains and will maintain permissible investments in
+1670 accordance with section 333(a) upon the expiration of the letter of credit. If the licensee is
+1671 not able to do so, the Commissioner may draw on the letter of credit in an amount up to
+1672 the amount necessary to meet the licensee's requirements to maintain permissible
+1673 investments in accordance with section 333(a). Any such draw shall be offset against the
+1674 licensee's outstanding money transmission obligations. The drawn funds shall be held in
+1675 trust by the Commissioner or the Commissioner’s designated agent, to the extent
+1676 authorized by law, as agent for the benefit of the purchasers and holders of the licensee's
+1677 outstanding money transmission obligations.
+1678 (C) The letter of credit shall provide that the issuer of the letter of
+1679 credit will honor, at sight, a presentation made by the beneficiary to the issuer of the
+1680 following documents on or prior to the expiration date of the letter of credit:
+74
+
+1681 (i) The original letter of credit, including any amendments;
+1682 and
+1683 (ii) A written statement from the beneficiary stating that
+1684 any of the following events have occurred:
+1685 (I) The filing of a petition by or against the licensee
+1686 under the United States Bankruptcy Code, 11 U.S.C. §§ 101-110, as amended, for
+1687 bankruptcy or reorganization;
+1688 (II) The filing of a petition by or against the licensee
+1689 for receivership, or the commencement of any other judicial or administrative proceeding
+1690 for its dissolution or reorganization;
+1691 (III) The seizure of assets of a licensee by a
+1692 Commissioner pursuant to an emergency order issued in accordance with applicable law,
+1693 on the basis of an action, violation, or condition that has caused or is likely to cause the
+1694 insolvency of the licensee; or
+1695 (IV) The beneficiary has received notice of
+1696 expiration or non-extension of a letter of credit and the licensee failed to demonstrate to
+1697 the satisfaction of the beneficiary that the licensee will maintain permissible investments
+1698 in accordance with section 333(a) upon the expiration or non-extension of the letter of
+1699 credit.
+1700 (D) The Commissioner may designate an agent to serve on the
+1701 Commissioner’s behalf as beneficiary to a letter of credit so long as the agent and letter of
+1702 credit meet requirements established by the Commissioner. The Commissioner's agent
+1703 may serve as agent for multiple licensing authorities for a single irrevocable letter of
+75
+
+1704 credit if the proceeds of the drawable amount for the purposes of subsection (a)(4) of this
+1705 section are assigned to the Commissioner.
+1706 (E) The Commissioner may participate in multistate processes
+1707 designed to facilitate the issuance and administration of letters of credit, including but not
+1708 limited to services provided by the NMLS and State Regulatory Registry, LLC; or
+1709 (5) One hundred percent of the surety bond provided for under section 332
+1710 that exceeds the average daily money transmission liability in the District of Columbia.
+1711 (b) Unless permitted by the Commissioner by rule or by order to exceed the limit
+1712 as set forth herein, the following investments are permissible under section 333 to the
+1713 extent specified:
+1714 (1) Receivables that are payable to a licensee from its authorized delegates
+1715 in the ordinary course of business that are less than seven days old, up to 50% of the
+1716 aggregate value of the licensee's total permissible investments;
+1717 (2) Of the receivables permissible under subsection (b)(1) of this section,
+1718 receivables that are payable to a licensee from a single authorized delegate in the ordinary
+1719 course of business may not exceed 10% of the aggregate value of the licensee's total
+1720 permissible investments;
+1721 (3) The following investments are permissible up to 20% per category and
+1722 combined up to 50% of the aggregate value of the licensee's total permissible
+1723 investments:
+1724 (A) A short-term (up to 6 months) investment bearing an eligible
+1725 rating;
+1726 (B) Commercial paper bearing an eligible rating;
+76
+
+1727 (C) A bill, note, bond, or debenture bearing an eligible rating;
+1728 (D) U.S. tri-party repurchase agreements collateralized at 100% or
+1729 more with U.S. government or agency securities, municipal bonds, or other securities
+1730 bearing an eligible rating;
+1731 (E) Money market mutual funds rated less than "AAA" and equal
+1732 to or higher than "A-" by S&P, or the equivalent from any other eligible rating service;
+1733 and
+1734 (F) A mutual fund or other investment fund composed solely and
+1735 exclusively of one or more permissible investments listed in section 334(a)(1)–(3); and
+1736 (4) Cash (including demand deposits, savings deposits, and funds in such
+1737 accounts held for the benefit of the licensee's customers) at foreign depository institutions
+1738 is permissible up to 10% of the aggregate value of the licensee's total permissible
+1739 investments if the licensee has received a satisfactory rating in its most recent
+1740 examination and the foreign depository institution:
+1741 (A) Has an eligible rating;
+1742 (B) Is registered under the Foreign Account Tax Compliance Act;
+1743 (C) Is not located in any country subject to sanctions from the
+1744 Office of Foreign Asset Control; and
+1745 (D) Is not located in a high-risk or non-cooperative jurisdiction as
+1746 designated by the Financial Action Task Force.
+1747 Sec. 335. Suspension and revocation.
+1748 (a) The Commissioner may suspend or revoke a license or order a licensee to
+1749 revoke the designation of an authorized delegate if:
+77
+
+1750 (1) The licensee violates this act or a rule adopted or an order issued under
+1751 this act
+1752 (2) The licensee does not cooperate with an examination or investigation
+1753 by the Commissioner;
+1754 (3) The licensee engages in fraud, intentional misrepresentation, or gross
+1755 negligence;
+1756 (4) An authorized delegate is convicted of a violation of a state or federal
+1757 anti-money laundering statute, or violates a rule adopted or an order issued under this act,
+1758 as a result of the licensee’s willful misconduct or willful blindness;
+1759 (5) The competence, experience, character, or general fitness of the
+1760 licensee, authorized delegate, person in control of a licensee, key individual, or
+1761 responsible person of the authorized delegate indicates that it is not in the public interest
+1762 to permit the person to provide money transmission;
+1763 (6) The licensee engages in an unsafe or unsound practice;
+1764 (7) The licensee is insolvent, suspends payment of its obligations, or
+1765 makes a general assignment for the benefit of its creditors; or
+1766 (8) The licensee does not remove an authorized delegate after the
+1767 Commissioner issues and serves upon the licensee a final order including a finding that
+1768 the authorized delegate violated this act.
+1769 (b) In determining whether a licensee is engaging in an unsafe or unsound
+1770 practice, the Commissioner may consider the size and condition of the licensee’s money
+1771 transmission, the magnitude of the loss, the gravity of the violation of this act, and the
+1772 previous conduct of the person involved.
+78
+
+1773 Sec. 336. Suspension and revocation of authorized delegates.
+1774 (a) The Commissioner may issue an order suspending or revoking the designation
+1775 of an authorized delegate, if the Commissioner finds that:
+1776 (1) The authorized delegate violated this act or a rule adopted or an order
+1777 issued under this Act;
+1778 (2) The authorized delegate did not cooperate with an examination or
+1779 investigation by the Commissioner;
+1780 (3) The authorized delegate engaged in fraud, intentional
+1781 misrepresentation, or gross negligence;
+1782 (4) The authorized delegate is convicted of a violation of a District, state,
+1783 or federal anti-money laundering statute;
+1784 (5) The competence, experience, character, or general fitness of the
+1785 authorized delegate or a person in control of the authorized delegate indicates that it is
+1786 not in the public interest to permit the authorized delegate to provide money
+1787 transmission; or
+1788 (6) The authorized delegate is engaging in an unsafe or unsound practice.
+1789 (A) In determining whether an authorized delegate is engaging in
+1790 an unsafe or unsound practice, the Commissioner may consider the size and condition of
+1791 the authorized delegate's provision of money transmission, the magnitude of the loss, the
+1792 gravity of the violation of this act or a rule adopted or order issued under this act, and the
+1793 previous conduct of the authorized delegate.
+79
+
+1794 (b) An authorized delegate may apply for relief from a suspension or revocation
+1795 of designation as an authorized delegate according to procedures prescribed by the
+1796 Commissioner.
+1797 Sec. 337. Orders to cease and desist.
+1798 (a) If the Commissioner determines that a violation of this act or of a rule adopted
+1799 or an order issued under this act by a licensee or authorized delegate is likely to cause
+1800 immediate and irreparable harm to the licensee, its customers, or the public as a result of
+1801 the violation, or cause insolvency or significant dissipation of assets of the licensee, the
+1802 Commissioner may issue an order requiring the licensee or authorized delegate to cease
+1803 and desist from the violation. The order becomes effective upon service of it upon the
+1804 licensee or authorized delegate.
+1805 (b) The Commissioner may issue an order against a licensee to cease and desist
+1806 from providing money transmission through an authorized delegate that is the subject of a
+1807 separate order by the Commissioner.
+1808 (c) An order to cease and desist remains effective and enforceable pending the
+1809 completion of an administrative proceeding pursuant to the Administrative Procedure
+1810 Act.
+1811 (d) A licensee or an authorized delegate that is served with an order to cease and
+1812 desist may petition the Superior Court of the District of Columbia, for a judicial order
+1813 setting aside, limiting, or suspending the enforcement, operation, or effectiveness of the
+1814 order pending the completion of an administrative proceeding pursuant to the
+1815 Administrative Procedure Act.
+80
+
+1816 (e) An order to cease and desist expires unless the Commissioner commences an
+1817 administrative proceeding pursuant to the Administrative Procedure Act within 10 days
+1818 after it is issued.
+1819 Sec. 338. Consent orders.
+1820 The Commissioner may enter into a consent order at any time with a person to
+1821 resolve a matter arising under this act or a rule adopted or order issued under this act. A
+1822 consent order shall be signed by the person to whom it is issued or by the person's
+1823 authorized representative and shall indicate agreement with the terms contained in the
+1824 order. A consent order may provide that it does not constitute an admission by a person
+1825 that this act or a rule adopted or an order issued under this act has been violated.
+1826 Sec. 339. Criminal penalties.
+1827 (a) Any person who knowingly and willfully makes a material, false statement in
+1828 any document filed or required to be filed under this chapter with the intent to deceive the
+1829 recipient of the document shall be guilty of a felony and, on conviction thereof, shall be
+1830 fined not more than $10,000, or imprisoned for not more than 3 years, or both.
+1831 (b) Any person who engages in the business of money transmission without a
+1832 license as provided herein shall be guilty of a felony and, on conviction thereof, shall be
+1833 fined not more than $25,000, or imprisoned for not more than 5 years, or both.
+1834 (c) Any person who knowingly and willfully violates any provision of this chapter
+1835 for which a penalty is not specifically provided shall be guilty of a misdemeanor and, on
+1836 conviction thereof, shall be fined not more than $5,000, or imprisoned for more than 1
+1837 year, or both.
+81
+
+1838 Sec. 340. Civil penalties.
+1839 (a) The Commissioner may assess a civil penalty against a person that violates
+1840 this act or a rule adopted pursuant to this act in an amount not to exceed $5,000 per day
+1841 for each day the violation is outstanding, plus the District’s costs and expenses for the
+1842 investigation and prosecution of the matter, including reasonable attorney's fees.
+1843 (b) Any civil penalty assessed pursuant to this act shall not exceed $5,000 per day
+1844 for each day the violation is outstanding, plus the District’s costs and expenses for the
+1845 investigation and prosecution of the matter, including reasonable attorney's fees.
+1846 Sec. 341. Unlicensed persons.
+1847 (a) If the Commissioner has reason to believe that a person has violated or is
+1848 violating section 308, the Commissioner may issue an order to show cause why an order
+1849 to cease and desist should not issue requiring that the person cease and desist from the
+1850 violation of section 308.
+1851 (b) In an emergency, the Commissioner may petition the Superior Court of the
+1852 District of Columbia for the issuance of a temporary restraining order ex parte pursuant to
+1853 the rules of civil procedure.
+1854 (c) An order to cease and desist becomes effective upon service of it upon the
+1855 person.
+1856 (d) An order to cease and desist remains effective and enforceable pending the
+1857 completion of an administrative proceeding pursuant to the Administrative Procedure
+1858 Act.
+1859 (e) A person that is served with an order to cease and desist for violating section
+1860 308 may petition the Superior Court of the District of Columbia for a judicial order
+82
+
+1861 setting aside, limiting, or suspending the enforcement, operation, or effectiveness of the
+1862 order pending the completion of an administrative proceeding pursuant to the
+1863 Administrative Procedure Act.
+1864 (f) An order to cease and desist expires unless the Commissioner commences an
+1865 administrative proceeding within 10 days after it is issued.
+1866 Sec. 342. Consent to jurisdiction.
+1867 Any licensee, authorized delegate, or other person who knowingly engages in
+1868 business activities that are regulated pursuant to this act, with or without filing an
+1869 application, is deemed to have consented to the jurisdiction of the courts of the District of
+1870 Columbia for all actions arising under this act.
+1871 Sec. 343. Multiple licenses.
+1872 Any person licensed under this chapter shall not be required to obtain a separate
+1873 license pursuant to the Check Cashers Act of 1998, effective May 12, 1998 (D.C. Law
+1874 12-111; D.C. Official Code § 26–301 et seq.), to engage in cashing of checks in the
+1875 District of Columbia.
+1876 Sec. 344. Virtual currency.
+1877 (a) Definitions. For purposes of this section:
+1878 (1) “Cash” means United States currency, both coins and paper currency.
+1879 The term includes United States currency stored on a payment card including a debit
+1880 card, prepaid debit card, or gift card.
+1881 (2) “Charges” means:
+1882 (A) Fees or expenses paid by a user in an exchange of virtual
+1883 currency; or
+83
+
+1884 (B) The difference between the current market price of a virtual
+1885 currency on a virtual currency exchange and the price of the digital financial asset
+1886 charged to the customer.
+1887 (3) "Control of virtual currency," when used in reference to a transaction
+1888 or relationship involving virtual currency, means the power to execute unilaterally or
+1889 prevent indefinitely a virtual currency transaction;
+1890 (4) “Customer” means a user of a virtual currency kiosk who is not acting
+1891 as an owner, operator, or manager in the use of the virtual currency kiosk.
+1892 (5) "Exchange," used as a verb, means to assume control of virtual
+1893 currency from or on behalf of a person, at least momentarily, to sell, trade, or convert:
+1894 (A) Virtual currency for money, bank credit, or one or more forms
+1895 of virtual currency; or
+1896 (B) Money or bank credit for one or more forms of virtual
+1897 currency.
+1898
+1899 (11) “Transfer” means to assume control of virtual currency from or on
+1900 behalf of a person and to:
+1901 (A) Credit the virtual currency to the account of another person;
+1902 (B) Move the virtual currency from one account of a person to
+1903 another account of the same person; or
+1904 (C) Relinquish control of virtual currency to another person.
+84
+
+1905 (12) “U.S. Dollar equivalent of virtual currency” means the equivalent
+1906 value of a particular virtual currency in United States dollars shown on a virtual-currency
+1907 exchange based in the United States for a particular date or period specified in this act.
+1908 (13) “Virtual currency”:
+1909 (A) Means a digital representation of value that:
+1910 (i) Is used as a medium of exchange, unit of account, or
+1911 store of value; and
+1912 (ii) Is not money, whether or not denominated in money;
+1913 and
+1914 (B) Does not include:
+1915 (ii) A transaction in which a merchant grants, as part of an
+1916 affinity or rewards program, value that cannot be taken from or exchanged with the
+1917 merchant for money, bank credit, or virtual currency; or
+1918 (iii) A digital representation of value issued by or on behalf
+1919 of a publisher and used solely within an online game, game platform, or family of games
+1920 sold by the same publisher or offered on the same game platform.
+1921 (14) “Virtual currency administration” means issuing virtual currency with
+1922 the authority to redeem the currency for money, bank credit, or other virtual currency.
+1923 (15) “Virtual currency business activity” means:
+1924 (A) Exchanging, transferring, or storing virtual currency or
+1925 engaging in virtual-currency administration, whether directly or through an agreement
+1926 with a virtual-currency control-services vendor;
+85
+
+1927 (B) Holding electronic precious metals or electronic certificates
+1928 representing interests in precious metals on behalf of another person or issuing shares or
+1929 electronic certificates representing interests in precious metals; or
+1930 (C) Exchanging one or more digital representations of value used
+1931 within one or more online games, game platforms, or family of games for:
+1932 (i) Virtual currency offered by or on behalf of the same
+1933 publisher from which the original digital representation of value was received; or
+1934 (ii) Money or bank credit outside the online game, game
+1935 platform, or family of games offered by or on behalf of the same publisher from which
+1936 the original digital representation of value was received.
+1937 (16) “Virtual currency control-services vendor” means a person, persons,
+1938 or entity that has control of virtual currency solely under an agreement with a person,
+1939 persons, or entity that, on behalf of another person, persons, or entity, assumes control of
+1940 virtual currency.
+1941 (17) “Virtual currency kiosk” means a stationary or mobile unattended
+1942 device at which a that is capable of accepting or dispensing cash in exchange for virtual
+1943 currency. The term shall not include personal use devices on which virtual currency
+1944 transactions may occur, including mobile phones or laptops.
+1945 (b) Scope.
+1946 (1) This section does not apply to the exchange, transfer, or storage of
+1947 virtual currency or to virtual currency administration to the extent the Electronic Fund
+1948 Transfer Act of 1978, approved November 10, 1978 (92 Stat. 3728; 15 U.S.C. § 1693 et
+1949 seq.), as amended, the Securities Exchange Act of 1934, approved June 6, 1934 (48 Stat.
+86
+
+1950 881; 15 U.S.C. § 78a et seq.), as amended, the Commodity Exchange Act, approved
+1951 September 21, 1922 (42 Stat. 998; 7 U .S.C. §1 et seq.), as amended, or the Securities Act
+1952 of 2000, effective Oct. 26, 2000 (D.C. Law 13-203; D.C. Official Code § 31–5601 et
+1953 seq.) govern the activity.
+1954 (2) This section does not apply to activity by:
+1955 (A) A person that:
+1956 (i) Contributes only connectivity software or computing
+1957 power to a decentralized virtual currency, or to a protocol governing transfer of the
+1958 digital representation of value;
+1959 (ii) Provides only data storage or security services for a
+1960 business engaged in virtual-currency business activity and does not otherwise engage in
+1961 virtual-currency business activity on behalf of another person; or
+1962 (iii) Provides only to a person otherwise exempt from this
+1963 act virtual currency as one or more enterprise solutions used solely among each other and
+1964 has no agreement or relationship with a person that is an end-user of virtual currency;
+1965 (B) A person using virtual currency, including creating, investing,
+1966 buying or selling, or obtaining virtual currency as payment for the purchase or sale of
+1967 goods or services, solely:
+1968 (i) On its own behalf;
+1969 (ii) For personal, family, or household purposes; or
+1970 (iii) For academic purposes;
+87
+
+1971 (C) A person whose virtual-currency business activity with or on
+1972 behalf of persons is reasonably expected to be valued, in the aggregate, on an annual
+1973 basis at $5,000 or less, measured by the U.S. Dollar equivalent of virtual currency;
+1974 (D) An attorney to the extent of providing escrow services to a
+1975 person;
+1976 (E) A title insurance company to the extent of providing escrow
+1977 services to a person;
+1978 (F) A securities intermediary, as defined in D.C. Official Code
+1979 § 28:8-102(14) or a commodity intermediary, as defined in D.C. Official Code § 28:9-
+1980 102(17), that:
+1981 (i) Does not engage in the ordinary course of business in
+1982 virtual currency business activity with or on behalf of a person in addition to maintaining
+1983 securities accounts or commodities accounts and is regulated as a securities intermediary
+1984 or commodity intermediary under federal law, law of this state other than this act, or law
+1985 of another state; and
+1986 (ii) Affords a person protections comparable to those set
+1987 forth in section 405;
+1988 (G) A secured creditor under D.C. Official Code § 28:9-101 et
+1989 seq., or creditor with a judicial lien or lien arising by operation of law on collateral that is
+1990 virtual currency, if the virtual-currency business activity of the creditor is limited to
+1991 enforcement of the security interest in compliance with D.C. Official Code § 28:9-101 et
+1992 seq. or a lien in compliance with the law applicable to the lien;
+1993 (H) A virtual-currency control-services vendor; or
+88
+
+1994 (I) A person that:
+1995 (i) Does not receive compensation from a person for:
+1996 (I) Providing virtual currency products or services;
+1997 or
+1998 (II) Conducting virtual currency business activity;
+1999 or
+2000 (III) Is engaged in testing products or services with
+2001 the person's own funds.
+2002 (3) The Commissioner may determine that a person or class of persons,
+2003 given facts particular to the person or class, should be exempt from this act, whether the
+2004 person or class is covered by requirements imposed under federal law on a money-service
+2005 business.
+2006 (c) Conditions precedent to engaging in virtual currency business activity.
+2007 (1) A person may not engage in virtual currency business activity, or hold
+2008 itself out as being able to engage in virtual-currency business activity, with or on behalf
+2009 of another person unless the person is:
+2010 (A) Licensed in this state by the Commissioner pursuant to Section
+2011 313; or
+2012 (B) Exempt from licensing under section 303.
+2013 (2) A person that is licensed to engage in virtual currency business activity
+2014 is engaged in the business of money transmission and is subject to the requirements of
+2015 this act.
+2016 (d) Required disclosures.
+89
+
+2017 (1) A licensee that engages in virtual currency business activity shall
+2018 provide to a person who uses the licensee's products or services the disclosures required
+2019 by subsection (d)(2) of this section, and any additional disclosure the Commissioner by
+2020 rule or other issuance determines reasonably necessary for the protection of persons. The
+2021 Commissioner shall determine by rule the time and form required for disclosure. A
+2022 disclosure required by this section shall be made separately from any other information
+2023 provided by the licensee and in a clear and conspicuous manner in a record the person
+2024 may keep. A licensee may propose for the Commissioner's approval alternate disclosures
+2025 as more appropriate for its virtual currency business activity with or on behalf of persons.
+2026 (2) Before establishing a relationship with a person, a licensee shall
+2027 disclose, to the extent applicable to the virtual-currency business activity the licensee will
+2028 undertake with the person:
+2029 (A) A schedule of fees and charges the licensee may assess, the
+2030 manner by which fees and charges will be calculated if they are not set in advance and
+2031 disclosed, and the timing of the fees and charges;
+2032 (B) Whether the product or service provided by the licensee is
+2033 covered by:
+2034 (i) A form of insurance or is otherwise guaranteed against
+2035 loss by an agency of the United States:
+2036 (I) Up to the full U.S. Dollar equivalent of virtual
+2037 currency purchased from the licensee or for control of virtual currency by the licensee as
+2038 of the date of the placement or purchase, including the maximum amount provided by
+90
+
+2039 insurance under the Federal Deposit Insurance Corporation or otherwise available from
+2040 the Securities Investor Protection Corporation; or
+2041 (II) If not provided at the full U.S. Dollar equivalent
+2042 of virtual currency purchased from the licensee or for control of virtual currency by the
+2043 licensee, the maximum amount of coverage for each person expressed in the U.S. Dollar
+2044 equivalent of the virtual currency; or
+2045 (ii) Private insurance against theft or loss, including cyber
+2046 theft or theft by other means;
+2047 (C) The irrevocability of a transfer or exchange and any exception
+2048 to irrevocability;
+2049 (D) A description of:
+2050 (i) Liability for an unauthorized, mistaken, or accidental
+2051 transfer or exchange;
+2052 (ii) The person's responsibility to provide notice to the
+2053 licensee of the transfer or exchange;
+2054 (iii) The basis for any recovery by the person from the
+2055 licensee;
+2056 (iv) General error-resolution rights applicable to the
+2057 transfer or exchange; and
+2058 (v) The method for the person to update the person's
+2059 contact information with the licensee;
+91
+
+2060 (E) That the date or time when the transfer or exchange is made
+2061 and the person's account is debited may differ from the date or time when the person
+2062 initiates the instruction to make the transfer or exchange;
+2063 (F) Whether the person has a right to stop a pre-authorized
+2064 payment or revoke authorization for a transfer and the procedure to initiate a stop-
+2065 payment order or revoke authorization for a subsequent transfer;
+2066 (G) The person's right to receive a receipt, trade ticket, or other
+2067 evidence of the transfer or exchange;
+2068 (H) The person's right to at least 30 days' prior notice of a change
+2069 in the licensee's fee schedule, other terms and conditions of operating its virtual-currency
+2070 business activity with the person and the policies applicable to the person's account; and
+2071 (I) That virtual currency is not money.
+2072 (3) Except as otherwise provided in subsection (d)(4) of this section, at the
+2073 conclusion of a virtual currency transaction with or on behalf of a person, a licensee shall
+2074 provide the person a confirmation in a record which contains:
+2075 (A) The name and contact information of the licensee, including
+2076 information the person may need to ask a question or file a complaint;
+2077 (B) The type, value, date, precise time, and amount of the
+2078 transaction; and
+2079 (C) The fee charged for the transaction, including any charge for
+2080 conversion of virtual currency to money, bank credit, or other virtual currency.
+2081 (4) If a licensee discloses that it will provide a daily confirmation in the
+2082 initial disclosure under subsection (d)(3) of this section, the licensee may elect to provide
+92
+
+2083 a single, daily confirmation for all transactions with or on behalf of a person on that day
+2084 instead of a per-transaction confirmation.
+2085 (e) Property interests and entitlements to virtual currency.
+2086 (1) A licensee that has control of virtual currency for one or more persons
+2087 shall maintain control of virtual currency in each type of virtual currency sufficient to
+2088 satisfy the aggregate entitlements of the persons to the type of virtual currency.
+2089 (2) If a licensee violates subsection (a)(1) of this section, the property
+2090 interests of the persons in the virtual currency shall be pro rata property interests in the
+2091 type of virtual currency to which the persons are entitled, without regard to the time the
+2092 persons became entitled to the virtual currency or the licensee obtained control of the
+2093 virtual currency.
+2094 (3) The virtual currency referred to in this section shall be:
+2095 (A) Held for the persons entitled to the virtual currency;
+2096 (B) Not property of the licensee;
+2097 (C) Not subject to the claims of creditors of the licensee; and
+2098 (D) Deemed a permissible investment under this act.
+2099 (f) Additional requirements and clarifications for virtual currency business
+2100 activities.
+2101 (1) A licensee engaged in virtual currency business activities shall comply
+2102 with all provisions of this act to the extent applicable to the licensee's activities.
+2103 (2) A licensee engaged in virtual currency business activities may include
+2104 in its calculation of tangible net worth virtual currency, measured by the average value of
+93
+
+2105 the virtual currency in U.S. Dollar equivalent over the prior six months, excluding control
+2106 of virtual currency for a person entitled to the protections pursuant to section 405.
+2107 (3) A licensee shall maintain, for all virtual-currency business activity
+2108 with or on behalf of a person 5 years after the date of the activity, a record of:
+2109 (A) Each transaction of the licensee with or on behalf of the person
+2110 or for the licensee's account in this state, including:
+2111 (i) The identity of the person;
+2112 (ii) The form of the transaction;
+2113 (iii) The amount, date, and payment instructions given by
+2114 the person;
+2115 (iv) The account number, name, and United States Postal
+2116 Service address of the person, and, to the extent feasible, other parties to the transaction;
+2117 (B) The aggregate number of transactions and aggregate value of
+2118 transactions by the licensee with or on behalf of the person and for the licensee's account
+2119 in this state, expressed in U.S. Dollar equivalent of virtual currency for the previous 12
+2120 calendar months;
+2121 (C) Each transaction in which the licensee exchanges one form of
+2122 virtual currency for money or another form of virtual currency with or on behalf of the
+2123 person;
+2124 (D) A general ledger posted at least monthly that lists all assets,
+2125 liabilities, capital, income, and expenses of the licensee;
+2126 (E) Each business-call report the licensee is required to create or
+2127 provide to the department or NMLS;
+94
+
+2128 (F) Bank statements and bank reconciliation records for the
+2129 licensee and the name, account number, and United States Postal Service address of each
+2130 bank the licensee uses in the conduct of its virtual-currency business activity with or on
+2131 behalf of the person;
+2132 (G) A report of any dispute with the person; and
+2133 (H) A report of any virtual currency business activity transaction
+2134 with or on behalf of a person which the licensee was unable to complete.
+2135 (4) A licensee shall maintain records required by subsection (f)(3) of this
+2136 section in a form that enables the Commissioner to determine whether the licensee is in
+2137 compliance with this act, any court order, and law of this state other than this act.
+2138 Sec. 345. Rulemaking authority.
+2139 The Mayor may adopt rules and regulations to implement the provisions of this
+2140 act.
+2141 Sec. 346. Sunset.
+2142 Sections 311(c), 314(a)(1) and (b), 316(b)(2), 332(b), 339(b) and (c), and
+2143 340(a)(1) of this act shall expire after 365 days of its having taken effect or upon the
+2144 adoption of applicable rules by the Mayor, whichever is sooner.
+2145 Sec. 347. Repeal.
+2146 The Money Transmitters Act of 2000, effective July 18, 2000 (D.C. Law 13-140,
+2147 D.C. Official Code § 26-1001 et seq.), is repealed in its entirety.
+95
+
+2148 TITLE IV. APPRAISAL MANAGEMENT COMPANIES.
+2149 Sec. 401. The Appraisal Management Company Regulation Act of 2020, effective
+2150 Mar. 16, 2021 (D.C. Law 23-206; D.C. Official Code § 31-2361.01 et seq.) is amended as
+2151 follows:
+2152 (a) Section 101 is amended as follows:
+2153 (1) Paragraph (3) is amended by striking the period and inserting the
+2154 phrase “, or its successor.” in its place.
+2155 (2) Paragraph (4) is amended by striking the phrase ““Appraisal
+2156 management company”” and inserting the phrase ““Appraisal management company” or
+2157 “AMC”” in its place.
+2158 (3) Paragraph (10)(A) is amended by striking the phrase “greater than a
+2159 10% interest”.
+2160 (4) Paragraph (12) is amended to read as follows:
+2161 “(12) "Creditor" means a person who regularly extends consumer credit
+2162 that is subject to a finance charge or is payable by written agreement in more than 4
+2163 installments (not including a down payment), and to whom the obligation is initially
+2164 payable, either on the face of the note or contract, or by agreement when there is no note
+2165 or contract. A person regularly extends consumer credit if the person extended credit,
+2166 (other than credit subject to the requirements of 12 C.F.R. § 1026.32, Requirements for
+2167 high-cost mortgages), more than 5 times for transactions secured by a dwelling in the
+2168 preceding calendar year, the numerical standards shall be applied to the current calendar
+2169 year. A person regularly extends consumer credit if, in any 12-month period, the person
+2170 originates more than one credit extension that is subject to the requirements for high-cost
+96
+
+2171 mortgages pursuant to 12 C.F.R. § 1026.32 or one or more such credit extensions through
+2172 a mortgage broker.”.
+2173 (5) Paragraph (16) is amended by striking the phrase “, or the National
+2174 Credit Union Administration”.
+2175 (b) Section 102 is amended as follows:
+2176 (1) Subsection (c)(6) is amended by striking the period and inserting the
+2177 phrase “to the Appraisal Subcommittee.” in its place.
+2178 (2) Subsection (e) is amended by striking the period and inserting the
+2179 phrase “and report a list of eligible appraisal management companies to the Appraisal
+2180 Subcommittee.” in its place.
+2181 (c) Section 105(b) is amended as follows:
+2182 (1) The lead-in language is amended by striking the phrase “A federally
+2183 regulated appraisal management company” and inserting the phrase “Appraisal
+2184 management companies” in its place.
+2185 (2) Paragraph (2)(A) is amended by striking the phrase “Appraisal
+2186 Subcommittee” and inserting the word “Department” in its place.
+2187 (d) Section 106(a)(1) is amended as follows:
+2188 (1) The lead-in language is amended by striking the phrase “The
+2189 designated controlling person shall” and inserting the phrase “All appraisal management
+2190 company owners of more than 10% of the appraisal management company shall” in its
+2191 place.
+97
+
+2192 (2) Subparagraph (A) is amended to read as follows:
+2193 “((A) Remain in good standing in the District and in any other state
+2194 that has issued an appraiser license or certification;”.
+2195 (e) Section 110(5) is amended by striking the phrase “Except within the first 90
+2196 days after an independent appraiser is added to an appraiser panel, remove” and inserting
+2197 the word “Remove” in its place.
+2198 (f) Section 112 is amended by striking the phrase “a controlling person or
+2199 persons” and inserting the phrase “any person that owns more than 10% of the appraisal
+2200 management company” in its place.
+2201 (g) A new section 113 is added to read as follows:
+2202 “Sec. 113. Rulemaking authority.
+2203 “The Mayor may adopt rules to implement the provisions of this act.”
+2204 TITLE V. FISCAL IMPACT; EFFECTIVE DATE.
+2205 Sec. 501. Applicability.
+2206 This act shall apply 180 days after its effective date.
+2207 Sec. 502. Fiscal impact statement.
+2208 The Council adopts the fiscal impact statement in the committee report as the
+2209 fiscal impact statement required by section 4a of the General Legislative Procedures Act
+2210 of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+2211 Sec. 503. Effective date.
+2212 This act shall take effect following approval by the Mayor (or in the event of veto
+2213 by the Mayor, action by the Council to override the veto), a 30-day period of
+2214 Congressional review as provided in section 602(c)(1) of the District of Columbia Home
+98
+
+2215 Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Code § 1-206(c)(1)), and
+2216 publication in the District of Columbia Register.
+99
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+BRIAN L. SCHWALB
+ATTORNEY GENERAL
+LEGAL COUNSEL DIVISION
+MEMORANDUM
+TO: Samuel V. Fuller
+Associate Commissioner for Banking
+Department of Insurance, Securities & Banking
+FROM: Adele El-Khouri
+Deputy Attorney General
+Legal Counsel Division
+DATE: September 10, 2026
+SUBJECT: Legal Sufficiency Review of the Banking Code Modernization Amendment Act of
+2026
+(AL-26-36)
+_____________________________________________________________________________________
+This is to Certify that
+the Office of the Attorney General has reviewed the
+above-referenced legislation and found it to be legally sufficient. If you have any questions in this
+regard, please do not hesitate to call me at (202) 262-6402.
+_________________________________
+Adele El-Khouri
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004
+Phone (202) 262-6402 Email: adele.el-khouri@dc.gov

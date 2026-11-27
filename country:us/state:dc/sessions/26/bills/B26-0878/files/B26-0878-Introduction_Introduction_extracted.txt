@@ -1,0 +1,1585 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MURIEL BOWSER
+MAYOR
+November 4, 2026
+The Honorable Phil Mendelson
+Chairman
+Council of the District of Columbia
+John A. Wilson Building
+1350 Pennsylvania Avenue, NW, Suite 504
+Washington, DC 20004
+Dear Chairman Mendelson:
+Enclosed for consideration and adoption by the Council of the District of Columbia are the “Cedar
+Hill Regional Medical Center Hospital Operations Agreement Second and Third Amendments
+Approval Emergency Declaration Resolution of 2026” and the “Cedar Hill Regional Medical
+Center Hospital Operations Agreement Second and Third Amendments Approval Emergency Act
+of 2026.”
+The legislation would approve two amendments to the Hospital Operations Agreement
+(“Agreement”) between the Government of the District of Columbia and UHS East End Sub, LLC,
+the operating entity for Cedar Hill Regional Medical Center. The amendments revise the Hospital
+Fund provisions of the Agreement to establish the process for making a subsidy payment based on
+the hospital’s operating-period deficit during the first year of operations and provide a support
+payment for maternal and fetal care provided at the hospital to sustain labor and delivery, maternal,
+fetal, and newborn care capacity.
+Cedar Hill’s maternal and fetal service lines have experienced significant startup losses as the
+hospital works to establish and stabilize these services. In 2025, approximately $8.6 million in
+losses were reported, and in 2026 they are projected to reach $11.5 million. The losses reflect low
+utilization and the substantial fixed costs associated with maintenance of the 24-hour unit. Cedar
+Hill also experienced significant financial losses during its initial operating period following the
+hospital’s opening in 2025; however, the Hospital Fund subsidy payment for the partial 2025
+period was not previously clearly accounted for under the original agreement. The proposed
+amendments authorize up to $5 million from the existing Hospital Fund, subject to the deficit-
+review and fund-availability requirements of the Agreement, and a $10 million calendar year 2026
+maternal and fetal care support payment.
+The proposed support payments are intended to preserve critical access requirements and general
+operations while Cedar Hill builds greater financial stability. I urge the Council to take prompt
+
+and favorable action on the enclosed legislation.
+If you have any questions regarding this legislation, please contact Wayne Turnage, Deputy Mayor
+for Health and Human Services.
+Sincerely,
+Muriel Bowser
+
+~
+1
+2 Chairman Phil Mendelson
+3 at the request of the Mayor
+4
+5
+6 A BILL
+7
+8
+9
+10
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+12
+13
+14
+15
+16 To approve, on an emergency basis, amendments to the Hospital Operations Agreement between
+17 the Government of the District of Columbia and UHS East End Sub, LLC, governing
+18 Cedar Hill Regional Medical Center.
+19
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+21 act may be cited as the "Cedar Hill Regional Medical Center Hospital Operations Agreement
+22 Second and Third Amendments Emergency Approval Act of2026".
+23 Sec. 2. Pursuant to section 451 of the District of Columbia Home Rule Act, approved
+24 December 24, 1973 (87 Stat. 803; D.C. Official Code§ 1-204.51), and notwithstanding the
+25 Procurement Practices Reform Act of 2010, effective April 8, 2011 (D.C. Law 18-371; D.C.
+26 Official Code§ 2-351.01 et seq.), the Public-Private Partnership Act of 2014, effective March
+27 11, 2015 (D.C. Law 20-228; D.C. Official Code§ 2-271.01 et seq.), or any other law, the
+28 Council approves the Second and Third Amendments to Cedar Hill Regional Medical Center
+29 Hospital Operations Agreement, between the Government of the District of Columbia and UHS
+30 East End Sub, LLC, transmitted by the Mayor to the Council on November 4, 2026, as a contract
+31 involving expenditures in excess of $1 million during a 12-month period, in the not-to-exceed
+32 amount of $10 million.
+1
+
+33 Sec. 3. Fiscal impact statement.
+34 The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal
+35 impact statement required by section 4a of the General Legislative Procedures Act of 1975,
+36 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+37 Sec. 4. Effective date.
+38 This act shall take effect following approval by the Mayor (or in the event of veto by the
+39 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+40 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+41 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+42 D.C. Official Code § 1-204.12(a)).
+2
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+COUNCIL CONTRACT SUMMARY
+In support of the proposed Cedar Hill Regional Medical Center Hospital Operations Agreement
+Second and Third Amendments Emergency Approval Act of 2026, the following contract
+summary is provided:
+COUNCIL CONTRACT SUMMARY
+A. The contract number, proposed contractor, contract amount, unit and method of
+compensation, contract term, and type of contract:
+Proposed Contractor: UHS East End Sub, LLC (“Operating
+Entity”).
+Contract No.: n/a
+Contract Amount: $10,000,000 (amendment)
+Unit and Method of Compensation: Fixed payment
+Term of Contract: The existing term (up to 75 years) of the
+Hospital Operations Agreement remains in
+effect
+Type of Contract: Amendment to existing Hospital Operations
+Agreement
+B. The goods or services to be provided, the methods of delivering goods or services,
+and any significant program changes reflected in the proposed contract:
+The Hospital Operations Agreement governs operation of Cedar Hill Regional Medical
+Center, including required clinical services, quality and service standards, governance,
+community commitments, and financial commitments. The proposed amendments revise
+one financial-support provision and add a services-support provision.
+First, amended section 6.1.1 establishes the process by which the Operating Entity may
+submit a deficit notice and receive a payment from the Hospital Fund, including a special
+process for the initial operating period from the Hospital Opening Date through
+December 31, 2025. A deficit is measured using Hospital EBITDA under the
+methodology incorporated from the Lease Agreement, and payment is limited to
+available Hospital Fund amounts.
+
+Second, new section 6.1.3 supports continued maternal and fetal care capacity in the
+amount of $10,000,000, with reconciliation based on a detailed service-line profit-and-
+loss reporting and reconciliation;.
+C. The selection process, including the number of offerors, the evaluation criteria, and
+the evaluation results including price, technical or quality, and past performance
+components:
+Not applicable. The proposed action amends an existing agreement with the existing
+Operating Entity and does not constitute a new source selection or competitive
+procurement.
+D. A description of any bid protest related to the award of the contract, including
+whether the protest was resolved through litigation, withdrawal of the protest by the
+protestor, or voluntary corrective action by the District. Include the identity of the
+protestor, the grounds alleged in the protest, and any deficiencies identified by the
+District as a result of the protest:
+None
+E. A description of any other contracts the proposed contractor is currently seeking or
+holds with the District:
+None other than those currently associated with the development and operation of the
+hospital.
+F. The background and qualifications of the proposed contractor, including its
+organization, financial stability, personnel, and performance on past or current
+government or private sector contracts with requirements similar to those of the
+proposed contract:
+UHS East End Sub, LLC is the Operating Entity under the existing Hospital Operations
+Agreement for Cedar Hill Regional Medical Center. Cedar Hill opened in April 2025 and
+is operated as part of the District’s hospital system east of the Anacostia River.
+The Operating Agreement and existing amendment is the central agreement governing
+Cedar Hill operations, including clinical services, service and quality standards,
+community engagement, workforce, financial commitments, reporting, and District
+remedies. The Operating Agreement requires the submission of an annual report that
+reviews the Hospital’s performance and compliance with the agreement’s terms.
+G. A summary of the subcontracting plan required under section 2346 of the Small,
+Local, and Disadvantaged Business Enterprise Development and Assistance Act of
+2005, as amended, D.C. Official Code § 2-218.01 et seq. (“Act”), including a
+certification that the subcontracting plan meets the minimum requirements of the
+
+Act and the dollar volume of the portion of the contract to be subcontracted,
+expressed both in total dollars and as a percentage of the total contract amount:
+Existing First Source, CBE, workforce, and local-business obligations under the Hospital
+Operations Agreement and related agreements remain in effect under the proposed
+amendments.
+H. Performance standards and expected outcome of the proposed contract:
+Both amendments preserve the existing Hospital Operations Agreement’s Service
+Standards, Quality Standards, licensure, accreditation, reporting, and other compliance
+requirements.
+The maternal and fetal support provision additionally requires continued operation and
+access commitments for the supported service lines and provides for payment reductions
+when those conditions are not met. The expected outcome is continuity of hospital
+operations and maternal and fetal care at Cedar Hill.
+I. The amount and date of any expenditure of funds by the District pursuant to the
+contract prior to its submission to the Council for approval:
+No funds have been expended under the proposed amendments.
+J. A certification that the proposed contract is within the appropriated budget
+authority for the agency for the fiscal year and is consistent with the financial plan
+and budget adopted in accordance with D.C. Official Code §§ 47-392.01 and 47-
+392.02:
+The Office of the Chief Financial Officer has certified that funding for the amendments is
+consistent with the applicable financial plan and budget. A fiscal impact statement is
+attached.
+K. A certification that the contract is legally sufficient, including whether the proposed
+contractor has any pending legal claims against the District:
+The contract has been reviewed by the Office of the Attorney General and found to be
+legally sufficient. A certificate of legal sufficiency for each amendment is attached. The
+contractor has no known pending legal claims against the District.
+L. A certification that the Citywide Clean Hands database indicates that the proposed
+contractor is current with its District taxes. If the Citywide Clean Hands Database
+indicates that the proposed contractor is not current with its District taxes, either:
+(1) a certification that the contractor has worked out and is current with a payment
+schedule approved by the District; or (2) a certification that the contractor will be
+current with its District taxes after the District recovers any outstanding debt as
+provided under D.C. Official Code § 2-353.01(b):
+
+The contractor’s certification of its current tax filing status is attached.
+M. A certification that the proposed contractor has been determined not to violate
+section 334a of the Board of Ethics and Government Accountability Establishment
+and Comprehensive Ethics Reform Amendment Act of 2011, D.C. Official Code § 1-
+1163.34a; and (2) A certification from the proposed contractor that it currently is
+not and will not be in violation of section 334a of the Board of Ethics and
+Government Accountability Establishment and Comprehensive Ethics Reform
+Amendment Act of 2011, D.C. Official Code § 1-1163.34a:
+The contractor’s certification of compliance with the Campaign Finance Reform
+Amendment Act is attached.
+N. The status of the proposed contractor as a certified local, small, or disadvantaged
+business enterprise as defined in the Small, Local, and Disadvantaged Business
+Enterprise Development and Assistance Act of 2005, as amended; D.C. Official
+Code § 2-218.01 et seq.:
+The contractor is not a certified local, small, or disadvantaged business.
+O. Other aspects of the proposed contract that the Chief Procurement Officer
+considers significant:
+None
+P. A statement indicating whether the proposed contractor is currently debarred from
+providing services or goods to the District or federal government, the dates of the
+debarment, and the reasons for debarment:
+As of November 3, 2026, the contractor is not known to be debarred from providing
+services or goods to the District or federal government.
+Q. Any determination and findings issues relating to the contract’s formation,
+including any determination and findings made under D.C. Official Code § 2-352.05
+(privatization contracts):
+None.
+R. Where the contract, and any amendments or modifications, if executed, will be
+made available online:
+https://dhcf.dc.gov/page/new-hospital-st-elizabeths-east
+S. Where the original solicitation, and any amendments or modifications, will be made
+available online: http://ocp.dc.gov
+
+https://dhcf.dc.gov/page/new-hospital-st-elizabeths-east
+
+EXHIBIT: TAX CERTIFICATION
+CEDAR HILL
+1200 Pecan St SE
+Washington D.C. 20032
+REGIONAL MEDICAL CENTER
+771-444-6200
+www.cedarhillregional.com
+GW HEALTH I WASHINGTON. DC
+(Y;ffl
+Universal Health Services, Inc.
+CERTIFICATION
+I, Luis Chanaga, Assistant Chief Financial Officer of UHS East End Sub, LLC dba Cedar Hill
+Regional Medical Center GW Health ("Cedar Hill"), hereby certify the following:
+1. Cedar Hill was issued a Certificate of Clean Hands ("Certificate") by the District of
+Columbia Office of Tax and Revenue (the "Department") dated May 29, 2026, a true and
+correct copy of which is appended to this Certification as Addendum 1.
+2. Cedar Hill and its tax representatives are currently working expeditiously and in good faith
+with the Department to arrange for the issuance of an updated Certificate.
+3. The Department has requested certain additional information and documentation from
+Cedar Hill as it relates to confirming the information to be certified in the Certificate is
+accurate, which has been provided by Cedar Hill and its tax representatives.
+4. Cedar Hill and its tax representatives are and have been in regular contact with the
+Department in the preceding weeks with respect to the request for a new Certificate and
+remain available to discuss the same with the Department at its earliest convenience and
+availability.
+5. Upon the completion of the Department's review of the additional information and
+documentation provided by Cedar Hill and its tax representatives, Cedar Hill expects an
+updated Certificate to be issued promptly thereafter.
+By signing below, I hereby certify that the facts described above are true and correct to the best of
+my knowledge and belief after reasonable inquiry.
+By:
+LJ.�an�
+Assistant Chief Financial Officer
+Cedar Hill Regional Medical Center GW Health
+
+CEDAR HILL
+1200 Pecan St SE
+Washington D.C. 20032
+REGIONAL MEDICAL CENTER
+771-444-6200
+www .cedarhillregional.com
+GW HEALTH I WASHINGTON, DC
+(Y;�
+Universal Health Services, Inc.
+Addendum 1
+See attached.
+
+Government of the District of Columbia
+Office of the Chief Financial Officer
+Glen Lee
+Chief Financial Officer
+MEMORANDUM
+TO: The Honorable Phil Mendelson
+Chairman, Council of the District of Columbia
+FROM: Glen Lee
+Chief Financial Officer
+DATE: November 3, 2026
+SUBJECT: Fiscal Impact Statement – Cedar Hill Regional Medical Center Hospital
+Operations Agreement Second and Third Amendments Emergency
+Approval Act of 2026
+REFERENCE: Draft Introduction as provided to the Office of Revenue Analysis on
+October 27, 2026
+Conclusion
+Funds are sufficient in the fiscal year 2027 budget and the fiscal year 2027 through fiscal year 2030
+budget and financial plan implement the bill. A one-time support payment of up to $10 million
+authorized by the bill will be made with fiscal year 2026 funding available in the Department of
+Health Care Finance (DCHF).
+Background
+The Cedar Hill Regional Medical Center (“Cedar Hill”)1 opened in April 2025 as a full-service hospital
+on the St. Elizabeth’s East campus in Ward 8, providing inpatient, emergency, specialty, and maternal
+and fetal health services to District residents. The Director of DCHF is the delegated2 authority to
+administer the District's responsibilities under the Hospital Operations Agreement (“Agreement”)3
+1 For additional background and documents visit https://dhcf.dc.gov/page/cedar-hill-regional-medical-
+center-0.
+2 Mayor’s Order 2020-120, “Delegations of Authority – New Hospital at St. Elizabeths Agreements”, November
+25, 2020.
+3 Hospital Operations Agreement between the District of Columbia and UHS East End Sub, LLC, dated
+September 10, 2020
+(https://dhcf.dc.gov/sites/default/files/dc/sites/dhcf/page_content/attachments/UHS%20Hosp%20Operations%20Agmt%20.pdf )
+1350 Pennsylvania Avenue, NW, Suite 203, Washington, DC 20004 (202)727-2476
+www.cfo.dc.gov
+
+The Honorable Phil Mendelson
+FIS: “Cedar Hill Regional Medical Center Hospital Operations Agreement Second and Third Amendments
+Emergency Approval Act of 2026,” Draft Introduction as provided to the Office of Revenue Analysis on
+October 27, 2026.
+between the District and Cedar Hill, which was approved by Council in November 2020.4 The
+Agreement requires the District to provide an operating reserve of $25 million in the Hospital Fund
+to be paid to Cedar Hill for operating deficits of up to $5 million annually, beginning the first full year
+after Cedar Hill started operations.5 The Hospital Fund6 can only be used to reduce documented
+Cedar Hill operating deficits over a ten-year period. Any remaining funding in the Hospital Fund
+expires after ten years. Cedar Hill must provide a “deficit notification” to the District every year by
+March 1, indicating whether Cedar Hill (including its parking facility) had an operating deficit in the
+previous fiscal year requiring the use of the reserve funding. The notification must include relevant
+financial statements and other supporting documentation.
+The Agreement was first amended in April 20257, but the first amendment’s changes did not affect
+funding plans.
+The bill approves the second and third amendments (“Amendments”) to the Agreement, executed on
+September 29, 2026 and October 20, 2026 respectively. The Amendments are conditioned on Council
+approval of the Amendments by December 31, 2026.
+First, the Amendments allow the Agreement’s initial $5 million operating deficit payment from the
+Hospital Fund to be paid earlier, to reduce Cedar Hill’s operating deficit in the first partial year of
+operations (April 2025 to December 2025). Cedar Hill must provide the deficit notice and supporting
+documentation for this initial operating period by November 15, 2026. The Amendments also change
+the required timing of future deficit notifications from March 1 to April 1 to better align with Cedar
+Hill’s January to December fiscal year and the closing of its books.
+Second, the Amendments authorize up to $10 million in additional funding in fiscal year 2026 to
+reduce the operating deficit of Cedar Hill’s maternal and fetal care service lines. The payment is
+subject to compliance requirements and cannot exceed the net operating loss of the maternal and
+fetal care services. The compliance requirements include service and quality standards and
+continued operation of labor and delivery services, including neonatal intensive care and continuous
+obstetric physician coverage, through December 31, 2026.
+Lastly, the Amendments clarify that the District may transfer and use any remaining funds in the
+Hospital Fund at the end of the ten-year term for any purpose.
+Financial Plan Impact
+Funds are sufficient in the fiscal year 2027 budget and the fiscal year 2027 through fiscal year 2030
+budget and financial plan implement the bill. A one-time support payment of up to $10 million
+authorized by the bill will be made with fiscal year 2026 funding available in DHCF. Payment of up
+to $5 million for Cedar Hill’s operating deficit during calendar year 2025, under the second
+4 New Hospital at St. Elizabeths Amendment Act of 2020, effective from October 20, 2020 (D.C. Law 23-138;
+67 DMR 13203).
+5 Section 6.1.1. of the Agreement.
+6 D.C. Official Code § 44–664.12.
+7https://dhcf.dc.gov/sites/default/files/dc/sites/dhcf/page_content/attachments/UHS%20First%20Amend%20to%20Hosp%20Operat
+ions%20Agmt%20.pdf
+Page 2 of 3
+
+The Honorable Phil Mendelson
+FIS: “Cedar Hill Regional Medical Center Hospital Operations Agreement Second and Third Amendments
+Emergency Approval Act of 2026,” Draft Introduction as provided to the Office of Revenue Analysis on
+October 27, 2026.
+amendment’s revised timing, will come from the Hospital Fund balance funded at DHCF in the
+original fiscal year 2026 budget.
+Page 3 of 3
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA
+OFFICE OF THE ATTORNEY GENERAL
+BRIAN L. SCHWALB PRIVILEGED AND CONFIDENTIAL
+ATTORNEY GENERAL ATTORNEY-CLIENT COMMUNICATION
+LEGAL COUNSEL DIVISION
+MEMORANDUM
+TO: Tomás Talamante
+Director
+Office of Policy and Legislative Affairs
+FROM: Adele El-Khouri
+Deputy Attorney General
+Legal Counsel Division
+DATE: October 29, 2026
+SUBJECT: Legal Sufficiency Review of the Cedar Hill Regional Medical Center Hospital
+Operations Agreement Second and Third Amendments Emergency Approval Act and
+Accompanying Emergency Declaration Resolution
+(AE-26-340)
+_____________________________________________________________________________________
+This is to Certify that
+the Office of the Attorney General has reviewed the
+above-referenced legislation and found it to be legally sufficient. If you have any questions in this
+regard, please do not hesitate to call me at (202) 262-6402.
+_________________________________
+Adele El-Khouri
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004
+Phone (202) 262-6402 Email: adele.el-khouri@dc.gov
+
+SECOND AMENDMENT TO CEDAR HILL REGIONAL MEDICAL CENTER
+HOSPITAL OPERATIONS AGREEMENT
+‘The District of Columbia, a municipal corporation (the “District”), and UHS East End Sub,
+LLC, a wholly owned subsidiary of Universal Health Services, Inc. (including any permitted
+successor or assignee, “Operating Entity”), collectively referred to herein as the “Parties” and
+each individually referred to herein as a “Party”, hereby enter into this second amendment
+(Second Amendment")to the Hospital Operations Agreement between DistrictofColumbiaand
+UHS East End Sub, LLC (“Hospital Operations Agreement”), dated as ofSeptember 10, 2020, as
+amended by that certain FirstAmendment to the Hospital Operations Agreement entered into in
+April 2025 (the“FirstAmendment”).
+WHEREAS, the Parties in September 2020 entered into the Hospital Operations Agreement,
+which governscertain aspects ofOperating Entity’s operationoftheCedar Hill Regional Medical
+Center (“Hospital”) and by which the District providescertain support to the Hospital; and
+WHEREAS, pursuant tothe Agreement, Operating Entity is requiredto operate the Hospital and
+provide the clinical services described therein, including obstetric, newborn, and neonatal
+intensive care services; and
+WHEREAS, the District and Operating Entity desire to establish time-limited, supplemental
+financial
+supportoftheDistrictfortheHospital'smaternalandfetalcareservicelineand to require
+Operating Entity to maintain certain operational and access commitments for such service line;
+and
+WHEREAS, the District and Operating Entity desire to establish the methodology, timing,
+reporting, verification, and prospective reconciliation applicable to such supplemental financial
+support; and
+WHEREAS,theDistrictand OperatingEntityalsodesireto clarifytheavailabilityoftheHospital
+Fundforthe Hospital's initialoperatingperiodduringcalendaryear2025 andtoclarify andupdate
+certain other provisions relatedto the Hospital Fund:
+NOW, THEREFORE, for good and valuable consideration, the District and Operating Entity
+hereby agree asfollows:
+1. Hospital Fund Amendment. Subsection 6.1.1 ofthe Hospital Operations Agreement is
+amended in itsentirety to read as follows:
+6.1.1, Hospital Fund,
+(a) Hospital FundDeposits. The Districtshall deposit into a special
+purpose fund (“Hospital Fund”)the amountoffivemillion dollars ($5,000,000.00) peryear
+(“Annual Deposit")during each ofthe first five (5) fiscal yearscommencing with the firstfiscal
+yearthat begins after the Commencement Date for the firstcomponentunder the Lease
+‘Agreement. The Annual Deposits shall accumulate in the Hospital Fund. Any funds remaining in
+the Hospital Fund afterten (10) years and six(6) months afterthe Hospital Opening Date shall
+
+Second Amendmentto CedarHillRegionalMedical Center
+Hospital Operations Agreement
+no longer be available for payment to Operating Entity and the District may transfer and use such
+remaining funds for any purpose, in its sole and absolute discretion, whetheror not suchtransfer
+and use is related to the Hospital or this Agreement.
+() Deficit Notices, On orbefore the April Ist immediately succeeding
+the endof eachofOperating Entity’s fiscal years (orDecember 31 with respect to fiscal year
+2025) from fiscal year2025 through fiscal year 2034, and afteran audited financial statement for
+the applicable fiscal year has been issued for Operating Entity, Operating Entity mayprovidea
+notice (“Deficit Notice”) to the District that identifies whether during Operating Entity's
+preceding fiscal year, the Hospital (including operationsofthe Parking Facility) had a Deficit.
+For purposes ofthis Section 6.1.1, a“Deficit” is defined as a negative EBITDA andEBITDA
+shall be calculated consistentwith the EBITDA calculation in Exhibit D to the Lease Agreement;
+provided, that the EBITDA calculation shall exclude any Support Payment received under
+Section 6.1.3. The Deficit Notice shall provide financial statements forthe Hospital (including
+operationsofthe Parking Facility) and other supporting documentation for the EBITDAto
+demonstrate how the Deficit wascalculated, includingany exclusion ofaSupport Payment. The
+financial statements forthe Hospital (including operationsofthe Parking Facility), ifunaudited,
+and othersupporting documentation shall be accompanied by a statement attestingto their
+accuracy by the ChiefFinancial Officerofthe Operating Entity.
+(©) Fiscal Year. The Parties acknowledgethat Operating Entity’s
+fiscal year begins January | and ends December31, and references in this Section 6.1.1 to
+Operating Entity’s fiscalyear shall mean theapplicable calendaryear. A change in Operating
+Entity’s fiscal year shall not alter the measurement period for purposesofthis Section 6.1.1
+without the Districts prior written consent.
+(@) Initial Fiscal Year/Calendar Year 2025. The Parties acknowledge
+thatthe Hospital Opening Date occurred afterthe startofOperating Entity’s 2025 fiscal year.
+Operating Entity may submit a Deficit Notice underthis Section 6.1.1 covering theperiod
+beginning on the Hospital Opening Date and ending December31, 2025 (the “Initial Operating
+Period”); provided, thatsuch Deficit Notice shall be submitted on orbefore November 15, 2026.
+‘The Initial Operating Period shall betreated as apreceding fiscal-year measurement period for
+which a Deficit may be recognized and paid from the Hospital Fund under this Section 6.1.1;
+provided, thatthe amount ofpayment from the Hospital Fund forthe Initial Operating Period
+shall be limited under subsection (f) to the lesserof(x) the amountofthe Deficit. or(y)the
+amount in the Hospital Fund on September 30, 2026.
+(©) District Response to Deficit Notice.
+(1) Within ninety (75) days afterreceipt ofa Deficit Notice,
+the District shall respond to Operating Entity’s Deficit Notice and identify whether (i)the
+District acknowledgesthe Deficit set forth in the Deficit Notice, or (ii)the District disputes
+Operating En tity’s calcul ationor requires additional information to validate the Deficit set forth
+intheDeficitNotice. The District may requirethatan audit ofthe information and documents
+provided by Operating Entity be performed by an independent third party.
+(2)__Ifthe District does not respond to the Operating Entity’s
+Deficit Notice within the seventy-five (75) day period set forth in clause (1)ofthis subsection
+(©), Operating Entity may send a Notice ofNonresponse tothe District. The Notice of
+
+Second Amendment toCedarHillRegionalMedical Center
++ HospitalOperationsAgreement
+Nonresponse shall informthe DistrictofOperating Entity’s priorsubmissionof aDeficit Notice,
+state that Operating Entity has notreceived aresponse from the District to the Deficit Notice,
+describe the impactof a failure to respondto theNotice ofNonresponse (as hereinafter
+described), and include a copyofthe previously submitted DeficitNotice. Ifthe Districtdoes
+notrespondto theNotice ofNonresponse within fifteen (15) days after its receipt, the District
+shall be deemed to have acknowledgedthe Deficit set forth in the Deficit Notice; provided, that
+such defaultacknowledgment shall not limit the District’s rightto recoverany amount ofany
+payment madeunder this Subsection 6.1.1 in excess oftheamountproperly due.
+() District Payments. To the extent (i) Operating Entity timely
+provides a Deficit Notice. (ii) the Districtacknowledges the Defi i) there are funds
+available in theHospital Fund, the District shall pay to Operating Entity, within sixty (60) days
+ofthe District’s acknowledgementunder (ii), an amount equal tothe lesser of (x) the amount of
+the Deficit, or(y) the amount inthe Hospital Fund (except as otherwise provided in subsection
+(d)). To the extentthere are not sufficient funds in the Hospital Fund forthe District to pay
+Operating Entity the Deficit, whether in wholeor in part, the District shal! have no obligation to
+pay Operating Entity any amount above the amount existing in the Hospital Fund. Deficits may
+not carry over from year to year. Foravoidance ofdoubt, this paymenttiming and limitation on
+obligation to pay apply to the Initial Operating Period Deficit Notice as well as to each later
+Deficit Notice.
+I. Maternal and Fetal Care Support. A new section 6.1.3 is added to the Hospital
+Operations Agreement, to read as follows:
+6.1.3, Maternal and Fetal Care Support.
+(a) Calendar Year 2026 MaternalandFetalCareSupportPayment
+and Recoupment.
+(1) Calendar Year 2026 SupportPayment. In support of its
+operationofmaternal and fetal service lines at the Hospital during calendaryear 2026, an
+considerationofthe commitmentsofthe Operating Entity underthis Section 6.1.3, the District
+shall, subjectto subsection (j), pay Operating Entity ten milliondollars ($10,000,000) by
+September30, 2026 (“CY2026 Support Payment”). Operating Entity certifies, and the District,
+acknowledges, thatfrom January |, 2026, through the dateofexecution ofthe amendment
+adding this Section 6.1.3, the Hospital has operated the maternal and fetal services lines
+consistentwith the standards set forth in subsection (f)and in compliance the Service Standards
+and Quality Standards applicabletothe maternal and fetal service lines. The CY2026 Support
+Payment is made in considerationofthe maternal and fetal service lines so provided and in
+consideration ofthematernal and fetal service lines to be provided duringthe remainder of
+calendar year 2026 in compliance with subsection (f).
+(2) Recoupment by Districtfor Operating Entity Failure to
+MaintainMaternal andFetal ServicesforRemainder ofCalendar Year 2026.
+(A) From the dateofexecutionofthe amendment
+adding this Section 6.1.3 through December 31, 2026, Operating Entity shall continue to operate
+thematernal and fetal service lines in compliance with subsection (f). IfOperating Entity fails to
+
+SecondAmendmenttoCedarHill RegionalMedicalCenter
+HospitalOperationsAgreement
+comply with the requirementsofsubsection (f)duringthe entiretyofthat period, the Support
+Payment forFiscal Year2027 shall, as provided in subsection (b)(1), be reduced byan amount
+equal to the result ofthe followingcalculation (referred to hereinafter as the “CalendarYear
+2026 Recoupment Amount”):
+() The lesserofthe amountofthe Maternal and
+Fetal Care Service-Line Net Loss(expressed as a positivedollarvalue)of the Hospital for
+Calendar Year 2026 and tenmillion dollars ($10,000,000);
+‘multipliedby
+(ii) Afraction the denominatorofwhich is three
+hundred sixty-five (365) and the numeratorofwhich isthenumberofdays the Operating Entity
+failed tocontinue tooperate the maternal and fetal service lines and/ormaintain theoperational
+and accesscommitments setforth in subsection (f) during Calendar Year2026.
+) Si " r Calendar Years 2027, 2028, 2029, 2030, and 2031
+(Additional M&F Support Years” or “AMESYs"). Subjectto subsections (c) and (), the
+District shall make the followingpayments to Opera tingEntity in supportofOperating Entity’s
+operationofmaternal and fetal service linesatthe Hospital duringeach calendaryearindicated,
+and in consideration ofthecommitments ofthe Operating Entity underthis Section 6.1.3:
+(1) By August 15, 2027, orthelaterdate authorized in
+subsection (d)(7), the District, in supportofOperating Entity’s operationofmaternal and fetal
+service lines atthe Hospital during calendaryear 2027 in compliance with subsection ({), shall
+make a payment to Operating Entity in the amountcalculated as follows:
+(A) Ten milliondollars ($10,000,000);
+minus
+(B) Theamount,if any, by which ten million dollars
+($10,000,000) exceedsthe Maternal and Fetal Care Service-Line NetLoss (expressed asa
+positive dollar value), ifany,ofthe Hospital for Calendar Year 2026. The Maternal and Fetal
+Care Service-Line Net Lossifany, for Calendar Year2026 shall be calculated asdescribed in
+subsections (d) and (h).Ifthere isa Maternal and Fetal Care Service-Line Net Profit in Calendar
+Year2026,the Maternal and Fetal Care Service-LineNet Loss in Calendar Year 2026 shall be
+deemed to be zerodollars ($0) for the purposesofthecalculation underthis sub-clause(B);
+minus
+(C) The CalendarYear2026 RecoupmentAmount (as,
+defined in subsection (a)(2)).
+(2) By July 1, 2028, orthe later dateauthorized in subsection
+(a(7),the District, in support of Operating Entity’s operation ofmaternal and fetal service lines
+atthe Hospital duringcalendar year 2028 incompliance with subsection (f), shall make a
+paymentto Operating Entity inthe amountcalculated as follows:
+(A) Ten milliondollars ($10,000,000);
+minus
+(B) Theamount, ifany, by which ten million dotlars
+($10,000,000) exceeds the Maternal and Fetal Care Service-LineNet Loss (expressed as a
+
+SecondAmendmenttoCedarHill Regional MedicalCenter
+HospitalOperationsAgreement
+C po a s r i e ti S v e e r d v o i l c l e a - r Li va n l e ue N ) e , t i L f o a s n s y i , f of an t y h , e f H o o r sp C i a t l a e l nd f a o r rC Y a e l a e r nd 2 a 0 r 27 Ye s a ha r ll 20 b 2 e 7. ca T l h cu e la M t a e t d e a r s na d l es a c n r d ib F e e d ta i l n
+s Y u e b a s r ec 2 t 0 i 2 o 7 n , s t ( h d e ) M a a n t d er (h n ) a . l If an t d he F r e e ta i l s C a a M r a e te S r e n r a v l ic a e n - d Li F n e e ta N ! et Ca L r o e s S s e i r n vi C c a e l - e L n i d n a e r N Y e e t ar Pr 2 of 0 i 2 t 7 in sh C a a l l l e b n e dar
+deemed to bezerodollars ($0) forthe purposes ofthecalculation underthis sub-clause (B).
+(3) By July 1, 2029, orthe later date authorized in subsection
+(4)(7). the District, in support ofOperating Entity’s operationofmaternal and fetal service lines
+atthe Hospital duringcalendaryear 2029 incompliance with subsection (f), shall make a
+payment to Operating Entity in the amount calculatedas follows:
+(A) Ten million dollars ($10,000,000);
+minus
+(B) The amount,if any, by which ten million dollars
+($10,000,000) exceedsthe Maternal and Fetal Care Service-Line NetLoss (expressedas a
+positive dollarvalue),ifany,ofthe Hospital for Calendar Year2028. The Maternal and Fetal
+Care Service-LineNetLoss ifany, for CalendarYear2028 shall becalculatedasdescribed in
+subsections (d) and (h). Ifthere is a Maternal and Fetal Care Service-Line Net Profit in Calendar
+Year2028,the Maternal and Fetal Care Service-Line Net Loss in Calendar Year 2028 shall be
+deemed to bezero dollars ($0) for the purposesofthe calculation underthis sub-clause(B).
+4) By July 1, 2030, orthe laterdate authorized in subsection
+((1), the District,insupport of Operating Entity’s operation ofmaternal and fetal service lines
+atthe Hospital during calendaryear 2030 in compliance with subsection (f), shall make a
+payment to Operating Entity in theamountcalculated as follows:
+(A) Ten million dottars ($10,000,000);
+minus
+(B) The amount,ifany, by which ten million dollars
+(810,000,000) exceedsthe Maternal and Fetal Care Service-LineNet Loss (expressed as a
+positive dollar value),if any, of the Hospital for Calendar Year 2029. The Maternal and Fetal
+Care Service-Line Net Lossifany, for Calendar Year 2029 shall be calculatedas described in
+subsections (d)and (h). Ifthere is a Maternal and Fetal Care Service-Line NetProfit in Calendar
+Year2029, the Maternal and Fetal Care Service-Line Net Loss in Calendar Year 2029 shall be
+deemedto be zero dollars ($0) forthe purposesofthe calculation underthissub-clause (B).
+(5) By July 1, 2031, orthe laterdate authorized in subsection
+(@)(7), the District, in support ofOperating Entity’s operation ofmaternal and fetal service lines
+atthe Hospital duringcalendaryear 2031 in compliance with subsection (f), shall make a
+payment to Operating Entity inthe amount calculated as follows:
+(A) Ten milliondollars ($10,000,000);
+‘minus
+(B) The amount,ifany, by whichten milliondollars
+(810,000,000)exceeds the Maternal and Fetal Care Service-Line Net Loss (expressed as a
+positive dollar value),ifany, ofthe Hospital forCalendarYear2030. The Maternal and Fetal
+Care Service-LineNet Lossifany, for Calendar Year2030 shall becalculated as described in
+subsections (d) and (h).Ifthere isa Maternal and Fetal Care Service-Line Net Profit in Calendar
+
+‘Second Amendment toCedarHill Regional Medical Center
+HospitalOperations Agreement
+Year 2030, theMaternal and Fetal Care Service-Line Net Loss in Calendar Year 2030 shall be
+deemed to be zero dollars ($0) for the purposes ofthe calculation under this sub-clause (B),
+(©) Conditions on Payments for Calendar Years2026, 2027, 2028,
+2029, 2030, and 2031, Notwithstanding subsection (b):
+(1) (A) IfOperating Entity did not fully comply with
+subsection (f) during the entirety ofthe year preceding an AMFSY, theamount due under
+subsection (b) forthatAMFSY shall be reduced to an amountequal to
+(i)The amountthat would otherwise be due under
+subsection (b) forthatAMFSY;
+multipliedby
+(ii) A fraction, the numerator of which is the
+numberofdays Operating Entity fully complied with the requirementsofsubsection (f) during
+theyear preceding the AMFSY and the denominatorofwhich isthree hundred sixty-five (365).
+(B) Notwithstandingsubclause(A), ifOperating Entity
+did not fully comply with the requirements ofsubsection (f) formore than ninety (90) days
+during theyear preceding an AMFSY, the amountdue undersubsection (b) forthat AMFSY
+shall be zero dollars ($0) (so, by way ofexampleonly, and not limitation, no payment shall be
+due to Operating Entity under subsection (b)(4) ifOperating Entity did notfully comply with the
+requirementsofsubsection (f) formore than ninety (90) days during 2029);
+(2) IfOperating Entity did not maintain the Service Standards
+and Quality Standards applicabletothe maternal andfetal service lines during theentiretyof the
+yearprecedingan AMFSY, the amount due undersubsection (b) forthatAMSFY (as may
+been reduced pursuant toclause (1)) shall be reduced by fifty percent (50%); provided, that ifthe
+Operating Entity did not maintain such Service Standards and Quality Standards forless than the
+entirety ofthe year preceding theAMFSY, the percentage pointsofreduction under thisclause
+(2) shall be equal to fifty (50) multiplied by a fraction,the numeratorofwhich is the number of
+days Operating Entity did not maintain compliance with the Service Standards and Quality
+Standards and Quality Standards applicable to the maternal and fetal service linesduring theyear
+precedingthe AMFSY (that arenot also days during which Operating Entity failed to comply
+with the requirements ofsubsection (f)) and the denominator ofwhich is three hundred sixty-five
+(365).
+(3) No Support Payment shall be due to Operating Entity foran
+AMESYif the Hospital (includingoperationsofthe Parking Facility)had EBITDA (calculated
+as provided in Section 6.1.1)offifteen million dollars ($15,000,000) or more duringthe fiscal
+year preceding theAMFSY (so, by way ofexample only, and not limitation, no payment shall be
+due to Operating Entity under subsection (b)(4) ifthe Hospital (including operationsofthe
+Parking Facility) had EBITDA of fifteen million dollars ($15,000,000) or more during2029);
+(4) Ifthe maternal and fetal service line breaks even or
+operates at a profit in 2028, no Support Payment shall be due to Operating Entity in 2029, 2030,
+or2031, evenifthe maternal and fetal service line operates at a net loss in 2029, 2030, and/or
+2031
+(d)— Post-YearEndReconciliation.
+
+‘Second AmendmenttoCedarHill Regional Medical Center
+Hospital OperationsAgreement
+(1) Service Line Report.
+(A) Onor before each ofApril 1, 2027, April 1, 2028,
+April 1, 2029, April 1, 2030, April 1,2031, and April 1, 2032, Operating Entity shall submit to
+the District a final report ofthe financial results ofthe Hospital's Maternal and Fetal Care
+Service Lines forthe priorcalendaryear (“Service Line Report”), setting forth the Maternaland
+Fetal Care Service-Line Net LossorMaternal and Fetal Care Service-Line Net Profitforthat
+calendaryear.
+(B) _ The Service Line Reportshall be prepared from
+Operating Entity’s costaccounting and decision support systems, using revenue and expense
+datarecorded in the Hospital's general ledger fortheapplicable calendaryear andapplying the
+Methodology Statementdescribed in clause (2), consistently applied. The Parties acknowledge
+that service-line results are derivedthrough allocations within such systems and arenot
+maintained in separate general ledger accounts. Accordingly, the Service Line Report is not
+requiredtotrace individual service-lineamounts to specific general ledgeraccountsor to the
+Medicare Cost Report.
+(C)__ The Service Line Reportshall be presented in
+reasonable detail, sufficient to permit an independent accounting firm, with access tothe
+information described in clause (5), to understand and testthecalculationofthe Maternal and
+Fetal Care Service-Line Net Loss orNet Profit.
+(2) MethodologyStatement.
+(A) With the first Service Line Report, Operating Entity
+shall deliverto the District a written summary description of itsservice-linecosting methodology
+(“Methodology Statement”), identifying:
+(i) Thedepartments, costcenters, and patient
+classifications assigned to the Maternal and Fetal Care Service Lines:
+(ii) The principal categoriesofdirect cost;
+(iii) The indirectcost pools and theallocation
+statistic usedforeach: and
+(iv) Thetreatmentofdepreciation andofaffiliate
+and shared-service charges.
+(B) The Methodology Statementshall apply toeach
+later calendaryear unless Operating Entity changes it. Forthe calendaryear of any material
+change, the Service Line Reportshall present results underboththe priorandtherevised
+methodology.
+3) Contents. The Service Line Report shall include, by major
+category:
+(A) Net patientrevenue by payorcategory (Medicare,
+Medicaid, commercial, and self-pay/other) and other operating revenue;
+(B) Direct costs, including salaries and benefits,
+contractlabor, and supplies;
+(C) Allocated indirect costs, bycost pool;
+
+Second AmendmenttoCedarHillRegional Medical Center
+Hospital OperationsAgreement
+(D) Depreciation, to the extent allocated tothe Maternal
+and Fetal Care Service Lines undertheMethodology Statement;
+(E) Amounts excluded undersubsection (h)(7)(B); and
+(F) The resulting Maternal and Fetal Care Service-Line
+Net Loss orNet Profit.
+(4) Certifications. Each Service Line Report shall be
+accompanied by:
+(A) _ A certification ofthe Chief Financial Officerofthe
+Hospital that. to the bestofhisor her knowledge afterreasonable inquiry,the Service Line
+Reportwasprepared in good faith in accordance with the Methodology Statementand is
+complete and accurate; and
+(B)__A certificationof an appropriate officerofthe
+Hospital asto compliance during the applicablecalendaryear with the requirements of
+subsection (f) and the Service Standards and Quality Standardsapplicable to the maternal and
+fetal service lines, identifying any daysor portions ofdays ofnoncompliance known to
+Operating Entity
+(5) SupportingInformation; Review.
+(A) _ On reasonable written request made during the
+reviewperiod under clause (7), Operating Entityshall provide:
+(i) A summary ofthe allocation statistics
+appliedto the Maternal and Fetal Care Service Lines;
+(ii) A descriptionofany material non-recurring
+items and any change in methodology; and
+(iii) Diversion logs,call schedules, and similar
+records customarily maintained that support the certification underclause (4)(B).
+(B)_ The District may engage an independent accounting
+firm to review the Service Line Report, limited to the Maternal and Fetal Care Service Lines and
+the information described in thisclause (5), subject to reasonable confidentiality protections,and
+Operating Entity shall cooperatewith such review. Nothing in this subsection (d) entitles the
+District to access Operating Entity’s cost accounting ordecision supportsystems, ordata for
+otherservice lines, or requires Operating Entity to createrecords not maintained in the ordinary
+course ofbusiness.
+(6) Deficiencies; Cure. A Service Line Reportthat
+substantially complies with this subsection (d)shall not be rejected or disregarded for atechnical
+or formal deficiency. Ifthe District determines that asubmission is incomplete or otherwise
+deficient, it shall identify the deficiency in writing within the period provided in clause (7)(A),
+and Operating Entity shall have thirty (30)days after receiptofsuch notice to cure the
+deficiency. A timely cured submission shall be treated as timely submitted, and the District's
+review period under clause (7)(A) shall run from its receipt ofthe cured submission.
+(1) DistrictReview.
+
+SecondAmendmenttoCedarHillRegional Medical Center
+Hospital OperationsAgreement
+(A) Within sixty (60) days afterreceiptof a submission,
+the District shall respond tothesubmission by consenting in writingto the information and
+calculations in the Service Line Report, disputing the information and/or calculations in the
+Service Line Report, orrequestingadditional information.
+(B) IftheDistrict does not respond tothesubmission
+within thesixty (60) day period set forth in subclause (A)ofthis clause (7), Operating Entity
+may send aNoticeofNonresponseto the District. The Notice ofNonresponse shall inform the
+District ofOperating Entity’s prior submission, statethat Operating Entity hasnot received a
+response from the District to the priorsubmission, describe the impact ofa failureto respond to
+theNotice ofNonresponse (as hereinafter described), and include acopy ofthe previously
+submitted submission. Ifthe District does not respond to theNoticeofNonresponse within
+fifteen (15)daysafter its receipt, the District shal! be deemedto have consented to the
+information and calcula tions in the Service Line Report; prov ided, thatsuch default consent shall
+not limitthe District’srightto recover any amountof any payment made under this Subsection
+6.1.3 in excessofthe amount properly due.
+(C)__ Ifthe Parties donot resolve a dispute regarding
+information or calculations inthe Service Line Report forty-five (45)days afterthe
+Districtdisputes the information orcalculation, either Party may referthe dispute to non-binding
+arbitration, and bothPartiesshall participate in good faith in such arbitration. The Party
+referring the matter to non-binding arbitration shall be responsible for payingthe costsofsuch
+arbitration, unless the Parties agreeto adifferent divisionofcosts.
+(D)_ The District shall not be obligated tomake any
+disputed portionof a Support Paymentto Operating Entity under theapplicable paragraph of
+subsection (b), notwithstandingthedate set forth in such paragraph, until afterany disputes have
+been resolved and the District has consentedto the information and calculations inthe Service
+Line Report.
+(©) Final-YearReconciliation Payments.
+(1) (A) Operating Entity shall, with its submissionofthe
+ServiceLine Report dueon April 1, 2032, submit to the District a final Reconciliation Payment
+in the amount,ifany, by which ten milliondollars ($10,000,000) exceeds the Maternal and Fetal
+Care Service-Line Net Loss (expressed as a positive dollarvalue) ofthe Hospital forCalendar
+Year2031. Forthe purposesofthis calculation, if there is a Maternal and Fetal Care Service
+Line Net Profit ofthe Hospital forCalendar Year 2031,the Maternal and Fetal Care Service-
+Line Net Lossofthe Hospital for Calendar Year2031 shall beconsideredto bezerodollars ($0).
+(B) _ Ifthe Districtdisputes the information or
+calculations in the Service Line Report forCalendarYear 2031 pursuant to subsection (d)(7),
+and the dispute is resolved in the District’s favor, Operating Entity shall make an additional
+payment to the District, within thirty (30)days after the dispute is resolved, such additional
+paymentto be in the amount by which the Maternal and Fetal Service-Line Net Loss (expressed
+asa positive dollar value) in Operating Entity’s original Service Line Report submission exceeds
+the amountofthe Maternal and Fetal Service-Line Net Loss (expressed asa positive dollar
+value)as so resolved.
+
+Second AmendmenttoCedarHillRegional MedicalCenter
+HospitalOperationsAgreement
+(2) __ Ifthe maternal and fetal service line breaks even or
+operatesa profit in Calendar Year 2028, then:
+(A) Operating Entity shall, with its submission ofthe
+Service Line Report due on April 1, 2029, submit to the District a payment in theamountofthe
+Support Payment made under subsection (b\(2).
+(B)__ As provided in subsection (c)(4), no payment shall
+bbe due to Operating Entity under subsection (b) in 2029, 2030,or 2031,evenif the matemal and
+fetal service line operates ata net loss in 2029, 2030, and/or 2031.
+(C) No payment shall be due to the District underclause
+(1)ofthis subsection ().
+(© Qperational andAccess Commitments.
+(1) Each fiscal year for whi ch the Hospital receives aSubsidy
+Payment, Operating Entity shall comply with the following requirements:
+(A) Labor and delivery, obstetric triage, and inpatient
+obstetric and newborn services. includingthe neonatal intensive care unit, atthe Hospital shall be
+open twenty-four (24) hours per day, seven (7) days per week, with continuousobstetric
+physician coverage, with access providedto all patients without regard to payor, and with no
+diversionstoother hospitals, exceptfordiversions outside thecontrolofthe Hospital, including
+utility failure, plant operations events, and similar circumstances, ordiversions undertaken for
+reasons ofpatient safety.[Note: The District is still reviewing the list ofservices in thisclause.}
+(B) The remaining componentsofthe maternal and fetal
+care service linesatthe Hospital shall be maintained in operation with appropriate coverage
+during regular operating hours.
+(2) The Hospital shall provideaccess to maternal and fetal care
+serviceswithout regard to payor, subjectto Applicable Law and ordinary intakeand
+transfer criteria,
+() RegulatoryCompliance: Coordination with Existing Remedies.
+Nothing in this Section 6.1.3 limits, waives, supersedes,or modifies any right or remedy
+available to the District underthis Agreement orApplicable Law arising from Operating Entity’s
+failure to satisfy its obligations, including Service Standards, Quality Standards, licensure,
+accreditation, access requirements, reportingobligations, or othercontractual and regulatory
+requirements. A Maternal and Fetal Care Support Payment shall remain subjectto any remedy
+authorized under this Agreement or Applicable Law. The amountof a Maternal and Fetal Care
+Support Payment shall be calculated underthis Section, but calculation of an amount otherwise
+due does not waiveor eliminateany independently applicable District remedy. Notwithstanding
+theforegoing, neitherthe CY26 Support Payment nor aSupport Payment foran AMFSY, once
+made, shall be recovered, recouped, oroffset by the District asdamages underany general
+default ortermination remedy, except asexpressly provided in this Section 6.1.3; provided, that
+nothing in this subsection limits the District’s rightto recoverany amount ofaSupport Payment
+paid in excess ofthe amount properly due as aresultoffraud, misrepresentation, material error,
+or other factor affecting the amount properlydue (except forcompliancewith the Service
+Standards and Quality Standards, otherthan as provided in this Section 6.1.3).
+10
+
+Second AmendmenttoCedarHill Regional MedicalCenter
+HospitalOperationsAgreement
+(h) DefinanidMtetihoodolnogsy.
+(1) “Generally accepted accounting principles” (“GAAP”)
+means generally accepted accounting principles in the United States, as in effect from time to
+time and consistently applied: provided, however, thatwhere this Agreement /Amendment
+establishes a specific accounting treatment, allocation methodology, exclusion, orcalculation
+rule, the requirements ofthis Agreemenv/Amendmentshall control.
+(2) “Maternal and Fetal Care Service-Line Net Loss” means
+theamount by which Eligible Maternal and Fetal Care Expenses exceed Maternal and Fetal Care
+Service-Line Revenue forthe applicable calendaryear, determined consistently from year to year
+in accordance with the methodology described in this subsection and subsection (d)..
+(3) _ “Maternal and Fetal Care Service-LineNet Profit” means
+theamount by which Maternal and Fetal Care Service-Line Revenue exceed Eligible Matemal
+and Fetal Care Expenses forthe applicable calendar year, determined consistently from yearto
+year in accordance with the methodology described in this subsection and subsection (4).
+(4) “Maternal and Fetal Care Service-L.ine Revenue” means
+patient-service revenue and otheroperating revenue directly attributabletothe maternal and fetal
+care service line for the applicable calendaryear, recognized consistently with Operating Entity’s
+Final Financial Results for thatcalendaryear, but excluding all Maternal and Fetal Care Support
+Payments underthis Section from both service-line revenue and Hospital EBITDA.
+(5) “Maternal and Fetal Care Service Lines” meansthe
+Hospital’s inpatientand hospital-based outpatient obstetric, maternal, and newborn services,
+including laborand delivery, obstetric triage, antepartum and postpartum care, the newborn
+nursery, the neonatal intensive care unit and neonatology services, and maternal-fetal medicine.
+(6) [Reserved.]
+M Sligible Maternal and Fetal Care Expenses” means
+reasonable, necessary, and actually incurred operating expenses directly attributable to the
+maternal and fetal care service line, together with a reasonable allocationofshared Hospital
+operating expenses demonstrably supporting that service line. Shared expensesshall be allocated
+using objective cost drivers appropriateto the expense category, as set forth in the Methodology
+Statement undersubsection (d)(2). The methodology, allocationbases. departmental
+classifications, capitalization practices, and treatment ofaffiliate charges shall be applied
+consistently from year to year.
+(B) Eligible Maternal and Fetal Care Expenses shall,
+exclude:
+(i) Fines, penalties, sanctions, settlements, and
+costs arising from violationsoflaw;
+(ii) Extraordinary or non-recurring charges not
+reasonably related to operation ofthe maternal and fetal care service line;
+ii) Financing costs, interest, andother non-
+operatingexpenses:
+
+‘Second Amendment toCedarHill Regional Medical Center
+Hospital OperationsAgreement
+(iv) Corporate oraffiliate allocationsthat are
+unsupported, duplicative, or not reasonably attributable to the service line;
+(vy) Any affiliate or related-party amount in
+excessofthe amount thatwould be paid in an arm’s-length transaction; and
+(vi) Accounting entries thatdo not reflect an
+actual operating costofthe service line.
+Depreciation and amortization shall be included
+only totheextent treated as an operating expense underthe agreed methodology and applied
+consistently.
+(i) Fiscal Year. The Parties acknowledge that Operating Entity’s
+fiscal yearbegins January 1 and ends December 31, and references in this Section 6.1.3 to
+Operating Entity’s fiscal year shall mean theapplicable calendaryear. A change in Operating
+Entity’s fiscal year shall not alterthemeasurement period for purposes ofthis Section 6.1.3,
+withoutthe District's prior written consent.
+G) Subject to Appropriations. The Parties acknowledge that funding
+forthe payments under this Section 6.1.3 are not currently appropriated; each payment under
+Section 6.1.3 is subject to the future appropriation offundingofsuch payments; and no
+obligation shall arise on the partofthe District under this Section 6.1.3 unless such an
+appropriation is made. To the extentthere are notappropriated funds in a District government
+fiscal year for the District to pay the CY2026 Support Payment or a Subsidy Payment for an
+AMESYforthe prior Operating Entity fiscal year (by way of example,ifthere arenot
+appropriated funds in District of Columbia Fiscal Year 2028 (October 1, 2027, through
+September 30, 2028) to pay a Subsidy Payment forOperating Entity Fiscal Year 2028 (January
+1, 2028 through December31, 2028)), the Districtshall be underno obligationto make such
+paymentto Operating Entity. such unpaid amount shall not carry-over to the next year or any
+point thereafter, andthe Districtshall be under no obligation to make such payment in the next
+yearor at any time thereafter.
+TI. FutureReviews and Approval.
+‘A. The Parties acknowledge and agree that this Second Amendment is subject to
+review by the Office ofthe Attorney General forthe District ofColumbia
+(“DCOAG”) forlegal sufficiency and by the District ofColumbia Office ofthe
+Chief Financial Officer(~DCOCFO") related to fiscal matters. Ifeither DCOAG
+or DCOCFO identifies any concems with this Second Amendment, the Parties
+shall work in good faith to make such modifications to this Second Amendment
+as are necessary orappropriate to addressthose concems. The Parties
+acknowledgethat any such concerns must be resolved before the Second
+Amendment may be submitted to theCouncil ofthe District ofColumbia as
+provided in subparagraph B.
+B. The Parties acknowledge and agree that this Second Amendment is subjectto the
+reviewand approvalofthe Councilofthe District ofColumbia(“Council”) and
+this Second Amendmentshall have no force oreffect unless and until the Council
+
+SecondAmendment to CedarHill Regional Medical Center
+HospitalOperationsAgreement
+adopts legislation approving this Second Amendment, provided, thatifthe
+Council does not adoptlegislation approvingthis Second Amendmentby
+December 31,2026,this Second Amendmentshall, notwithstanding the
+foregoing, be ofno force oreffect.
+IV. EffectiveDate, This SecondAmendmentshall be effective as ofthe date the last Party
+signs it, exceptas otherwiseprovided in this Second Amendment.
+V. Continuing Forceand EffectofHospital Operations Agreement. Exceptas modified
+by this Second Amendment,all terms andconditionsofthe Hospital Operations
+Agreement, asamended by the First Amendment,shall continue in full force and effect.
+IN WITNESS WHEREOF, the Partieshave executed this Second Amendmentto theHospital
+Operations Agreementasofthedates set forth below.
+DISTRICT
+DISTRICTOF COLUMBIA, amunicipal corporation
+OPERATING ENTITY
+UHS EAST END SUB, LLC
+By: UHS East End Corporation, Its Sole Member
+Date: 1129/2@
+Title: Vice President
+
+THIRDAMENDMENT TOTHE,
+CEDAR HILL REGIONAL MEDICALCENTER,
+HOSPITAL OPERATIONSAGREEMENT
+The DistrictofColumbia, a municipal corporation (the “District”), and UHS East End Sub,
+LLC, a wholly owned subsidiary of Universal Health Services, Inc. (including any permitted
+successor or assignee, “Operating Entity”), collectively referred to herein as the “Parties” and
+each individually referred to herein as a “Party”, hereby enter into this third amendment (“Third
+Amendment”) to the Hospital Operations Agreement betweenDistrict ofColumbiaandUHS East
+End Sub, LLC.
+WHEREAS, the Parties in September 2020 entered into the Hospital Operations Agreement
+between District of Columbia and UHS East End Sub, LLC (“Original Hospital Operations
+Agreement”), dated as ofSeptember 10, 2020, regarding theoperationoftheCedarHill Regional
+Medical Center (“Hospital”);
+WHEREAS, the Parties in April 2025 executed a first amendment to the Hospital Operations
+Agreement, regarding certain datesandothermatters (“First Amendment”); and
+WHEREAS, the Parties in September 2026 executed a second amendment (“Second
+Amendment”)totheHospitalOperationsAgreement,regardingtheprovisionofmatemaland fetal
+lineservicesbytheHospital,theprovisionofsubsidiespaymentsbytheDistrictto theHospital to
+support those services, and other matters (the Original Hospital Operations Agreement, First
+Amendment, and Second Amendment are collectively referred to herein as the “Hospital
+OperationsAgreement”); and
+WHEREAS, the Parties nowdesire to modify the time period covered by the subsidy payments
+formaternal and fetal lineservicesintheHospital Operations Agreement and tomakeconforming
+modifications;
+NOW, THEREFORE, for good and valuable consideration, the District and Operating Entity
+herebyagreeas follows:
+I. AmendmenttoSection 6.1.1._Section 6.1.1of theHospital Operations Agreement, as
+previouslyamended bytheSecond Amendment,isfurther amended as follows:
+1. Subsection(e)(1) isamended bystrikingthe phrase “Within ninety”and inserting
+thephrase“Within seventy-five” in its place.
+Il. Amendments to Seetion 6.1.3. Section 6.1.3ofthe Hospital Operations Agreement, as
+added by the Second Amendment,isamended as follows:'
+1. Subsection(a) isamendedasfollows:
++ Theseamendmentsto Section 6.1.3. arealsoreflected in the blacklined textofSection6.1.3.
+that isincluded asExhibit | tothis Third Amendment.
+
+‘Third AmendmenttoCedarHill RegionalMedicalCenter
+HospitalOperations Agreement
+a. Clause (1) is amended by striking the phrase “, subject to subsection (j),”
+b. Clause(1)is furtheramendedby striking the phrase “certifies, and the
+Districtacknowledges” and insertingthe word “avers” inits place.
+©. Clause (2) isamended in its entirety toread as follows:
+“(2)_RecoupmentbyDistrictforOperatingEmityFailure to
+MeetRequirements. IfOperatingEntityfailstocomply with the requirementssetforth in
+subsection(f) duringtheperiod fromthedateofexecutionoftheamendment addingthisSection
+6.1.3 throughDecember31, 2026, or ifOperatingEntity failstocomply withtheService
+Standardsand Quality Standardsapplicable to thematernaland fetal service lines in 2026, all or
+aportion,as thecase maybe,ofthe amountofthepaymentby the Districtunderclause (1) shall
+be recouped by theDistrictby the payment madeby Operating Entity pursuant tothe
+reconciliation process set forth in subsection(e).”
+2. Subsection (b) isamendedandrestated initsentiretyto read as follows:
+“(b) [Reserved.]”
+3. Subsection(c)is amended and restatedin its entirety to read as follows:
+“(o) [Reserved.]”
+4. Subsection (d) is amendedas follows:
+a. Clause (1)(A) is amendedby:
+i, Strikingthephrase“eachofApril 1, 2027,April 1,2028,April 1,
+2029,April 1,2030, April 1, 2031, and April 1,2032,” and
+insertingthe phrase“April |,2027,”initsplace;and
+ii. Strikingthephrase“thepriorcalendaryear”and inserting the
+phrase“Calendar Year2026” in its place.
+b. Clause (2)(A) isamendedby striking the word “first”.
+c. Clause (2)(B) is amended and restated in its entirety to read as follows:
+“(B) (Reserved.]”
+d. Clause(7)(D)isamendedand restatedinitsentirety to readas follows:
+“(D) [Reserved.}”
+5. Subsection(¢) is amended and restated in its entiretyto readas follows:
+“(e) Reconciliation Payment.
+“(1)__ Within thirty(30) daysaftertheDistrict consentsto the
+information and calculationsin theService Line Reportprovidedby OperatingEntity pursuantto
+subsection (4)orthirty (30) days afterall disputes regardingtheService Line Reportare
+resolved, whicheveris applicable, OperatingEntity shall make areconciliation payment to the
+District in the amount,ifany, by which ten milliondollars($10,000,000) exceedstheresult of
+the following calculation
+“(A) The Modified Maximum Calendar Year2026
+Maternal and Fetal Lines Subsidy Amount (as defined in clause (2));
+
+‘ThirdAmendmenttoCedarHillRegionalMedicalCenter
+Hospital OperationsAgreement
+multipliedby
+“(B) TheNoncompliance Reduction Ratio (as defined in
+clause (3)).
+“() Forthepurposesofthissubsection, theterm“Modified
+Maximum CalendarYear2026 Maternal and Fetal Lines Subsidy Amount” means the lesserof
+(@tenmillion dollars($10,000,000)or(ji)the Maternal andFetalCareService-Line Net Loss
+(expressedas apositivedollarvalue),ifany, ofthe Hospital forCalendar Year2026. The
+Maternal and Fetal Care Service-Line Net Loss, ifany, forCalendar Year 2026 shall be
+calculated as describedin subsections(d)and (h). Ifthere is aMaternal and Fetal Care Service-
+Line Net Profit in Calendar Year 2026, the Maternaland Fetal Care Service-Line Net Loss in
+CalendarYear2026 shall be deemed to bezero dollars ($0) forthepurposesofthe calculations
+underthissubsection.
+“@)__ Forthepurposesofthis subsection, the term
+“Noncompliance Reduction Ratio”means one (1)minus the fractioncalculated as follows:
+“(A)_ The numerator ofwhichis:
+“(i)__ The numberofdaysthe Operating Entity
+failed to comply withthe requirementsofsubsection (f) during Calendar Year2026.
+plus
+“(i) Halfofthenumber ofdays Operating Entity
+did not maintaincompliance with theService Standardsand Quality Standardsapplicableto the
+maternal and fetal servicelinesduringCalendar Year2026 (thatarenotalso daysduring which
+OperatingEntity failed tocomply with therequirements of subsection(f)); and
+“(B):, The denominatorofwhich is three hundred sixty-
+five(365).
+“(4) Notwithstanding clause (1), ifOperating Entity did not
+fully comply withtherequirementsofsubsection (f) formore thanninety (90)daysduring
+CalendarYear2026,theamountofthereconcil i ationpayment due underclause (1) shall beten
+milliondollars ($10,000,000).
+“(5)__ In determiningthenumber ofdays ofnoncompliance under
+clauses (3)and (4), any day on whichOperatingentitydid notcomply, forany portionofthe
+day, withthe applicable requirement or standard shall becountedas one (1) day of
+noncompliance.
+6. Subsection(f), clause(1) isamendedas follows:
+i. The lead-in language is amendedby striking thephrase“Each fiscal year
+forwhich the Hospital receivesa Subsidy Payment” and insertingthe
+phrase“InCalendar Year2026” inits place.
+ii, Sub-clause(A)isamendedby striking the sentence“[Note: The District is
+still reviewing the listofservices in this clause.]”
+7. Subsection(g)isamended by striking the phrase “Notwithstanding the foregoing,
+neither theCY26 Support Paymentnora Support Payment foranAMFSY, once
+made, shallbe recovered,” and insertingthephrase “Notwithstandingthe
+
+‘ThirdAmendmenttoCedarHillRegional MedicalCenter
+HospitalOperationsAgreement
+foregoing,the CY26Support Payment, once made, shall not be recovered,” in its
+place.
+8. ‘Subsection(j) is struck in itsentirety.
+TIL, Future Reviews and Approval.
+A. TheParties acknowledge and agree thatthisThird Amendment issubject to
+review by the Office of the Attorney General forthe District ofColumbia
+(“DCOAG") forlegal sufficiency and by the District ofColumbiaOfficeofthe
+ChiefFinancial Officer(*DCOCFO”)related to fiscal matters.Ifeither DCOAG
+orDCOCFO identifies anyconcerns with thisThird Amendment, the Partiesshall
+work ingood faithto makesuch modificationsto thisThird Amendment as are
+necessary orappropriate toaddress those concerns viaanadditional amendment
+to theHospital OperationsAgreementpriorto submission to theCouncil (as
+described inparagraphB, below), The Partiesacknowledgethatany such
+concems must be resolved before the ThirdAmendment may be submitted to the
+Councilofthe DistrictofColumbiaasprovided inparagraphB.
+B. The Parties acknowledge and agree thatthis Third Amendmentis subject to the
+reviewand approvaloftheCouncilofthe District ofColumbia(“Council”)and
+this Third Amendment shall haveno forceoreffectunlessand until the Council
+adopts legislation approvingthis Third Amendment, provided, thatiftheCouncil
+does not adopt legislation approving this Third Amendmentby December 31,
+2026, this Third Amendment shall, notwithstanding the foregoing, be ofno force
+or effect.
+IV. Effective Date. This ThirdAmendment shall beeffective as ofthedatethe last Party
+signs it, except as otherwise provided in thisThird Amendment.
+V. Continuing Force and Effect ofHospital Operations Agreement. Exceptas modified
+by this Third Amendment, all termsand conditionsofthe Hospital Operations Agreement
+shallcontinue infull force and effect.
+IN WITNESS WHEREOF, the Parties have executed thisThirdAmendment tothe Hospital
+Operations Agreement as ofthedates set forth below.
+DISTRICT
+DISTRICTOF COLUMBIA, a municipal corporation
+; __ Date: 10/20/2026
+Name: Wayne Tumage
+Title: Deputy Mayor for Health and Human Services
+
+ThirdAmendmenttoCedarHillRegionalMedicalCenter
+HospitalOperationsAgreement
+OPERATING ENTITY
+UHS EASTEND SUB, LLC
+By: UHS East End Corporation, Its Sole Member
+AH Fe
+Date: 10/20/2026
+Name: SteveFilton
+Title: Vice President
+
+Third Amendment to Cedar Hill Regional Medical Center
+Hospital Operations Agreement
+EXHIBIT 1
+Blacklined Text of Section 6.1.3., as Modified by the Third Amendment
+6.1.3. Maternal and Fetal Care Support.
+(a) Calendar Year 2026 Maternal and Fetal Care Support Payment
+and Recoupment.
+(1) Calendar Year 2026 Support Payment. In support of its
+operation of maternal and fetal service lines at the Hospital during calendar year 2026, and in
+consideration of the commitments of the Operating Entity under this Section 6.1.3, the District
+shall, subject to subsection (j), pay Operating Entity ten million dollars ($10,000,000) by
+September 30, 2026 (“CY2026 Support Payment”). Operating Entity certifies, and the District
+acknowledges,avers that from January 1, 2026, through the date of execution of the amendment
+adding this Section 6.1.3, the Hospital has operated the maternal and fetal services lines
+consistent with the standards set forth in subsection (f) and in compliance the Service Standards
+and Quality Standards applicable to the maternal and fetal service lines. The CY2026 Support
+Payment is made in consideration of the maternal and fetal service lines so provided and in
+consideration of the maternal and fetal service lines to be provided during the remainder of
+calendar year 2026 in compliance with subsection (f).
+(2) Recoupment by District for Operating Entity Failure to
+Meet Requirements. If Operating Entity fails to comply with the requirements set forth in
+subsection (f) during the period from the date of execution of the amendment adding this Section
+6.1.3 (September 29, 2026) through December 31, 2026, or if Operating Entity fails to comply
+with the Service Standards and Quality Standards applicable to the maternal and fetal service
+lines in 2026, all or a portion, as the case may be, of the amount of the payment by the District
+under clause (1) shall be recouped by the District by the payment made by Operating Entity
+pursuant to the reconciliation process set forth in subsection (e).
+(2) Recoupment by District for Operating Entity Failure to
+Maintain Maternal and Fetal Services for Remainder of Calendar Year 2026.
+(A) From the date of execution of the amendment
+adding this Section 6.1.3 through December 31, 2026, Operating Entity shall continue to operate
+the maternal and fetal service lines in compliance with subsection (f). If Operating Entity fails to
+comply with the requirements of subsection (f) during the entirety of that period, the Support
+Payment for Fiscal Year 2027 shall, as provided in subsection (b)(1), be reduced by an amount
+equal to the result of the following calculation (referred to hereinafter as the “Calendar Year
+2026 Recoupment Amount”):
+(i) The lesser of the amount of the Maternal and
+Fetal Care Service-Line Net Loss (expressed as a positive dollar value) of the Hospital for
+Calendar Year 2026 and ten million dollars ($10,000,000);
+multiplied by
+(ii) A fraction the denominator of which is three
+hundred sixty five (365) and the numerator of which is the number of days the Operating Entity
+6
+
+Third Amendment to Cedar Hill Regional Medical Center
+Hospital Operations Agreement
+failed to continue to operate the maternal and fetal service lines and/or maintain the operational
+and access commitments set forth in subsection (f) during Calendar Year 2026.
+(b) [Reserved.]
+(b) Support Payments for Calendar Years 2027, 2028, 2029, 2030,
+and 2031 (“Additional M&F Support Years” or “AMFSYs”). Subject to subsections (c) and (j),
+the District shall make the following payments to Operating Entity in support of Operating
+Entity’s operation of maternal and fetal service lines at the Hospital during each calendar year
+indicated, and in consideration of the commitments of the Operating Entity under this Section
+6.1.3:
+(1) By August 15, 2027, or the later date authorized in
+subsection (d)(7), the District, in support of Operating Entity’s operation of maternal and fetal
+service lines at the Hospital during calendar year 2027 in compliance with subsection (f), shall
+make a payment to Operating Entity in the amount calculated as follows:
+(A) Ten million dollars ($10,000,000);
+minus
+(B) The amount, if any, by which ten million dollars
+($10,000,000) exceeds the Maternal and Fetal Care Service-Line Net Loss (expressed as a
+positive dollar value), if any, of the Hospital for Calendar Year 2026. The Maternal and Fetal
+Care Service Line Net Loss if any, for Calendar Year 2026 shall be calculated as described in
+subsections (d) and (h). If there is a Maternal and Fetal Care Service Line Net Profit in Calendar
+Year 2026, the Maternal and Fetal Care Service Line Net Loss in Calendar Year 2026 shall be
+deemed to be zero dollars ($0) for the purposes of the calculation under this sub-clause (B);
+minus
+(C) The Calendar Year 2026 Recoupment Amount (as
+defined in subsection (a)(2)).
+(2) By July 1, 2028, or the later date authorized in subsection
+(d)(7), the District, in support of Operating Entity’s operation of maternal and fetal service lines
+at the Hospital during calendar year 2028 in compliance with subsection (f), shall make a
+payment to Operating Entity in the amount calculated as follows:
+(A) Ten million dollars ($10,000,000);
+minus
+(B) The amount, if any, by which ten million dollars
+($10,000,000) exceeds the Maternal and Fetal Care Service Line Net Loss (expressed as a
+positive dollar value), if any, of the Hospital for Calendar Year 2027. The Maternal and Fetal
+Care Service-Line Net Loss if any, for Calendar Year 2027 shall be calculated as described in
+subsections (d) and (h). If there is a Maternal and Fetal Care Service Line Net Profit in Calendar
+Year 2027, the Maternal and Fetal Care Service-Line Net Loss in Calendar Year 2027 shall be
+deemed to be zero dollars ($0) for the purposes of the calculation under this sub clause (B).
+(3) By July 1, 2029, or the later date authorized in subsection
+(d)(7), the District, in support of Operating Entity’s operation of maternal and fetal service lines
+7
+
+Third Amendment to Cedar Hill Regional Medical Center
+Hospital Operations Agreement
+at the Hospital during calendar year 2029 in compliance with subsection (f), shall make a
+payment to Operating Entity in the amount calculated as follows:
+(A) Ten million dollars ($10,000,000);
+minus
+(B) The amount, if any, by which ten million dollars
+($10,000,000) exceeds the Maternal and Fetal Care Service Line Net Loss (expressed as a
+positive dollar value), if any, of the Hospital for Calendar Year 2028. The Maternal and Fetal
+Care Service Line Net Loss if any, for Calendar Year 2028 shall be calculated as described in
+subsections (d) and (h). If there is a Maternal and Fetal Care Service-Line Net Profit in Calendar
+Year 2028, the Maternal and Fetal Care Service Line Net Loss in Calendar Year 2028 shall be
+deemed to be zero dollars ($0) for the purposes of the calculation under this sub clause (B).
+(4) By July 1, 2030, or the later date authorized in subsection
+(d)(7), the District, in support of Operating Entity’s operation of maternal and fetal service lines
+at the Hospital during calendar year 2030 in compliance with subsection (f), shall make a
+payment to Operating Entity in the amount calculated as follows:
+(A) Ten million dollars ($10,000,000);
+minus
+(B) The amount, if any, by which ten million dollars
+($10,000,000) exceeds the Maternal and Fetal Care Service-Line Net Loss (expressed as a
+positive dollar value), if any, of the Hospital for Calendar Year 2029. The Maternal and Fetal
+Care Service Line Net Loss if any, for Calendar Year 2029 shall be calculated as described in
+subsections (d) and (h). If there is a Maternal and Fetal Care Service-Line Net Profit in Calendar
+Year 2029, the Maternal and Fetal Care Service Line Net Loss in Calendar Year 2029 shall be
+deemed to be zero dollars ($0) for the purposes of the calculation under this sub clause (B).
+(5) By July 1, 2031, or the later date authorized in subsection
+(d)(7), the District, in support of Operating Entity’s operation of maternal and fetal service lines
+at the Hospital during calendar year 2031 in compliance with subsection (f), shall make a
+payment to Operating Entity in the amount calculated as follows:
+(A) Ten million dollars ($10,000,000);
+minus
+(B) The amount, if any, by which ten million dollars
+($10,000,000) exceeds the Maternal and Fetal Care Service-Line Net Loss (expressed as a
+positive dollar value), if any, of the Hospital for Calendar Year 2030. The Maternal and Fetal
+Care Service-Line Net Loss if any, for Calendar Year 2030 shall be calculated as described in
+subsections (d) and (h). If there is a Maternal and Fetal Care Service Line Net Profit in Calendar
+Year 2030, the Maternal and Fetal Care Service Line Net Loss in Calendar Year 2030 shall be
+deemed to be zero dollars ($0) for the purposes of the calculation under this sub-clause (B).
+(c) [Reserved.]
+(c) Conditions on Payments for Calendar Years 2026, 2027, 2028,
+2029, 2030, and 2031. Notwithstanding subsection (b):
+8
+
+Third Amendment to Cedar Hill Regional Medical Center
+Hospital Operations Agreement
+(1) (A) If Operating Entity did not fully comply with
+subsection (f) during the entirety of the year preceding an AMFSY, the amount due under
+subsection (b) for that AMFSY shall be reduced to an amount equal to:
+(i) The amount that would otherwise be due under
+subsection (b) for that AMFSY;
+multiplied by
+(ii) A fraction, the numerator of which is the
+number of days Operating Entity fully complied with the requirements of subsection (f) during
+the year preceding the AMFSY and the denominator of which is three hundred sixty-five (365).
+(B) Notwithstanding subclause (A), if Operating Entity
+did not fully comply with the requirements of subsection (f) for more than ninety (90) days
+during the year preceding an AMFSY, the amount due under subsection (b) for that AMFSY
+shall be zero dollars ($0) (so, by way of example only, and not limitation, no payment shall be
+due to Operating Entity under subsection (b)(4) if Operating Entity did not fully comply with the
+requirements of subsection (f) for more than ninety (90) days during 2029);
+(2) If Operating Entity did not maintain the Service Standards
+and Quality Standards applicable to the maternal and fetal service lines during the entirety of the
+year preceding an AMFSY, the amount due under subsection (b) for that AMSFY (as may have
+been reduced pursuant to clause (1)) shall be reduced by fifty percent (50%); provided, that if the
+Operating Entity did not maintain such Service Standards and Quality Standards for less than the
+entirety of the year preceding the AMFSY, the percentage points of reduction under this clause
+(2) shall be equal to fifty (50) multiplied by a fraction, the numerator of which is the number of
+days Operating Entity did not maintain compliance with the Service Standards and Quality
+Standards and Quality Standards applicable to the maternal and fetal service lines during the year
+preceding the AMFSY (that are not also days during which Operating Entity failed to comply
+with the requirements of subsection (f)) and the denominator of which is three hundred sixty five
+(365).
+(3) No Support Payment shall be due to Operating Entity for an
+AMFSY if the Hospital (including operations of the Parking Facility) had EBITDA (calculated
+as provided in Section 6.1.1) of fifteen million dollars ($15,000,000) or more during the fiscal
+year preceding the AMFSY (so, by way of example only, and not limitation, no payment shall be
+due to Operating Entity under subsection (b)(4) if the Hospital (including operations of the
+Parking Facility) had EBITDA of fifteen million dollars ($15,000,000) or more during 2029);
+(4) If the maternal and fetal service line breaks even or
+operates at a profit in 2028, no Support Payment shall be due to Operating Entity in 2029, 2030,
+or 2031, even if the maternal and fetal service line operates at a net loss in 2029, 2030, and/or
+2031.
+(d) Post-Year End Reconciliation.
+(1) Service Line Report.
+(A) On or before each of April 1, 2027, April 1, 2028,
+April 1, 2029, April 1, 2030, April 1, 2031, and April 1, 2032, Operating Entity shall submit to
+the District a final report of the financial results of the Hospital’s Maternal and Fetal Care
+9
+
+Third Amendment to Cedar Hill Regional Medical Center
+Hospital Operations Agreement
+Service Lines for the prior calendar yearCalendar Year 2026 (“Service Line Report”), setting
+forth the Maternal and Fetal Care Service-Line Net Loss or Maternal and Fetal Care Service-
+Line Net Profit for that calendar year.
+(B) The Service Line Report shall be prepared from
+Operating Entity’s cost accounting and decision support systems, using revenue and expense
+data recorded in the Hospital’s general ledger for the applicable calendar year and applying the
+Methodology Statement described in clause (2), consistently applied. The Parties acknowledge
+that service-line results are derived through allocations within such systems and are not
+maintained in separate general ledger accounts. Accordingly, the Service Line Report is not
+required to trace individual service-line amounts to specific general ledger accounts or to the
+Medicare Cost Report.
+(C) The Service Line Report shall be presented in
+reasonable detail, sufficient to permit an independent accounting firm, with access to the
+information described in clause (5), to understand and test the calculation of the Maternal and
+Fetal Care Service-Line Net Loss or Net Profit.
+(2) Methodology Statement.
+(A) With the first Service Line Report, Operating Entity
+shall deliver to the District a written summary description of its service-line costing methodology
+(“Methodology Statement”), identifying:
+(i) The departments, cost centers, and patient
+classifications assigned to the Maternal and Fetal Care Service Lines;
+(ii) The principal categories of direct cost;
+(iii) The indirect cost pools and the allocation
+statistic used for each; and
+(iv) The treatment of depreciation and of affiliate
+and shared-service charges.
+(B) [Reserved.]The Methodology Statement shall apply
+to each later calendar year unless Operating Entity changes it. For the calendar year of any
+material change, the Service Line Report shall present results under both the prior and the
+revised methodology.
+(3) Contents. The Service Line Report shall include, by major
+category:
+(A) Net patient revenue by payor category (Medicare,
+Medicaid, commercial, and self-pay/other) and other operating revenue;
+(B) Direct costs, including salaries and benefits,
+contract labor, and supplies;
+(C) Allocated indirect costs, by cost pool;
+(D) Depreciation, to the extent allocated to the Maternal
+and Fetal Care Service Lines under the Methodology Statement;
+(E) Amounts excluded under subsection (h)(7)(B); and
+10
+
+Third Amendment to Cedar Hill Regional Medical Center
+Hospital Operations Agreement
+(F) The resulting Maternal and Fetal Care Service-Line
+Net Loss or Net Profit.
+(4) Certifications. Each Service Line Report shall be
+accompanied by:
+(A) A certification of the Chief Financial Officer of the
+Hospital that, to the best of his or her knowledge after reasonable inquiry, the Service Line
+Report was prepared in good faith in accordance with the Methodology Statement and is
+complete and accurate; and
+(B) A certification of an appropriate officer of the
+Hospital as to compliance during the applicable calendar year with the requirements of
+subsection (f) and the Service Standards and Quality Standards applicable to the maternal and
+fetal service lines, identifying any days or portions of days of noncompliance known to
+Operating Entity.
+(5) Supporting Information; Review.
+(A) On reasonable written request made during the
+review period under clause (7), Operating Entity shall provide:
+(i) A summary of the allocation statistics
+applied to the Maternal and Fetal Care Service Lines;
+(ii) A description of any material non-recurring
+items and any change in methodology; and
+(iii) Diversion logs, call schedules, and similar
+records customarily maintained that support the certification under clause (4)(B).
+(B) The District may engage an independent accounting
+firm to review the Service Line Report, limited to the Maternal and Fetal Care Service Lines and
+the information described in this clause (5), subject to reasonable confidentiality protections, and
+Operating Entity shall cooperate with such review. Nothing in this subsection (d) entitles the
+District to access Operating Entity’s cost accounting or decision support systems, or data for
+other service lines, or requires Operating Entity to create records not maintained in the ordinary
+course of business.
+(6) Deficiencies; Cure. A Service Line Report that
+substantially complies with this subsection (d) shall not be rejected or disregarded for a technical
+or formal deficiency. If the District determines that a submission is incomplete or otherwise
+deficient, it shall identify the deficiency in writing within the period provided in clause (7)(A),
+and Operating Entity shall have thirty (30) days after receipt of such notice to cure the
+deficiency. A timely cured submission shall be treated as timely submitted, and the District’s
+review period under clause (7)(A) shall run from its receipt of the cured submission.
+(7) District Review.
+(A) Within sixty (60) days after receipt of a submission,
+the District shall respond to the submission by consenting in writing to the information and
+calculations in the Service Line Report, disputing the information and/or calculations in the
+Service Line Report, or requesting additional information.
+11
+
+Third Amendment to Cedar Hill Regional Medical Center
+Hospital Operations Agreement
+(B) If the District does not respond to the submission
+within the sixty (60) day period set forth in subclause (A) of this clause (7), Operating Entity
+may send a Notice of Nonresponse to the District. The Notice of Nonresponse shall inform the
+District of Operating Entity’s prior submission, state that Operating Entity has not received a
+response from the District to the prior submission, describe the impact of a failure to respond to
+the Notice of Nonresponse (as hereinafter described), and include a copy of the previously
+submitted submission. If the District does not respond to the Notice of Nonresponse within
+fifteen (15) days after its receipt, the District shall be deemed to have consented to the
+information and calculations in the Service Line Report; provided, that such default consent shall
+not limit the District’s right to recover any amount of any payment made under this Subsection
+6.1.3 in excess of the amount properly due.
+(C) If the Parties do not resolve a dispute regarding
+information or calculations in the Service Line Report within forty-five (45) days after the
+District disputes the information or calculation, either Party may refer the dispute to non-binding
+arbitration, and both Parties shall participate in good faith in such arbitration. The Party
+referring the matter to non-binding arbitration shall be responsible for paying the costs of such
+arbitration, unless the Parties agree to a different division of costs.
+(D) The District shall not be obligated to make any
+disputed portion of a Support Payment to Operating Entity under the applicable paragraph of
+subsection (b), notwithstanding the date set forth in such paragraph, until after any disputes have
+been resolved and the District has consented to the information and calculations in the Service
+Line Report.
+(e) Final-Year Reconciliation Payments.
+(1) (A) Operating Entity shall, with its submission of the
+Service Line Report due on April 1, 2032, submit to the District a final Reconciliation Payment
+in the amount, if any, by which ten million dollars ($10,000,000) exceeds the Maternal and Fetal
+Care Service-Line Net Loss (expressed as a positive dollar value) of the Hospital for Calendar
+Year 2031. For the purposes of this calculation, if there is a Maternal and Fetal Care Service
+Line Net Profit of the Hospital for Calendar Year 2031, the Maternal and Fetal Care Service
+Line Net Loss of the Hospital for Calendar Year 2031 shall be considered to be zero dollars ($0).
+(B) If the District disputes the information or
+calculations in the Service Line Report for Calendar Year 2031 pursuant to subsection (d)(7),
+and the dispute is resolved in the District’s favor, Operating Entity shall make an additional
+payment to the District, within thirty (30) days after the dispute is resolved, such additional
+payment to be in the amount by which the Maternal and Fetal Service-Line Net Loss (expressed
+as a positive dollar value) in Operating Entity’s original Service Line Report submission exceeds
+the amount of the Maternal and Fetal Service-Line Net Loss (expressed as a positive dollar
+value) as so resolved.
+(2) If the maternal and fetal service line breaks even or
+operates a profit in Calendar Year 2028, then:
+(A) Operating Entity shall, with its submission of the
+Service Line Report due on April 1, 2029, submit to the District a payment in the amount of the
+Support Payment made under subsection (b)(2).
+12
+
+Third Amendment to Cedar Hill Regional Medical Center
+Hospital Operations Agreement
+(B) As provided in subsection (c)(4), no payment shall
+be due to Operating Entity under subsection (b) in 2029, 2030, or 2031, even if the maternal and
+fetal service line operates at a net loss in 2029, 2030, and/or 2031.
+(C) No payment shall be due to the District under clause
+(1) of this subsection (e).
+(e) Reconciliation Payment.
+(1) Within thirty (30) days after the District consents to the
+information and calculations in the Service Line Report provided by Operating Entity pursuant to
+subsection (d) or thirty (30) days after all disputes regarding the Service Line Report are
+resolved, whichever is applicable, Operating Entity shall make a reconciliation payment to the
+District in the amount, if any, by which ten million dollars ($10,000,000) exceeds the result of
+the following calculation:
+(A) The Modified Maximum Calendar Year 2026
+Maternal and Fetal Lines Subsidy Amount (as defined in clause (2));
+multiplied by
+(B) The Noncompliance Reduction Ratio (as defined in
+clause (3)).
+(2) For the purposes of this subsection, the term “Modified
+Maximum Calendar Year 2026 Maternal and Fetal Lines Subsidy Amount” means the lesser of
+(i) ten million dollars ($10,000,000) or (ii) the Maternal and Fetal Care Service-Line Net Loss
+(expressed as a positive dollar value), if any, of the Hospital for Calendar Year 2026. The
+Maternal and Fetal Care Service-Line Net Loss, if any, for Calendar Year 2026 shall be
+calculated as described in subsections (d) and (h). If there is a Maternal and Fetal Care Service-
+Line Net Profit in Calendar Year 2026, the Maternal and Fetal Care Service-Line Net Loss in
+Calendar Year 2026 shall be deemed to be zero dollars ($0) for the purposes of the calculations
+under this subsection.
+(3) For the purposes of this subsection, the term
+“Noncompliance Reduction Ratio” means one (1) minus the fraction calculated as follows:
+(A) The numerator of which is:
+(i) The number of days the Operating Entity
+failed to comply with the requirements of subsection (f) during Calendar Year 2026.
+plus
+(ii) Half of the number of days Operating Entity
+did not maintain compliance with the Service Standards and Quality Standards applicable to the
+maternal and fetal service lines during Calendar Year 2026 (that are not also days during which
+Operating Entity failed to comply with the requirements of subsection (f)); and
+(B) The denominator of which is three hundred sixty-
+five (365).
+(4) Notwithstanding clause (1), if Operating Entity did not
+fully comply with the requirements of subsection (f) for more than ninety (90) days during
+13
+
+Third Amendment to Cedar Hill Regional Medical Center
+Hospital Operations Agreement
+Calendar Year 2026, the amount of the reconciliation payment due under clause (1) shall be ten
+million dollars ($10,000,000).
+(5) In determining the number of days of noncompliance under
+clauses (3) and (4), any day on which Operating entity did not comply, for any portion of the
+day, with the applicable requirement or standard shall be counted as one (1) day of
+noncompliance.
+(f) Operational and Access Commitments.
+(1) Each fiscal year for which the Hospital receives a Subsidy
+PaymentIn Calendar Year 2026, Operating Entity shall comply with the following requirements:
+(A) Labor and delivery, obstetric triage, and inpatient
+obstetric and newborn services, including the neonatal intensive care unit, at the Hospital shall be
+open twenty-four (24) hours per day, seven (7) days per week, with continuous obstetric
+physician coverage, with access provided to all patients without regard to payor, and with no
+diversions to other hospitals, except for diversions outside the control of the Hospital, including
+utility failure, plant operations events, and similar circumstances, or diversions undertaken for
+reasons of patient safety.[Note: The District is still reviewing the list of services in this clause.]
+(B) The remaining components of the maternal and fetal
+care service lines at the Hospital shall be maintained in operation with appropriate coverage
+during regular operating hours.
+(2) The Hospital shall provide access to maternal and fetal care
+services without regard to payor, subject to Applicable Law and ordinary clinical intake and
+transfer criteria.
+(g) Regulatory Compliance; Coordination with Existing Remedies.
+Nothing in this Section 6.1.3 limits, waives, supersedes, or modifies any right or remedy
+available to the District under this Agreement or Applicable Law arising from Operating Entity’s
+failure to satisfy its obligations, including Service Standards, Quality Standards, licensure,
+accreditation, access requirements, reporting obligations, or other contractual and regulatory
+requirements. A Maternal and Fetal Care Support Payment shall remain subject to any remedy
+authorized under this Agreement or Applicable Law. The amount of a Maternal and Fetal Care
+Support Payment shall be calculated under this Section, but calculation of an amount otherwise
+due does not waive or eliminate any independently applicable District remedy. Notwithstanding
+the foregoing, neither the CY26 Support Payment nor a Support Payment for an AMFSY, once
+made, shall not be recovered, recouped, or offset by the District as damages under any general
+default or termination remedy, except as expressly provided in this Section 6.1.3; provided, that
+nothing in this subsection limits the District’s right to recover any amount of a Support Payment
+paid in excess of the amount properly due as a result of fraud, misrepresentation, material error,
+or other factor affecting the amount properly due (except for compliance with the Service
+Standards and Quality Standards, other than as provided in this Section 6.1.3).
+(h) Definitions and Methodology.
+(1) “Generally accepted accounting principles” (“GAAP”)
+means generally accepted accounting principles in the United States, as in effect from time to
+time and consistently applied; provided, however, that where this Agreement /Amendment
+14
+
+Third Amendment to Cedar Hill Regional Medical Center
+Hospital Operations Agreement
+establishes a specific accounting treatment, allocation methodology, exclusion, or calculation
+rule, the requirements of this Agreement/Amendment shall control.
+(2) “Maternal and Fetal Care Service-Line Net Loss” means
+the amount by which Eligible Maternal and Fetal Care Expenses exceed Maternal and Fetal Care
+Service-Line Revenue for the applicable calendar year, determined consistently from year to year
+in accordance with the methodology described in this subsection and subsection (d).
+(3) “Maternal and Fetal Care Service-Line Net Profit” means
+the amount by which Maternal and Fetal Care Service-Line Revenue exceed Eligible Maternal
+and Fetal Care Expenses for the applicable calendar year, determined consistently from year to
+year in accordance with the methodology described in this subsection and subsection (d).
+(4) “Maternal and Fetal Care Service-Line Revenue” means
+patient-service revenue and other operating revenue directly attributable to the maternal and fetal
+care service line for the applicable calendar year, recognized consistently with Operating Entity’s
+Final Financial Results for that calendar year, but excluding all Maternal and Fetal Care Support
+Payments under this Section from both service-line revenue and Hospital EBITDA.
+(5) “Maternal and Fetal Care Service Lines” means the
+Hospital’s inpatient and hospital-based outpatient obstetric, maternal, and newborn services,
+including labor and delivery, obstetric triage, antepartum and postpartum care, the newborn
+nursery, the neonatal intensive care unit and neonatology services, and maternal-fetal medicine.
+(6) [Reserved.]
+(7) (A) “Eligible Maternal and Fetal Care Expenses” means
+reasonable, necessary, and actually incurred operating expenses directly attributable to the
+maternal and fetal care service line, together with a reasonable allocation of shared Hospital
+operating expenses demonstrably supporting that service line. Shared expenses shall be allocated
+using objective cost drivers appropriate to the expense category, as set forth in the Methodology
+Statement under subsection (d)(2). The methodology, allocation bases, departmental
+classifications, capitalization practices, and treatment of affiliate charges shall be applied
+consistently from year to year.
+(B) Eligible Maternal and Fetal Care Expenses shall
+exclude:
+(i) Fines, penalties, sanctions, settlements, and
+costs arising from violations of law;
+(ii) Extraordinary or non-recurring charges not
+reasonably related to operation of the maternal and fetal care service line;
+(iii) Financing costs, interest, and other non-
+operating expenses;
+(iv) Corporate or affiliate allocations that are
+unsupported, duplicative, or not reasonably attributable to the service line;
+(v) Any affiliate or related-party amount in
+excess of the amount that would be paid in an arm’s-length transaction; and
+15
+
+Third Amendment to Cedar Hill Regional Medical Center
+Hospital Operations Agreement
+(vi) Accounting entries that do not reflect an
+actual operating cost of the service line.
+Depreciation and amortization shall be included
+only to the extent treated as an operating expense under the agreed methodology and applied
+consistently.
+(i) Fiscal Year. The Parties acknowledge that Operating Entity’s
+fiscal year begins January 1 and ends December 31, and references in this Section 6.1.3 to
+Operating Entity’s fiscal year shall mean the applicable calendar year. A change in Operating
+Entity’s fiscal year shall not alter the measurement period for purposes of this Section 6.1.3
+without the District’s prior written consent.
+(j) Subject to Appropriations. The Parties acknowledge that funding
+for the payments under this Section 6.1.3 are not currently appropriated; each payment under this
+Section 6.1.3 is subject to the future appropriation of funding of such payments; and no
+obligation shall arise on the part of the District under this Section 6.1.3 unless such an
+appropriation is made. To the extent there are not appropriated funds in a District government
+fiscal year for the District to pay the CY2026 Support Payment or a Subsidy Payment for an
+AMFSY for the prior Operating Entity fiscal year (by way of example, if there are not
+appropriated funds in District of Columbia Fiscal Year 2028 (October 1, 2027, through
+September 30, 2028) to pay a Subsidy Payment for Operating Entity Fiscal Year 2028 (January
+1, 2028 through December 31, 2028)), the District shall be under no obligation to make such
+payment to Operating Entity, such unpaid amount shall not carry over to the next year or any
+point thereafter, and the District shall be under no obligation to make such payment in the next
+year or at any time thereafter.
+16

@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - Introduction
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+1
+2 Councilmember Brianne K. Nadeau
+3
+4
+5
+6 A BILL
+7
+8 __________
+9
+10 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+11
+12 __________
+13
+14 To amend, on an emergency basis, the Deputy Mayor for Planning and Economic Development
+15 Limited Grant-Making Authority Act of 2012 to expand permissible uses of certain grant
+16 funding; and to amend the District of Columbia Taxicab Commission Establishment Act
+17 of 1985 to permit rulemaking to implement a carrier-for-hire support surcharge.
+18
+19 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+20 act may be cited as the “Budget Support Act Implementation Facilitation Emergency
+21 Amendment Act of 2026”.
+22 Sec. 2. Section 2032(pp)(3) of the Deputy Mayor for Planning and Economic
+23 Development Limited Grant-Making Authority Act of 2012, effective September 20, 2012 (D.C.
+24 Law 19-168; D.C. Official Code § 1-328.04(pp)(3)), is amended by striking the phrase “purchase
+25 of the real property” and inserting the phrase “purchase of or capital improvements to the real
+26 property” in its place.
+27 Sec. 3. Section 208j-8(e) of the District of Columbia Taxicab Commission Establishment
+28 Act of 1985, effective March 25, 1986 (D.C. Law 6-97; D.C. Official Code § 50-301.29h(e)) is
+29 amended by adding a new paragraph (4) to read as follows:
+30 “(4) DFHV, pursuant to Title I of the District of Columbia Administrative
+31 Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.),
+32 may issue rules to implement the provisions of this subsection.”.
+
+33 Sec. 4. Fiscal impact statement.
+34 The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact
+35 statement required by section 4a of the General Legislative Procedures Act of 1975, approved
+36 October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).
+37 Sec. 5. Effective date.
+38 This act shall take effect following approval by the Mayor (or in the event of veto by the
+39 Mayor, action by the Council to override the veto), and shall remain in effect for no longer than
+40 90 days, as provided for emergency acts of the Council of the District of Columbia in section
+41 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788;
+42 D.C. Official Code § 1-204.12(a)).

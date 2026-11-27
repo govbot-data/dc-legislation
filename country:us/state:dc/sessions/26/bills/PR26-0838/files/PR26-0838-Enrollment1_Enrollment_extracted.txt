@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - Enrollment
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ENROLLED ORIGINAL
+A RESOLUTION
+26-541
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA
+November 10, 2026
+To declare the existence of an emergency with respect to the need to amend Title II of the District
+of Columbia Comprehensive Bicycle Transportation and Safety Act of 1984 to require that
+electric bicycles, electric mobility devices, and traction batteries manufactured, distributed,
+sold, or offered for lease or rent in the District meet certain safety standards; to amend the
+District of Columbia Traffic Act, 1925 to make conforming amendments; to amend the
+Department of Transportation Establishment Act of 2002 to authorize the Director of the
+District Department of Transportation to develop policies for the safe use of electric
+bicycles, motorized bicycles, and electric mobility devices; and for other purposes.
+RESOLVED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this
+resolution may be cited as the “Micromobility Fire Safety Standards Emergency Declaration
+Resolution of 2026”.
+Sec. 2. (a) Electric micromobility devices, such as electric bicycles (“e-bikes”) and
+electric scooters (“e-scooters”), have become increasingly common in the District. According to
+the National Association of City Transportation Officials, the District is the largest market in the
+country for dockless e-bikes and the second largest for dockless e-scooters. Demand is growing
+and ridership in the first half of 2026 was 50% higher than the same period last year.
+(b) As demand for electric micromobility devices has risen, manufacturers around the
+world have responded by supplying the market with a wide array of options. Unfortunately, not
+all products are manufactured at a high level of quality, which has resulted in serious safety
+issues. The most dangerous of these product failures involve the lithium-ion batteries that power
+micromobility devices. These batteries can experience a phenomenon called “thermal runaway,”
+which can result in smoke, fire, the emission of harmful gasses, and even explosions. These
+incidents typically involve batteries or other electronic components that have not been tested to
+meet applicable safety standards.
+(c) Requiring that micromobility devices sold or rented in the District comply with
+applicable safety standards is a simple step to protect residents and visitors from the potential
+dangers of electric micromobility devices.
+(d) In response, on September 22, 2026, the Council passed the Micromobility Fire
+Safety Standards Act of 2026, enacted October 16, 2026 (D.C. Act 26-420; 73 DCR 13450)
+(“permanent legislation”). The permanent legislation will reduce the fire-related safety risks
+1
+
+ENROLLED ORIGINAL
+associated with electric micromobility devices by requiring that any electric bicycles, electric
+mobility devices, or traction batteries manufactured, distributed, sold, leased, or rented in the
+District be certified to meet applicable safety standards. The permanent legislation is now
+undergoing congressional review, with a projected law date of December 11, 2026. Because
+implementation of these safety standards presents no cost to the District, enacting identical
+provisions on an emergency basis can provide immediate safety benefits to District residents.
+(e) Given the present safety risks presented by products that do not comply with
+applicable safety standards, there is an immediate need to require that micromobility devices
+comply with applicable safety standards.
+Sec. 3. The Council of the District of Columbia determines that the circumstances
+enumerated in section 2 constitute emergency circumstances making it necessary that the
+Micromobility Fire Safety Standards Emergency Amendment Act of 2026 be adopted after a
+single reading.
+Sec. 4. This resolution shall take effect immediately.
+2

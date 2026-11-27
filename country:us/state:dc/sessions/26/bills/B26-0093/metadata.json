@@ -114,6 +114,22 @@
       "_processing": {
         "log_file_created": "2026-09-01T10:16:59Z"
       }
+    },
+    {
+      "description": "Committee Mark-up of B26-0093 by the Judiciary and Public Safety Committee",
+      "date": "2026-11-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading, CC",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -133,6 +149,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57046/Introduction/B26-0093-Introduction.pdf?Id=205601",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57046/Meeting1/Engrossment/B26-0093-Engrossment1.pdf?Id=250343",
           "media_type": "application/pdf"
         }
       ],
@@ -172,6 +199,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57046/Hearing_Record/B26-0093-Hearing_Record2.pdf?Id=247397",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57046/Committee_Report/B26-0093-Committee_Report1.pdf?Id=249516",
           "media_type": "application/pdf"
         }
       ],

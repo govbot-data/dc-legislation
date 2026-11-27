@@ -80,6 +80,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Parker, Zachary\"}",
       "organization_id": null
+    },
+    {
+      "name": "Pinto, Brooke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

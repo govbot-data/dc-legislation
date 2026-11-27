@@ -80,6 +80,31 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:07Z"
       }
+    },
+    {
+      "description": "Committee Mark-up of B26-0625 by the Committee of the Whole",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Amendment (Allen and Felder)",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "First Reading, CC",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -112,6 +137,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61383/Hearing_Notice/B26-0625-Hearing_Notice1.pdf?Id=234340",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Allen and Felder)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61383/Meeting1/Amendment/B26-0625-Amendment1.pdf?Id=249909",
           "media_type": "application/pdf"
         }
       ],

@@ -102,6 +102,41 @@
       "_processing": {
         "log_file_created": "2026-10-22T10:16:42Z"
       }
+    },
+    {
+      "description": "Postponed to 11/17/2026",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:40Z"
+      }
+    },
+    {
+      "description": "Final Reading, CC",
+      "date": "2026-11-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:40Z"
+      }
+    },
+    {
+      "description": "Transmitted to Mayor, Response Due on Dec 09, 2026",
+      "date": "2026-11-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -121,6 +156,32 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61994/Introduction/B26-0698-Introduction.pdf?Id=239401",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61994/Meeting1/Engrossment/B26-0698-Engrossment1.pdf?Id=250186",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61994/Meeting2/Engrossment/B26-0698-Engrossment1.pdf?Id=250198",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61994/Meeting3/Enrollment/B26-0698-Enrollment1.pdf?Id=250535",
           "media_type": "application/pdf"
         }
       ],
@@ -150,6 +211,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61994/Committee_Report/B26-0698-Committee_Report1.pdf?Id=250175",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -171,7 +243,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-22T10:16:42Z",
+    "logs_latest_update": "2026-11-27T21:38:40Z",
     "text_extraction_latest_update": "2026-10-22T10:18:17.176648Z"
   }
 }

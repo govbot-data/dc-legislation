@@ -104,14 +104,43 @@
       }
     },
     {
-      "description": "AMEDMENT (Nadeau)",
+      "description": "Amendment (Nadeau)",
       "date": "2026-10-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
+      "classification": [
+        "amendment-introduction"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-10-24T09:53:38Z"
       }
+    },
+    {
+      "description": "Amendment in the Nature of a Substitute (Nadeau)",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Amendment (Felder)",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Final Reading",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -121,6 +150,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lewis George, Janeese",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
       "organization_id": null
     },
     {
@@ -174,6 +211,39 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61238/Hearing_Record/B26-0594-Hearing_Record1.pdf?Id=243958",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Nadeau)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61238/Meeting1/Amendment/B26-0594-Amendment2.pdf?Id=250230",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment in the Nature of a Substitute (Nadeau)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61238/Meeting2/Amendment/B26-0594-Amendment1.pdf?Id=249944",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Felder)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61238/Meeting2/Amendment/B26-0594-Amendment2.pdf?Id=249945",
           "media_type": "application/pdf"
         }
       ],

@@ -84,6 +84,16 @@
       "_processing": {
         "log_file_created": "2026-10-24T09:53:38Z"
       }
+    },
+    {
+      "description": "Act A26-0450 Published in DC Register Vol 73 and Page 013712, Expires on Jan 19, 2027",
+      "date": "2026-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -93,6 +103,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pinto, Brooke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
       "organization_id": null
     }
   ],
@@ -164,7 +182,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-24T09:53:38Z",
+    "logs_latest_update": "2026-11-27T21:38:40Z",
     "text_extraction_latest_update": "2026-10-24T09:55:08.944120Z"
   }
 }

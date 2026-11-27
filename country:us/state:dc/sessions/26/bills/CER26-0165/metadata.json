@@ -80,6 +80,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Pinto, Brooke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Crawford, Doni",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Crawford, Doni \"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

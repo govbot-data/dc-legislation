@@ -1,7 +1,7 @@
 {
   "legislative_session": "26",
   "identifier": "B26-0259",
-  "title": "Medical Cannabis Retailer Craft Preparation Endorsement Act of 2025",
+  "title": "Medical Cannabis Retailer Craft Preparation Endorsement Act of 2025 (\"now known as \"Medical Cannabis Omnibus Amendment Act of 2026\")",
   "from_organization": "~{\"classification\": \"legislature\"}",
   "classification": [
     "bill"
@@ -102,6 +102,20 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:09Z"
       }
+    },
+    {
+      "description": "Committee Mark-up of B26-0259 by the Committee of the Whole",
+      "date": "2026-11-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Not considered at COW",
+      "date": "2026-11-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
     }
   ],
   "sponsorships": [

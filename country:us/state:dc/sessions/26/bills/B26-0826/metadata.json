@@ -73,6 +73,39 @@
       "_processing": {
         "log_file_created": "2026-10-29T11:56:34Z"
       }
+    },
+    {
+      "description": "Signed by the Mayor and Enacted with Act Number A26-0466",
+      "date": "2026-11-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
+      }
+    },
+    {
+      "description": "Returned from Mayor",
+      "date": "2026-11-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
+      }
+    },
+    {
+      "description": "Act A26-0466 Published in DC Register Vol 73 and Page 014638",
+      "date": "2026-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -82,6 +115,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Parker, Zachary\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mendelson, Phil",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mendelson, Phil\"}",
       "organization_id": null
     }
   ],
@@ -119,6 +160,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62610/Signed_Act/B26-0826-Signed_Act.pdf?Id=249857",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -141,7 +193,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-29T11:56:34Z",
+    "logs_latest_update": "2026-11-27T21:38:41Z",
     "text_extraction_latest_update": "2026-10-29T11:58:01.349437Z"
   }
 }

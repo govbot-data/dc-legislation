@@ -207,6 +207,46 @@
       "organization_id": null
     },
     {
+      "name": "White, Robert C. Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pinto, Brooke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lewis George, Janeese",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allen, Charles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen, Charles\"}",
+      "organization_id": null
+    },
+    {
       "name": "White, Trayon Sr.",
       "classification": "cosponsor",
       "entity_type": "person",

@@ -158,7 +158,7 @@
       }
     },
     {
-      "description": "Roundtable on B26-0597",
+      "description": "Roundtable on B26-0597 View Roundtable Record",
       "date": "2026-10-19T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -168,8 +168,35 @@
       }
     },
     {
-      "description": "Committee Mark-up of B26-0597 by the Housing Committee",
-      "date": "2026-11-04T05:00:00+00:00",
+      "description": "Notice of Mark-up filed in the Office of Secretary",
+      "date": "2026-10-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Notice of Mark-up Cancellation filed in the Office of Secretary",
+      "date": "2026-11-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Re-Referred to Committee on Human Services",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Re-Referral published.",
+      "date": "2026-11-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": []
@@ -190,6 +217,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lewis George, Janeese",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allen, Charles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen, Charles\"}",
       "organization_id": null
     }
   ],
@@ -250,6 +293,28 @@
         },
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/61285/Hearing_Notice/B26-0597-Hearing_Notice4.pdf?Id=246916",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Roundtable on B26-0597 View Roundtable Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61285/Hearing_Record/B26-0597-Hearing_Record4.pdf?Id=249494",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Notice of Mark-up filed in the Office of Secretary",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/Committee Meetings/1461/Meeting_Notice/Meeting_Notice_1.pdf?Id=248231",
           "media_type": "application/pdf"
         }
       ],

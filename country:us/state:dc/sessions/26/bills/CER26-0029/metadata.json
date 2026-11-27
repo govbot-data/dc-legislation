@@ -80,6 +80,38 @@
       "primary": true,
       "person_id": "~{\"name\": \"Frumin, Matthew\"}",
       "organization_id": null
+    },
+    {
+      "name": "Lewis George, Janeese",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henderson, Christina",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Henderson, Christina\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mendelson, Phil",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mendelson, Phil\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

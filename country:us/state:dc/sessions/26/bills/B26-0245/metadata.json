@@ -184,6 +184,16 @@
       }
     },
     {
+      "description": "Transmitted to Congress, Projected Law Date is Dec 11, 2026",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law",
+        "receipt"
+      ],
+      "related_entities": []
+    },
+    {
       "description": "Act A26-0421 Published in DC Register Vol 73 and Page 013455",
       "date": "2026-10-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -201,6 +211,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Allen, Charles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Parker, Zachary",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parker, Zachary\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henderson, Christina",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Henderson, Christina\"}",
       "organization_id": null
     }
   ],

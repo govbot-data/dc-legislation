@@ -58,6 +58,38 @@
       "primary": true,
       "person_id": "~{\"name\": \"Henderson, Christina\"}",
       "organization_id": null
+    },
+    {
+      "name": "Pinto, Brooke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nadeau, Brianne K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Silverman, Elissa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Silverman, Elissa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frumin, Matthew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frumin, Matthew\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

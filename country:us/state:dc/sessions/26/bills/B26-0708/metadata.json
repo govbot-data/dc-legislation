@@ -80,6 +80,28 @@
       "_processing": {
         "log_file_created": "2026-08-05T06:19:15Z"
       }
+    },
+    {
+      "description": "Committee Mark-up of B26-0708 by the Committee of the Whole",
+      "date": "2026-11-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:40Z"
+      }
+    },
+    {
+      "description": "First Reading, CC",
+      "date": "2026-11-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -149,7 +171,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-03T10:53:13Z",
+    "logs_latest_update": "2026-11-27T21:38:40Z",
     "text_extraction_latest_update": "2026-10-03T10:54:41.663766Z"
   }
 }

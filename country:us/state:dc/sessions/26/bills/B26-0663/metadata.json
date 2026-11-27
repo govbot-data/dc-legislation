@@ -122,6 +122,16 @@
       }
     },
     {
+      "description": "Transmitted to Congress, Projected Law Date is Dec 11, 2026",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law",
+        "receipt"
+      ],
+      "related_entities": []
+    },
+    {
       "description": "Act A26-0425 Published in DC Register Vol 73 and Page 013465",
       "date": "2026-10-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",

@@ -60,6 +60,16 @@
       "_processing": {
         "log_file_created": "2026-10-09T12:23:13Z"
       }
+    },
+    {
+      "description": "Resolution ACR26-0215, Effective from Oct 06, 2026 Published in DC Register Vol 73 and Page 014399",
+      "date": "2026-11-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,6 +80,54 @@
       "primary": true,
       "person_id": "~{\"name\": \"Bonds, Anita\"}",
       "organization_id": null
+    },
+    {
+      "name": "Parker, Zachary",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parker, Zachary\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White, Robert C. Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frumin, Matthew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frumin, Matthew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henderson, Christina",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Henderson, Christina\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nadeau, Brianne K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lewis George, Janeese",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -79,6 +137,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/62661/Introduction/CER26-0220-Introduction.pdf?Id=247082",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62661/Meeting1/Enrollment/CER26-0220-Enrollment1.pdf?Id=249589",
           "media_type": "application/pdf"
         }
       ],
@@ -106,7 +175,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-09T12:23:13Z",
+    "logs_latest_update": "2026-11-27T21:38:40Z",
     "text_extraction_latest_update": "2026-10-09T12:25:03.057797Z"
   }
 }

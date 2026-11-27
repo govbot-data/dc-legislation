@@ -48,6 +48,38 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:08Z"
       }
+    },
+    {
+      "description": "Notice of Roundtable filed in the Office of Secretary by Committee of the Whole",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
+      }
+    },
+    {
+      "description": "Notice of Roundtable Published in the District of Columbia Register",
+      "date": "2026-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
+      }
+    },
+    {
+      "description": "Roundtable on PR26-0709",
+      "date": "2026-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -74,7 +106,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Notice of Roundtable filed in the Office of Secretary by Committee of the Whole",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/61872/Hearing_Notice/PR26-0709-Hearing_Notice1.pdf?Id=250276",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -94,7 +138,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:08Z",
+    "logs_latest_update": "2026-11-27T21:38:41Z",
     "text_extraction_latest_update": "2026-07-21T19:18:57.454345Z"
   }
 }

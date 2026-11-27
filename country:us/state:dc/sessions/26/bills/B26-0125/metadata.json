@@ -223,6 +223,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Frumin, Matthew\"}",
       "organization_id": null
+    },
+    {
+      "name": "White, Robert C. Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

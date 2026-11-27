@@ -102,6 +102,13 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:09Z"
       }
+    },
+    {
+      "description": "Committee Mark-up of B26-0026 by the Youth Affairs Committee",
+      "date": "2026-11-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -111,6 +118,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Parker, Zachary",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parker, Zachary\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White, Robert C. Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
       "organization_id": null
     }
   ],
@@ -134,6 +157,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/56857/Hearing_Notice/B26-0026-Hearing_Notice1.pdf?Id=233100",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/56857/Committee_Report/B26-0026-Committee_Report1.pdf?Id=250444",
           "media_type": "application/pdf"
         }
       ],

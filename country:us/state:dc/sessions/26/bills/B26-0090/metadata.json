@@ -146,6 +146,29 @@
       "_processing": {
         "log_file_created": "2026-10-07T12:03:44Z"
       }
+    },
+    {
+      "description": "Notice of Public Hearing filed in the Office of Secretary by Human Services",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Notice of Public Hearing Published in the District of Columbia Register",
+      "date": "2026-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Public Hearing on B26-0090",
+      "date": "2026-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -200,6 +223,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57043/Hearing_Record/B26-0090-Hearing_Record2.pdf?Id=248959",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Notice of Public Hearing filed in the Office of Secretary by Human Services",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57043/Hearing_Notice/B26-0090-Hearing_Notice3.pdf?Id=249915",
           "media_type": "application/pdf"
         }
       ],

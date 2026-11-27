@@ -102,6 +102,43 @@
       "_processing": {
         "log_file_created": "2026-10-24T09:53:38Z"
       }
+    },
+    {
+      "description": "Amendment (Pinto)",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:40Z"
+      }
+    },
+    {
+      "description": "Final Reading",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:40Z"
+      }
+    },
+    {
+      "description": "Transmitted to Mayor, Response Due on Dec 09, 2026",
+      "date": "2026-11-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -111,6 +148,38 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Henderson, Christina\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frumin, Matthew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frumin, Matthew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lewis George, Janeese",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allen, Charles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen, Charles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pinto, Brooke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
       "organization_id": null
     }
   ],
@@ -137,6 +206,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62097/Meeting2/Enrollment/B26-0707-Enrollment2.pdf?Id=250534",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -156,6 +236,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/62097/Hearing_Record/B26-0707-Hearing_Record1.pdf?Id=247443",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment (Pinto)",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62097/Meeting2/Amendment/B26-0707-Amendment1.pdf?Id=249942",
           "media_type": "application/pdf"
         }
       ],
@@ -193,7 +284,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-24T09:53:38Z",
+    "logs_latest_update": "2026-11-27T21:38:40Z",
     "text_extraction_latest_update": "2026-10-24T09:55:06.364064Z"
   }
 }

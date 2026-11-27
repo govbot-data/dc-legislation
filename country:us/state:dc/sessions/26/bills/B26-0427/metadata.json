@@ -193,6 +193,30 @@
       "_processing": {
         "log_file_created": "2026-10-20T10:18:16Z"
       }
+    },
+    {
+      "description": "Signed by the Mayor and Enacted with Act Number A26-0451",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law",
+        "executive-signature"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Returned from Mayor",
+      "date": "2026-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Act A26-0451 Published in DC Register Vol 73 and Page 014028",
+      "date": "2026-11-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -234,6 +258,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/60494/Meeting3/Enrollment/B26-0427-Enrollment2.pdf?Id=247542",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/60494/Signed_Act/B26-0427-Signed_Act.pdf?Id=249240",
           "media_type": "application/pdf"
         }
       ],

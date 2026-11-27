@@ -60,6 +60,16 @@
       "_processing": {
         "log_file_created": "2026-10-24T09:53:38Z"
       }
+    },
+    {
+      "description": "Resolution ACR26-0224, Effective from Oct 20, 2026 Published in DC Register Vol 73 and Page 014716",
+      "date": "2026-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,6 +80,38 @@
       "primary": true,
       "person_id": "~{\"name\": \"Pinto, Brooke\"}",
       "organization_id": null
+    },
+    {
+      "name": "Allen, Charles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen, Charles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Parker, Zachary",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parker, Zachary\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Silverman, Elissa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Silverman, Elissa\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -79,6 +121,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/62704/Introduction/CER26-0229-Introduction.pdf?Id=247789",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62704/Meeting1/Enrollment/CER26-0229-Enrollment1.pdf?Id=250119",
           "media_type": "application/pdf"
         }
       ],
@@ -106,7 +159,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-24T09:53:38Z",
+    "logs_latest_update": "2026-11-27T21:38:41Z",
     "text_extraction_latest_update": "2026-10-24T09:55:13.857299Z"
   }
 }

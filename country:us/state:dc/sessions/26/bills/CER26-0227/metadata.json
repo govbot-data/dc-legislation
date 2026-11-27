@@ -60,6 +60,16 @@
       "_processing": {
         "log_file_created": "2026-10-22T10:16:42Z"
       }
+    },
+    {
+      "description": "Resolution ACR26-0222, Effective from Oct 20, 2026 Published in DC Register Vol 73 and Page 014713",
+      "date": "2026-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -79,6 +89,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/62702/Introduction/CER26-0227-Introduction.pdf?Id=247785",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62702/Meeting1/Enrollment/CER26-0227-Enrollment1.pdf?Id=250114",
           "media_type": "application/pdf"
         }
       ],
@@ -106,7 +127,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-22T10:16:42Z",
+    "logs_latest_update": "2026-11-27T21:38:41Z",
     "text_extraction_latest_update": "2026-10-22T10:18:08.944621Z"
   }
 }

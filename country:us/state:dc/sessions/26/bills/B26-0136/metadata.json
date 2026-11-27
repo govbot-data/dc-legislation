@@ -126,7 +126,7 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0136",
+      "description": "Public Hearing on B26-0136 View Public Hearing Record",
       "date": "2025-05-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -315,6 +315,17 @@
         },
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57225/Hearing_Notice/B26-0136-Hearing_Notice8.pdf?Id=211046",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Public Hearing on B26-0136 View Public Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57225/Hearing_Record/B26-0136-Hearing_Record8.pdf?Id=249556",
           "media_type": "application/pdf"
         }
       ],

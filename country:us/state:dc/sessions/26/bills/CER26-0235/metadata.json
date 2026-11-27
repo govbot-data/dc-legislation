@@ -36,6 +36,30 @@
       "_processing": {
         "log_file_created": "2026-10-28T11:29:25Z"
       }
+    },
+    {
+      "description": "Final Reading, CC",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
+      }
+    },
+    {
+      "description": "Approved with Resolution Number ACR26-0230",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -45,6 +69,78 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Parker, Zachary",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parker, Zachary\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Felder, Wendell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Felder, Wendell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White, Trayon Sr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Trayon Sr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henderson, Christina",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Henderson, Christina\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lewis George, Janeese",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allen, Charles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen, Charles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mendelson, Phil",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mendelson, Phil\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nadeau, Brianne K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
       "organization_id": null
     }
   ],
@@ -82,7 +178,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-28T11:29:25Z",
+    "logs_latest_update": "2026-11-27T21:38:41Z",
     "text_extraction_latest_update": "2026-10-28T11:30:55.973241Z"
   }
 }

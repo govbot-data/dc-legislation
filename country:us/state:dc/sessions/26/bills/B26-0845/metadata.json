@@ -72,13 +72,33 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0845",
+      "description": "Public Hearing on B26-0845 View Public Hearing Record",
       "date": "2026-10-28T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-10-08T12:25:08Z"
+      }
+    },
+    {
+      "description": "Committee Mark-up of B26-0845 by the Human Services Committee",
+      "date": "2026-11-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
+      }
+    },
+    {
+      "description": "Committee Mark-up of B26-0845 by the Facilities Committee",
+      "date": "2026-11-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
       }
     }
   ],
@@ -117,6 +137,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Public Hearing on B26-0845 View Public Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62636/Hearing_Record/B26-0845-Hearing_Record1.pdf?Id=250272",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62636/Committee_Report/B26-0845-Committee_Report1.pdf?Id=250655",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62636/Committee_Report/B26-0845-Committee_Report2.pdf?Id=250664",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -138,7 +184,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-24T09:53:38Z",
+    "logs_latest_update": "2026-11-27T21:38:41Z",
     "text_extraction_latest_update": "2026-10-24T09:55:06.384864Z"
   }
 }

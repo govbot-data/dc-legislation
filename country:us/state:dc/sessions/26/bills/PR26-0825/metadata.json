@@ -46,6 +46,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
       "organization_id": null
+    },
+    {
+      "name": "Henderson, Christina",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Henderson, Christina\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Silverman, Elissa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Silverman, Elissa\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

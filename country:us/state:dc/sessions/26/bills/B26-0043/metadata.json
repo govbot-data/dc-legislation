@@ -126,7 +126,7 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0043",
+      "description": "Public Hearing on B26-0043 View Public Hearing Record",
       "date": "2025-05-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -143,6 +143,46 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"McDuffie, Kenyan R. \"}",
+      "organization_id": null
+    },
+    {
+      "name": "White, Robert C. Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pinto, Brooke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allen, Charles",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen, Charles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lewis George, Janeese",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
       "organization_id": null
     }
   ],
@@ -174,6 +214,17 @@
         },
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/56912/Hearing_Notice/B26-0043-Hearing_Notice5.pdf?Id=211044",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Public Hearing on B26-0043 View Public Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/56912/Hearing_Record/B26-0043-Hearing_Record5.pdf?Id=249555",
           "media_type": "application/pdf"
         }
       ],

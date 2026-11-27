@@ -108,7 +108,7 @@
       "note": "Introduction",
       "links": [
         {
-          "url": "https://lims.dccouncil.gov/downloads/LIMS/62539/Introduction/B26-0799-Introduction.pdf?Id=245990",
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62539/Introduction/B26-0799-Introduction.pdf?Id=249099",
           "media_type": "application/pdf"
         }
       ],
@@ -122,6 +122,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/62539/Hearing_Notice/B26-0799-Hearing_Notice1.pdf?Id=246155",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62539/Committee_Report/B26-0799-Committee_Report1.pdf?Id=250325",
           "media_type": "application/pdf"
         }
       ],

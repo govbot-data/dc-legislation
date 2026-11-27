@@ -131,6 +131,29 @@
       "_processing": {
         "log_file_created": "2026-10-20T10:18:16Z"
       }
+    },
+    {
+      "description": "Returned from Mayor",
+      "date": "2026-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Enacted without Mayor's Signature with Act Number A26-0459",
+      "date": "2026-11-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Act A26-0459 Published in DC Register Vol 73 and Page 014055",
+      "date": "2026-11-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -140,6 +163,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pinto, Brooke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henderson, Christina",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Henderson, Christina\"}",
       "organization_id": null
     }
   ],
@@ -172,6 +211,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/56842/Meeting2/Enrollment/B26-0016-Enrollment5.pdf?Id=247543",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/56842/Signed_Act/B26-0016-Signed_Act.pdf?Id=249285",
           "media_type": "application/pdf"
         }
       ],

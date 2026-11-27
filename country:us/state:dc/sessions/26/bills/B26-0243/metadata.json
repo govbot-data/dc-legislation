@@ -171,6 +171,29 @@
       "_processing": {
         "log_file_created": "2026-10-29T11:56:34Z"
       }
+    },
+    {
+      "description": "Returned from Mayor",
+      "date": "2026-11-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Enacted without Mayor's Signature with Act Number A26-0475",
+      "date": "2026-11-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Act A26-0475 Published in DC Register Vol 73 and Page 014669",
+      "date": "2026-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
     }
   ],
   "sponsorships": [
@@ -180,6 +203,46 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Allen, Charles\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nadeau, Brianne K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White, Robert C. Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White, Robert C. Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lewis George, Janeese",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McDuffie, Kenyan R.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McDuffie, Kenyan R. \"}",
+      "organization_id": null
+    },
+    {
+      "name": "Parker, Zachary",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parker, Zachary\"}",
       "organization_id": null
     }
   ],
@@ -212,6 +275,17 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/57701/Meeting2/Enrollment/B26-0243-Enrollment1.pdf?Id=248999",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/57701/Signed_Act/B26-0243-Signed_Act.pdf?Id=249867",
           "media_type": "application/pdf"
         }
       ],

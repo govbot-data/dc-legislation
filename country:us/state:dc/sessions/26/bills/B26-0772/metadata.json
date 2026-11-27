@@ -1,7 +1,7 @@
 {
   "legislative_session": "26",
   "identifier": "B26-0772",
-  "title": "Closing of the Unimproved Portion of 35th Street N.W., Abutting Squares 1178 and 1179, S.O. 26-01008, Act of 2026",
+  "title": "Closing of the Unimproved Portion of 35th Street N.W., Abutting Squares 1178 and 1179, S.O. 26-01008, Act of 2026 (now known as \"Georgetown Boathouse Street Closing and Transfer of Jurisdiction Act of 2026\")",
   "from_organization": "~{\"classification\": \"legislature\"}",
   "classification": [
     "bill"
@@ -72,7 +72,7 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0772",
+      "description": "Public Hearing on B26-0772 View Public Hearing Record",
       "date": "2026-10-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -102,6 +102,41 @@
       "_processing": {
         "log_file_created": "2026-10-22T10:16:42Z"
       }
+    },
+    {
+      "description": "Postponed to 11/17/2026",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
+      }
+    },
+    {
+      "description": "Final Reading, CC",
+      "date": "2026-11-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
+      }
+    },
+    {
+      "description": "Transmitted to Mayor, Response Due on Dec 09, 2026",
+      "date": "2026-11-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -126,6 +161,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Engrossment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62326/Meeting1/Engrossment/B26-0772-Engrossment1.pdf?Id=250187",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62326/Meeting2/Engrossment/B26-0772-Engrossment1.pdf?Id=250200",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrollment",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62326/Meeting3/Enrollment/B26-0772-Enrollment1.pdf?Id=250537",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -134,6 +195,28 @@
       "links": [
         {
           "url": "https://lims.dccouncil.gov/downloads/LIMS/62326/Hearing_Notice/B26-0772-Hearing_Notice1.pdf?Id=244660",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Public Hearing on B26-0772 View Public Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62326/Hearing_Record/B26-0772-Hearing_Record1.pdf?Id=250335",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62326/Committee_Report/B26-0772-Committee_Report1.pdf?Id=250155",
           "media_type": "application/pdf"
         }
       ],
@@ -160,7 +243,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-22T10:16:42Z",
+    "logs_latest_update": "2026-11-27T21:38:41Z",
     "text_extraction_latest_update": "2026-10-22T10:18:04.331485Z"
   }
 }

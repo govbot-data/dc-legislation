@@ -100,6 +100,19 @@
       }
     },
     {
+      "description": "Transmitted to Congress, Projected Law Date is Dec 11, 2026",
+      "date": "2026-10-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law",
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:40Z"
+      }
+    },
+    {
       "description": "Act A26-0426 Published in DC Register Vol 73 and Page 013477",
       "date": "2026-10-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -199,7 +212,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-27T10:49:36Z",
+    "logs_latest_update": "2026-11-27T21:38:40Z",
     "text_extraction_latest_update": "2026-10-27T10:51:59.121965Z"
   }
 }

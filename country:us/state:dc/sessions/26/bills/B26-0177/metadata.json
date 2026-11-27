@@ -216,6 +216,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Lewis George, Janeese\"}",
       "organization_id": null
+    },
+    {
+      "name": "Bonds, Anita",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonds, Anita\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nadeau, Brianne K.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

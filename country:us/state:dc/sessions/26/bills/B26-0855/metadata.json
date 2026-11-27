@@ -72,7 +72,7 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0855",
+      "description": "Public Hearing on B26-0855 View Public Hearing Record",
       "date": "2026-11-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -89,6 +89,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Nadeau, Brianne K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pinto, Brooke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
       "organization_id": null
     }
   ],
@@ -117,6 +125,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Public Hearing on B26-0855 View Public Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62676/Hearing_Record/B26-0855-Hearing_Record1.pdf?Id=250805",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -138,7 +157,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-24T09:53:38Z",
+    "logs_latest_update": "2026-11-27T21:38:40Z",
     "text_extraction_latest_update": "2026-10-24T09:55:08.983436Z"
   }
 }

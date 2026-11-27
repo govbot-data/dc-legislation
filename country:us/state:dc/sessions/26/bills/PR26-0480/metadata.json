@@ -58,6 +58,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Bonds, Anita\"}",
       "organization_id": null
+    },
+    {
+      "name": "Felder, Wendell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Felder, Wendell\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

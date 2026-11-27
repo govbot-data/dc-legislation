@@ -60,6 +60,14 @@
       "organization_id": null
     },
     {
+      "name": "Pinto, Brooke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pinto, Brooke\"}",
+      "organization_id": null
+    },
+    {
       "name": "White, Trayon Sr.",
       "classification": "cosponsor",
       "entity_type": "person",

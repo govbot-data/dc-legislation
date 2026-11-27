@@ -72,13 +72,23 @@
       }
     },
     {
-      "description": "Public Hearing on B26-0818",
+      "description": "Public Hearing on B26-0818 View Public Hearing Record",
       "date": "2026-10-19T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-10-01T11:52:35Z"
+      }
+    },
+    {
+      "description": "Committee Mark-up of B26-0818 by the Public Works and Operations Committee",
+      "date": "2026-11-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
       }
     }
   ],
@@ -117,6 +127,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Public Hearing on B26-0818 View Public Hearing Record",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62588/Hearing_Record/B26-0818-Hearing_Record1.pdf?Id=250241",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Markup",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62588/Committee_Report/B26-0818-Committee_Report1.pdf?Id=250849",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -138,7 +170,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-07T12:03:44Z",
+    "logs_latest_update": "2026-11-27T21:38:41Z",
     "text_extraction_latest_update": "2026-10-07T12:05:15.576345Z"
   }
 }

@@ -238,6 +238,30 @@
       "primary": true,
       "person_id": "~{\"name\": \"Pinto, Brooke\"}",
       "organization_id": null
+    },
+    {
+      "name": "Frumin, Matthew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frumin, Matthew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Felder, Wendell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Felder, Wendell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mendelson, Phil",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mendelson, Phil\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

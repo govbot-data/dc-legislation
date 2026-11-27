@@ -83,6 +83,39 @@
       "_processing": {
         "log_file_created": "2026-10-20T10:18:16Z"
       }
+    },
+    {
+      "description": "Signed by the Mayor and Enacted with Act Number A26-0452",
+      "date": "2026-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
+      }
+    },
+    {
+      "description": "Returned from Mayor",
+      "date": "2026-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
+      }
+    },
+    {
+      "description": "Act A26-0452 Published in DC Register Vol 73 and Page 014038",
+      "date": "2026-11-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T21:38:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -129,6 +162,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://lims.dccouncil.gov/downloads/LIMS/62510/Signed_Act/B26-0783-Signed_Act.pdf?Id=249241",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -151,7 +195,7 @@
     "division_id": "ocd-division/country:us/district:dc"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-20T10:18:16Z",
+    "logs_latest_update": "2026-11-27T21:38:41Z",
     "text_extraction_latest_update": "2026-10-20T10:20:57.927671Z"
   }
 }
